@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2002-12-31
+Version Consolidée au 2003-03-07
 
 # Partie législative
 
@@ -16242,25 +16242,25 @@ production de ses comptes, est fixé à 3 euros par compte et par mois de retard
 
 Dans la limite fixée pour les comptes d'un même exercice par l'article L. 131-7, le taux maximum de l'amende pouvant être
 infligée à un comptable public pour retard dans les réponses aux injonctions formulées lors d'un jugement sur ses comptes est
-fixé à 20 F par compte et par mois de retard.
+fixé à 3 euros par injonction et par mois de retard.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°96-755 du 21 août 1996 - art. 4 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2003-186 du 5 mars 2003 - art. 1 () JORF 7 mars 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1398 du 19 décembre 2008 - art. 38
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L131-7 (V)
+	  - Code des juridictions financières - art. L131-7
 
 	**Cité par**:
 
@@ -22309,6 +22309,265 @@ définitif, peuvent être condamnées à l'amende prévue à l'article L. 231-11
 	  - Code des juridictions financières - art. L231-11
 
 
+##### Section 2 : Contrôle de l'apurement administratif des comptes
+
+###### Article D231-19
+
+Le seuil de 3 500 habitants prévu à l'article L. 211-2 s'apprécie, pour les établissements publics de coopération
+intercommunale, en prenant en compte la population totale des communes qui sont membres de ce groupement.
+
+Le seuil de population mentionné au premier alinéa est apprécié tous les cinq ans sauf lorsque le périmètre de
+l'établissement public de coopération intercommunale a été modifié au cours de cette période quinquennale. Dans ce dernier
+cas, le seuil de population est apprécié l'année au cours de laquelle est intervenue cette modification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L211-2 (M)
+
+
+###### Article D231-20
+
+Le seuil de 750 000 euros de recettes ordinaires prévu à l'article L. 211-2 est apprécié tous les cinq exercices sur la base
+du dernier compte administratif établi par la commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L211-2 (M)
+
+
+###### Article D231-21
+
+Les recettes ordinaires comprennent les recettes figurant à la section de fonctionnement du compte administratif principal
+augmentées, le cas échéant, des recettes du ou des comptes annexes des services non dotés de la personnalité morale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
+
+
+###### Article D231-22
+
+L'apurement administratif est exercé sur les comptes des établissements publics rattachés aux communes et aux établissements
+publics de coopération intercommunale dont les comptes sont arrêtés par les trésoriers-payeurs généraux et les receveurs des
+finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
+
+
+###### Article D231-23
+
+Les trésoriers-payeurs généraux et les receveurs des finances peuvent enjoindre aux comptables dont ils apurent les comptes,
+dans un délai qu'ils fixent et qui ne peut être inférieur à un mois, de rapporter toutes explications, justifications ou
+pièces justificatives à leur décharge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
+
+
+###### Article D231-25
+
+Le trésorier-payeur général ou le receveur des finances transmet à la chambre régionale des comptes un arrêté de charge
+provisoire fixant les soldes du compte et énonçant sous forme d'attendus les observations pouvant entraîner la mise en jeu de
+la responsabilité du comptable.
+
+Cet arrêté est accompagné du ou des comptes de gestion apurés et des réponses apportées par le comptable aux observations et
+injonctions du trésorier-payeur général ou du receveur des finances.
+
+La chambre régionale des comptes peut, au terme de la procédure contradictoire, mettre le comptable en débet par jugement
+définitif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
+
+
+###### Article D231-26
+
+Le trésorier-payeur général ou le receveur des finances, si le comptable a satisfait à l'ensemble de ses obligations et
+qu'aucune observation pouvant entraîner sa mise en débet n'a été retenue à sa charge ou lorsque le jugement rendu par la
+chambre régionale des comptes n'a pas prononcé de débet ou que le débet a été apuré, prend un arrêté de décharge définitive,
+s'il a constaté la reprise au bilan d'entrée de l'exercice suivant des soldes arrêtés à la clôture de l'exercice examiné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
+
+
+###### Article D231-27
+
+Lorsque le trésorier-payeur général ou le receveur des finances accorde décharge définitive à un comptable sorti de
+fonctions, il le déclare quitte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
+
+
+###### Article D231-28
+
+Lorsque la chambre régionale des comptes décide par jugement motivé d'exercer son droit d'évocation, celui-ci peut porter non
+seulement sur les comptes non encore apurés par les trésoriers-payeurs généraux ou receveurs des finances, mais également sur
+ceux apurés depuis moins de six mois. Ce délai s'apprécie à compter de la notification aux comptables des décisions
+d'apurement qui sont adressées simultanément à la chambre régionale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. D231-30 (V)
+
+
+###### Article D231-29
+
+Les trésoriers-payeurs généraux communiquent au ministère public près la chambre régionale des comptes les opérations
+présumées constitutives de gestion de fait concernant les communes, les établissements publics de coopération intercommunale
+et les établissements publics dont les comptes font l'objet d'un apurement administratif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. D231-30 (M)
+
+
+###### Article D231-30
+
+Les comptables, les représentants légaux des communes, des établissements publics de coopération intercommunale et des
+établissements publics dont les comptes sont soumis à l'apurement administratif ou à leur défaut, les contribuables dûment
+autorisés dans les conditions prévues à l'article L. 2132-5 du code général des collectivités territoriales, ainsi que les
+représentants de l'Etat dans le département ou la région, peuvent demander à la chambre régionale des comptes la réformation
+des arrêtés de décharge pris par les trésoriers-payeurs généraux et les receveurs des finances dans un délai de six mois à
+dater de leur notification aux comptables.
+
+Lorsque le recours est présenté par un contribuable, la durée de l'instance devant le tribunal administratif pour obtenir
+l'autorisation de plaider n'est pas comprise dans ce délai.
+
+Après expiration du délai de six mois prévu à l'alinéa précédent, les comptables, les représentants légaux des communes, des
+établissements publics de coopération intercommunale et des établissements publics dont les comptes sont soumis à l'apurement
+administratif, les représentants de l'Etat dans le département ou la région et le commissaire du Gouvernement près la chambre
+régionale des comptes peuvent encore demander à la chambre régionale des comptes de réformer les arrêtés des trésoriers-
+payeurs généraux et receveurs des finances pour cause d'erreur, omission, faux ou double emploi. Le commissaire du
+Gouvernement près la chambre régionale des comptes peut également demander hors délai la réformation des arrêtés pris sur les
+comptes du comptable patent lorsqu'une gestion de fait a été déférée à la chambre régionale des comptes conformément aux
+dispositions de l'article D. 231-28.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. D231-28 (M)
+	  - Code général des collectivités territoriales - art. L2132-5 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. D244-3 (T)
+	  - Code des juridictions financières - art. R262-52 (V)
+
+
+###### Article D231-31
+
+Les comptes de gestion faisant l'objet de l'apurement administratif prévu par l'article L. 211-2 sont produits aux
+trésoriers-payeurs généraux ou aux receveurs des finances, au plus tard le 31 décembre qui suit la clôture de l'exercice
+auquel ils se rapportent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L211-2 (M)
+
+
 ##### Section 3 : Condamnation des comptables à l'amende
 
 ###### Article R231-32
@@ -24810,6 +25069,58 @@ comptes.
 	  - Code des juridictions financières - art. R262-49 (Ab)
 	  - Code des juridictions financières - art. R262-94 (M)
 	  - Code des juridictions financières - art. R272-94-1 (V)
+
+
+###### Article D246-6
+
+Les jugements des chambres régionales des comptes concernant les personnes déclarées comptables de fait leur sont notifiés
+par lettre recommandée avec avis de réception.
+
+Le cas échéant, cette notification est faite suivant les procédures visées aux articles D. 246-4 et D. 246-5 du présent code.
+
+Les jugements définitifs de gestion de fait sont notifiés dans les mêmes formes au comptable public de la collectivité ou de
+l'établissement public concerné ainsi qu'au représentant de l'Etat dans le département. Le trésorier-payeur général reçoit
+ampliation desdits jugements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2003-186 du 5 mars 2003 - art. 3 () JORF 7 mars 2003
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. D246-4 (V)
+	  - Code des juridictions financières - art. D246-5 (V)
+
+
+###### Article D246-7
+
+Les jugements rendus par la chambre régionale des comptes sur les comptes produits par les comptables patents ou les
+comptables de fait sont notifiés au représentant de la collectivité ou de l'établissement public par lettre recommandée avec
+avis de réception.
+
+Ils sont transmis au commissaire du Gouvernement et, par son intermédiaire, au procureur général près la Cour des comptes.
+Lorsqu'ils statuent sur les comptes d'un établissement public national jugé en application du deuxième alinéa de l'article L.
+111-9 du présent code, ces jugements sont notifiés par le procureur général aux ministres intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2003-186 du 5 mars 2003 - art. 3 () JORF 7 mars 2003
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L111-9 (M)
 
 
 ###### Article D246-8
@@ -29483,24 +29794,20 @@ sein de laquelle la chambre régionale des comptes exerce ses compétences.
 
 ###### Article D231-18
 
-Le seuil de 2 000 habitants, prévu à l'article L. 211-2, est apprécié annuellement à la clôture de l'exercice sur la base des
-résultats du recensement général de la population effectué par l'INSEE et, le cas échéant, des arrêtés ministériels
-homologuant les résultats des recensements complémentaires, dans les conditions fixées par les articles D. 2151-1 et suivants
-du code général des collectivités territoriales.
+Le seuil de 3 500 habitants, prévu à l'article L. 211-2, est apprécié tous les cinq exercices sur la base du dernier résultat
+du recensement de la population publié et, le cas échéant, des arrêtés ministériels homologuant les résultats des
+recensements complémentaires, dans les conditions fixées par les articles D. 2151-1 et suivants du code général des
+collectivités territoriales.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-342 du 25 mai 1989 - art. 1 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
 
 	**Cité par**:
 
@@ -29510,340 +29817,6 @@ du code général des collectivités territoriales.
 
 	  - Code des juridictions financières - art. L211-2 (M)
 	  - Code général des collectivités territoriales - art. D2151-1 (Ab)
-
-
-###### Article D231-19
-
-Le seuil de 2 000 habitants prévu à l'article L. 211-2 s'apprécie, pour les groupements de communes, en prenant en compte la
-population totale des communes qui sont membres de ces groupements.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-342 du 25 mai 1989 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L211-2 (M)
-
-
-###### Article D231-20
-
-Le seuil des 2 millions de francs de recettes ordinaires prévu à l'article L. 211-2 est apprécié, pour chaque exercice, sur
-la base du compte administratif de la commune ou du groupement de communes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-342 du 25 mai 1989 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L211-2 (M)
-
-
-###### Article D231-21
-
-Les recettes ordinaires comprennent les recettes figurant à la section de fonctionnement du compte administratif principal
-augmentées, le cas échéant, des recettes du ou des comptes annexes des services non dotés de la personnalité morale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-342 du 25 mai 1989 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article D231-22
-
-L'apurement administratif est exercé sur les comptes des établissements publics dépendant des communes et des groupements de
-communes dont les comptes sont arrêtés par les trésoriers-payeurs généraux et les receveurs particuliers des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-342 du 25 mai 1989 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article D231-23
-
-Les trésoriers-payeurs généraux et les receveurs particuliers des finances peuvent enjoindre aux comptables dont ils apurent
-les comptes, dans un délai qu'ils fixent et qui ne peut être inférieur à un mois, de rapporter toutes explications,
-justifications ou pièces justificatives à leur décharge.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-342 du 25 mai 1989 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article D231-24
-
-Lorsque, sur un compte en apurement, le comptable a satisfait à l'ensemble de ses obligations, hors la reprise au bilan
-d'entrée des soldes arrêtés à la clôture de l'exercice examiné qui ne pourra être constatée que lors de l'exercice suivant,
-et qu'aucune observation pouvant entraîner sa mise en débet n'a été retenue à sa charge, le trésorier-payeur général ou le
-receveur particulier des finances fixe les soldes du compte par un arrêté de décharge provisoire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-342 du 25 mai 1989 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. D231-25 (M)
-
-
-###### Article D231-25
-
-Lorsque les conditions fixées à l'article D. 231-24 ne sont pas réunies, le trésorier-payeur général ou le receveur
-particulier des finances transmet à la chambre régionale des comptes un arrêté de charge provisoire fixant les soldes du
-compte et énonçant sous forme d'attendus les observations pouvant entraîner la mise en jeu de la responsabilité du comptable.
-
-Cet arrêté est accompagné du ou des comptes de gestion apurés et des réponses apportées par le comptable aux observations et
-injonctions du trésorier-payeur général ou du receveur particulier des finances.
-
-La chambre régionale des comptes peut, au terme de la procédure contradictoire, mettre le comptable en débet par jugement
-définitif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-342 du 25 mai 1989 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. D231-24 (Ab)
-
-
-###### Article D231-26
-
-Le trésorier-payeur général ou le receveur particulier des finances lorsqu'il a pris un arrêté de décharge provisoire ou
-lorsque le jugement rendu par la chambre régionale des comptes n'a pas prononcé de débet ou que le débet a été apuré prend un
-arrêté de décharge définitive, s'il a constaté la reprise au bilan d'entrée de l'exercice suivant des soldes arrêtés à la
-clôture de l'exercice examiné.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-342 du 25 mai 1989 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article D231-27
-
-Lorsque le trésorier-payeur général ou le receveur particulier des finances accorde décharge définitive à un comptable sorti
-de fonctions, il le déclare quitte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-342 du 25 mai 1989 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article D231-28
-
-Lorsque la chambre régionale des comptes décide par jugement motivé d'exercer son droit d'évocation, celui-ci peut porter non
-seulement sur les comptes non encore apurés par les trésoriers-payeurs généraux ou receveurs particuliers des finances, mais
-également sur ceux apurés depuis moins de six mois. Ce délai s'apprécie à compter de la notification aux comptables des
-décisions d'apurement qui sont adressées simultanément à la chambre régionale des comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-342 du 25 mai 1989 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. D231-30 (V)
-
-
-###### Article D231-29
-
-Les trésoriers-payeurs généraux communiquent au ministère public près la chambre régionale des comptes les opérations
-présumées constitutives de gestion de fait concernant les communes, les groupements de communes et les établissements publics
-dont les comptes font l'objet d'un apurement administratif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-342 du 25 mai 1989 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. D231-30 (M)
-
-
-###### Article D231-30
-
-Les comptables, les représentants légaux des communes, des groupements de communes et des établissements publics dont les
-comptes sont soumis à l'apurement administratif, ou, à leur défaut, les contribuables dûment autorisés dans les conditions
-prévues à l'article L. 2132-5 du code général des collectivités territoriales, ainsi que les représentants de l'Etat dans le
-département ou la région, peuvent demander à la chambre régionale des comptes la réformation des arrêtés de décharge pris par
-les trésoriers-payeurs généraux et les receveurs particuliers des finances dans un délai de six mois à dater de leur
-notification aux comptables.
-
-Lorsque le recours est présenté par un contribuable, la durée de l'instance devant le tribunal administratif pour obtenir
-l'autorisation de plaider n'est pas comprise dans ce délai.
-
-Après expiration du délai de six mois prévu à l'alinéa précédent, les comptables, les représentants légaux des communes, des
-groupements de communes et des établissements publics dont les comptes sont soumis à l'apurement administratif, les
-représentants de l'Etat dans le département ou la région et le commissaire du Gouvernement près la chambre régionale des
-comptes peuvent encore demander à la chambre régionale des comptes de réformer les arrêtés des trésoriers-payeurs généraux et
-receveurs particuliers des finances pour cause d'erreur, omission, faux ou double emploi. Le commissaire du Gouvernement près
-la chambre régionale des comptes peut également demander hors délai la réformation des arrêtés pris sur les comptes du
-comptable patent lorsqu'une gestion de fait a été déférée à la chambre régionale des comptes conformément aux dispositions de
-l'article D. 231-29.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-342 du 25 mai 1989 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. D231-29 (M)
-	  - Code général des collectivités territoriales - art. L2132-5 (V)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. D244-3 (T)
-	  - Code des juridictions financières - art. R262-52 (V)
-
-
-###### Article D231-31
-
-Les comptes de gestion faisant l'objet de l'apurement administratif prévu par l'article L. 211-2 sont produits aux
-trésoriers-payeurs généraux ou aux receveurs particuliers des finances, au plus tard, le 31 décembre qui suit la clôture de
-l'exercice auquel ils se rapportent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-342 du 25 mai 1989 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L211-2 (M)
 
 
 ##### CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets
@@ -29891,67 +29864,6 @@ Toutes les décisions budgétaires modificatives précitées donnent lieu à l'�
 	**Créé par**:
 
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-#### TITRE IV : PROCÉDURE
-
-##### CHAPITRE VI : Notification des jugements.
-
-###### Article D246-6
-
-Les jugements des chambres régionales des comptes concernant des personnes déclarées comptables de fait leur sont notifiés
-par le secrétaire général de la chambre par lettre recommandée avec avis de réception ; le trésorier-payeur général reçoit
-ampliation desdits jugements.
-
-En cas de besoin, la notification des jugements est faite suivant les procédures visées aux articles D. 246-4 et D. 246-5.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-863 du 27 octobre 1989 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. D246-4 (V)
-	  - Code des juridictions financières - art. D246-5 (V)
-
-
-###### Article D246-7
-
-Le jugement rendu par la chambre régionale des comptes est adressé au représentant de la collectivité ou de l'établissement
-intéressé par le secrétaire général de la chambre, par lettre recommandée avec avis de réception. Il est également notifié au
-commissaire du Gouvernement et, par l'intermédiaire de celui-ci, au procureur général près la Cour des comptes.
-
-En outre, lorsqu'il concerne un établissement public national jugé en application de l'article L. 131-1, il est adressé par
-le commissaire du Gouvernement au procureur général près la Cour des comptes, en vue de sa notification aux ministres
-compétents.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-863 du 27 octobre 1989 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L131-1 (M)
 
 
 ## LIVRE II : Les chambres régionales des comptes et territoriales des comptes. 

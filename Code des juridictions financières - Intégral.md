@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2000-12-31
+Version Consolidée au 2001-05-17
 
 # Partie législative
 
@@ -29329,6 +29329,10 @@ Le premier président de la Cour des comptes désigne parmi les cinq membres de 
 
 - un rapporteur général.
 
+Si la fonction de président est occupée par un magistrat honoraire, ce dernier bénéficie d'une indemnité forfaitaire
+mensuelle dont le montant est fixé par un arrêté conjoint du ministre chargé de l'agriculture, du ministre chargé de
+l'économie et des finances, du ministre chargé du budget et du ministre chargé de la fonction publique.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -29339,13 +29343,17 @@ Le premier président de la Cour des comptes désigne parmi les cinq membres de 
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2001-423 du 14 mai 2001 - art. 1 ()
 
 	**Cité par**:
 
 	  - Arrêté du 14 mai 2001 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1290 du 12 octobre 2005 - art. 9 () JORF 19 octobre 2005
 
 
 ###### Article D340-4

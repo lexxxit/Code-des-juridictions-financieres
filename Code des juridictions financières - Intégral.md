@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2003-06-08
+Version Consolidée au 2003-08-02
 
 # Partie législative
 
@@ -246,17 +246,16 @@ publique.
 Ce contrôle peut comporter des vérifications auprès d'autres organismes qui reçoivent des organismes mentionnés au premier
 alinéa, sous quelque forme que ce soit, des ressources collectées dans le cadre de ces campagnes.
 
+La Cour des comptes peut contrôler, dans des conditions prévues par un décret en Conseil d'Etat, la conformité entre les
+objectifs des organismes visés à l'article 4-1 de la loi n° 87-571 du 23 juillet 1987 sur le développement du mécénat et les
+dépenses financées par les dons ouvrant droit, au bénéfice des donateurs, à un avantage fiscal au titre de l'impôt sur le
+revenu ou de l'impôt sur les sociétés.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 1er dernier alinéa, issu de Loi 91-772 1991-08-07, art 5
-	  - Loi n°67-483 du 22 juin 1967 - art. 1, v. init.
-	  - Loi n°67-483 du 22 juin 1967 - art. 5 (M)
-	  - modifié par Loi 96-559 1996-06-24, art 10
 
 	**Cite**:
 
+	  - Loi n°87-571 du 23 juillet 1987 - art. 4-1 (M)
 	  - Loi n°91-772 1991-08-07 art. 3
 
 	**Codifié par**:
@@ -265,7 +264,7 @@ alinéa, sous quelque forme que ce soit, des ressources collectées dans le cadr
 
 	**Modifié par**:
 
-	  - Loi n°96-559 du 24 juin 1996 - art. 10 ()
+	  - Loi n°2003-709 du 1 août 2003 - art. 15 () JORF 2 août 2003
 
 	**Cité par**:
 

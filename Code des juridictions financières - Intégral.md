@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2003-03-07
+Version Consolidée au 2003-06-08
 
 # Partie législative
 
@@ -22311,6 +22311,33 @@ définitif, peuvent être condamnées à l'amende prévue à l'article L. 231-11
 
 ##### Section 2 : Contrôle de l'apurement administratif des comptes
 
+###### Article D231-18
+
+Le seuil de 3 500 habitants, prévu à l'article L. 211-2, est apprécié tous les cinq exercices sur la base du dernier résultat
+du recensement de la population publié et, le cas échéant, des arrêtés ministériels homologuant les résultats des
+recensements complémentaires, dans les conditions fixées par les articles R. 2151-2 à R. 2151-7 du code général des
+collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2003-485 du 5 juin 2003 - art. 10 () JORF 8 juin 2003
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. D253-5 (Ab)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L211-2 (M)
+	  - Code général des collectivités territoriales R2151-2 à R2151-7
+
+
 ###### Article D231-19
 
 Le seuil de 3 500 habitants prévu à l'article L. 211-2 s'apprécie, pour les établissements publics de coopération
@@ -26841,6 +26868,61 @@ définitif, peuvent être condamnées à l'amende prévue à l'article L. 262-39
 	  - Code des juridictions financières - art. L262-39
 
 
+##### Sous-section 2 : Contrôle de l'apurement administratif des comptes
+
+###### Article R262-52
+
+I. - Le seuil de 2 000 habitants, prévu à l'article L. 262-4, est apprécié annuellement à la clôture de l'exercice sur la
+base des résultats du recensement général de la population effectué par l'INSEE et, le cas échéant, des arrêtés ministériels
+homologuant les résultats des recensements complémentaires, dans les conditions fixées par les articles R. 2151-2 à R. 2151-7
+du code général des collectivités territoriales.
+
+II. - Le seuil de 2 000 habitants prévu à l'article L. 262-4 s'apprécie, pour les groupements de communes, en prenant en
+compte la population totale des communes qui sont membres de ces groupements.
+
+III. - Le seuil des 305 000 euros de recettes ordinaires, prévu à l'article L. 262-4, est apprécié, pour chaque exercice, sur
+la base du compte administratif de la commune ou du groupement de communes.
+
+IV. - Les dispositions des articles D. 231-21 à D. 231-23 et D. 231-25 à D. 231-31 sont applicables au contrôle de
+l'apurement administratif des comptes prévu aux articles L. 262-35 à L. 262-37.
+
+V. - Les contribuables qui demandent à la chambre la réformation d'un arrêté de décharge dans les conditions prévues à
+l'article D. 231-30 doivent être dûment autorisés à cet effet dans les conditions prévues à l'article L. 316-5 du code des
+communes de la Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°89-342 du 25 mai 1989 - art. 13 (Ab)
+	  - Décret n°90-364 1990-04-23, art 9
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2003-485 du 5 juin 2003 - art. 18 ()
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 165
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L316-5 (Ab)
+	  - Code des juridictions financières - art. D231-30 (M)
+	  - Code des juridictions financières - art. L262-4 (M)
+	  - Code des juridictions financières L262-4, D231-21 à D231-23, D231-25 à D231-31, L262-35 à L262-37, D231-30
+	  - Code général des collectivités territoriales R2151-2 à R2151-7
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R262-40 (V)
+	  - Code des juridictions financières - art. R262-43 (V)
+
+
 ##### Sous-section 3 : Condamnation des comptables à l'amende
 
 ###### Article R262-53
@@ -29788,37 +29870,6 @@ sein de laquelle la chambre régionale des comptes exerce ses compétences.
 
 #### TITRE III : COMPÉTENCES ET ATTRIBUTIONS
 
-##### CHAPITRE Ier : Compétences juridictionnelles
-
-##### Section 2 : Contrôle de l'apurement administratif des comptes.
-
-###### Article D231-18
-
-Le seuil de 3 500 habitants, prévu à l'article L. 211-2, est apprécié tous les cinq exercices sur la base du dernier résultat
-du recensement de la population publié et, le cas échéant, des arrêtés ministériels homologuant les résultats des
-recensements complémentaires, dans les conditions fixées par les articles D. 2151-1 et suivants du code général des
-collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Modifié par**:
-
-	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. D253-5 (Ab)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L211-2 (M)
-	  - Code général des collectivités territoriales - art. D2151-1 (Ab)
-
-
 ##### CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets
 
 ##### Section 3 : Des établissements publics locaux d'enseignement.
@@ -29864,62 +29915,6 @@ Toutes les décisions budgétaires modificatives précitées donnent lieu à l'�
 	**Créé par**:
 
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-## LIVRE II : Les chambres régionales des comptes et territoriales des comptes. 
-
-### DEUXIEME PARTIE : Dispositions applicables aux territoires d'outre-mer et à la Nouvelle-Calédonie.
-
-#### TITRE VI : Dispositions applicables en Nouvelle-Calédonie.
-
-##### CHAPITRE II : De la chambre territoriale des comptes.
-
-##### Section 4 : Compétences et attributions juridictionnelles
-
-##### Sous-section 2 : Contrôle de l'apurement administratif des comptes
-
-###### Article R262-52
-
-I. - Le seuil de 2 000 habitants, prévu à l'article L. 262-4, est apprécié annuellement à la clôture de l'exercice sur la
-base des résultats du recensement général de la population effectué par l'INSEE et, le cas échéant, des arrêtés ministériels
-homologuant les résultats des recensements complémentaires, dans les conditions fixées par les articles D. 2151-1 et suivants
-du code général des collectivités territoriales.
-
-II. - Le seuil de 2 000 habitants prévu à l'article L. 262-4 s'apprécie, pour les groupements de communes, en prenant en
-compte la population totale des communes qui sont membres de ces groupements.
-
-III. - Le seuil des 305 000 euros de recettes ordinaires, prévu à l'article L. 262-4, est apprécié, pour chaque exercice, sur
-la base du compte administratif de la commune ou du groupement de communes.
-
-IV. - Les dispositions des articles D. 231-21 à D. 231-23 et D. 231-25 à D. 231-31 sont applicables au contrôle de
-l'apurement administratif des comptes prévu aux articles L. 262-35 à L. 262-37.
-
-V. - Les contribuables qui demandent à la chambre la réformation d'un arrêté de décharge dans les conditions prévues à
-l'article D. 231-30 doivent être dûment autorisés à cet effet dans les conditions prévues à l'article L. 316-5 du code des
-communes de la Nouvelle-Calédonie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-342 du 25 mai 1989 - art. 13 (Ab)
-	  - Décret n°90-364 1990-04-23, art 9
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Modifié par**:
-
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 66 ()
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L316-5 (Ab)
-	  - Code des juridictions financières - art. D231-30 (M)
-	  - Code des juridictions financières - art. L262-4 (M)
-	  - Code des juridictions financières L262-4, D231-21 à D231-23, D231-25 à D231-31, L262-35 à L262-37, D231-30
-	  - Code général des collectivités territoriales - art. D2151-1 (Ab)
 
 
 ## LIVRE III : Les institutions associées à la Cour des comptes

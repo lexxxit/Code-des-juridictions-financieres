@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1996-07-03
+Version Consolidée au 1996-07-09
 
 # Partie législative
 
@@ -6489,19 +6489,22 @@ Elle examine la gestion des communes et de leurs établissements publics. Elle e
 sociétés, groupements et organismes mentionnés aux articles L. 262-7 à L. 262-9, ainsi qu'aux articles L. 262-10 et L. 262-11
 lorsque la vérification lui en est confiée par arrêté du premier président de la Cour des comptes.
 
+Elle peut également assurer ces vérifications sur demande motivée soit du haut-commissaire, soit de l'exécutif de la
+collectivité territoriale ou de l'établissement public concerné.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 1 Loi 82-594 1982-07-10, art 2 al 2 Loi 82-213 1982-03-02 modifiée, art 87 al 13 modifié par loi 96-609 1996-07-05, art 25-III-1°
+	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 1 Loi 82-594 1982-07-10 art 2 al 2 Loi 82-213 1982-03-02 modifiée, art 87 al 13 modifié par loi 96-609 1996-07-05, art 25-III-1°
 
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°96-609 1996-07-05 art. 25 1° jorf 9 juillet 1996
 
 	**Cite**:
 
@@ -7689,8 +7692,8 @@ mandaté à cet effet par celle-ci.
 
 ###### Article L262-49
 
-Lorsque des observations sont formulées, elles ne peuvent être arrêtées définitivement avant que l'ordonnateur ait été en
-mesure de leur apporter une réponse écrite.
+Lorsque des observations sont formulées, elles ne peuvent être arrêtées définitivement avant que l'ordonnateur et celui qui
+était en fonction au cours de l'exercice examiné ou le dirigeant aient été en mesure de leur apporter une réponse écrite.
 
 **Liens relatifs à cet article**
 
@@ -7702,13 +7705,40 @@ mesure de leur apporter une réponse écrite.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°96-609 1996-07-05 art. 25 2° jorf 9 juillet 1996
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R262-16 (V)
+
+
+###### Article L262-49-1
+
+Lorsque les vérifications mentionnées à l'article L. 262-3 sont assurées sur demande du haut-commissaire, les observations
+que la chambre territoriale des comptes présente sont communiquées à l'autorité territoriale concernée, aux représentants des
+établissements, sociétés, groupements et organismes concernés ainsi qu'au haut-commissaire. Dans ce cas, il est fait
+application des dispositions du deuxième alinéa de l'article L. 262-50.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°96-609 1996-07-05 art. 25 3° jorf 9 juillet 1996
+
+	**Anciens textes**:
+
+	  - Loi n°96-609 1996-07-05, art 25-III-3°
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L262-3 (M)
+	  - Code des juridictions financières - art. L262-50 (M)
 
 
 ###### Article L262-50
@@ -7772,9 +7802,11 @@ La chambre territoriale des comptes prend toutes dispositions pour garantir le s
 ###### Article L262-52
 
 La chambre territoriale des comptes peut recourir, pour des enquêtes de caractère technique, à l'assistance d'experts
-désignés par le président. S'il s'agit d'agents publics, elle informe leur chef de service. Les experts remplissent leur
-mission en liaison avec un magistrat délégué et désigné dans la lettre de service du président de la chambre territoriale des
-comptes qui précise la mission et les pouvoirs d'investigation de l'expert.
+désignés par le président. S'il s'agit d'agents publics, elle informe leur chef de service. Les experts ne peuvent être
+désignés pour une mission relative à une affaire dont ils ont eu à connaître, même indirectement, au titre de l'exercice de
+leurs fonctions. Les experts remplissent leur mission en liaison avec un magistrat délégué et désigné dans la lettre de
+service du président de la chambre territoriale des comptes qui précise la mission et les pouvoirs d'investigation de
+l'expert.
 
 Celui-ci informe le magistrat délégué du développement de sa mission. Les experts sont tenus à l'obligation du secret
 professionnel.
@@ -7789,9 +7821,9 @@ professionnel.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°96-609 1996-07-05 art. 25 4° jorf 9 juillet 1996
 
 	**Cité par**:
 
@@ -8404,12 +8436,12 @@ A compter de la saisine de la chambre territoriale des comptes et jusqu'au terme
 263-12, le conseil municipal ne peut délibérer en matière budgétaire, sauf pour la délibération prévue au deuxième alinéa de
 cet article et pour l'application de l'article L. 263-18.
 
-Lorsque le budget d'une commune a été réglé et rendu exécutoire par le haut-commissaire, le vote du conseil municipal sur le
-compte administratif prévu à l'article L. 263-18 intervient avant le vote du budget primitif afférent à l'exercice suivant.
+Lorsque le budget d'une commune a été réglé et rendu exécutoire par le haut-commissaire, les budgets supplémentaires
+afférents au même exercice sont transmis par le haut-commissaire à la chambre territoriale des comptes. En outre, le vote du
+conseil municipal sur le compte administratif intervient avant le vote du budget primitif afférent à l'exercice suivant.
 Lorsque le compte administratif adopté dans les conditions ci-dessus mentionnées fait apparaître un déficit dans l'exécution
-du budget communal, ce déficit est reporté au budget primitif de l'exercice suivant. Lorsque l'une ou l'autre des obligations
-prévues par le présent alinéa n'est pas respectée, ce budget est transmis à la chambre territoriale des comptes par le haut-
-commissaire.
+du budget communal, ce déficit est reporté au budget primitif de l'exercice suivant. Ce budget primitif est transmis à la
+chambre territoriale des comptes par le haut-commissaire.
 
 S'il est fait application de la procédure définie à l'alinéa ci-dessus, les dates fixées au premier alinéa de l'article L.
 263-9 pour l'adoption du budget primitif sont reportées respectivement au 1er juin et au 15 juin. Dans ce cas, le délai
@@ -8426,9 +8458,9 @@ limite de transmission du compte de gestion du comptable prévu à l'article L. 
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°96-609 1996-07-05 art. 25 5° jorf 9 juillet 1996
 
 	**Cite**:
 
@@ -8523,8 +8555,8 @@ rapportent.
 ###### Article L263-18
 
 L'arrêté des comptes communaux est constitué par le vote du conseil municipal sur le compte administratif présenté par le
-maire après transmission, au plus tard le 1er juillet de l'année suivant l'exercice, du compte de gestion établi par le
-comptable de la commune. Le vote du conseil municipal arrêtant les comptes doit intervenir avant le 1er octobre de l'année
+maire après transmission, au plus tard le 1er juin de l'année suivant l'exercice, du compte de gestion établi par le
+comptable de la commune. Le vote du conseil municipal arrêtant les comptes doit intervenir avant le 30 juin de l'année
 suivant l'exercice.
 
 Le compte administratif est arrêté si une majorité des voix ne s'est pas dégagée contre son adoption.
@@ -8540,9 +8572,9 @@ Le compte administratif est arrêté si une majorité des voix ne s'est pas dég
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°96-609 1996-07-05 art. 25 6° jorf 9 juillet 1996
 
 	**Cité par**:
 
@@ -8555,23 +8587,27 @@ Le compte administratif est arrêté si une majorité des voix ne s'est pas dég
 Le compte administratif est transmis au haut-commissaire au plus tard quinze jours après le délai limite fixé pour son
 adoption par les articles L. 263-15 et L. 263-18.
 
+A défaut, le haut-commissaire saisit, selon la procédure prévue par l'article L. 263-12, la chambre territoriale des comptes
+du plus proche budget voté par la commune.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°90-1247 1990-12-29, art 1er Loi 82-213 1982-03-02 modifiée, art 9-II, al 1
-	  - modifié par loi 96-609 1996-07-05, art 25-III-7°
+	  - Loi n°90-1247 1990-12-29, art 1er Loi 82-213 1982-03-02 modifiée, art 9-II al 1
+	  - modifié par loi 96-60 1996-07-05, art 25-III-7°
 
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°96-609 1996-07-05 art. 25 7° jorf 9 juillet 1996
 
 	**Cite**:
 
+	  - Code des juridictions financières - art. L263-12 (M)
 	  - Code des juridictions financières - art. L263-15 (M)
 	  - Code des juridictions financières - art. L263-18 (M)
 
@@ -8585,7 +8621,7 @@ adoption par les articles L. 263-15 et L. 263-18.
 Lorsque l'arrêté des comptes communaux fait apparaître dans l'exécution du budget communal un déficit égal ou supérieur à 10
 p. 100 des recettes de la section de fonctionnement s'il s'agit d'une commune de moins de 20 000 habitants et à 5 p. 100 dans
 les autres cas, la chambre territoriale des comptes, saisie par le haut-commissaire, propose à la commune les mesures
-nécessaires au rétablissement de l'équilibre budgétaire, dans le délai de deux mois à compter de cette saisine.
+nécessaires au rétablissement de l'équilibre budgétaire, dans le délai d'un mois à compter de cette saisine.
 
 Lorsque le budget d'une commune a fait l'objet des mesures de redressement prévues à l'alinéa précédent, le haut-commissaire
 transmet à la chambre territoriale des comptes le budget primitif afférent à l'exercice suivant.
@@ -8610,9 +8646,9 @@ applicable.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°96-609 1996-07-05 art. 25 8° jorf 9 juillet 1996
 
 	**Cite**:
 
@@ -8815,6 +8851,34 @@ La chambre territoriale des comptes prend toutes dispositions pour garantir le s
 	**Anciens textes**:
 
 	  - Loi n°82-594 1982-03-02, art 9 Loi 82-594 1982-03-02, art 5 al 6
+
+
+###### Article L263-27
+
+Les conventions relatives aux marchés ou à des délégations de service public peuvent être transmises par le haut-commissaire
+à la chambre territoriale des comptes. Il en informe l'autorité territoriale concernée. La chambre territoriale des comptes
+examine cette convention. Elle formule ses observations dans un délai d'un mois à compter de sa saisine. L'avis de la chambre
+territoriale des comptes est transmis à la collectivité territoriale ou à l'établissement public intéressé et au haut-
+commissaire. Les dispositions de l'article L. 263-25 sont applicables. L'assemblée délibérante est informée de l'avis de la
+chambre territoriale des comptes dès sa plus proche réunion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°96-609 1996-07-05 art. 25 9° jorf 9 juillet 1996
+
+	**Anciens textes**:
+
+	  - Loi n°96-609 1996-07-05, art 25-III-9°
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L263-25 (M)
 
 
 ##### CHAPITRE IV : Des comptables

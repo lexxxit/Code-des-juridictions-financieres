@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2000-06-22
+Version Consolidée au 2000-09-02
 
 # Partie législative
 
@@ -13775,6 +13775,81 @@ présidents de chambre ; le premier président désigne parmi les conseillers ma
 
 
 ### TITRE II : Dispositions statutaires
+
+#### CHAPITRE Ier : Nominations
+
+###### Article R*121-1
+
+Les auditeurs de 2e classe sont nommés directement au 3e échelon de ce grade et titularisés à compter du lendemain du dernier
+jour de leur scolarité à l'Ecole nationale d'administration.
+
+Toutefois, si l'indice qu'ils détenaient dans leur corps d'origine est supérieur à celui correspondant au 3e échelon du grade
+d'auditeur de 2e classe, les magistrats recrutés par la voie du concours interne de l'Ecole nationale d'administration sont
+placés à l'échelon du grade d'auditeur de 2e classe comportant un traitement égal ou, à défaut, immédiatement supérieur à
+celui dont ils bénéficiaient dans leur corps d'origine ou dans leur emploi pour les agents non titulaires.
+
+Les auditeurs qui ont été recrutés par la voie du troisième concours de l'Ecole nationale d'administration sont placés au 6e
+échelon du grade d'auditeur de 2e classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Décret n°2000-839 du 31 août 2000 - art. 1 () JORF 2 septembre 2000
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R*121-2 (V)
+
+
+###### Article R*121-2
+
+Les auditeurs mentionnés à l'article précédent sont, en fonction de leur échelon de reclassement dans le grade d'auditeur de
+2e classe, classés ainsi qu'il suit lors de leurs promotions aux grades d'auditeur de 1re classe et de conseiller
+référendaire de 2e classe :
+
+Auditeur de 2e classe : 4e échelon
+
+Auditeur de 1e classe : 1e échelon
+
+Conseiller référendaire de 2e classe : 1e échelon
+
+Auditeur de 2e classe : 5e échelon
+
+Auditeur de 1e classe : 2e échelon
+
+Conseiller référendaire de 2e classe : 1e échelon avec 6 mois d'ancienneté acquise
+
+Auditeur de 2e classe : 6e échelon
+
+Auditeur de 1e classe : 3e échelon
+
+Conseiller référendaire de 2e classe : 2e échelon
+
+Auditeur de 2e classe : 7e échelon
+
+Auditeur de 1e classe : 4e échelon
+
+Conseiller référendaire de 2e classe : 2e échelon avec 6 mois d'ancienneté acquise
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Décret n°2000-839 du 31 août 2000 - art. 1 () JORF 2 septembre 2000
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R121-1 (V)
+
 
 #### CHAPITRE II : Avancements
 

@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-01-23
 
 # Partie législative
 
@@ -5785,12 +5785,12 @@ prêtent serment devant la chambre régionale des comptes.
 ###### Article L237-1
 
 Le contrôle des actes budgétaires et des comptes de la collectivité territoriale de Corse et de ses établissements publics
-par la chambre régionale des comptes est régi par les dispositions particulières de l'article L. 4425-7, premier et deuxième
-alinéas, du code général des collectivités territoriales ci-après reproduits :
+par la chambre régionale des comptes est régi par les dispositions particulières de l'article L. 4425-8, premier et deuxième
+alinéas, du code général des collectivités territoriales ci-après reproduits : 
 
-Art. L. 4425-7 (premier et deuxième alinéas). - La chambre régionale des comptes participe au contrôle des actes budgétaires
-de la collectivité territoriale de Corse et de ses établissements publics et assure le contrôle de leurs comptes, dans les
-conditions prévues au livre VI de la première partie.
+Art.L. 4425-8 (premier et deuxième alinéas). La chambre régionale des comptes participe au contrôle des actes budgétaires de
+la collectivité territoriale de Corse et de ses établissements publics et assure le contrôle de leurs comptes, dans les
+conditions prévues au livre VI de la première partie. 
 
 Elle peut, en outre, procéder à des vérifications sur demande motivée soit du représentant de l'Etat dans la collectivité
 territoriale de Corse, soit du président du conseil exécutif.
@@ -5803,11 +5803,19 @@ territoriale de Corse, soit du président du conseil exécutif.
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°96-142 du 21 février 1996 - art. 4 ()
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 3 ()
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 25
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L236-1 (VD)
 
 
 ###### Article L237-2
@@ -5815,15 +5823,16 @@ territoriale de Corse, soit du président du conseil exécutif.
 La saisine de la chambre régionale des comptes par le représentant de l'Etat dans la collectivité territoriale de Corse
 lorsque ce dernier estime qu'une délibération du conseil d'administration d'un établissement public de cette collectivité est
 de nature à augmenter gravement la charge financière ou le risque encouru par la collectivité est régie par les dispositions
-de l'article L. 4425-7, troisième et quatrième alinéas, du code général des collectivités territoriales ci-après reproduits :
+de l'article L. 4425-8, troisième et quatrième alinéas, du code général des collectivités territoriales ci-après
+reproduits : 
 
-Art. L. 4425-7 (troisième et quatrième alinéas). - Si le représentant de l'Etat dans la collectivité territoriale de Corse
+Art.L. 4425-8 (troisième et quatrième alinéas).-Si le représentant de l'Etat dans la collectivité territoriale de Corse
 estime qu'une délibération du conseil d'administration d'un établissement public de la collectivité territoriale de Corse est
 de nature à augmenter gravement la charge financière ou le risque encouru par la collectivité territoriale de Corse, il
 saisit, dans le délai d'un mois suivant la date de réception, la chambre régionale des comptes, à charge pour lui d'en
 informer simultanément l'établissement public concerné et la collectivité territoriale de Corse. La saisine de la chambre
 régionale des comptes entraîne une seconde lecture par le conseil d'administration de la délibération contestée. La saisine
-n'a pas d'effet suspensif.
+n'a pas d'effet suspensif. 
 
 La chambre régionale des comptes dispose d'un délai d'un mois pour faire connaître son avis au représentant de l'Etat dans la
 collectivité territoriale de Corse, à l'établissement public et à la collectivité territoriale de Corse.
@@ -5840,7 +5849,15 @@ collectivité territoriale de Corse, à l'établissement public et à la collect
 
 	**Modifié par**:
 
-	  - Loi n°96-142 du 21 février 1996 - art. 4 ()
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 3 ()
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 25
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L236-2 (V)
 
 
 #### TITRE IV : Procédure

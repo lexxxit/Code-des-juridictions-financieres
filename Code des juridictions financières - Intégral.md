@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1996-07-09
+Version Consolidée au 1996-07-23
 
 # Partie législative
 
@@ -1311,13 +1311,11 @@ comptes sur le projet de loi de règlement du budget de l'Etat.
 	  - Code des communes - art. L235-5 (Ab)
 
 
-###### Article L132-3
+###### Article L132-3-1
 
-Chaque année, la Cour des comptes transmet au Parlement un rapport analysant les comptes de l'ensemble des organismes de
-sécurité sociale soumis à son contrôle et faisant une synthèse des avis émis par les comités départementaux d'examen des
-comptes de la sécurité sociale, éventuellement complété par ses observations aux autorités de tutelle et les réponses de
-celles-ci. Les comptes et les observations visés au présent alinéa sont ceux relatifs à l'avant-dernière année précédant
-celle de la transmission au Parlement.
+La Cour des comptes peut être saisie par la commission parlementaire compétente de toute question relative à l'application
+des lois de financement de la sécurité sociale et procède, dans ce cadre et à la demande de cette commission, aux enquêtes
+sur les organismes soumis à son contrôle.
 
 **Liens relatifs à cet article**
 
@@ -1327,27 +1325,7 @@ celle de la transmission au Parlement.
 
 	**Créé par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Anciens textes**:
-
-	  - Loi n°96-646 1996-07-22, art 2-I
-
-	**Abrogé par**:
-
-	  - Loi n°96-646 du 22 juillet 1996 - art. 3 ()
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. LO111-3 (M)
-	  - Code de la sécurité sociale. - art. LO111-4 (VD)
-	  - Code des juridictions financières - art. L111-6 (Ab)
-	  - Code des juridictions financières - art. L132-3-2 (VT)
-	  - Code des juridictions financières - art. L132-4 (VD)
-	  - Code des juridictions financières - art. L314-19 (V)
-	  - Code des juridictions financières - art. R112-17 (VD)
-	  - Code des juridictions financières - art. R134-14 (Ab)
-	  - Code des juridictions financières - art. R143-11 (V)
+	  - Loi n°96-646 du 22 juillet 1996 - art. 2 ()
 
 
 ###### Article L132-4
@@ -1408,6 +1386,43 @@ l'Etat. Cette déclaration est annexée au projet de loi de règlement.
 	**Cité par**:
 
 	  - Code des juridictions financières - art. L314-19 (V)
+
+
+###### Article LO132-3
+
+Chaque année, la Cour des comptes établit un rapport sur l'application des lois de financement de la sécurité sociale. Ce
+rapport présente, en outre, une analyse de l'ensemble des comptes des organismes de sécurité sociale soumis à son contrôle et
+fait une synthèse des rapports et avis émis par les organismes de contrôle placés sous sa surveillance. Ce rapport est remis
+au Parlement sitôt son arrêt par la Cour des comptes.
+
+Les réponses faites aux observations de la Cour des comptes sont jointes au rapport.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-483 1967-06-22, art 10 dernier alinéa, issu de Loi 94-637 1994-07-25 art 13
+	  - abrogé par Loi 96-646 1996-07-22, art 2-IV
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi n°96-646 du 22 juillet 1996 - art. 2 ()
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. LO111-3 (M)
+	  - Code de la sécurité sociale. - art. LO111-4 (VD)
+	  - Code des juridictions financières - art. L111-6 (Ab)
+	  - Code des juridictions financières - art. L132-3-2 (VT)
+	  - Code des juridictions financières - art. L132-4 (VD)
+	  - Code des juridictions financières - art. L314-19 (V)
+	  - Code des juridictions financières - art. R112-17 (VD)
+	  - Code des juridictions financières - art. R134-14 (Ab)
+	  - Code des juridictions financières - art. R143-11 (V)
 
 
 #### CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics

@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2001-07-13
+Version Consolidée au 2001-12-26
 
 # Partie législative
 
@@ -342,6 +342,13 @@ L. 135-3.
 
 La Cour des comptes exerce de plein droit toutes les compétences énumérées par les dispositions du présent livre.
 
+Le jugement des comptes et l'examen de la gestion de tout ou partie des établissements publics nationaux relevant d'une même
+catégorie peuvent être délégués aux chambres régionales des comptes par arrêté du premier président de la Cour des comptes
+pris après avis du procureur général près la Cour des comptes et des présidents des chambres régionales des comptes
+concernées. Un décret en Conseil d'Etat définit les catégories d'établissements publics et la durée de la délégation. Il
+fixe, le cas échéant, le montant des recettes ordinaires en deçà duquel le jugement des comptes et l'examen de la gestion des
+établissements publics relevant d'une même catégorie peuvent être délégués.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -353,9 +360,9 @@ La Cour des comptes exerce de plein droit toutes les compétences énumérées p
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 35 ()
 
 	**Cité par**:
 
@@ -372,8 +379,9 @@ La Cour des comptes exerce de plein droit toutes les compétences énumérées p
 
 ###### Article L111-10
 
-La Cour des comptes est chargée d'une mission permanente d'inspection à l'égard des chambres régionales et territoriales des
-comptes.
+La Cour des comptes est chargée d'une fonction permanente d'inspection à l'égard des chambres régionales et territoriales des
+comptes. Cette fonction est confiée à une mission présidée par un magistrat de la Cour des comptes ayant au moins le grade de
+conseiller maître.
 
 **Liens relatifs à cet article**
 
@@ -385,9 +393,17 @@ comptes.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 1 ()
+
+	**Transféré par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L112-8 (VD)
 
 	**Cité par**:
 
@@ -570,8 +586,15 @@ en conseil des ministres pour une période de quatre ans non renouvelable.
 
 ###### Article L112-7
 
-Des membres des corps et services de l'Etat peuvent exercer les fonctions de rapporteurs à la Cour des comptes dans les
-conditions définies par décret en Conseil d'Etat. Ils ne peuvent exercer aucune activité d'ordre juridictionnel.
+Les magistrats de l'ordre judiciaire et les fonctionnaires appartenant à un corps recruté par la voie de l'Ecole nationale
+d'administration peuvent exercer les fonctions de rapporteur auprès de la Cour des comptes dans des conditions fixées par
+décret en Conseil d'Etat. Ils ne peuvent exercer aucune activité juridictionnelle.
+
+Cette disposition est également applicable aux fonctionnaires appartenant à des corps de même niveau de recrutement de la
+fonction publique de l'Etat, de la fonction publique territoriale, de la fonction publique hospitalière ainsi qu'aux agents
+de direction et aux agents comptables des organismes de sécurité sociale. Elle s'applique également, dans les conditions
+prévues par leur statut, aux fonctionnaires des assemblées parlementaires appartenant à des corps de même niveau de
+recrutement.
 
 **Liens relatifs à cet article**
 
@@ -585,9 +608,9 @@ conditions définies par décret en Conseil d'Etat. Ils ne peuvent exercer aucun
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 2 ()
 
 	**Cité par**:
 
@@ -600,6 +623,70 @@ conditions définies par décret en Conseil d'Etat. Ils ne peuvent exercer aucun
 	  - Code des juridictions financières - art. R112-52 (V)
 	  - Code des juridictions financières - art. R125-1 (V)
 	  - Code des juridictions financières - art. R212-34 (V)
+
+
+##### Section 5 : Commission consultative de la Cour des comptes
+
+###### Article L112-8
+
+Une commission consultative est placée auprès du premier président de la Cour des comptes qui la préside.
+
+La commission consultative comprend, d'une part, le premier président, le procureur général et les présidents de chambres,
+d'autre part, un nombre égal de membres élus représentant les magistrats de la Cour des comptes, les conseillers maîtres en
+service extraordinaire et les rapporteurs extérieurs. Un suppléant est élu pour chaque représentant titulaire. Leur mandat
+est de deux ans ; il est renouvelable une fois. Les modalités de cette élection sont fixées par décret.
+
+Elle est consultée par le premier président sur toutes les questions relatives à la compétence, à l'organisation et au
+fonctionnement de la Cour des comptes, sur les modifications des dispositions statutaires applicables aux magistrats, ainsi
+que sur toute question déontologique, d'ordre général ou individuel, relative à l'exercice des fonctions des magistrats, des
+conseillers maîtres en service extraordinaire et des rapporteurs extérieurs.
+
+Elle donne également un avis sur les mesures individuelles concernant la situation, la discipline et l'avancement des
+magistrats de la Cour des comptes, ainsi que dans les cas prévus à l'article L. 221-2. Dans ces cas, siègent en nombre égal
+des membres de droit et des membres élus de grade supérieur ou égal à celui du magistrat intéressé.
+
+Lorsque la situation de l'un des membres élus de la commission consultative est évoquée à l'occasion de l'examen d'une
+question figurant à l'ordre du jour, le magistrat ou le rapporteur extérieur en cause ne siège pas à la réunion. Il est
+remplacé par son suppléant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 3 ()
+
+	**Cité par**:
+
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 19 (V)
+	  - Code des juridictions financières - art. R112-28 (T)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L221-2 (M)
+
+
+##### Section 6 : Magistrats honoraires
+
+###### Article L112-9
+
+Lorsque la participation d'un magistrat de la Cour des comptes, soit à une commission à caractère juridictionnel ou
+administratif, soit à un jury de concours ou d'examen, est prévue par une disposition législative ou réglementaire,
+l'autorité chargée de la désignation peut porter son choix sur un membre honoraire de rang au moins égal, après avis du
+premier président de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 3 ()
 
 
 ### TITRE II : Dispositions statutaires
@@ -693,6 +780,13 @@ Les deux tiers des postes vacants dans la maîtrise sont attribués à des conse
 La moitié des autres postes vacants dans la maîtrise est obligatoirement réservée aux candidats appartenant à
 l'administration supérieure des finances.
 
+Toutefois, une nomination sur dix-huit est effectuée au profit des magistrats de chambre régionale des comptes ayant le grade
+de président de section, âgés de plus de cinquante ans et justifiant au moins de quinze ans de services effectifs dans les
+chambres régionales des comptes. Cette nomination est prononcée sur proposition du premier président de la Cour des comptes,
+après avis de la commission consultative de la Cour des comptes et du Conseil supérieur des chambres régionales des comptes.
+Elle est imputée alternativement sur les postes vacants attribués aux conseillers référendaires de 1re classe et sur ceux
+réservés aux candidats appartenant à l'administration supérieure des finances.
+
 Pour les magistrats de la Cour des comptes en service détaché, l'avancement au grade de conseiller maître s'effectue hors
 tour.
 
@@ -705,9 +799,9 @@ ans accomplis et ne justifie d'un minimum de quinze ans de services publics.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 4 ()
 
 	**Cité par**:
 
@@ -755,8 +849,9 @@ classe dans la proportion de quatre cinquièmes au choix et un cinquième à l'a
 
 ###### Article L122-4
 
-Les magistrats des chambres régionales des comptes choisis pour exercer les fonctions de président de chambre régionale ou
-territoriale des comptes sont nommés conseillers référendaires de 1re classe à la Cour des comptes.
+Les magistrats des chambres régionales des comptes choisis pour occuper un emploi de président de chambre régionale ou
+territoriale des comptes et de vice-président de la chambre régionale des comptes sont nommés conseillers référendaires de
+1re classe à la Cour des comptes.
 
 Ces nominations sont prononcées hors tour. Dans le cas où elles interviennent en surnombre, ces surnombres sont résorbés sur
 les premières vacances venant à s'ouvrir dans le référendariat de 1re classe.
@@ -778,22 +873,29 @@ les premières vacances venant à s'ouvrir dans le référendariat de 1re classe
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 5 ()
 
 
 ###### Article L122-5
 
-Les trois quarts des postes vacants parmi les conseillers référendaires de 2e classe sont attribués à des auditeurs de 1re
-classe.
+Les trois quarts des postes vacants parmi les conseillers référendaires de 2e classe sont attribués, d'une part, à des
+auditeurs de 1re classe, d'autre part, à des magistrats de chambre régionale des comptes dans les conditions fixées ci-après.
+
+Chaque année, est nommé conseiller référendaire de 2e classe à la Cour des comptes un magistrat de chambre régionale des
+comptes ayant au moins le grade de premier conseiller, âgé de trente-cinq ans au moins et justifiant, à la date de
+nomination, de dix ans de services publics effectifs. Cette nomination est prononcée sur proposition du premier président de
+la Cour des comptes, après avis de la commission consultative de la Cour des comptes et du Conseil supérieur des chambres
+régionales des comptes.
 
 Pour les magistrats de la Cour des comptes en service détaché, l'avancement au grade de conseiller référendaire de 2e classe
 s'effectue hors tour.
 
-En dehors des auditeurs de 1re classe, nul ne peut être nommé conseiller référendaire de 2e classe s'il n'est âgé de trente-
-cinq ans au moins à la date de nomination et s'il ne justifie de dix ans de services publics ou de services dans un organisme
-relevant du contrôle de la Cour des comptes.
+En dehors des auditeurs de 1re classe et des magistrats de chambre régionale des comptes visés au deuxième alinéa du présent
+article nul ne peut être nommé conseiller référendaire de 2e classe s'il n'est âgé de trente-cinq ans au moins à la date de
+nomination et s'il ne justifie de dix ans de services publics ou de services dans un organisme relevant du contrôle de la
+Cour des comptes.
 
 Les nominations prononcées en application de l'alinéa précédent ne peuvent intervenir qu'après qu'une commission siégeant
 auprès du premier président de la Cour des comptes a émis un avis sur l'aptitude des candidats à exercer les fonctions de
@@ -809,9 +911,9 @@ présidents de chambre et du procureur général.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 6 ()
 
 	**Cité par**:
 
@@ -840,11 +942,6 @@ présidents de chambre et du procureur général.
 Les comptables publics autres que ceux qui relèvent de la juridiction des chambres régionales et territoriales des comptes
 sont tenus de produire leurs comptes à la Cour des comptes.
 
-Toutefois, le jugement des comptes de certains établissements publics nationaux peut être confié, dans des conditions
-définies par voie réglementaire, aux chambres régionales des comptes par arrêté du premier président de la Cour des comptes
-pris après avis du procureur général près la Cour des comptes et des présidents des chambres régionales des comptes
-intéressées.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -856,9 +953,9 @@ intéressées.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 35 ()
 
 	**Cité par**:
 
@@ -882,6 +979,9 @@ des personnes déclarées comptables de fait. Les arrêts statuant sur les appel
 jugements des chambres régionales des comptes portant sur des gestions de fait sont délibérés après l'audition, à leur
 demande, des requérants et des autres parties intéressées.
 
+L'action en déclaration de gestion de fait est prescrite pour les actes constitutifs de gestion de fait commis plus de dix
+ans avant la date à laquelle la Cour des comptes en est saisie ou s'en saisit d'office.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -895,7 +995,7 @@ demande, des requérants et des autres parties intéressées.
 
 	**Modifié par**:
 
-	  - Loi n°96-314 du 12 avril 1996 - art. 72 ()
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 38 ()
 
 	**Cité par**:
 
@@ -934,41 +1034,6 @@ consignations sont fixées par un décret en Conseil d'Etat, compte tenu du stat
 
 
 ##### Section 3 : Contrôle de l'apurement administratif des comptes
-
-###### Article L131-4
-
-Par dérogation aux dispositions du deuxième alinéa de l'article L. 131-1, des décrets organisent à titre transitoire un
-apurement administratif par les comptables supérieurs du Trésor des comptes de certains établissements publics nationaux. Cet
-apurement s'exerce sous le contrôle de la Cour des comptes et sous réserve des droits d'évocation et de réformation. Il prend
-fin avec l'apurement des comptes de 1985.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-594 du 10 juillet 1982 - art. 23 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 35 ()
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. D131-18 (V)
-	  - Code des juridictions financières - art. L231-4 (Ab)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L131-1 (M)
-
 
 ###### Article L131-5
 
@@ -2386,6 +2451,9 @@ La procédure est écrite et présente un caractère contradictoire.
 
 La Cour statue sur ces comptes par arrêts successivement provisoires et définitifs.
 
+Lorsque la Cour des comptes statue en matière de gestion de fait et d'amende, elle délibère hors la présence du rapporteur.
+L'arrêt est rendu en audience publique.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -2396,9 +2464,13 @@ La Cour statue sur ces comptes par arrêts successivement provisoires et défini
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 43 ()
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 31
 
 
 ###### Article L140-8
@@ -2542,10 +2614,19 @@ La Cour des comptes statue en appel.
 
 ###### Article L211-2
 
-Les comptes des communes ou groupements de communes dont la population n'excède pas 2 000 habitants et dont le montant des
-recettes ordinaires figurant au dernier compte administratif est inférieur à 2 000 000 F ainsi que ceux de leurs
-établissements publics font l'objet, sous réserve des dispositions des articles L. 231-7 à L. 231-9, d'un apurement
-administratif par les comptables supérieurs du Trésor.
+Sous réserve des dispositions des articles L. 231-7 à L. 231-9, font l'objet d'un apurement administratif par les comptables
+supérieurs du Trésor :
+
+- les comptes des communes dont la population n'excède pas 3 500 habitants et dont le montant des recettes ordinaires
+figurant au dernier compte administratif est inférieur à 750 000 Euros, ainsi que ceux de leurs établissements publics ;
+
+- les comptes des établissements publics de coopération intercommunale regroupant une population inférieure à 3 500
+habitants ;
+
+- les comptes des associations syndicales autorisées et des associations de remembrement.
+
+A compter de l'exercice 2002, le montant des recettes ordinaires pris en compte pour l'application du présent article est
+réévalué tous les cinq ans en fonction de l'évolution de l'indice des prix à la consommation hors tabac.
 
 **Liens relatifs à cet article**
 
@@ -2557,9 +2638,9 @@ administratif par les comptables supérieurs du Trésor.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 37 ()
 
 	**Cité par**:
 
@@ -2623,9 +2704,10 @@ publics locaux. Elle s'assure de l'emploi régulier des crédits, fonds et valeu
 ###### Article L211-4
 
 La chambre régionale des compte peut assurer la vérification des comptes des établissements, sociétés, groupements et
-organismes, quel que soit leur statut juridique, auxquels les collectivités territoriales ou leurs établissements publics
-apportent un concours financier supérieur à 10 000 F ou dans lesquelles ils détiennent, séparément ou ensemble, plus de la
-moitié du capital ou des voix dans les organes délibérants, ou exercent un pouvoir prépondérant de décision ou de gestion.
+organismes, quel que soit leur statut juridique, auxquels les collectivités territoriales leurs établissements publics ou les
+établissements publics nationaux dont le contrôle leur a été délégué en application de l'article L. 111-9 apportent un
+concours financier supérieur à 1 500 euros ou dans lesquelles ils détiennent, séparément ou ensemble, plus de la moitié du
+capital ou des voix dans les organes délibérants, ou exercent un pouvoir prépondérant de décision ou de gestion.
 
 **Liens relatifs à cet article**
 
@@ -2656,7 +2738,19 @@ moitié du capital ou des voix dans les organes délibérants, ou exercent un po
 
 	**Modifié par**:
 
-	  - Loi n°96-314 du 12 avril 1996 - art. 72 ()
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 35 ()
+
+	**Transféré par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 14
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L111-9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L211-8 (VD)
 
 
 ###### Article L211-5
@@ -2775,10 +2869,14 @@ La chambre régionale des comptes examine la gestion des collectivités territor
 examine, en outre, la gestion des établissements, sociétés, groupements des établissements et organismes mentionnés aux
 articles L. 211-4 à L. 211-6, ainsi qu'aux articles L. 133-3 et L. 133-4, lorsque la vérification lui en est confiée par
 arrêté du premier président de la Cour des comptes. Elle peut également assurer ces vérifications sur demande motivée, soit
-du représentant de l'Etat dans la région ou le département, soit de l'autorité territoriale.
+du représentant de l'Etat dans la région ou le département, soit de l'autorité territoriale. 
 
-Elle peut également, dans le cadre du contrôle des comptes de l'autorité délégante, vérifier auprès des délégataires de
-service public les comptes qu'ils ont produits aux autorités délégantes.
+L'examen de la gestion porte sur la régularité des actes de gestion, sur l'économie des moyens mis en oeuvre et sur
+l'évaluation des résultats atteints par rapport aux objectifs fixés par l'assemblée délibérante ou par l'organe délibérant.
+L'opportunité de ces objectifs ne peut faire l'objet d'observations. 
+
+La chambre régionale des comptes peut également dans le cadre du contrôle des comptes de l'autorité délégante, vérifier
+auprès des délégataires de service public les comptes qu'ils ont produits aux autorités délégantes.
 
 **Liens relatifs à cet article**
 
@@ -2789,10 +2887,6 @@ service public les comptes qu'ils ont produits aux autorités délégantes.
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi n°95-127 du 8 février 1995 - art. 3 ()
 
 	**Cité par**:
 
@@ -2805,11 +2899,23 @@ service public les comptes qu'ils ont produits aux autorités délégantes.
 	  - Code des juridictions financières - art. L250-12 (Ab)
 	  - Code des juridictions financières - art. R241-15 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 36 ()
+
+	**Transféré par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 14
+
 	**Cite**:
 
-	  - Code des juridictions financières - art. L133-3 (M)
-	  - Code des juridictions financières - art. L133-4 (V)
-	  - Code des juridictions financières L211-4 à L211-6, L133-3, L133-4
+	  - Code des juridictions financières - art. L133-3 (V)
+	  - Code des juridictions financières - art. L211-4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L211-4 (VD)
+	  - Code des juridictions financières - art. L211-5 (VD)
 
 
 ###### Article L211-9
@@ -2896,8 +3002,9 @@ La chambre régionale des comptes comprend au minimum un président et deux asse
 
 ###### Article L212-3
 
-Le président de la chambre régionale des comptes est un conseiller maître ou un conseiller référendaire à la Cour des comptes
-nommé, à sa demande et sur proposition du premier président de la Cour des comptes, par décret du Président de la République.
+Chaque chambre régionale des comptes est présidée par un conseiller maître ou un conseiller référendaire à la Cour des
+comptes. Le vice-président de la chambre régionale des comptes d'Ile-de-France est un conseiller référendaire à la Cour des
+comptes.
 
 **Liens relatifs à cet article**
 
@@ -2909,9 +3016,9 @@ nommé, à sa demande et sur proposition du premier président de la Cour des co
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 7 ()
 
 	**Cité par**:
 
@@ -2921,7 +3028,7 @@ nommé, à sa demande et sur proposition du premier président de la Cour des co
 ###### Article L212-4
 
 Des magistrats de la Cour des comptes peuvent, à leur demande et sur proposition du premier président de la Cour des comptes,
-être détachés auprès des chambres régionales des comptes.
+être mis à disposition ou être détachés auprès des chambres régionales des comptes.
 
 **Liens relatifs à cet article**
 
@@ -2933,18 +3040,33 @@ Des magistrats de la Cour des comptes peuvent, à leur demande et sur propositio
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 8 ()
 
 
 ###### Article L212-5
 
-Les membres du corps des tribunaux administratifs et des cours administratives d'appel peuvent être détachés dans le corps
-des chambres régionales des comptes.
+Peuvent être détachés dans le corps des magistrats de chambre régionale des comptes, dans des conditions fixées par décret en
+Conseil d'Etat :
 
-Dans ce cas, après avoir prêté serment, ils sont admis à exercer leurs fonctions dans les mêmes conditions que les magistrats
-desdites chambres.
+- les magistrats de l'ordre judiciaire ;
+
+- les fonctionnaires appartenant à un corps recruté par la voie de l'Ecole nationale d'administration ;
+
+- les fonctionnaires de l'Etat, territoriaux et hospitaliers, appartenant à des corps et cadres d'emplois de même niveau de
+recrutement.
+
+Ils sont soumis aux obligations et incompatibilités prévues aux articles L. 222-1 à L. 222-7.
+
+Après avoir prêté le serment prévu à l'article L. 212-9, ils sont admis à exercer leurs fonctions dans les mêmes conditions
+que les magistrats de chambre régionale des comptes.
+
+Il ne peut être mis fin à leurs fonctions avant le terme du détachement que sur demande des intéressés ou pour motif
+disciplinaire.
+
+Les dispositions du présent article s'appliquent, dans les conditions prévues par leur statut, aux fonctionnaires des
+assemblées parlementaires appartenant à des corps de même niveau de recrutement.
 
 **Liens relatifs à cet article**
 
@@ -2956,9 +3078,14 @@ desdites chambres.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 9 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L212-9 (V)
+	  - Code des juridictions financières L222-1 à L222-7, L212-9
 
 	**Cité par**:
 
@@ -2967,11 +3094,55 @@ desdites chambres.
 	  - Code des juridictions financières - art. R224-3-1 (M)
 
 
+###### Article L212-5-1
+
+Peuvent être mis à disposition pour exercer les fonctions de rapporteur auprès des chambres régionales des comptes, dans les
+conditions fixées par décret en Conseil d'Etat :
+
+- les magistrats de l'ordre judiciaire ;
+
+- les fonctionnaires appartenant à un corps recruté par la voie de l'Ecole nationale d'administration ;
+
+- les fonctionnaires de l'Etat, territoriaux et hospitaliers, appartenant à des corps et cadres d'emplois de même niveau de
+recrutement.
+
+Ils ne peuvent exercer aucune activité juridictionnelle.
+
+Les dispositions du présent article s'appliquent, dans les conditions prévues par leur statut, aux fonctionnaires des
+assemblées parlementaires appartenant à des corps de même niveau de recrutement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 10 ()
+
+	**Cité par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 64 (V)
+	  - Code des juridictions financières - art. L120-6 (V)
+	  - Code des juridictions financières - art. L220-4 (V)
+	  - Code des juridictions financières - art. L220-6 (VT)
+	  - Code des juridictions financières - art. R212-13 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 15
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L212-7 (VD)
+
+
 ###### Article L212-6
 
 Des agents de l'Etat ou des collectivités territoriales peuvent être détachés auprès des chambres régionales des comptes pour
-assister leurs membres dans l'exercice de leurs compétences dans des conditions fixées par voie réglementaire. Les intéressés
-ne peuvent exercer aucune activité juridictionnelle.
+assister leurs membres dans l'exercice de leurs compétences. Les intéressés ne peuvent exercer aucune activité
+juridictionnelle.
 
 **Liens relatifs à cet article**
 
@@ -2984,14 +3155,18 @@ ne peuvent exercer aucune activité juridictionnelle.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
 	**Cité par**:
 
 	  - Décret n°95-945 du 23 août 1995 - art. 134 (Ab)
 	  - Code des juridictions financières - art. R212-13 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 11 ()
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 
 ###### Article L212-7
@@ -3099,9 +3274,9 @@ serment.
 
 ###### Article L212-10
 
-Chaque chambre régionale des comptes comporte un ou plusieurs commissaires du Gouvernement, choisis parmi les magistrats de
-la chambre, qui exercent les fonctions du ministère public et sont les correspondants du procureur général près la Cour des
-comptes.
+Chaque chambre régionale des comptes comporte un ou plusieurs commissaires du Gouvernement, choisis parmi les magistrats
+membres du corps des chambres régionales des comptes, qui exercent les fonctions du ministère public et sont les
+correspondants du procureur général près la Cour des comptes.
 
 **Liens relatifs à cet article**
 
@@ -3113,9 +3288,9 @@ comptes.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 13 ()
 
 	**Cité par**:
 
@@ -3254,9 +3429,12 @@ de Saint-Pierre-et-Miquelon est la chambre régionale des comptes d'Ile-de-Franc
 ###### Article L212-16
 
 Il est institué un Conseil supérieur des chambres régionales des comptes. Ce conseil établit le tableau d'avancement de grade
-des membres du corps des chambres régionales des comptes et la liste d'aptitude de ces membres aux fonctions de président de
-chambre régionale. Il donne un avis sur toute mutation d'un magistrat. Tout projet de modification du statut défini par le
-présent code est soumis pour avis au Conseil supérieur des chambres régionales des comptes.
+des membres du corps des chambres régionales des comptes et la liste d'aptitude de ces membres à l'emploi de président de
+chambre régionale des comptes et de vice-président de la chambre régionale des comptes d'Ile-de-France. Il donne un avis sur
+toute mutation d'un magistrat, sur les propositions de nomination à l'emploi de président de chambre régionale des comptes et
+de vice-président de la chambre régionale des comptes d'Ile-de-France ainsi que sur les propositions de nomination prévues au
+troisième alinéa de l'article L. 122-2 et au deuxième alinéa de l'article L. 122-5. Tout projet de modification du statut
+défini par le présent code est soumis pour avis au Conseil supérieur des chambres régionales des comptes.
 
 Ce conseil est également consulté sur toute question relative à l'organisation, au fonctionnement ou à la compétence des
 chambres régionales.
@@ -3267,10 +3445,6 @@ chambres régionales.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
 	**Cité par**:
 
 	  - Décret n°95-945 du 23 août 1995 - art. 22 (Ab)
@@ -3278,6 +3452,15 @@ chambres régionales.
 	  - Code des juridictions financières - art. R224-7 (M)
 	  - Code des juridictions financières - art. R262-17 (V)
 	  - Code des juridictions financières - art. R272-17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 14 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L122-2 (M)
+	  - Code des juridictions financières - art. L122-5 (M)
 
 	**Anciens textes**:
 
@@ -3288,28 +3471,28 @@ chambres régionales.
 
 Le Conseil supérieur des chambres régionales des comptes comprend :
 
-- le premier président de la Cour des comptes, président ;
+- le premier président de la Cour des comptes ;
 
-- trois personnalités qualifiées qui n'exercent pas de mandat électif, désignées respectivement par le Président de la
-République, le président de l'Assemblée nationale et le président du Sénat ;
+- trois personnalités qualifiées qui n'exercent pas de mandat électif, désignées pour une période de trois ans non
+renouvelable, respectivement par décret du Président de la République, par le Président de l'Assemblée nationale et par le
+Président du Sénat ;
 
 - le procureur général près la Cour des comptes ;
 
-- deux conseillers maîtres à la Cour des comptes, dont un exerçant les fonctions de président de chambre régionale des
-comptes ;
+- le président de la mission permanente d'inspection des chambres régionales et territoriales des comptes ;
 
-- un conseiller référendaire à la Cour des comptes ;
+- un conseiller maître à la Cour des comptes ;
 
-- un président de section de chambre régionale des comptes ;
+- deux magistrats exerçant les fonctions de président de chambre régionale des comptes ou de vice-président de la chambre
+régionale des comptes d'Ile-de-France, dont un conseiller maître et un conseiller référendaire ;
 
-- un conseiller hors classe de chambre régionale des comptes ;
+- six représentants des magistrats de chambre régionale des comptes.
 
-- un conseiller de 1re classe de chambre régionale des comptes ;
+Le mandat des personnes élues ou désignées au Conseil supérieur est de trois ans; il est renouvelable une fois.
 
-- un conseiller de 2e classe de chambre régionale des comptes.
-
-Le mandat des personnes élues ou désignées au Conseil supérieur dure trois ans et n'est pas renouvelable. Les magistrats qui
-en sont membres ne peuvent bénéficier d'aucun avancement de grade pendant toute la durée de leur mandat.
+Le conseil supérieur est présidé par le premier président de la Cour des comptes. En cas d'empêchement, celui-ci est suppléé
+par le président de la mission permanente d'inspection des chambres régionales et territoriales des comptes. Ce dernier est
+lui-même suppléé par un conseiller maître membre de cette mission, désigné par le premier président.
 
 **Liens relatifs à cet article**
 
@@ -3317,9 +3500,9 @@ en sont membres ne peuvent bénéficier d'aucun avancement de grade pendant tout
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 15 ()
 
 	**Anciens textes**:
 
@@ -3332,10 +3515,13 @@ Les magistrats de la Cour des comptes sont élus au Conseil supérieur par l'ens
 conditions fixées par décret en Conseil d'Etat.
 
 Les magistrats des chambres régionales des comptes élisent, dans des conditions fixées par décret en Conseil d'Etat, leurs
-représentants au Conseil supérieur des chambres régionales des comptes. Un suppléant est élu pour chaque représentant
-titulaire.
+représentants au Conseil supérieur des chambres régionales des comptes.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L220-14 (VD)
 
 	**Anciens textes**:
 
@@ -3345,34 +3531,47 @@ titulaire.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 16 ()
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 16
 
 
 ###### Article L212-19
 
-Lors des travaux d'établissement des tableaux d'avancement et des listes d'aptitude, seuls siègent au Conseil des magistrats
-d'un grade supérieur ou égal à celui du magistrat intéressé. En cas de partage des voix, celle du président est
-prépondérante.
+Lors des travaux d'établissement des tableaux d'avancement et des listes d'aptitude, lors de l'examen des propositions de
+nomination à l'emploi de président de chambre régionale des comptes et de vice-président de la chambre régionale des comptes
+d'Ile-de-France, ainsi que des propositions de nomination prévues aux articles L. 122-2 et L. 122-5, seuls siègent au Conseil
+supérieur des chambres régionales des comptes des magistrats d'un grade supérieur ou égal à celui du magistrat intéressé. En
+cas de partage égal des voix, celle du président est prépondérante. Lorsque la situation de l'un des membres élus du conseil
+supérieur est évoquée à l'occasion de l'examen d'une question figurant à l'ordre du jour, le magistrat en cause ne siège pas
+à la réunion.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1983-07-10, art 19 al 5
 
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 17 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L122-2 (M)
+	  - Code des juridictions financières - art. L122-5 (M)
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R242-2 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°82-595 1983-07-10, art 19 al 5
 
 
 #### TITRE II : Dispositions statutaires
@@ -3406,11 +3605,9 @@ Le corps des magistrats des chambres régionales des comptes comprend les grades
 
 - président de section de chambre régionale des comptes ;
 
-- conseiller hors classe de chambre régionale des comptes ;
+- premier conseiller de chambre régionale des comptes ;
 
-- conseiller de 1re classe de chambre régionale des comptes ;
-
-- conseiller de 2e classe de chambre régionale des comptes.
+- conseiller de chambre régionale des comptes.
 
 **Liens relatifs à cet article**
 
@@ -3422,9 +3619,17 @@ Le corps des magistrats des chambres régionales des comptes comprend les grades
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 18 ()
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 16
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L220-3 (VD)
 
 
 ##### CHAPITRE Ier : Nominations
@@ -3451,35 +3656,54 @@ la République. Les nominations aux différents grades de ce corps, ainsi que le
 
 ###### Article L221-2
 
-Les présidents de chambre régionale des comptes sont nommés sur proposition du premier président de la Cour des comptes par
-décret du Président de la République, soit parmi les magistrats appartenant déjà à la Cour des comptes au moment de leur
-candidature, soit parmi les présidents de section et conseillers hors classe des chambres régionales des comptes nommés à la
-Cour des comptes dans les conditions prévues à l'article L. 122-4, après inscription, en ce qui concerne ces derniers, sur
-une liste d'aptitude établie par le Conseil supérieur des chambres régionales des comptes :
+L'emploi de président de chambre régionale des comptes est pourvu par un conseiller maître ou un conseiller référendaire à la
+Cour des comptes. L'emploi de vice-président de la chambre régionale des comptes d'Ile-de-France est pourvu par un conseiller
+référendaire à la Cour des comptes.
 
-a) Sur six vacances de présidence de chambre régionale des comptes, deux nominations au moins sont prononcées parmi les
-membres du corps des magistrats des chambres régionales des comptes jusqu'à ce que le nombre total des présidents de chambre
-régionale des comptes en fonctions comprenne un tiers au moins des magistrats issus de ce corps.
+Les nominations sont prononcées, à la demande des magistrats intéressés, par décret du Président de la République, sur
+proposition du premier président de la Cour des comptes après avis de la commission consultative de la Cour des comptes et du
+Conseil supérieur des chambres régionales des comptes.
 
-Lorsque cette condition se trouve remplie, les nominations suivantes sont prononcées soit parmi les magistrats de la Cour des
-comptes, soit parmi ceux du corps des chambres régionales des comptes, de telle sorte qu'un tiers au moins et deux tiers au
-plus des présidences de chambre régionale des comptes soient effectivement occupées par des magistrats de l'une ou l'autre
-origine ;
+Peuvent se porter candidats à ces emplois les magistrats de la Cour des comptes ainsi que les présidents de section de
+chambre régionale des comptes inscrits sur une liste d'aptitude établie à cet effet par le Conseil supérieur des chambres
+régionales des comptes.
 
-b) Peuvent être inscrits sur la liste d'aptitude aux fonctions de président de chambre régionale des comptes les présidents
-de section et les conseillers hors classe âgés de quarante-cinq ans au moins et justifiant d'un minimum de quinze années de
-services publics.
+Peuvent être inscrits sur la liste d'aptitude les magistrats âgés de quarante ans au moins et justifiant d'un minimum de
+quinze années de services publics. Ces conditions sont appréciées au 1er janvier de l'année au cours de laquelle la liste est
+établie.
 
-Les conditions d'âge et de durée de services publics exigées ci-dessus sont appréciées au 1er janvier de l'année au cours de
-laquelle la liste d'aptitude est établie ;
+Il est procédé aux nominations aux emplois de président de chambre régionale des comptes et de vice-président de la chambre
+régionale des comptes d'Ile-de-France de telle sorte que la moitié au moins et les trois quarts au plus du total desdits
+emplois soient effectivement occupés par des magistrats dont le corps d'origine, avant leur nomination à la Cour des comptes,
+était celui de magistrats de chambre régionale des comptes.
 
-c) Dès leur nomination en qualité de magistrat de la Cour des comptes, les membres du corps des magistrats de chambres
-régionales des comptes reçoivent une première affectation en qualité de président d'une chambre régionale des comptes. Ils
-sont tenus d'exercer les fonctions de président de chambre régionale des comptes pendant cinq ans au moins, sauf cas de force
-majeure constaté et reconnu par le Conseil supérieur des chambres régionales des comptes et sous réserve des dispositions
-relatives à la limite d'âge.
+Les magistrats nommés à l'emploi de président de chambre régionale des comptes et de vice-président de la chambre régionale
+des comptes d'Ile-de-France sont placés en position de détachement pendant la durée de cet emploi. Dans cette position, ils
+peuvent participer, à l'exclusion de toute activité juridictionnelle, aux formations et aux comités de la Cour des comptes
+ayant à connaître des contrôles effectués par les chambres régionales des comptes ou avec leur concours.
+
+Les conditions d'avancement dans l'emploi de président de chambre régionale des comptes et de vice-président de la chambre
+régionale des comptes d'Ile-de-France sont fixées par décret en Conseil d'Etat.
+
+La nomination à l'emploi de président d'une même chambre régionale des comptes ou de vice-président de la chambre régionale
+des comptes d'Ile-de-France est prononcée pour une durée de sept ans. Cette durée ne peut être ni prorogée ni renouvelée au
+sein d'une même chambre. Elle ne peut être réduite que si le magistrat intéressé demande, après avis du Conseil supérieur des
+chambres régionales des comptes, à être déchargé de ses fonctions.
+
+Seuls les magistrats bénéficiant du recul de la limite d'âge prévue au premier alinéa de l'article 4 de la loi du 18 août
+1936 concernant les mises à la retraite peuvent occuper un emploi de président de chambre régionale des comptes, ou de vice-
+président de la chambre régionale des comptes d'Ile-de-France, au-delà de la limite d'âge fixée par l'article 1er de la loi
+n° 84-834 du 13 septembre 1984 relative à la limite d'âge dans la fonction publique et le secteur public. Pour l'exercice de
+cet emploi, les dispositions de l'article 1er de la loi n° 86-1304 du 23 décembre 1986 relative à la limite d'âge et aux
+modalités de recrutement de certains fonctionnaires civils de l'Etat ne sont pas applicables.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°84-834 du 13 septembre 1984 - art. 1, v. init.
+	  - Loi n°86-1304 du 23 décembre 1986 - art. 1 (V)
+	  - Loi n°1936-08-18 art. 4
 
 	**Cité par**:
 
@@ -3500,23 +3724,27 @@ relatives à la limite d'âge.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L122-4 (M)
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 19 ()
 
 	**Anciens textes**:
 
 	  - Loi n°82-595 1983-07-10 art 21, modifié par loi 88-13 1988-01-05 art 27
 
 
-###### Article L221-3
+###### Article L221-2-1
 
-Les conseillers de 2e classe de chambre régionale des comptes sont recrutés parmi les anciens élèves de l'Ecole nationale
-d'administration.
+Peuvent être inscrits au tableau d'avancement de président de section les premiers conseillers ayant accompli une mobilité
+d'une durée d'au moins deux ans soit dans une autre chambre régionale ou territoriale des comptes, soit à la Cour des
+comptes, soit dans un service, une juridiction, un organisme, une collectivité ou une entreprise publique pouvant accueillir,
+au titre de leur mobilité, les fonctionnaires des corps recrutés par la voie de l'Ecole nationale d'administration. Les
+services rendus au titre de la mobilité sont assimilés à des services effectifs dans les chambres régionales des comptes.
+Sont considérés comme ayant accompli une mobilité les magistrats des chambres régionales des comptes recrutés avant la date
+de publication de la loi n° 2001-1248 du 21 décembre 2001 relative aux chambres régionales des comptes et à la Cour des
+comptes. La nomination au grade de président de section ne peut être prononcée dans la chambre régionale des comptes dans
+laquelle le magistrat est affecté au moment de sa promotion. Les conditions d'application du présent article sont définies
+par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -3524,9 +3752,37 @@ d'administration.
 
 	  - Loi n°94-1040 1994-12-02
 
+	**Cite**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 (V)
+
 	**Créé par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 12 ()
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R224-5 (V)
+
+
+###### Article L221-3
+
+Les conseillers de chambre régionale des comptes sont recrutés parmi les anciens élèves de l'Ecole nationale
+d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-595 1983-07-10, art 12
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 20 ()
 
 	**Cité par**:
 
@@ -3535,17 +3791,15 @@ d'administration.
 	  - Code des juridictions financières - art. L221-4 (V)
 	  - Code des juridictions financières - art. L224-1 (VT)
 
-	**Anciens textes**:
-
-	  - Loi n°82-595 1983-07-10, art 12
-
 
 ###### Article L221-4
 
 Pour quatre conseillers de chambre régionale des comptes recrutés en application de l'article L. 221-3, une nomination est
 prononcée au bénéfice des fonctionnaires civils ou militaires appartenant à un corps de catégorie A ou assimilé, des
-magistrats de l'ordre judiciaire ou des agents titulaires des collectivités territoriales de même niveau, âgés de trente ans
-au moins et justifiant d'une durée minimum de cinq ans de services publics.
+magistrats de l'ordre judiciaire, des fonctionnaires appartenant à des corps de même niveau de recrutement de la fonction
+publique territoriale ou de la fonction publique hospitalière justifiant, au 31 décembre de l'année considérée, d'une durée
+minimum de dix ans de services publics ou de services accomplis dans un organisme relevant du contrôle de la Cour des comptes
+ou des chambres régionales des comptes.
 
 **Liens relatifs à cet article**
 
@@ -3553,9 +3807,9 @@ au moins et justifiant d'une durée minimum de cinq ans de services publics.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 21 ()
 
 	**Cite**:
 
@@ -3580,96 +3834,18 @@ au moins et justifiant d'une durée minimum de cinq ans de services publics.
 	  - Loi n°82-595 1983-07-10, art 13
 
 
-###### Article L221-5
-
-Pour cinq conseillers de 2e classe promus au grade de conseiller de 1re classe, une nomination est prononcée au bénéfice des
-fonctionnaires, magistrats ou agents mentionnés à l'article L. 221-4, âgés de trente-cinq ans au moins et justifiant d'une
-durée minimale de dix ans de services publics.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 30 ()
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L221-4 (M)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L221-7 (M)
-	  - Code des juridictions financières - art. L221-8 (M)
-	  - Code des juridictions financières - art. R221-10 (M)
-	  - Code des juridictions financières - art. R221-12 (M)
-	  - Code des juridictions financières - art. R221-13 (M)
-	  - Code des juridictions financières - art. R221-4 (M)
-	  - Code des juridictions financières - art. R221-6 (M)
-	  - Code des juridictions financières - art. R221-7 (M)
-	  - Code des juridictions financières - art. R221-8 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1983-07-10, art 14
-
-
-###### Article L221-6
-
-Pour six conseillers de 1re classe promus au grade de conseiller hors classe, une nomination est prononcée au bénéfice des
-fonctionnaires, magistrats ou agents mentionnés à l'article L. 221-4, âgés de trente-sept ans au moins et justifiant d'une
-durée minimale de douze ans de services publics.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 30 ()
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L221-4 (M)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L221-7 (M)
-	  - Code des juridictions financières - art. L221-8 (M)
-	  - Code des juridictions financières - art. R221-10 (M)
-	  - Code des juridictions financières - art. R221-12 (M)
-	  - Code des juridictions financières - art. R221-13 (M)
-	  - Code des juridictions financières - art. R221-4 (M)
-	  - Code des juridictions financières - art. R221-6 (M)
-	  - Code des juridictions financières - art. R221-7 (M)
-	  - Code des juridictions financières - art. R221-8 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1983-07-10, art 15
-
-
 ###### Article L221-7
 
-Les nominations prévues aux articles L. 221-4, L. 221-5 et L. 221-6 sont prononcées après inscription sur des listes
-d'aptitude établies par ordre de mérite sur proposition d'une commission chargée d'examiner les titres des candidats.
+Les nominations prévues a l'articles L. 221-4 sont prononcées après inscription sur une liste d'aptitude établie par ordre de
+mérite sur proposition d'une commission chargée d'examiner les titres des candidats.
 
-Cette commission est présidée par le premier président de la Cour des comptes ou son représentant. Elle comprend :
+Cette commission comprend :
+
+- le premier président de la Cour des comptes ;.
 
 - le procureur général près la Cour des comptes ou son représentant ;
+
+- le président de la mission permanente d'inspection des chambres régionales et territoriales des comptes ;.
 
 - le directeur général de l'administration et de la fonction publique ou son représentant ;
 
@@ -3679,8 +3855,13 @@ Cette commission est présidée par le premier président de la Cour des comptes
 
 - le directeur de l'Ecole nationale d'administration ou son représentant ;
 
-- un magistrat de la Cour des comptes élu par l'ensemble des magistrats qui la composent et quatre magistrats des chambres
-régionales des comptes élus par leurs pairs dans des conditions fixées par décret en Conseil d'Etat.
+- un magistrat de la Cour des comptes désigné par la commission consultative de la Cour des comptes parmi les membres de la
+commission et trois magistrats de chambres régionales des comptes désignés par le Conseil supérieur des chambres régionales
+des comptes en son sein.
+
+La commission est présidée par le premier président de la Cour des comptes. En cas d'empêchement, celui-ci est suppléé par le
+président de la mission permanente d'inspection des chambres régionales et territoriales des comptes. Ce dernier est lui-même
+suppléé par un conseiller maître membre de cette mission, désigné par le premier président.
 
 **Liens relatifs à cet article**
 
@@ -3688,15 +3869,13 @@ régionales des comptes élus par leurs pairs dans des conditions fixées par d�
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 22 ()
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. L221-4 (M)
-	  - Code des juridictions financières - art. L221-5 (Ab)
-	  - Code des juridictions financières - art. L221-6 (Ab)
 
 	**Cité par**:
 
@@ -3712,10 +3891,42 @@ régionales des comptes élus par leurs pairs dans des conditions fixées par d�
 
 ###### Article L221-8
 
-Un décret en Conseil d'Etat détermine les grades que doivent détenir les candidats à un recrutement au titre des articles L.
-221-4, L. 221-5 et L. 221-6 et, le cas échéant, les emplois qu'ils doivent occuper. Le décret précise les modalités
-d'organisation et de fonctionnement de la commission prévue à l'article précédent, ainsi que les modalités d'établissement
-des listes d'aptitude.
+Un décret en Conseil d'Etat détermine les grades que doivent détenir les candidats à un recrutement au titre de l'article L.
+221-4 et le cas échéant, les emplois qu'ils doivent occuper. Le décret précise les modalités d'organisation et de
+fonctionnement de la commission prévue à l'article précédent, ainsi que les modalités d'établissement de la liste d'aptitude.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-595 1983-07-10, art 17
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 23 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L221-4 (V)
+
+
+###### Article L221-9
+
+Peuvent être intégrés dans le corps des magistrats de chambre régionale des comptes :
+
+- les magistrats de l'ordre judiciaire et les fonctionnaires détachés en application de l'article L. 212-5, justifiant de
+huit ans de services publics effectifs, dont trois ans en détachement dans les chambres régionales des comptes ; ces
+intégrations sont prononcées après avis de leur président de chambre régionale et du Conseil supérieur des chambres
+régionales des comptes ;
+
+- les magistrats de l'ordre judiciaire et les fonctionnaires exerçant ou ayant exercé la fonction de rapporteur à temps plein
+à la Cour des comptes justifiant de huit ans de services publics effectifs, dont trois ans à la Cour des comptes ; ces
+intégrations sont prononcées après avis de leur président de chambre et du Conseil supérieur des chambres régionales des
+comptes.
 
 **Liens relatifs à cet article**
 
@@ -3725,17 +3936,15 @@ des listes d'aptitude.
 
 	**Créé par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 9 ()
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L221-4 (M)
-	  - Code des juridictions financières - art. L221-5 (Ab)
-	  - Code des juridictions financières - art. L221-6 (Ab)
+	  - Code des juridictions financières - art. L212-5 (V)
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Loi n°82-595 1983-07-10, art 17
+	  - Code des juridictions financières - art. R221-15 (V)
 
 
 ##### CHAPITRE II : Obligations et incompatibilités
@@ -3768,7 +3977,9 @@ appartiennent. Des dérogations individuelles peuvent toutefois être accordées
 
 ###### Article L222-3
 
-L'exercice des fonctions de magistrat des chambres régionales des comptes est également incompatible avec :
+L'emploi de président de chambre régionale des comptes et de vice-président de la chambre régionale des comptes d'Ile-de-
+France ainsi que l'exercice des fonctions de magistrat des chambres régionales des comptes sont également incompatibles
+avec :
 
 a) L'exercice d'un mandat au Parlement européen ;
 
@@ -3787,30 +3998,32 @@ appartient ou a appartenu depuis moins de cinq ans le magistrat.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 24 ()
 
 
 ###### Article L222-4
 
-Nul ne peut être nommé magistrat dans une chambre régionale des comptes ou, le cas échéant, le demeurer :
+Nul ne peut être nommé président d'une chambre régionale des comptes, vice-président de la chambre régionale des comptes
+d'Ile- de-France ou magistrat dans une chambre régionale des comptes ou, le cas échéant, le demeurer :
 
 a) S'il a exercé, depuis moins de cinq ans, dans le ressort de cette chambre, une fonction publique élective mentionnée à
 l'article L.O. 222-2, ou fait acte de candidature à l'un de ces mandats depuis moins de trois ans ;
 
-b) Si son conjoint ou son concubin notoire est député d'une circonscription ou sénateur d'un département situé dans le
-ressort de cette chambre ;
+b) S'il est marié, a conclu un pacte civil de solidarité ou vit en concubinage notoire avec un député d'une circonscription
+ou un sénateur d'un département situé dans le ressort de cette chambre ;
 
-c) Si son conjoint ou son concubin notoire est président du conseil régional, d'un conseil général ou maire d'une commune,
-chef-lieu de département de ce même ressort ;
+c) S'il est marié, a conclu un pacte civil de solidarité ou vit en concubinage notoire avec le président du conseil régional,
+un président du conseil général, un maire d'une commune, chef-lieu de département de ce même ressort ou un président d'un
+établissement public de coopération intercommunale à fiscalité propre qui comprend cette même commune ;
 
 d) S'il a exercé depuis moins de cinq ans dans ce ressort les fonctions de représentant de l'Etat dans un département ou dans
 un arrondissement, ou de directeur départemental ou régional d'une administration publique de l'Etat ;
 
 e) S'il a exercé dans le ressort de cette chambre régionale des comptes depuis moins de cinq ans des fonctions de direction
 dans l'administration d'une collectivité territoriale ou d'un organisme, quelle qu'en soit la forme juridique, soumis au
-contrôle de cette chambre ou de la Cour des comptes ;
+contrôle de cette chambre ;
 
 f) S'il a exercé dans le ressort de cette chambre régionale des fonctions de comptable public principal pour lesquelles il
 n'a pas reçu quitus.
@@ -3818,10 +4031,6 @@ n'a pas reçu quitus.
 Les conditions d'application du présent article sont fixées par voie réglementaire.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R222-4 (V)
 
 	**Anciens textes**:
 
@@ -3831,9 +4040,13 @@ Les conditions d'application du présent article sont fixées par voie réglemen
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 25 ()
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R222-4 (V)
 
 
 ###### Article L222-5
@@ -3860,12 +4073,17 @@ Toutefois, l'interdiction prévue à l'alinéa précédent prend fin dès que l'
 
 ###### Article L222-6
 
-Nul ne peut être nommé magistrat dans une chambre régionale des comptes s'il a été déclaré comptable de fait et s'il ne lui a
-pas été donné quitus.
+Nul ne peut être nommé président d'une chambre régionale des comptes, vice-président de la chambre régionale des comptes
+d'Ile-de-France ou magistrat dans une chambre régionale des comptes s'il a été déclaré comptable de fait à titre définitif et
+s'il ne lui a pas été donné quitus.
 
-Si la déclaration intervient postérieurement à sa nomination, le magistrat est suspendu de ses fonctions, selon le cas par le
-président de la chambre régionale ou le procureur général près la Cour des comptes, dans les conditions prévues au deuxième
-alinéa de l'article L. 223-11, jusqu'à ce que quitus lui soit donné.
+Si la déclaration concerne un président de chambre régionale des comptes ou le vice-président de la chambre régionale des
+comptes d'Ile-de-France et qu'elle intervient postérieurement à sa nomination dans cet emploi, ce magistrat est suspendu de
+ses fonctions par le premier président de la Cour des comptes, jusqu'à ce que quitus lui soit donné.
+
+Si la déclaration concerne un magistrat de chambre régionale des comptes et qu'elle intervient postérieurement à sa
+nomination, ce magistrat est suspendu de ses fonctions dans les conditions prévues au deuxième alinéa de l'article L. 223-11,
+jusqu'à ce que quitus lui soit donné.
 
 **Liens relatifs à cet article**
 
@@ -3877,9 +4095,9 @@ alinéa de l'article L. 223-11, jusqu'à ce que quitus lui soit donné.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 26 ()
 
 	**Cite**:
 
@@ -3888,9 +4106,10 @@ alinéa de l'article L. 223-11, jusqu'à ce que quitus lui soit donné.
 
 ###### Article L222-7
 
-Nul magistrat des chambres régionales des comptes ne peut, dans le ressort d'une chambre régionale à laquelle il a appartenu
-au cours des cinq années précédentes, être détaché auprès d'une collectivité territoriale ou d'un organisme soumis au
-contrôle de cette chambre ou placé en disponibilité pour servir dans une telle collectivité ou un tel organisme.
+Nul président de chambre régionale des comptes, vice-président de la chambre régionale des comptes d'Ile-de-France ou
+magistrat des chambres régionales des comptes ne peut, dans le ressort d'une chambre régionale à laquelle il a appartenu au
+cours des cinq années précédentes, être détaché auprès d'une collectivité territoriale ou d'un organisme soumis au contrôle
+de cette chambre ou placé en disponibilité pour servir dans une telle collectivité ou un tel organisme.
 
 **Liens relatifs à cet article**
 
@@ -3902,9 +4121,9 @@ contrôle de cette chambre ou placé en disponibilité pour servir dans une tell
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 27 ()
 
 	**Cité par**:
 
@@ -3970,9 +4189,9 @@ chargé des finances.
 
 La procédure devant le Conseil supérieur des chambres régionales des comptes est contradictoire.
 
-Dès la saisine du Conseil, le magistrat a droit à la communication intégrale de son dossier et des pièces de l'enquête
-préliminaire, s'il y a été procédé. Il peut se faire assister par un ou plusieurs de ses pairs et par un ou plusieurs
-défenseurs de son choix.
+Le magistrat est informé par le président du conseil supérieur, dès la saisine de cette instance, qu'il a droit à la
+communication intégrale de son dossier et des pièces de l'enquête préliminaire, s'il y a été procédé, et qu'il peut se faire
+assister par l'un de ses pairs et par un ou plusieurs défenseurs de son choix.
 
 Le président du Conseil supérieur désigne, parmi les membres du Conseil, un rapporteur qui procède, s'il y a lieu, à une
 enquête.
@@ -3990,9 +4209,9 @@ tous actes d'investigations utiles.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 28 ()
 
 
 ###### Article L223-3
@@ -4148,10 +4367,18 @@ Le Conseil supérieur peut entendre des témoins ; il doit entendre ceux que le 
 ###### Article L223-9
 
 Le Conseil supérieur statue à huis clos. Sa décision est prise à la majorité des voix ; en cas de partage des voix, celle du
-président est prépondérante. Cette décision doit être motivée. Elle ne peut faire l'objet que d'un recours en cassation
-devant le Conseil d'Etat.
+président est prépondérante. Cette décision est motivée et rendue publique. Elle ne peut faire l'objet que d'un recours en
+cassation devant le Conseil d'Etat.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L223-5 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L223-7 (VD)
 
 	**Anciens textes**:
 
@@ -4161,13 +4388,13 @@ devant le Conseil d'Etat.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 29 ()
 
-	**Cité par**:
+	**Transféré par**:
 
-	  - Code des juridictions financières - art. L223-7 (VD)
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 19
 
 
 ###### Article L223-10
@@ -4299,19 +4526,18 @@ personnes qu'elle a déclarées comptables de fait d'une collectivité ou d'un �
 Les dispositions définitives des jugements portant sur des gestions de fait sont délibérées après l'audition, à leur demande,
 des personnes déclarées comptables de fait.
 
+L'action en déclaration de gestion de fait est prescrite pour les actes constitutifs de gestion de fait commis plus de dix
+ans avant la date à laquelle la chambre régionale des comptes en est saisie ou s'en saisit d'office.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - loi 82-594 1982-07-10, art 6 al 1 modifié par loi 93-122 1993-01-29, art 80-II
+	  - Loi n°82-594 1982-07-10, art 2 al 2
 
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 	**Cité par**:
 
@@ -4323,35 +4549,9 @@ des personnes déclarées comptables de fait.
 	  - Code des juridictions financières - art. R241-28 (M)
 	  - Code des juridictions financières - art. R241-30 (Ab)
 
+	**Modifié par**:
 
-###### Article L231-4
-
-Les premiers comptes jugés par les chambres régionales des comptes sont ceux de la gestion de 1983. Les comptes des exercices
-antérieurs demeurent respectivement jugés par la Cour des comptes ou arrêtés par les comptables supérieurs du Trésor selon
-les modalités de répartition de compétences résultant des articles L. 131-4 et L. 131-5.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 100
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 35 ()
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L131-4 (Ab)
-	  - Code des juridictions financières - art. L131-5 (V)
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 38 ()
 
 
 ###### Article L231-5
@@ -5805,8 +6005,8 @@ La chambre régionale des comptes prend toutes dispositions pour garantir le sec
 
 ###### Article L241-6
 
-Les propositions, les rapports et les travaux de la chambre régionale des comptes sont couverts par le secret professionnel
-que les experts sont tenus de respecter en application de l'article L. 241-3.
+Les documents d'instruction et les communications provisoires de la chambre régionale des comptes sont couverts par le secret
+professionnel que les experts sont tenus de respecter en application de l'article L. 241-3.
 
 **Liens relatifs à cet article**
 
@@ -5827,9 +6027,9 @@ que les experts sont tenus de respecter en application de l'article L. 241-3.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 39 ()
 
 	**Cite**:
 
@@ -5921,8 +6121,10 @@ celle-ci.
 
 ###### Article L241-9
 
-Lorsque des observations sont formulées, elles ne peuvent être arrêtées définitivement avant que l'ordonnateur et celui qui
-était en fonctions au cours de l'exercice examiné ou le dirigeant aient été en mesure de leur apporter une réponse écrite.
+Lorsque des observations sont formulées, le dirigeant ou l'ordonnateur concerné, y compris, le cas échéant, celui qui était
+en fonctions au cours de l'exercice examiné, disposent d'un délai de deux mois pour remettre au greffe de la chambre
+régionale des comptes une réponse écrite. Les observations ne peuvent être arrêtées définitivement qu'après réception de
+cette réponse, ou, à défaut, à l'expiration du délai précité.
 
 **Liens relatifs à cet article**
 
@@ -5934,9 +6136,17 @@ Lorsque des observations sont formulées, elles ne peuvent être arrêtées déf
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 41 ()
+
+	**Transféré par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 24
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L243-3 (VD)
 
 	**Cité par**:
 
@@ -5950,7 +6160,7 @@ Lorsque des observations sont formulées, elles ne peuvent être arrêtées déf
 Lorsque les vérifications visées à l'article L. 211-8 sont assurées sur demande du représentant de l'Etat ou de l'autorité
 territoriale, les observations que la chambre régionale des comptes présente sont communiquées à l'autorité territoriale
 concernée, aux représentants des établissements, sociétés, groupements et organismes concernés ainsi qu'au représentant de
-l'Etat. Dans ce cas, il est fait application des dispositions du deuxième alinéa de l'article L. 241-11.
+l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -5962,27 +6172,50 @@ l'Etat. Dans ce cas, il est fait application des dispositions du deuxième alin�
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 42 ()
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 24
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L211-8 (M)
-	  - Code des juridictions financières - art. L241-11 (M)
+	  - Code des juridictions financières - art. L211-8 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L243-4 (VD)
 
 
 ###### Article L241-11
 
-Les observations définitives adressées aux représentants des établissements, sociétés, groupements et organismes mentionnés
-aux articles L. 133-3, L. 133-4 et L. 211-4 à L. 211-6 sont également transmises à l'exécutif de la collectivité territoriale
-qui leur a apporté un concours financier ou qui détient une partie du capital ou une partie des voix dans leurs instances de
-décision.
+Les chambres régionales des comptes arrêtent leurs observations définitives sous la forme d'un rapport d'observations. 
 
-Les observations définitives formulées par la chambre régionale des comptes sur la gestion d'une collectivité territoriale,
-d'un établissement public local ou de l'un des organismes mentionnés à l'alinéa précédent sont communiquées par l'exécutif de
-la collectivité ou de l'établissement à son assemblée délibérante, dès sa plus proche réunion. Elles font l'objet d'une
-inscription à l'ordre du jour de celle-ci et sont jointes à la convocation adressée à chacun des membres de l'assemblée.
+Ce rapport d'observations est communiqué :
+
+- soit à l'exécutif de la collectivité locale ou au dirigeant de l'établissement public concerné ;
+
+- soit aux représentants des établissements, sociétés, groupements et organismes mentionnés aux articles L. 133-3, 
+L. 133-4 et L. 211-4 à L. 211-6 ; dans ce cas, il est également transmis à l'exécutif de la collectivité territoriale qui
+leur a apporté un concours financier ou qui détient une partie du capital ou une partie des voix dans leurs instances de
+décision. 
+
+Il est communiqué à l'exécutif de la collectivité territoriale ou de l'établissement public et, le cas échéant, pour ce qui
+le concerne, à l'ordonnateur ou au dirigeant qui était en fonctions au cours de l'exercice examiné. 
+
+Les destinataires du rapport d'observations disposent d'un délai d'un mois pour adresser au greffe de la chambre régionale
+des comptes une réponse écrite. Dès lors qu'elles ont été adressées dans le délai précité, ces réponses sont jointes au
+rapport. Elles engagent la seule responsabilité de leurs auteurs. 
+
+Le rapport d'observations est communiqué par l'exécutif de la collectivité territoriale ou de l'établissement public à son
+assemblée délibérante, dès sa plus proche réunion. Il fait l'objet d'une inscription à l'ordre du jour de l'assemblée
+délibérante ; il est joint à la convocation adressée à chacun des membres de l'assemblée et donne lieu à un débat. 
+
+Le rapport d'observations ne peut être publié ni communiqué à ses destinataires ou à des tiers à compter du premier jour du
+troisième mois précédant le mois au cours duquel il doit être procédé à des élections pour la collectivité concernée et
+jusqu'au lendemain du tour de scrutin où l'élection est acquise.
 
 **Liens relatifs à cet article**
 
@@ -5994,15 +6227,15 @@ inscription à l'ordre du jour de celle-ci et sont jointes à la convocation adr
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 42 ()
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L133-3 (M)
+	  - Code des juridictions financières - art. L133-3 (V)
 	  - Code des juridictions financières - art. L133-4 (V)
-	  - Code des juridictions financières L133-3, L133-4, L211-4 à L211-6
+	  - Code des juridictions financières - art. L211-4 (V)
 
 	**Cité par**:
 
@@ -6010,6 +6243,10 @@ inscription à l'ordre du jour de celle-ci et sont jointes à la convocation adr
 	  - Code des juridictions financières - art. L241-14 (VT)
 	  - Code des juridictions financières - art. R241-17 (V)
 	  - Code des juridictions financières - art. R241-31 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L243-5 (VD)
 
 
 ###### Article L241-12
@@ -6038,8 +6275,11 @@ Les parties peuvent se faire assister ou représenter par un avocat.
 
 ###### Article L241-13
 
-Les jugements, avis, propositions, rapports et observations de la chambre régionale des comptes sont délibérés et adoptés
-collégialement selon une procédure contradictoire.
+Les jugements, avis, propositions, rapports d'instruction et observations de la chambre régionale des comptes sont délibérés
+et adoptés collégialement selon une procédure contradictoire.
+
+Lorsque la chambre régionale des comptes statue en matière de gestion de fait et d'amende, elle délibère hors la présence du
+rapporteur. Le jugement est rendu en audience publique.
 
 **Liens relatifs à cet article**
 
@@ -6052,9 +6292,18 @@ collégialement selon une procédure contradictoire.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-1248 2001-12-21 art. 39, 43 II jorf 26 décembre 2001
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 39 ()
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 21
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L241-8 (VD)
 
 	**Cité par**:
 
@@ -6322,6 +6571,43 @@ Conseil d'Etat.
 	**Nouveaux textes**:
 
 	  - Code des juridictions financières - art. L245-3 (VD)
+
+
+###### Article L243-4
+
+La chambre régionale des comptes statue dans les formes prévues aux articles L. 241-13 et L. 241-14 sur toute demande en
+rectification d'observations définitives sur la gestion qui peut lui être présentée par les dirigeants des personnes morales
+contrôlées ou toute autre personne nominativement ou explicitement mise en cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 44 ()
+
+	**Transféré par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 26
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L241-13 (VT)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L243-3 (VD)
+	  - Code des juridictions financières - art. R241-31 (V)
+	  - Code des juridictions financières - art. R243-10 (V)
+	  - Code des juridictions financières - art. R243-12 (V)
+	  - Code des juridictions financières - art. R243-15 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L245-4 (VD)
 
 
 #### TITRE V : Dispositions particulières applicables à Mayotte.
@@ -6592,8 +6878,8 @@ NOTA : Loi 2001-616 2001-07-11 art. 2 II.
 
 ###### Article L250-11
 
-Sont applicables à Mayotte les articles L. 131-1, L. 233-1, L. 233-2, le chapitre Ier du titre III du présent livre, à
-l'exception de l'article L. 231-6, de la section 2 et de l'article L. 231-13, le chapitre VI de ce même titre et les
+Sont applicables à Mayotte les articles L. 111-9, L. 131-1, L. 233-1, L. 233-2, le chapitre Ier du titre III du présent
+livre, à l'exception de l'article L. 231-6, de la section 2 et de l'article L. 231-13, le chapitre VI de ce même titre et les
 chapitres Ier et III du titre IV de ce même livre, à l'exclusion des articles L. 241-7 à L. 241-11 et L. 241-14.
 
 **Liens relatifs à cet article**
@@ -6602,19 +6888,23 @@ chapitres Ier et III du titre IV de ce même livre, à l'exclusion des articles 
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 22 ()
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 35 ()
+
+	**Abrogé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L131-1 (M)
+	  - Code des juridictions financières - art. L111-9 (V)
+	  - Code des juridictions financières - art. L131-1 (V)
 	  - Code des juridictions financières - art. L231-13 (V)
-	  - Code des juridictions financières - art. L231-6 (V)
-	  - Code des juridictions financières - art. L233-1 (M)
-	  - Code des juridictions financières - art. L233-2 (Ab)
+	  - Code des juridictions financières - art. L233-1 (V)
+	  - Code des juridictions financières - art. L233-2 (V)
 	  - Code des juridictions financières - art. L241-14 (V)
-	  - Code des juridictions financières L131-1, L233-1, L233-2, L231-6, L231-13, L241-7 à L241-11, L241-14
+	  - Code des juridictions financières - art. L241-7 (V)
 
 
 ###### Article L250-12
@@ -7165,6 +7455,66 @@ La chambre territoriale des comptes comprend au minimum un président et deux as
 	  - Code des juridictions financières - art. L262-15 (VD)
 
 
+###### Article L262-17
+
+Le président de la chambre territoriale des comptes est un conseiller maître ou un conseiller référendaire à la Cour des
+comptes nommé dans les conditions prévues à l'article L. 221-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-213 1982-03-02 modifiée, art 85 al 1
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 7 ()
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L221-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-16 (VD)
+
+
+###### Article L262-18
+
+Des magistrats de la Cour des comptes peuvent, à leur demande et sur proposition du premier président de la Cour des comptes,
+être mis à disposition être ou détachés auprès de la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-213 1982-03-02 modifiée, art 85 al 3
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 8 ()
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-17 (VD)
+
+
 ###### Article L262-19
 
 Les effectifs de la chambre territoriale des comptes peuvent être complétés par des magistrats de l'ordre judiciaire dans les
@@ -7191,6 +7541,31 @@ conditions fixées par voie réglementaire.
 	**Nouveaux textes**:
 
 	  - Code des juridictions financières - art. L262-18 (VD)
+
+
+###### Article L262-20
+
+Des agents de l'Etat ou des collectivités territoriales peuvent être détachés auprès de la chambre territoriale des comptes
+pour assister ses membres dans l'exercice de leurs compétences. Les intéressés ne peuvent exercer aucune activité
+juridictionnelle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-213 1982-03-02 modifiée, art 85 dernier alinéa
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 11 ()
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 
 ###### Article L262-21
@@ -7453,6 +7828,33 @@ chambre territoriale des comptes, dans les délais prescrits par les règlements
 	**Modifié par**:
 
 	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+
+###### Article L262-33
+
+La chambre territoriale des comptes statue en premier ressort, à titre provisoire ou définitif, sur les comptes des
+comptables publics, sous réserve de l'article L. 262-4.
+
+L'action en déclaration de gestion de fait est prescrite pour les actes constitutifs de gestion de fait commis plus de dix
+ans avant la date à laquelle la chambre territoriale des comptes en est saisie ou s'en saisit d'office.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-594 1982-07-10, art 2 al 1
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 38 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L262-4 (M)
 
 
 ###### Article L262-34
@@ -8153,6 +8555,58 @@ professionnel.
 	  - Code des juridictions financières - art. L262-53 (V)
 	  - Code des juridictions financières - art. L263-26 (VT)
 	  - Code des juridictions financières - art. R262-58 (V)
+
+
+###### Article L262-53
+
+Les documents d'instruction et les communications provisoires de la chambre territoriale des comptes sont couverts par le
+secret professionnel que les experts sont tenus de respecter en application de l'article L. 262-52.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-594 1982-07-10, art 6 al 2
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 39 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L262-52 (M)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L262-53 (M)
+
+
+###### Article L262-54
+
+Les jugements, avis, propositions, rapports d'instruction et observations de la chambre territoriale des comptes sont
+délibérés et adoptés collégialement selon une procédure contradictoire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-213 1982-03-02 modifiée, art 84 al 2
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 39 ()
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L262-58-1 (VT)
 
 
 ###### Article L262-55
@@ -9403,182 +9857,6 @@ En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
 	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
-#### TITRE VI : Dispositions applicables en Nouvelle-Calédonie.
-
-##### CHAPITRE II : De la chambre territoriale des comptes
-
-##### Section 2 : Organisation
-
-##### Sous-section 1 : Organisation de la juridiction.
-
-###### Article L262-17
-
-Le président de la chambre territoriale des comptes est un conseiller maître ou un conseiller référendaire à la Cour des
-comptes nommé, à sa demande et sur proposition du premier président de la Cour des comptes, par décret du Président de la
-République.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 85 al 1
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
-
-
-###### Article L262-18
-
-Des magistrats de la Cour des comptes peuvent, à leur demande et sur proposition du premier président de la Cour des comptes,
-être détachés auprès de la chambre territoriale des comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 85 al 3
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
-
-
-###### Article L262-20
-
-Des agents de l'Etat ou des collectivités territoriales peuvent être détachés auprès de la chambre territoriale des comptes
-pour assister ses membres dans l'exercice de leurs compétences dans des conditions fixées par voie réglementaire. Les
-intéressés ne peuvent exercer aucune activité juridictionnelle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 85 dernier alinéa
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
-
-
-##### Section 3 : Dispositions statutaires.
-
-###### Article L262-30
-
-Les magistrats de la chambre territoriale des comptes qui sont membres du Conseil supérieur des chambres régionales des
-comptes ne peuvent bénéficier d'aucun avancement de grade pendant la durée de leur mandat au sein de ce Conseil.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1982-07-10, art 19 al 4, dernière phrase
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 30 ()
-
-
-##### Section 4 : Compétences et attributions juridictionnelles
-
-##### Sous-section 1 : Jugement des comptes.
-
-###### Article L262-33
-
-La chambre territoriale des comptes statue en premier ressort, à titre provisoire ou définitif, sur les comptes des
-comptables publics, sous réserve de l'article L. 262-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 2 al 1
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L262-4 (M)
-
-
-##### Section 6 : Procédure
-
-##### Sous-section 3 : Dispositions communes.
-
-###### Article L262-53
-
-Les propositions, les rapports et les travaux de la chambre territoriale des comptes sont couverts par le secret
-professionnel que les experts sont tenus de respecter en application de l'article L. 262-52.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 6 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L262-53 (M)
-
-
-###### Article L262-54
-
-Les jugements, avis, propositions, rapports et observations de la chambre territoriale des comptes sont délibérés et adoptés
-collégialement selon une procédure contradictoire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 84 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L262-58-1 (VT)
-
-
 #### TITRE VII : Dispositions applicables en Polynésie française
 
 ##### CHAPITRE Ier : Du rapport public de la Cour des comptes
@@ -10084,8 +10362,7 @@ La chambre territoriale des comptes comprend au minimum un président et deux as
 ###### Article L272-17
 
 Le président de la chambre territoriale des comptes est un conseiller maître ou un conseiller référendaire à la Cour des
-comptes nommé, à sa demande et sur proposition du premier président de la Cour des comptes, par décret du Président de la
-République.
+comptes nommé dans les conditions prévues à l'article L. 221-2.
 
 **Liens relatifs à cet article**
 
@@ -10099,13 +10376,25 @@ République.
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 7 ()
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L221-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-18 (V)
 
 
 ###### Article L272-18
 
 Des magistrats de la Cour des comptes peuvent, à leur demande et sur proposition du premier président de la Cour des comptes,
-être détachés auprès de la chambre territoriale des comptes.
+être mis à disposition ou être détachés auprès de la chambre territoriale des comptes.
 
 **Liens relatifs à cet article**
 
@@ -10119,7 +10408,15 @@ Des magistrats de la Cour des comptes peuvent, à leur demande et sur propositio
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 8 ()
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-19 (V)
 
 
 ###### Article L272-19
@@ -10153,8 +10450,8 @@ conditions fixées par voie réglementaire.
 ###### Article L272-20
 
 Des agents de l'Etat ou des collectivités territoriales peuvent être détachés auprès de la chambre territoriale des comptes
-pour assister ses membres dans l'exercice de leurs compétences dans des conditions fixées par voie réglementaire. Les
-intéressés ne peuvent exercer aucune activité juridictionnelle.
+pour assister ses membres dans l'exercice de leurs compétences. Les intéressés ne peuvent exercer aucune activité
+juridictionnelle.
 
 **Liens relatifs à cet article**
 
@@ -10168,7 +10465,11 @@ intéressés ne peuvent exercer aucune activité juridictionnelle.
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 11 ()
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 
 ###### Article L272-21
@@ -10445,30 +10746,6 @@ composant ces juridictions sont applicables à la chambre territoriale des compt
 	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
-###### Article L272-31
-
-Les magistrats de la chambre territoriale des comptes qui sont membres du Conseil supérieur des chambres régionales des
-comptes ne peuvent bénéficier d'aucun avancement de grade pendant la durée de leur mandat au sein de ce Conseil.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1982-07-10, art 19 al 4, dernière phrase
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 30 ()
-
-
 ##### Section 4 : Compétences et attributions juridictionnelles
 
 ##### Sous-section 1 : Jugement des comptes
@@ -10522,6 +10799,9 @@ comptables publics, sous réserve de l'article L. 272-57.
 La chambre territoriale juge, dans les mêmes formes et sous les mêmes sanctions, les comptes que lui rendent les personnes
 qu'elle a déclarées comptables de fait d'une collectivité ou d'un établissement public relevant de sa compétence.
 
+L'action en déclaration de gestion de fait est prescrite pour les actes constitutifs de gestion de fait commis plus de dix
+ans avant la date à laquelle la chambre territoriale des comptes en est saisie ou s'en saisit d'office.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -10534,7 +10814,7 @@ qu'elle a déclarées comptables de fait d'une collectivité ou d'un établissem
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 38 ()
 
 
 ###### Article LO272-32
@@ -11049,8 +11329,8 @@ professionnel.
 
 ###### Article L272-51
 
-Les propositions, les rapports et les travaux de la chambre territoriale des comptes sont couverts par le secret
-professionnel que les experts sont tenus de respecter en application de l'article L. 272-50.
+Les documents d'instruction et les communications provisoires de la chambre territoriale des comptes sont couverts par le
+secret professionnel que les experts sont tenus de respecter en application de l'article L. 272-50.
 
 **Liens relatifs à cet article**
 
@@ -11064,7 +11344,7 @@ professionnel que les experts sont tenus de respecter en application de l'articl
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 39 ()
 
 	**Cite**:
 
@@ -11073,8 +11353,8 @@ professionnel que les experts sont tenus de respecter en application de l'articl
 
 ###### Article L272-52
 
-Les jugements, avis, propositions, rapports et observations de la chambre territoriale des comptes sont délibérés et adoptés
-collégialement selon une procédure contradictoire.
+Les jugements, avis, propositions, rapports d'instruction et observations de la chambre territoriale des comptes sont
+délibérés et adoptés collégialement selon une procédure contradictoire.
 
 **Liens relatifs à cet article**
 
@@ -11088,7 +11368,7 @@ collégialement selon une procédure contradictoire.
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 39 ()
 
 	**Cité par**:
 

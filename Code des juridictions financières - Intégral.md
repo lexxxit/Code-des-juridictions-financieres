@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1995-02-09
+Version Consolidée au 1995-07-26
 
 # Partie législative
 
@@ -11514,5 +11514,1402 @@ En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
 	  - Loi n°2004-192 du 27 février 2004 - art. 64 (V)
 	  - Code des juridictions financières - art. L312-2 (V)
 	  - Code général des collectivités territoriales - art. LO6223-2 (V)
+
+
+## LIVRE III : Les institutions associées à la Cour des comptes
+
+### TITRE Ier : La Cour de discipline budgétaire et financière
+
+#### CHAPITRE Ier : Organisation
+
+###### Article L311-1
+
+Il est institué une " Cour de discipline budgétaire et financière ", dénommée ci-après " la Cour ", devant laquelle peuvent
+être déférées les personnes mentionnées aux articles L. 312-1 et L. 312-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D6145-73 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L312-1 (M)
+	  - Code des juridictions financières - art. L312-2 (M)
+
+
+###### Article L311-2
+
+La Cour est composée comme suit :
+
+- le premier président de la Cour des comptes, président ;
+
+- le président de la section des finances du Conseil d'Etat, vice-président ;
+
+- deux conseillers d'Etat ;
+
+- deux conseillers maîtres à la Cour des comptes.
+
+La présidence de la Cour est assurée par son vice-président en cas d'absence ou d'empêchement de son président.
+
+Elle siège à la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+
+###### Article L311-3
+
+Les conseillers d'Etat et conseillers maîtres à la Cour des comptes sont nommés à la Cour par décret pris en conseil des
+ministres pour une durée de cinq ans. Ils doivent être en activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+
+###### Article L311-4
+
+Les fonctions du ministère public près la Cour sont remplies par le procureur général près la Cour des comptes, assisté d'un
+avocat général et, s'il y a lieu, d'un ou de deux commissaires du Gouvernement choisis parmi les magistrats de la Cour des
+comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+
+###### Article L311-5
+
+L'instruction des affaires est confiée à des rapporteurs choisis parmi les membres du Conseil d'Etat et de la Cour des
+comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+
+###### Article L311-6
+
+Les commissaires du Gouvernement et les rapporteurs sont nommés par décret pris sur proposition du ministre chargé des
+finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 1 () JORF 18 juin 2005
+
+
+###### Article L311-7
+
+Le secrétariat de la Cour est assuré par les services de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Décret n°2007-1171 du 2 août 2007 - art. 5 (V)
+
+
+###### Article L311-8
+
+La Cour est habilitée à se faire assister par un greffier nommé par arrêté du ministre chargé des finances et du ministre
+dont dépend l'intéressé, sur proposition du président de la Cour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 1 () JORF 18 juin 2005
+
+
+#### CHAPITRE II : Personnes justiciables de la Cour
+
+###### Article L312-1
+
+I. - Est justiciable de la Cour :
+
+a) Toute personne appartenant au cabinet d'un membre du Gouvernement ;
+
+b) Tout fonctionnaire ou agent civil ou militaire de l'Etat, des collectivités territoriales, de leurs établissements publics
+ainsi que des groupements des collectivités territoriales ;
+
+c) Tout représentant, administrateur ou agent des autres organismes qui sont soumis soit au contrôle de la Cour des comptes,
+soit au contrôle d'une chambre régionale des comptes.
+
+Sont également justiciables de la Cour tous ceux qui exercent, en fait, les fonctions des personnes désignées ci-dessus.
+
+II. - Toutefois, ne sont pas justiciables de la Cour à raison des actes accomplis dans l'exercice de leurs fonctions :
+
+a) Les membres du Gouvernement ;
+
+b) Les présidents de conseil régional et, quand ils agissent dans le cadre des dispositions du c de l'article 11 de la loi n°
+72-619 du 5 juillet 1972 portant création et organisation des régions, les vice-présidents et autres membres du conseil
+régional ;
+
+c) Le président du conseil exécutif de Corse et, quand ils agissent dans le cadre des dispositions du dernier alinéa de
+l'article 33 de la loi n° 91-428 du 13 mai 1991 portant statut de la collectivité territoriale de Corse, les conseillers
+exécutifs ;
+
+d) Les présidents de conseil général et, quand ils agissent dans le cadre des dispositions de l'article 31 de la loi n°
+82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des régions, les vice-présidents et
+autres membres du conseil général ;
+
+e) Les maires et, quand ils agissent dans le cadre des dispositions des articles L. 122-11 et L. 122-13 du code des communes,
+les adjoints et autres membres du conseil municipal ;
+
+f) Les présidents élus de groupements de collectivités territoriales et, quand ils agissent par délégation du président, les
+vice-présidents et autres membres de l'organe délibérant du groupement ;
+
+g) S'ils ne sont pas rémunérés et s'ils n'exercent pas, directement ou par délégation, les fonctions de président, les
+administrateurs élus des organismes de protection sociale relevant du contrôle de la Cour des comptes et agissant dans le
+cadre des dispositions législatives ou réglementaires ;
+
+h) S'ils ne sont pas rémunérés et s'ils n'exercent pas les fonctions de président, les administrateurs ou agents des
+associations de bienfaisance assujetties au contrôle de la Cour des comptes ou d'une chambre régionale des comptes.
+
+Les personnes mentionnées aux a à f ne sont pas non plus justiciables de la Cour lorsqu'elles ont agi dans des fonctions qui,
+en raison de dispositions législatives ou réglementaires, sont l'accessoire obligé de leur fonction principale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°72-619 du 5 juillet 1972 - art. 11 (M)
+	  - Loi n°82-213 du 2 mars 1982 - art. 31 (M)
+	  - Loi n°91-428 1991-05-13 art. 33
+	  - CODE DES COMMUNES. - art. L122-11 (M)
+	  - CODE DES COMMUNES. - art. L122-13 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. L911-10 (V)
+	  - Code des juridictions financières - art. L311-1 (V)
+	  - Code des juridictions financières - art. L312-2 (V)
+	  - Code des juridictions financières - art. L313-1 (V)
+	  - Code des juridictions financières - art. L313-12 (V)
+	  - Code des juridictions financières - art. L313-2 (V)
+	  - Code des juridictions financières - art. L313-3 (V)
+	  - Code des juridictions financières - art. L313-5 (V)
+	  - Code des juridictions financières - art. L313-6 (V)
+	  - Code des juridictions financières - art. L313-7 (V)
+	  - Code des juridictions financières - art. L313-7-1 (V)
+	  - Code des juridictions financières - art. L313-9 (V)
+	  - Code des juridictions financières - art. L314-15 (VD)
+	  - Code des juridictions financières - art. L314-18 (VT)
+	  - Code des juridictions financières - art. L314-19 (VT)
+	  - Code monétaire et financier - art. L612-34-1 (V)
+	  - Code monétaire et financier - art. L613-51 (V)
+
+
+###### Article L312-2
+
+Par dérogation à l'article L. 312-1, les personnes mentionnées aux b à f de cet article sont justiciables de la Cour, à
+raison des actes accomplis dans l'exercice de leurs fonctions, lorsqu'elles ont commis les infractions définies par les
+articles L. 313-7 ou L. 313-12 ou lorsqu'elles ont engagé leur responsabilité propre à l'occasion d'un ordre de réquisition,
+conformément à l'article L. 233-1 et enfreint les dispositions de l'article L. 313-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L233-1 (M)
+	  - Code des juridictions financières - art. L312-1 (M)
+	  - Code des juridictions financières - art. L313-12 (V)
+	  - Code des juridictions financières - art. L313-6 (M)
+	  - Code des juridictions financières - art. L313-7 (M)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L311-1 (V)
+	  - Code des juridictions financières - art. L313-13 (V)
+
+
+#### CHAPITRE III : Infractions et sanctions
+
+###### Article L313-1
+
+Toute personne visée à l'article L. 312-1 qui aura engagé une dépense sans respecter les règles applicables en matière de
+contrôle financier portant sur l'engagement des dépenses sera passible d'une amende dont le minimum ne pourra être inférieur
+à 1 000 F et dont le maximum pourra atteindre le montant du traitement ou salaire brut annuel qui lui était alloué à la date
+à laquelle le fait a été commis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. L911-10 (V)
+	  - Code des juridictions financières - art. L313-12 (V)
+	  - Code des juridictions financières - art. L313-2 (V)
+	  - Code des juridictions financières - art. L313-3 (V)
+	  - Code des juridictions financières - art. L313-7-1 (V)
+	  - Code des juridictions financières - art. L314-15 (VD)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L312-1 (M)
+
+
+###### Article L313-2
+
+Toute personne visée à l'article L. 312-1 qui, pour dissimuler un dépassement de crédit, aura imputé ou fait imputer
+irrégulièrement une dépense sera passible de l'amende prévue à l'article L. 313-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L312-1 (M)
+	  - Code des juridictions financières - art. L313-1 (M)
+
+
+###### Article L313-3
+
+Toute personne visée à l'article L. 312-1 qui aura engagé des dépenses sans en avoir le pouvoir ou sans avoir reçu délégation
+de signature à cet effet sera passible de l'amende prévue à l'article L. 313-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L312-1 (M)
+	  - Code des juridictions financières - art. L313-1 (M)
+
+
+###### Article L313-4
+
+Toute personne visée à l'article L. 312-1 qui, en dehors des cas prévus aux articles précédents, aura enfreint les règles
+relatives à l'exécution des recettes et des dépenses de l'Etat ou des collectivités, établissements et organismes mentionnés
+à ce même article ou à la gestion des biens leur appartenant ou qui, chargée de la tutelle desdites collectivités, desdits
+établissements ou organismes, aura donné son approbation aux décisions incriminées sera passible de l'amende prévue à
+l'article L. 313-1.
+
+Lorsque les faits incriminés constituent une gestion occulte au sens du paragraphe XI de l'article 60 de la loi de finances
+pour 1963 (n° 63-156 du 23 février 1963), la Cour des comptes peut déférer à la Cour de discipline budgétaire et financière
+les comptables de fait quand leurs agissements ont entraîné des infractions prévues au présent titre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°63-156 1963-02-23 art. 60 Finances pour 1963
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L313-5 (V)
+	  - Code général des impôts, CGI. - art. 1649 octies (V)
+
+
+###### Article L313-5
+
+Sont également passibles de la sanction prévue à l'article L. 313-4 toutes personnes visées à l'article L. 312-1 qui, dans
+l'exercice de leurs fonctions, ont omis sciemment de souscrire les déclarations qu'elles sont tenues de fournir aux
+administrations fiscales en vertu des dispositions du code général des impôts et de ses annexes ou fourni sciemment des
+déclarations inexactes ou incomplètes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L312-1 (M)
+	  - Code des juridictions financières - art. L313-4 (V)
+
+
+###### Article L313-6
+
+Toute personne visée à l'article L. 312-1 qui, dans l'exercice de ses fonctions ou attributions, aura, en méconnaissance de
+ses obligations, procuré à autrui un avantage injustifié, pécuniaire ou en nature, entraînant un préjudice pour le Trésor, la
+collectivité ou l'organisme intéressé, ou aura tenté de procurer un tel avantage sera passible d'une amende dont le minimum
+ne pourra être inférieur à 2 000 F et dont le maximum pourra atteindre le double du montant du traitement ou salaire brut
+annuel qui lui était alloué à la date de l'infraction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L312-1 (M)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L312-2 (V)
+
+
+###### Article L313-7
+
+Toute personne mentionnée à l'article L. 312-1 dont les agissements auront entraîné la condamnation d'une personne morale de
+droit public ou d'un organisme de droit privé chargé de la gestion d'un service public à une astreinte en raison de
+l'inexécution totale ou partielle ou de l'exécution tardive d'une décision de justice sera passible d'une amende dont le
+minimum ne pourra être inférieur à 2 000 F et dont le maximum pourra atteindre le montant du traitement ou salaire brut
+annuel qui lui était alloué à la date où la décision de justice aurait dû recevoir exécution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L312-1 (M)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L312-2 (V)
+
+
+###### Article L313-8
+
+Lorsque les personnes visées aux articles L. 313-1 à L. 313-7 ne perçoivent pas une rémunération ayant le caractère d'un
+traitement, le maximum de l'amende pourra atteindre le montant du traitement brut annuel correspondant à l'échelon le plus
+élevé afférent à l'emploi de directeur d'administration centrale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 1995-07-24, art 1er, modifié par loi 95-1251 1995-11-28, art 21-II
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L313-11 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières L313-1 à L313-7
+
+
+###### Article L313-9
+
+Les personnes visées à l'article L. 312-1 ne sont passibles d'aucune sanction si elles peuvent exciper d'un ordre écrit de
+leur supérieur hiérarchique ou de la personne légalement habilitée à donner un tel ordre, dont la responsabilité se
+substituera dans ce cas à la leur, ou donné personnellement par le ministre compétent, dès lors que ces autorités ont été
+dûment informées sur l'affaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L312-1 (M)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L313-10 (VD)
+
+
+###### Article L313-10
+
+Les dispositions de l'article L. 313-9 s'appliquent aux fonctionnaires et agents des collectivités territoriales et de leurs
+groupements qui peuvent exciper d'un ordre écrit donné préalablement par leur supérieur hiérarchique ou par la personne
+légalement habilitée à donner un tel ordre, le maire, le président du conseil général, le président du conseil régional ou le
+président élu d'un des groupements susvisés, dès lors que ces autorités ont été dûment informées sur l'affaire. Si l'ordre
+émane du supérieur hiérarchique ou de la personne légalement habilitée à donner un tel ordre, la responsabilité de ces
+derniers se substituera à celle du subordonné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 1995-07-24, art 1er, modifié par loi 96-142 1996-02-21, art 4-XXII
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L313-9 (V)
+
+
+###### Article L313-11
+
+Les sanctions prononcées en vertu des articles L. 313-1 à L. 313-4 ne pourront se cumuler que dans la limite du maximum
+applicable en vertu de ces mêmes articles et de l'article L. 318-8.
+
+Les sanctions prononcées en vertu des articles L. 313-1 à L. 313-6 ne pourront se cumuler que dans la limite du maximum
+applicable en vertu des articles L. 313-6 et L. 313-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L313-8 (M)
+	  - Code des juridictions financières L313-1 à L313-4, L318-8, L313-1 à L313-6, L313-8
+
+
+###### Article L313-12
+
+En cas de manquement aux dispositions de l'article 1er, paragraphes 1 et 2, de la loi n° 80-539 du 16 juillet 1980 relative
+aux astreintes prononcées en matière administrative et à l'exécution des jugements par les personnes morales de droit public,
+les personnes visées à l'article L. 312-1 sont passibles de l'amende prévue à l'article L. 313-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°80-539 du 16 juillet 1980 - art. 1, v. init.
+	  - Code des juridictions financières - art. L312-1 (M)
+	  - Code des juridictions financières - art. L313-1 (M)
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de justice administrative. - art. L911-10 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L312-2 (M)
+	  - Code des juridictions financières - art. L314-1 (VD)
+
+
+###### Article L313-13
+
+Le montant maximum de l'amende infligée aux personnes visées à l'article L. 312-2 pourra atteindre 5 000 F ou le montant
+annuel brut de l'indemnité de fonction qui leur était allouée à la date de l'infraction, si ce montant excédait 5 000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L312-2 (M)
+
+
+###### Article L313-14
+
+Les amendes prononcées en vertu du présent titre présentent les mêmes caractères que les amendes prononcées par la Cour des
+comptes en cas de gestion occulte au sens du paragraphe 11 de l'article 60 de la loi de finances pour 1963 (n° 63-156 du 23
+février 1963). Leur recouvrement est poursuivi dans les mêmes formes et assorti des mêmes garanties.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°63-156 1963-02-23 art. 60 Finances pour 1963
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+
+#### CHAPITRE IV : Procédure devant la Cour
+
+###### Article L314-1
+
+Ont seuls qualité pour saisir la Cour, par l'organe du ministère public :
+
+- le président de l'Assemblée nationale ;
+
+- le président du Sénat ;
+
+- le Premier ministre ;
+
+- le ministre chargé des finances ;
+
+- les autres membres du Gouvernement pour les faits relevés à la charge des fonctionnaires et agents placés sous leur
+autorité ;
+
+- la Cour des comptes ;
+
+- les chambres régionales des comptes ;
+
+- les créanciers pour les faits visés à l'article L. 313-12.
+
+Le procureur général près la Cour des comptes peut également saisir la Cour de sa propre initiative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L313-12 (V)
+
+
+###### Article L314-2
+
+La Cour ne peut être saisie après l'expiration d'un délai de cinq années révolues à compter du jour où aura été commis le
+fait de nature à donner lieu à l'application des sanctions prévues par le présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+
+###### Article L314-3
+
+Si le procureur général estime qu'il n'y a pas lieu à poursuites, il procède au classement de l'affaire.
+
+Dans le cas contraire, il transmet le dossier au président de la Cour, qui désigne un rapporteur chargé de l'instruction.
+Cette instruction peut être ouverte contre une personne non dénommée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Codifié par**:
+
+	  - Loi n°95-851 du 24 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 48
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L314-4, v. 1.2 (VD)
+
+
+###### Article L314-4
+
+Le rapporteur a qualité pour procéder à toutes enquêtes et investigations utiles auprès de toutes administrations, se faire
+communiquer tous documents, même secrets, entendre ou questionner oralement ou par écrit tous témoins et toutes personnes
+dont la responsabilité paraîtrait engagée. 
+
+A la demande du rapporteur, des enquêtes peuvent être faites par des fonctionnaires appartenant à des corps ou services de
+contrôle ou d'inspection désignés par le ministre dont relèvent ces corps ou services. 
+
+Les personnes à l'égard desquelles auront été relevés des faits de nature à donner lieu à renvoi devant la Cour en sont
+avisées, à la diligence du ministère public, par lettre recommandée avec demande d'avis de réception, précisant qu'elles sont
+autorisées à se faire assister, dans la suite de la procédure, par un conseil de leur choix. 
+
+Le procureur général suit le déroulement de l'instruction dont il est tenu informé par le rapporteur. 
+
+Lorsque l'instruction est terminée, le dossier est soumis au procureur général, qui peut décider le classement de l'affaire
+s'il estime qu'il n'y a pas lieu à poursuites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 48
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 48
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L314-5 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R314-10 (V)
+	  - Livre des procédures fiscales - art. L140 (VD)
+
+
+###### Article L314-5
+
+Si l'instance est poursuivie, le dossier est communiqué simultanément au ministre ou à l'autorité dont dépend ou dépendait le
+fonctionnaire ou l'agent mis en cause, au ministre chargé des finances ainsi que, le cas échéant, au ministre de tutelle
+compétent. Ceux-ci doivent donner leur avis dans un délai fixé par le président de la Cour et qui ne peut être inférieur à un
+mois ; si les ministres n'ont pas émis un avis à l'expiration de ce délai, la procédure pourra néanmoins être poursuivie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L314-2 (VD)
+	  - Code des juridictions financières - art. R314-1 (V)
+	  - Code des juridictions financières - art. R314-2 (V)
+
+
+###### Article L314-6
+
+Le dossier est ensuite transmis au procureur général qui, dans le délai de quinze jours, prononce le classement de l'affaire
+par décision motivée ou le renvoi devant la Cour avec des conclusions motivées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R314-4 (V)
+
+
+###### Article L314-7
+
+La décision de classement du procureur général est notifiée au président de l'Assemblée nationale, au président du Sénat, au
+Premier ministre, à l'intéressé, au ministre dont l'intéressé dépend, au ministre chargé des finances ainsi que, le cas
+échéant, au ministre de tutelle et à l'auteur de la saisine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Codifié par**:
+
+	  - Loi n°95-851 du 24 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 48
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L314-16 (Ab)
+	  - Code des juridictions financières - art. R314-3 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L314-6 (VD)
+
+
+###### Article L314-8
+
+Si le procureur général conclut au renvoi devant la Cour, le dossier est communiqué à la commission administrative paritaire
+compétente siégeant en formation disciplinaire ou éventuellement à la formation qui en tient lieu, s'il en existe une. En
+l'absence d'avis dans le délai d'un mois, la Cour peut statuer. Le président de la formation consultée pourra toutefois être
+entendu au cours de l'audience. L'intéressé est ensuite avisé, par lettre recommandée avec demande d'avis de réception, qu'il
+peut, dans le délai de quinze jours, prendre connaissance au secrétariat de la Cour, soit par lui-même, soit par mandataire,
+soit par un avocat ou un avoué, soit par un avocat au Conseil d'Etat et à la Cour de cassation, du dossier de l'affaire.
+
+Le dossier communiqué est le dossier complet de l'affaire, y compris les conclusions du procureur général.
+
+L'intéressé peut, dans le délai d'un mois à dater de la communication qui lui a été donnée du dossier, produire un mémoire
+écrit soit par lui-même, soit par son conseil. Le mémoire est communiqué au procureur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+
+###### Article L314-9
+
+Le rôle des audiences est préparé par le ministère public et arrêté par le président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+
+###### Article L314-10
+
+Les personnes qui sont entendues soit à la requête de la Cour, soit sur l'initiative du ministère public, soit enfin à la
+demande de l'intéressé, sur permis de citer accordé par le président, le ministère public entendu dans ses conclusions, le
+sont sous foi de serment, dans les conditions prévues par le code de procédure pénale.
+
+Toutefois, le président de la Cour peut autoriser les intéressés ou les témoins qui en auront fait la demande, assortie de
+toutes justifications utiles, à ne pas comparaître personnellement à l'audience.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+
+###### Article L314-11
+
+Les intéressés ou les témoins qui ne répondent pas, dans les délais impartis par la Cour, aux communications ou aux
+convocations qui leur sont adressées sont passibles de l'amende prévue à l'article 109 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 109 (M)
+
+
+###### Article L314-12
+
+Dans chaque affaire, le rapporteur résume son rapport écrit. L'intéressé, soit par lui-même, soit par son conseil, est appelé
+à présenter ses observations. Le procureur général, l'avocat général ou le commissaire du Gouvernement présentent leurs
+conclusions. Des questions peuvent être posées par le président ou, avec son autorisation, par les membres de la Cour à
+l'intéressé ou à son représentant, qui doit avoir la parole le dernier.
+
+Le rapporteur a voix consultative dans les affaires qu'il rapporte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+
+###### Article L314-13
+
+La Cour ne peut valablement délibérer que si quatre au moins de ses membres sont présents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 1 () JORF 18 juin 2005
+
+
+###### Article L314-14
+
+Les décisions sont prises à la majorité des voix. En cas de partage, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 48
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L314-13 (VD)
+
+
+###### Article L314-15
+
+Les audiences de la Cour ne sont pas publiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 1 () JORF 18 juin 2005
+
+
+###### Article L314-16
+
+L'arrêt de la Cour est notifié aux personnes mentionnées à l'article L. 314-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 1 () JORF 18 juin 2005
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L314-7 (V)
+
+
+###### Article L314-17
+
+Lorsque plusieurs personnes sont impliquées dans la même affaire, leur cas peut être instruit et jugé simultanément et faire
+l'objet d'un seul et même arrêt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 48
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L314-14 (VD)
+
+
+###### Article L314-18
+
+Les poursuites devant la Cour ne font pas obstacle à l'exercice de l'action pénale et de l'action disciplinaire.
+
+Si l'instruction permet ou a permis de relever à la charge d'une personne mentionnée à l'article L. 312-1 des faits qui
+paraissent de nature à justifier une sanction disciplinaire, le président de la Cour signale ces faits à l'autorité ayant
+pouvoir disciplinaire sur l'intéressé. Cette autorité doit, dans le délai de six mois, faire connaître au président de la
+Cour par une communication motivée les mesures qu'elle a prises.
+
+Si l'instruction fait apparaître des faits susceptibles de constituer des délits ou des crimes, le procureur général transmet
+le dossier au procureur de la République dans les conditions prévues à l'article 40 du code de procédure pénale et avise de
+cette transmission le ministre ou l'autorité dont relève l'intéressé.
+
+Si la Cour estime, en statuant sur les poursuites, qu'une sanction disciplinaire peut être encourue, elle communique le
+dossier à l'autorité compétente. Cette autorité doit, dans le délai de six mois, faire connaître à la Cour, par une
+communication motivée, les mesures qu'elle a prises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L312-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 40 (M)
+
+
+###### Article L314-19
+
+Au cas où la Cour n'aurait pas été saisie ou n'aurait relevé aucune infraction susceptible de donner lieu aux sanctions
+prévues au présent titre, les ministres ou autorités responsables sont tenus d'engager l'action disciplinaire contre les
+agents mentionnés à l'article L. 312-1 dont la faute aura été relevée par la Cour des comptes dans un référé, dans un rapport
+annuel ou dans une communication faite au Parlement en application de l'article 47 de la Constitution et des articles L.O.
+132-1, L. 132-3, L. 132-4 et L. 135-5, chaque fois que cette faute aura entraîné un dépassement de crédit ou causé un
+préjudice à l'une des collectivités visées à l'article L. 312-1.
+
+Les sanctions prises à la suite de la procédure instituée par le présent article sont portées à la connaissance du Parlement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Constitution 1958-10-04 art. 47
+	  - Code des juridictions financières - art. L132-3 (Ab)
+	  - Code des juridictions financières - art. L132-4 (V)
+	  - Code des juridictions financières - art. L135-5 (M)
+	  - Code des juridictions financières - art. LO132-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+
+###### Article L314-20
+
+Les arrêts par lesquels la Cour prononce des condamnations peuvent, dès qu'ils ont acquis un caractère définitif, être
+publiés, en tout ou partie, sur décision de la Cour, au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Codifié par**:
+
+	  - Loi n°95-851 du 24 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Décret n°2015-1717 du 22 décembre 2015 - art. 5
+	  - Code des juridictions financières - art. R314-4 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+
+#### CHAPITRE V : Voies de recours
+
+###### Article L315-1
+
+Les arrêts de la Cour sont revêtus de la formule exécutoire.
+
+Ils sont sans appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+
+###### Article L315-2
+
+Les arrêts de la Cour peuvent faire l'objet d'un recours en cassation devant le Conseil d'Etat. Ce recours peut être exercé
+par l'intéressé ou par le procureur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+
+###### Article L315-3
+
+Les arrêts de la Cour peuvent faire l'objet d'un recours en révision s'il survient des faits nouveaux ou s'il est découvert
+des documents de nature à établir la non-responsabilité de l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+
+#### CHAPITRE VI : Rapport public
+
+###### Article L316-1
+
+La Cour présente chaque année au Président de la République un rapport qui est annexé au rapport public de la Cour des
+comptes et publié au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Créé par**:
+
+	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+
+	**Anciens textes**:
+
+	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
 
 

@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2002-07-13
+Version Consolidée au 2002-09-13
 
 # Partie législative
 
@@ -13853,22 +13853,21 @@ Un arrêté du premier président fixe leur affectation.
 
 ###### Article R112-14
 
-Peuvent exercer à temps plein les fonctions de rapporteur prévues à l'article L. 112-7 les fonctionnaires appartenant soit à
-l'un des corps recrutés par la voie de l'Ecole nationale d'administration, soit au corps des administrateurs des postes et
-télécommunications, soit à l'un des corps recrutés par la voie de l'Ecole polytechnique, soit aux corps des maîtres de
-conférences ou des professeurs des universités, ainsi que les magistrats de l'ordre judiciaire ; les uns et les autres
-doivent justifier de quatre années de services effectifs dans leur corps respectif.
+Les rapporteurs extérieurs mentionnés à l'article L. 112-7 peuvent exercer à la Cour des comptes leurs fonctions à temps
+plein ou à temps partiel. Dans la limite des attributions fixées à l'article L. 112-7, les rapporteurs participent dans les
+mêmes conditions que les magistrats de la Cour des comptes aux activités de ladite cour. A cette fin, ils disposent de
+l'ensemble des droits et pouvoirs attribués à ces magistrats et sont tenus aux mêmes obligations. Ils doivent notamment
+observer la discrétion et sont tenus au secret professionnel.
 
-Peuvent exercer à temps partiel les mêmes fonctions de rapporteur les fonctionnaires appartenant à un corps de catégorie A et
-les officiers des armes et services.
+Les rapporteurs à temps partiel sont nommés, pour une période maximale de deux ans renouvelable, par le premier président
+après avis du procureur général. Ceux qui ont la qualité de magistrat ou de fonctionnaire sont mis à disposition. Les autres
+sont recrutés par contrat.
 
 Peuvent aussi exercer les fonctions de rapporteur à temps plein ou à temps partiel les anciens magistrats de la Cour des
 comptes et les fonctionnaires ou officiers retraités ayant appartenu à l'un des corps mentionnés aux deux alinéas précédents.
 
-Les rapporteurs sont nommés pour une période de deux ans renouvelable. Les rapporteurs à temps plein sont placés dans la
-position de détachement ou de mise à disposition. Les rapporteurs à temps partiel sont placés dans la position de mise à
-disposition. Les rapporteurs sont désignés parmi les membres des corps susmentionnés sur proposition du premier président et
-après avis du procureur général.
+Les agents des organismes de sécurité sociale sont recrutés par le premier président après avis du procureur général, à temps
+plein ou à temps partiel, par contrat.
 
 **Liens relatifs à cet article**
 
@@ -13880,9 +13879,13 @@ après avis du procureur général.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2002-1151 du 9 septembre 2002 - art. 1 ()
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 11
 
 	**Cite**:
 
@@ -14629,6 +14632,99 @@ si cet échelon était le plus élevé de leur précédent emploi.
 	**Abrogé par**:
 
 	  - Décret n°2008-94 du 30 janvier 2008 - art. 11
+
+
+#### CHAPITRE V : Rapporteurs extérieurs
+
+###### Article R125-1
+
+Sur proposition du premier président et après avis du procureur général, les rapporteurs à temps plein, qui ont la qualité de
+magistrat ou de fonctionnaire et justifient de quatre années de services effectifs dans leur corps respectif, à l'exception
+des fonctionnaires mentionnés à l'article R. 112-13, sont détachés sur un emploi de rapporteur à la Cour des comptes pour une
+période maximale de trois ans renouvelable une fois.
+
+Toute vacance d'emploi de rapporteur à temps plein à la Cour des comptes, constatée ou prévisible dans un délai de deux mois,
+fait l'objet d'un avis de vacance publié au Journal officiel de la République française. Dans un délai de trente jours à
+compter de la publication de la vacance, les candidatures à l'emploi considéré sont transmises au premier président de la
+Cour des comptes.
+
+Il ne peut être mis fin au détachement des rapporteurs avant l'expiration du terme fixé qu'à la demande du premier président
+de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1151 du 9 septembre 2002 - art. 2 ()
+
+	**Cité par**:
+
+	  - Décret n°2002-1151 du 9 septembre 2002 - art. 3 (V)
+	  - Décret n°2017-294 du 7 mars 2017 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R112-13 (M)
+
+
+###### Article R125-2
+
+L'emploi de rapporteur à la Cour des comptes comprend neuf échelons. La durée de services effectifs passés dans chaque
+échelon pour accéder à l'échelon supérieur est fixé à :
+
+- un an pour les deux premiers échelons ;
+
+- un an et six mois pour le 3e échelon ;
+
+- deux ans pour les 4e et 5e échelons ;
+
+- deux ans et six mois pour les 6e et 7e échelons ;
+
+- trois ans pour le 8e échelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1151 du 9 septembre 2002 - art. 2 ()
+
+
+###### Article R125-3
+
+Lors de leur détachement dans l'emploi de rapporteur à la Cour des comptes, les personnels sont classés à l'échelon
+comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur corps, cadre
+d'emplois ou emploi d'origine.
+
+Ils conservent, dans la limite de la durée de service exigée pour l'accès à l'échelon supérieur de leur emploi de
+détachement, l'ancienneté acquise dans leur précédent emploi lorsque le détachement leur procure un avantage inférieur à
+celui qui aurait résulté d'un avancement d'échelon dans leur grade d'origine ou qui a résulté de leur élévation audit échelon
+si cet échelon était le plus élevé de leur précédent emploi.
+
+Les personnels qui percevaient, dans leur grade ou emploi d'origine, depuis au moins six mois au moment de leur nomination
+dans l'emploi, un traitement supérieur à celui correspondant à l'échelon terminal de l'emploi conservent, à titre personnel,
+leur indice de rémunération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1151 du 9 septembre 2002 - art. 2 ()
+
+	**Cité par**:
+
+	  - Décret n°2002-1151 du 9 septembre 2002 - art. 3 (V)
 
 
 ### TITRE III : Compétences et attributions
@@ -18723,6 +18819,36 @@ du siège, présent à la chambre, le plus ancien dans le grade le plus élevé.
 
 ##### Paragraphe 4 : Le président de section
 
+###### Article R212-9
+
+Chaque section de chambre régionale des comptes est présidée par un président de section ou, à défaut, par un magistrat de la
+chambre concernée ayant au moins le grade de premier conseiller désigné, avec son accord, par le premier président de la Cour
+des comptes, président du Conseil supérieur des chambres régionales des comptes, sur proposition du président de chambre
+intéressé, pour assurer les fonctions de président de section pour une durée qui ne peut excéder une année.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 5
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1153 du 10 septembre 2002 - art. 1 ()
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 74
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R212-8 (V)
+
+
 ###### Article R212-10
 
 Le président de section ou le magistrat qui exerce ces fonctions organise les travaux de la section qu'il préside.
@@ -18803,6 +18929,61 @@ régionale des comptes, le plus ancien dans le grade le plus élevé.
 	**Nouveaux textes**:
 
 	  - Code des juridictions financières - art. R212-11 (V)
+
+
+###### Article R212-12-1
+
+Les magistrats ayant le grade de président de section peuvent exercer les fonctions de président de section, d'assesseur, de
+rapporteur ou de contre-rapporteur telles que prévues aux articles R. 241-9 et R. 241-11. Dans les chambres comportant au
+moins trois sections, ils peuvent également exercer les fonctions de commissaire du Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 8
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1153 du 10 septembre 2002 - art. 2 ()
+
+
+###### Article R212-12-2
+
+Les magistrats ayant le grade de président de section peuvent, en outre, être chargés par le président de la chambre de toute
+mission relative à la coordination des enquêtes et des équipes d'investigation, à la formation des personnels, à
+l'organisation et aux méthodes de travail ainsi qu'à la participation aux travaux d'organismes et de commissions extérieurs
+dans les conditions définies à l'article R. 222-5.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 8
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Créé par**:
+
+	  - Décret n°2002-1153 du 10 septembre 2002 - art. 2 ()
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 74
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R212-13 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R222-5
 
 
 ##### Paragraphe 6 : Prestation de serment des magistrats
@@ -18893,6 +19074,26 @@ sous réserve des dispositions applicables dans les régions d'outre-mer.
 
 	  - Code des juridictions financières - art. R242-6 (V)
 	  - Code des juridictions financières - art. R252-2 (V)
+
+
+###### Article R212-18
+
+Le ministère public près les chambres comportant au moins trois sections s'exerce sous l'autorité d'un commissaire du
+Gouvernement ayant le grade de président de section ou de premier conseiller.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 23
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1153 du 10 septembre 2002 - art. 3 ()
 
 
 ###### Article R212-19
@@ -19446,6 +19647,41 @@ moins quatre des membres élus titulaires et, dans ce cas, dans le délai de deu
 	  - Code des juridictions financières - art. R220-15 (V)
 
 
+###### Article R212-55-1
+
+Un magistrat représentant titulaire d'un grade remplissant les conditions fixées à l'article R. 224-5 pour être inscrit au
+tableau d'avancement du grade supérieur ne peut prendre part à la délibération du Conseil supérieur des chambres régionales
+des comptes lorsque celui-ci établit ce tableau. Il est alors remplacé par son suppléant à moins que ce dernier ne se trouve
+dans le même cas.
+
+Si le représentant titulaire d'un grade et son suppléant ne peuvent prendre part à la délibération du Conseil supérieur des
+chambres régionales des comptes en application de l'alinéa précédent, le représentant du grade concerné est désigné par voie
+de tirage au sort parmi les membres du corps titulaires de ce grade ne remplissant pas les conditions d'accès au grade
+supérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 50 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1153 du 10 septembre 2002 - art. 4 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 20 () JORF 17 octobre 2006
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R224-5 (M)
+
+
 #### TITRE II : Dispositions statutaires
 
 ##### CHAPITRE Ier : Nominations
@@ -19468,6 +19704,80 @@ grade dans l'ordre de leur nomination.
 	**Créé par**:
 
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+
+
+###### Article R221-3
+
+Les conseillers recrutés parmi les anciens élèves de l'Ecole nationale d'administration sont nommés par décret du Président
+de la République à compter du lendemain du dernier jour de leur scolarité à l'école.
+
+Ils choisissent leur chambre d'affectation, suivant leur rang de classement, sur une liste arrêtée par le premier président
+de la Cour des comptes, après avis du Conseil supérieur des chambres régionales des comptes. Les affectations sont prononcées
+par décision du premier président de la Cour des comptes.
+
+Les conseillers qui n'exercent pas de choix sont affectés d'office. Si les intéressés n'acceptent pas cette affectation, ils
+sont considérés comme démissionnaires.
+
+Dans les douze mois suivant leur entrée en fonctions, ils effectuent une ou plusieurs périodes de formation organisées par la
+Cour des comptes. La durée totale de ces périodes ne peut être supérieure à six mois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 11 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1153 du 10 septembre 2002 - art. 5 ()
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R221-14 (V)
+
+
+###### Article R221-11
+
+Pour tenir compte de leur scolarité à l'Ecole nationale d'administration quelle qu'en soit la durée, les conseillers recrutés
+par la voie de cette école sont nommés directement au 3e échelon de leur grade.
+
+Toutefois, si l'indice qu'ils détiennent dans leur corps ou emploi d'origine est supérieur à celui correspondant au 3e
+échelon du grade de conseillers, les conseillers recrutés par la voie du concours interne de cette école sont placés à
+l'échelon du grade de conseiller comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils
+bénéficiaient dans leur corps d'origine ou dans leur emploi pour les agents non titulaires.
+
+Dans la limite de l'ancienneté exigée à l'article R. 224-2 pour une promotion à l'échelon supérieur, les conseillers recrutés
+par la voie du concours interne de l'ENA conservent l'ancienneté d'échelon acquise dans leur précédent grade ou classe,
+lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement
+d'échelon dans leur ancienne situation.
+
+Les agents nommés alors qu'ils avaient atteint l'échelon le plus élevé de leur précédent grade ou classe conservent leur
+ancienneté d'échelon dans les mêmes conditions et limites, lorsque l'augmentation de traitement consécutive à leur nomination
+est inférieure à celle résultant d'un avancement à ce dernier échelon.
+
+Ceux recrutés par la voie du troisième concours sont placés au 6e échelon du grade de conseiller.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 17 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1153 du 10 septembre 2002 - art. 6 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R224-2 (M)
 
 
 ###### Article R221-14
@@ -19703,6 +20013,64 @@ des chambres régionales des comptes.
 
 ##### CHAPITRE IV : Avancement
 
+###### Article R224-1
+
+Les grades du corps des magistrats des chambres régionales des comptes comportent le nombre d'échelons suivant :
+
+1° Président de section de chambre régionale des comptes : quatre échelons ;
+
+2° Premier conseiller de chambre régionale des comptes : six échelons ;
+
+3° Conseiller de chambre régionale des comptes : sept échelons.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 1982-11-16, art 7
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1153 du 10 septembre 2002 - art. 7 ()
+
+
+###### Article R224-2
+
+Le temps à passer dans chacun des échelons des différents grades pour accéder à l'échelon supérieur est fixé comme suit :
+
+1° Un an pour les quatre premiers échelons du grade de conseiller ;
+
+2° Deux ans pour les 5e et 6e échelons du grade de conseiller, pour les trois premiers échelons du grade de premier
+conseiller et pour le premier échelon du grade de président de section ;
+
+3° Trois ans pour les 4e et 5e échelons du grade de premier conseiller et pour les 2e et 3e échelons du grade de président de
+section.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1153 du 10 septembre 2002 - art. 8 ()
+
+	**Cité par**:
+
+	  - Décret n°2011-1446 du 4 novembre 2011 - art. 6 (Ab)
+	  - Code des juridictions financières - art. R221-11 (V)
+	  - Code des juridictions financières - art. R228-6 (V)
+
+
 ###### Article R224-3
 
 L'avancement d'échelon est prononcé par décision du premier président de la Cour des comptes.
@@ -19720,6 +20088,76 @@ L'avancement d'échelon est prononcé par décision du premier président de la 
 	**Créé par**:
 
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+
+
+###### Article R224-4
+
+Les conseillers des chambres régionales des comptes doivent avoir au moins atteint le grade de premier conseiller pour
+pouvoir être délégués dans les fonctions de commissaire du Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1153 du 10 septembre 2002 - art. 9 ()
+
+
+###### Article R224-6
+
+Les conseillers promus premiers conseillers sont classés au 1er échelon de leur nouveau grade et conservent, dans la limite
+de deux ans, l'ancienneté acquise dans le précédent échelon.
+
+Les premiers conseillers promus présidents de section sont classés à l'échelon de leur nouveau grade comportant un indice de
+rémunération égal à celui dont ils bénéficiaient antérieurement. Dans la limite de l'ancienneté nécessaire pour une promotion
+à l'échelon supérieur, ils conservent l'ancienneté acquise dans le précédent échelon. Toutefois les premiers conseillers
+promus au grade de président de section avant d'avoir atteint le 4e échelon de leur ancien grade sont classés au 1er échelon
+du grade de président de section, sans ancienneté.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 23 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1153 du 10 septembre 2002 - art. 11 ()
+
+
+###### Article R224-8
+
+Les avancements de grade sont prononcés dans l'ordre du tableau d'avancement.
+
+A l'exception des magistrats délégués dans les fonctions du ministère public, les magistrats inscrits au tableau d'avancement
+pour le grade de président de section choisissent leur affectation, dans l'ordre du tableau, sur une liste établie par le
+premier président de la Cour des comptes. Ceux qui n'exercent pas ce choix perdent le bénéfice de leur inscription au tableau
+d'avancement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 25 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1153 du 10 septembre 2002 - art. 13 ()
 
 
 ##### CHAPITRE VI : Positions des magistrats
@@ -26716,30 +27154,6 @@ peut également être donnée à d'autres fonctionnaires du secrétariat génér
 	  - Code des juridictions financières - art. R272-5 (V)
 
 
-##### Paragraphe 4 : Le président de section.
-
-###### Article R212-9
-
-Chaque section de chambre régionale des comptes est présidée par un président de section ou, à défaut, par un magistrat de la
-chambre concernée ayant au moins le grade de conseiller de 1re classe désigné, avec son accord, par le premier président de
-la Cour des comptes, président du Conseil supérieur des chambres régionales des comptes, sur proposition du président de
-chambre intéressé, pour assurer les fonctions de président de section pour une durée qui ne peut excéder une année.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 5
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
 ##### Paragraphe 5 : Les rapporteurs auprès des chambres.
 
 ###### Article R212-13
@@ -26829,26 +27243,6 @@ procureur général près la Cour des comptes.
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R252-2 (V)
-
-
-###### Article R212-18
-
-Le ministère public près la chambre régionale des comptes d'Ile-de-France s'exerce sous l'autorité d'un commissaire du
-Gouvernement ayant le grade de président de section.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 23
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
 ###### Article R212-21
@@ -27542,40 +27936,6 @@ de la République française.
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-###### Article R221-3
-
-Les conseillers de 2e classe recrutés parmi les anciens élèves de l'Ecole nationale d'administration sont nommés par décret
-du Président de la République à compter du lendemain du dernier jour de leur scolarité à l'école.
-
-Ils choisissent leur chambre d'affectation, suivant leur rang de classement, sur une liste arrêtée par le premier président
-de la Cour des comptes, après avis du Conseil supérieur des chambres régionales des comptes. Les affectations sont prononcées
-par décision du premier président de la Cour des comptes.
-
-Les conseillers qui n'exercent pas de choix sont affectés d'office. Si les intéressés n'acceptent pas cette affectation, ils
-sont considérés comme démissionnaires.
-
-Dans les douze mois suivant leur entrée en fonctions, ils effectuent une ou plusieurs périodes de formation organisées par la
-Cour des comptes. La durée totale de ces périodes ne peut être supérieure à six mois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 11 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R221-14 (V)
-
-
 ###### Article R221-4
 
 Lorsque le nombre des conseillers de 2e classe des chambres régionales des comptes nommés pendant une année donnée parmi les
@@ -27830,46 +28190,6 @@ Cour des comptes. La durée totale de ces périodes ne peut être supérieure à
 	  - Code des juridictions financières - art. R221-14 (V)
 
 
-###### Article R221-11
-
-Pour tenir compte de leur scolarité à l'Ecole nationale d'administration quelle qu'en soit la durée, les conseillers de 2e
-classe recrutés par la voie de cette école sont nommés directement au 3e échelon de leur grade.
-
-Toutefois, si l'indice qu'ils détiennent dans leur corps ou emploi d'origine est supérieur à celui correspondant au 3e
-échelon de la 2e classe, les conseillers recrutés par la voie du concours interne de cette école sont placés à l'échelon du
-grade de conseiller de 2e classe comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils
-bénéficiaient dans leur corps d'origine ou dans leur emploi pour les agents non titulaires.
-
-Dans la limite de l'ancienneté exigée à l'article R. 224-2 pour une promotion à l'échelon supérieur, les conseillers recrutés
-par la voie du concours interne de l'ENA conservent l'ancienneté d'échelon acquise dans leur précédent grade ou classe,
-lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement
-d'échelon dans leur ancienne situation.
-
-Les agents nommés alors qu'ils avaient atteint l'échelon le plus élevé de leur précédent grade ou classe conservent leur
-ancienneté d'échelon dans les mêmes conditions et limites, lorsque l'augmentation de traitement consécutive à leur nomination
-est inférieure à celle résultant d'un avancement à ce dernier échelon.
-
-Ceux recrutés par la voie du troisième concours sont placés au 6e échelon du grade de conseiller de 2e classe.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 17 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R224-2 (M)
-
-
 ###### Article R221-12
 
 Les membres de corps recrutés par la voie de l'Ecole nationale d'administration qui sont nommés conseiller de 2e classe,
@@ -27978,93 +28298,15 @@ Le dossier du magistrat doit alors être reconstitué dans sa nouvelle compositi
 
 ##### CHAPITRE IV : Avancement.
 
-###### Article R224-1
-
-Les grades du corps des chambres régionales des comptes comportent le nombre d'échelons suivants :
-
-- président de section de chambre régionale des comptes : quatre échelons ;
-
-- conseiller hors classe de chambre régionale des comptes : six échelons ;
-
-- conseiller de 1re classe de chambre régionale des comptes : six échelons ;
-
-- conseiller de 2e classe de chambre régionale des comptes : sept échelons.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 1982-11-16, art 7
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article R224-2
-
-Le temps à passer dans chacun des échelons des différents grades pour accéder à l'échelon supérieur est fixé à un an pour les
-quatre premiers échelons du grade de conseiller de 2e classe, à deux ans pour les 5e et 6e échelons du grade de conseiller de
-2e classe, les quatre premiers échelons du grade de conseiller de 1re classe et les trois premiers échelons du grade de
-conseiller hors classe, à trois ans pour le 5e échelon du grade de conseiller de 1re classe, les 4e et 5e échelons du grade
-de conseiller hors classe et les trois premiers échelons du grade de président de section.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cité par**:
-
-	  - Décret n°2011-1446 du 4 novembre 2011 - art. 6 (Ab)
-	  - Code des juridictions financières - art. R221-11 (V)
-	  - Code des juridictions financières - art. R228-6 (V)
-
-
-###### Article R224-4
-
-Les conseillers des chambres régionales des comptes doivent avoir au moins atteint le grade de conseiller de 1re classe pour
-pouvoir être délégués dans les fonctions de commissaire du Gouvernement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
 ###### Article R224-5
 
 Peuvent être inscrits au tableau d'avancement :
 
-a) Pour l'accès au grade de président de section, les conseillers hors classe ayant atteint au moins le 4e échelon ;
+1° Pour l'accès au grade de président de section, les premiers conseillers ayant atteint au moins le 3e échelon ;
 
-b) Pour l'accès au grade de conseiller hors classe, les conseillers de 1re classe ayant atteint au moins le 2e échelon ;
+2° Pour l'accès au grade de premier conseiller, les conseillers ayant atteint le 7e échelon.
 
-c) Pour l'accès au grade de conseiller de 1re classe, les conseillers de 2e classe ayant atteint au moins le 6e échelon.
-
-Les intéressés doivent en outre justifier de deux années de services effectifs dans le corps.
+Les intéressés doivent, en outre, justifier de quatre années de services effectifs dans le corps.
 
 **Liens relatifs à cet article**
 
@@ -28076,39 +28318,13 @@ Les intéressés doivent en outre justifier de deux années de services effectif
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2002-1153 du 10 septembre 2002 - art. 10 ()
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R212-55-1 (Ab)
-
-
-###### Article R224-6
-
-Les conseillers de 1re classe promus conseillers hors classe sont classés à l'échelon comportant l'indice de rémunération
-immédiatement supérieur à celui dont ils bénéficiaient antérieurement. Ils conversent l'ancienneté acquise dans le précédent
-échelon.
-
-Les conseillers hors classe promus présidents de section et les conseillers de 2e classe promus à la 1re classe sont classés
-à l'échelon de leur nouveau grade comportant un indice de rémunération égal à celui dont ils bénéficiaient antérieurement.
-Dans la limite de l'ancienneté nécessaire pour une promotion à l'échelon supérieur, ils conservent l'ancienneté acquise dans
-le précédent échelon.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 23 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
 ###### Article R224-7
@@ -28116,9 +28332,9 @@ le précédent échelon.
 Le tableau d'avancement est, pour chaque grade, commun à tous les membres du corps des chambres régionales des comptes. Il
 est établi par le Conseil supérieur des chambres régionales des comptes, au vu notamment des appréciations ou propositions
 formulées par les présidents des chambres ou, pour les commissaires du Gouvernement, par le procureur général près la Cour
-des comptes, conformément au premier alinéa de l'article L. 212-16. Il doit être publié au plus tard le 15 décembre de chaque
-année pour prendre effet à compter du 1er janvier suivant. Il cesse d'être valable à l'expiration de l'année pour laquelle il
-est dressé.
+des comptes, conformément au premier alinéa de l'article L. 212-16. Il doit être arrêté au plus tard le 15 décembre de
+l'année précédant celle pour laquelle il est établi. Il cesse d'être valable à l'expiration de l'année pour laquelle il est
+dressé.
 
 Pour établir le tableau d'avancement, il est fait application des dispositions de l'article 15 du décret n° 59-308 du 14
 février 1959 relatif aux conditions générales de notation et d'avancement des fonctionnaires.
@@ -28143,32 +28359,9 @@ application des articles L. 221-4 à L. 221-6.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article R224-8
-
-Les avancements de grade sont prononcés dans l'ordre du tableau d'avancement.
-
-Les magistrats inscrits au tableau d'avancement pour le grade de président de section choisissent leur affectation, dans
-l'ordre du tableau, sur une liste établie par le premier président de la Cour des comptes. Ceux qui n'exercent pas ce choix
-perdent le bénéfice de leur inscription au tableau d'avancement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 25 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2002-1153 du 10 septembre 2002 - art. 12 ()
 
 
 ##### CHAPITRE V : Notation.

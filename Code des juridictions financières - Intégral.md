@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1998-07-03
+Version Consolidée au 1999-03-21
 
 # Partie législative
 
@@ -6501,11 +6501,11 @@ En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
 	  - Loi n°2001-616 du 11 juillet 2001 - art. 77 (V)
 
 
-### DEUXIEME PARTIE : Dispositions applicables aux territoires d'outre-mer.
+### DEUXIEME PARTIE : Les chambres territoriales des comptes
 
-#### TITRE VI : Dispositions applicables en Nouvelle-Calédonie.
+#### TITRE VI : Dispositions applicables en Nouvelle-Calédonie
 
-##### CHAPITRE Ier : Du rapport public de la Cour des comptes.
+##### CHAPITRE Ier : Du rapport public de la Cour des comptes
 
 ###### Article L261-1
 
@@ -6515,22 +6515,18 @@ chapitre II du présent titre.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Loi n°67-483 1967-06-22, art 11 al 2, modifié par loi 82-594 1982-07-10 art 19-II
+
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
-	**Anciens textes**:
-
-	  - Loi n°97-483 1967-06-22, art 11 al 2, modifié par loi 82-594 1982-07-10 art 19-II
-
-
-#### TITRE VI : Dispositions applicables en Nouvelle-Calédonie.
-
-##### CHAPITRE Ier : Du rapport public de la Cour des comptes.
 
 ###### Article L261-2
 
@@ -6542,15 +6538,15 @@ la chambre territoriale.
 
 	**Anciens textes**:
 
-	  - Loi n°82-213 1982-03-02 modifiée, art 88 al 1 et 3, complété par loi 88-13 1988-01-05, art 23-IX
+	  - Loi n°82-213 1982-03-02 modifiée, art 11 al 1 et 3, complété par loi 88-13 1988-01-05, art 23-IX
 
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L261-3
@@ -6569,14 +6565,14 @@ suite des observations de la Cour des comptes.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ##### CHAPITRE II : De la chambre territoriale des comptes
 
-##### Section préliminaire : Création.
+##### Section préliminaire : Création
 
 ###### Article L262-1
 
@@ -6586,18 +6582,23 @@ Il est institué une chambre territoriale des comptes de la Nouvelle-Calédonie.
 
 	**Anciens textes**:
 
-	  - Loi n°88-1028, 1988-11-09, art 73 al 1
+	  - Loi n°88-1028 1988-11-09, art 73 al 1
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
 
 
-##### Section 1 : Missions.
+##### Section 1 : Missions
 
 ###### Article L262-3
 
@@ -6615,7 +6616,7 @@ collectivité territoriale ou de l'établissement public concerné.
 
 	**Anciens textes**:
 
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 1 Loi 82-594 1982-07-10 art 2 al 2 Loi 82-213 1982-03-02 modifiée, art 87 al 13 modifié par loi 96-609 1996-07-05, art 25-III-1°
+	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 1 Loi 82-594 1982-07-10, art 2 al 2 Loi 82-213 1982-03-02 modifiée, art 87 al 13 modifié par loi 96-609-1996-07-05, art 25-III-1°
 
 	**Codifié par**:
 
@@ -6623,7 +6624,7 @@ collectivité territoriale ou de l'établissement public concerné.
 
 	**Modifié par**:
 
-	  - Loi n°96-609 1996-07-05 art. 25 1° jorf 9 juillet 1996
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -6655,9 +6656,9 @@ administratif par les comptables supérieurs du Trésor.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -6691,9 +6692,9 @@ et valeurs.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -6717,9 +6718,9 @@ moitié du capital ou des voix dans les organes délibérants, ou exercent un po
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -6746,9 +6747,13 @@ décision ou de gestion.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
 
 	**Cité par**:
 
@@ -6757,9 +6762,9 @@ décision ou de gestion.
 	  - Code des juridictions financières - art. R262-114 (V)
 	  - Code des juridictions financières - art. R262-114-1 (V)
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code des juridictions financières - art. L262-7 (M)
+	  - Code des juridictions financières - art. L262-9 (VD)
 
 
 ###### Article L262-9
@@ -6780,9 +6785,17 @@ passible du contrôle de la Cour.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-10 (VD)
 
 	**Cite**:
 
@@ -6815,9 +6828,9 @@ comptes dont ces collectivités ou organismes relèvent n'est compétente.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -6844,13 +6857,21 @@ capital ou des voix dans les organes délibérants, ou exercent un pouvoir prép
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Transféré par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. L262-10 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-10 (VD)
 
 	**Cité par**:
 
@@ -6873,9 +6894,9 @@ conditions définies à la section 2 du chapitre III du présent titre.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article LO262-2
@@ -6895,9 +6916,9 @@ La chambre territoriale des comptes examine la gestion du territoire, des provin
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article LO262-5
@@ -6911,15 +6932,15 @@ régulier des crédits, fonds et valeurs.
 
 	**Anciens textes**:
 
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 6 sauf dernière phrase Loi 88-1028 1988-11-09, art 73 al 3
+	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 6 sauf dernière phrase Loi 88-1028 1988-11-09 art 73 al 3
 
 	**Codifié par**:
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article LO262-12
@@ -6937,42 +6958,14 @@ publics dans les conditions définies à la section 1 du chapitre III du présen
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ##### Section 2 : Organisation
 
-##### Sous-section 1 : Organisation de la juridiction.
-
-###### Article L262-14
-
-Les chambres territoriales des comptes de la Nouvelle-Calédonie et de la Polynésie française peuvent être présidées par un
-même président et dotées des mêmes assesseurs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-820 1984-09-06, art 97 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Abrogé par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 207 (V)
-
-	**Cité par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 207 (V)
-
+##### Sous-section 1 : Organisation de la juridiction
 
 ###### Article L262-15
 
@@ -6989,9 +6982,17 @@ décret en Conseil d'Etat.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-14 (VD)
 
 
 ###### Article L262-16
@@ -7008,50 +7009,17 @@ La chambre territoriale des comptes comprend au minimum un président et deux as
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
+	**Liens**:
 
-###### Article L262-17
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
 
-Le président de la chambre territoriale des comptes est un conseiller maître ou un conseiller référendaire à la Cour des
-comptes nommé, à sa demande et sur proposition du premier président de la Cour des comptes, par décret du Président de la
-République.
+	**Nouveaux textes**:
 
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 85 al 1
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-
-###### Article L262-18
-
-Des magistrats de la Cour des comptes peuvent, à leur demande et sur proposition du premier président de la Cour des comptes,
-être détachés auprès de la chambre territoriale des comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 85 al 3
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Code des juridictions financières - art. L262-15 (VD)
 
 
 ###### Article L262-19
@@ -7069,30 +7037,17 @@ conditions fixées par voie réglementaire.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
+	**Liens**:
 
-###### Article L262-20
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
 
-Des agents de l'Etat ou des collectivités territoriales peuvent être détachés auprès de la chambre territoriale des comptes
-pour assister ses membres dans l'exercice de leurs compétences dans des conditions fixées par voie réglementaire. Les
-intéressés ne peuvent exercer aucune activité juridictionnelle.
+	**Nouveaux textes**:
 
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 85 dernier alinéa
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Code des juridictions financières - art. L262-18 (VD)
 
 
 ###### Article L262-21
@@ -7109,9 +7064,17 @@ Les membres de la chambre territoriale des comptes ont la qualité de magistrat.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-22 (VD)
 
 
 ###### Article L262-22
@@ -7131,9 +7094,17 @@ Les magistrats ne peuvent, en dehors de leurs fonctions, être requis pour d'aut
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-23 (VD)
 
 
 ###### Article L262-23
@@ -7158,86 +7129,20 @@ serment.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
+	**Liens**:
 
-###### Article L262-24
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
 
-La chambre territoriale des comptes comporte un ou plusieurs commissaires du Gouvernement, choisis parmi les magistrats de la
-chambre, qui exercent les fonctions du ministère public et sont les correspondants du procureur général près la Cour des
-comptes.
+	**Nouveaux textes**:
 
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 85 al 4
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R262-2 (V)
+	  - Code des juridictions financières - art. L262-24 (VD)
 
 
-###### Article L262-25
-
-Des magistrats de la chambre territoriale des comptes sont, avec leur accord, délégués dans les fonctions du ministère public
-par décret pris sur le rapport du ministre chargé des finances sur proposition conjointe du premier président de la Cour des
-comptes et du procureur général près la Cour des comptes. Dans ces fonctions, les intéressés ne sont pas inamovibles. Il est
-mis fin à cette délégation dans les mêmes formes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1982-07-10, art 4 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-
-###### Article L262-26
-
-L'intérim du ministère public auprès de la chambre territoriale des comptes peut être exercé, pour une période n'excédant pas
-six mois, par un magistrat de la chambre remplissant les conditions réglementaires pour être délégué dans les fonctions de
-commissaire du Gouvernement, désigné sur proposition du président de la chambre territoriale par décision conjointe du
-premier président de la Cour des comptes et du procureur général près la Cour des comptes. Il est mis fin à cet intérim par
-décision du procureur général qui en tient informé le premier président.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1982-07-10, art 4 dernier alinéa
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R262-16 (V)
-
-
-##### Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes.
+##### Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes
 
 ###### Article L262-27
 
@@ -7254,9 +7159,9 @@ comptes au Conseil supérieur des chambres régionales dans des conditions fixé
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L262-28
@@ -7274,12 +7179,12 @@ compétences qui sont les siennes à l'égard des chambres régionales des compt
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
-##### Section 3 : Dispositions statutaires.
+##### Section 3 : Dispositions statutaires
 
 ###### Article L262-29
 
@@ -7296,34 +7201,14 @@ composant ces juridictions sont applicables à la chambre territoriale des compt
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-
-###### Article L262-30
-
-Les magistrats de la chambre territoriale des comptes qui sont membres du Conseil supérieur des chambres régionales des
-comptes ne peuvent bénéficier d'aucun avancement de grade pendant la durée de leur mandat au sein de ce Conseil.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1982-07-10, art 19 al 4, dernière phrase
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ##### Section 4 : Compétences et attributions juridictionnelles
 
-##### Sous-section 1 : Jugement des comptes.
+##### Sous-section 1 : Jugement des comptes
 
 ###### Article L262-32
 
@@ -7340,33 +7225,9 @@ chambre territoriale des comptes, dans les délais prescrits par les règlements
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-
-###### Article L262-33
-
-La chambre territoriale des comptes statue en premier ressort, à titre provisoire ou définitif, sur les comptes des
-comptables publics, sous réserve de l'article L. 262-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 2 al 1
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L262-4 (M)
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L262-34
@@ -7384,9 +7245,9 @@ qu'elle a déclarées comptables de fait d'une collectivité ou d'un établissem
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article LO262-31
@@ -7404,12 +7265,12 @@ chambre territoriale des comptes, dans les délais prescrits par les règlements
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
-##### Sous-section 2 : Contrôle de l'apurement administratif des comptes.
+##### Sous-section 2 : Contrôle de l'apurement administratif des comptes
 
 ###### Article L262-35
 
@@ -7427,9 +7288,17 @@ comptes. La mise en débet du comptable ne peut être prononcée que par la cham
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-36 (VD)
 
 	**Cite**:
 
@@ -7452,14 +7321,22 @@ Trésor emportent décharge définitive du comptable.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. L262-37 (V)
 	  - Code des juridictions financières - art. L262-4 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-37 (VD)
 
 
 ###### Article L262-37
@@ -7479,9 +7356,9 @@ La chambre territoriale des comptes peut exercer son droit d'évocation et de r�
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -7492,7 +7369,7 @@ La chambre territoriale des comptes peut exercer son droit d'évocation et de r�
 	  - Code des juridictions financières - art. L262-38 (VD)
 
 
-##### Sous-section 3 : Condamnation des comptables à l'amende.
+##### Sous-section 3 : Condamnation des comptables à l'amende
 
 ###### Article L262-38
 
@@ -7510,9 +7387,9 @@ amendes par la Cour des comptes pour un manquement analogue.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -7541,9 +7418,17 @@ dépasser le total des sommes indûment détenues ou maniées.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-39-1 (VD)
 
 	**Cité par**:
 
@@ -7572,9 +7457,9 @@ manquements analogues.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -7585,7 +7470,36 @@ manquements analogues.
 	  - Code des juridictions financières - art. R262-53 (V)
 
 
-##### Section 5 : Contrôle des actes des sociétés d'économie mixte locales.
+##### Section 4 bis : Contrôle de certaines conventions
+
+###### Article LO262-40-1
+
+Les conventions relatives aux marchés et aux délégations de service public prises par la Nouvelle-Calédonie, les provinces et
+leurs établissements publics peuvent être transmises par le haut-commissaire à la chambre territoriale des comptes. Le haut-
+commissaire en informe l'autorité concernée.
+
+La chambre territoriale des comptes formule ses observations dans un délai d'un mois à compter de sa saisine. L'avis de la
+chambre territoriale des comptes est transmis à la collectivité territoriale ou à l'établissement public intéressé et au
+haut-commissaire. L'ordonnateur ou son représentant peut, à sa demande, présenter oralement ses observations et être assisté
+par une personne de son choix. L'assemblée délibérante ou l'organe délibérant est informé de l'avis de la chambre
+territoriale des comptes dès sa plus proche réunion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 209 ()
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R262-54 (V)
+
+
+##### Section 5 : Contrôle des actes des sociétés d'économie mixte locales
 
 ###### Article L262-41
 
@@ -7605,7 +7519,7 @@ haut-commissaire, à la société et aux assemblées délibérantes des communes
 
 	**Anciens textes**:
 
-	  - Loi n°90-1247 1990-12-29, art 5 Loi 83-597 1983-07-07, art 6 al 3 et 4
+	  - Loi n°90-1247 1990-12-29, art 5 Loi 83-597 1983-07-07 art 6 al 3 et 4
 
 	**Cité par**:
 
@@ -7616,9 +7530,9 @@ haut-commissaire, à la société et aux assemblées délibérantes des communes
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ##### Section 6 : Procédure
@@ -7640,9 +7554,9 @@ relatifs à la gestion des provinces, du territoire ou de leurs établissements 
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -7665,9 +7579,9 @@ Cour des comptes par le titre IV du livre Ier du présent code.
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ##### Sous-section 2 : A l'égard des autres collectivités et organismes.
@@ -7687,9 +7601,9 @@ relatifs à la gestion des communes, de leurs établissements publics et des aut
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -7715,9 +7629,9 @@ pouvoirs attribués à la Cour des comptes par le titre IV du livre Ier du prés
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -7728,7 +7642,7 @@ pouvoirs attribués à la Cour des comptes par le titre IV du livre Ier du prés
 	  - Code des juridictions financières - art. L263-26 (VT)
 
 
-##### Sous-section 3 : Dispositions communes.
+##### Sous-section 3 : Dispositions communes
 
 ###### Article L262-46
 
@@ -7747,9 +7661,17 @@ est jugée nécessaire, a l'obligation de répondre à la convocation de la cham
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-51 (VD)
 
 	**Cité par**:
 
@@ -7768,15 +7690,25 @@ ou le président de la chambre et l'ordonnateur concerné.
 
 	**Anciens textes**:
 
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 13, deuxième phrase
+	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 13 deuxième phrase
+	  - Code des juridictions financières - art. L262-51 (VT)
 
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-63 (VD)
 
 
 ###### Article L262-48
@@ -7796,9 +7728,17 @@ mandaté à cet effet par celle-ci.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-64 (VD)
 
 	**Cité par**:
 
@@ -7818,7 +7758,7 @@ Lorsque des observations sont formulées, elles ne peuvent être arrêtées déf
 
 	**Anciens textes**:
 
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 13 cinquième phrase modifié par loi 96-609 1996-07-05, art 25-III-2°
+	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 13, cinquième phrase modifié par loi 69-609 1996-07-05, art 25-III-2°
 
 	**Codifié par**:
 
@@ -7826,7 +7766,7 @@ Lorsque des observations sont formulées, elles ne peuvent être arrêtées déf
 
 	**Modifié par**:
 
-	  - Loi n°96-609 1996-07-05 art. 25 2° jorf 9 juillet 1996
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -7842,22 +7782,30 @@ application des dispositions du deuxième alinéa de l'article L. 262-50.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°96-609 1996-07-05 art. 25 3° jorf 9 juillet 1996
-
 	**Anciens textes**:
 
-	  - Loi n°96-609 1996-07-05, art 25-III-3°
+	  - Loi n°69-609 1996-07-05, art 25-III-3°
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Modifié par**:
+
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L262-3 (M)
-	  - Code des juridictions financières - art. L262-50 (M)
+	  - Code des juridictions financières - art. L262-3
+	  - Code des juridictions financières - art. L262-50
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-70 (VD)
 
 
 ###### Article L262-50
@@ -7880,9 +7828,9 @@ l'exécutif de la collectivité ou de l'établissement à son assemblée délib�
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -7908,9 +7856,18 @@ La chambre territoriale des comptes prend toutes dispositions pour garantir le s
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-47 (VD)
+	  - Code des juridictions financières - art. L262-47 (VT)
 
 	**Cité par**:
 
@@ -7942,61 +7899,13 @@ professionnel.
 
 	**Modifié par**:
 
-	  - Loi n°96-609 1996-07-05 art. 25 4° jorf 9 juillet 1996
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. L262-53 (V)
 	  - Code des juridictions financières - art. L263-26 (VT)
 	  - Code des juridictions financières - art. R262-58 (V)
-
-
-###### Article L262-53
-
-Les propositions, les rapports et les travaux de la chambre territoriale des comptes sont couverts par le secret
-professionnel que les experts sont tenus de respecter en application de l'article L. 262-52.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 6 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994 rectificatif jorf 9 février 1995
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L262-53 (M)
-
-
-###### Article L262-54
-
-Les jugements, avis, propositions, rapports et observations de la chambre territoriale des comptes sont délibérés et adoptés
-collégialement selon une procédure contradictoire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 84 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L262-58-1 (VT)
 
 
 ###### Article L262-55
@@ -8014,16 +7923,24 @@ collectivités, établissements, sociétés, groupements et organismes concerné
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. L262-57 (VD)
 
+	**Nouveaux textes**:
 
-##### Section 7 : Voies de recours.
+	  - Code des juridictions financières - art. L262-62 (VD)
+
+
+##### Section 7 : Voies de recours
 
 ###### Article L262-56
 
@@ -8041,9 +7958,9 @@ prononcé à titre définitif par la chambre territoriale des comptes.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -8066,9 +7983,9 @@ pour cause d'erreur, omission, faux ou double emploi.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -8090,14 +8007,14 @@ en Conseil d'Etat.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets
 
-##### Section 1 : Des provinces et du territoire.
+##### Section 1 : Des provinces et du territoire
 
 ###### Article LO263-1
 
@@ -8109,10 +8026,11 @@ Il comprend une section de fonctionnement et une section d'investissement.
 Le budget de la province est voté en équilibre réel.
 
 Le budget est en équilibre réel lorsque la section de fonctionnement et la section d'investissement sont respectivement
-votées en équilibre et lorsque le prélèvement sur les recettes de la section de fonctionnement au profit de la section
-d'investissement, ajouté aux recettes propres de cette section, à l'exclusion du produit des emprunts, et éventuellement aux
-dotations des comptes d'amortissements et de provisions, fournit des ressources suffisantes pour couvrir le remboursement en
-capital des annuités à échoir au cours de l'exercice.
+votées en équilibre, les recettes et les dépenses ayant été évaluées de façon sincère, et lorsque le prélèvement sur les
+recettes de la section de fonctionnement au profit de la section d'investissement, ajouté aux recettes propres de cette
+section, à l'exclusion d'une part, du produit des emprunts, d'autre part, des subventions spécifiques d'équipement et
+éventuellement aux dotations des comptes d'amortissements et de provisions, fournit des ressources suffisantes pour couvrir
+le remboursement en capital des annuités à échoir au cours de l'exercice.
 
 Ne sont obligatoires que les dépenses nécessaires à l'acquittement des dettes exigibles et les dépenses pour lesquelles la
 loi l'a expressément décidé.
@@ -8127,6 +8045,11 @@ Aucune augmentation de dépenses ou diminution de recettes ne peut être adopté
 recettes prévues ou si elle n'est pas accompagnée d'une proposition d'économie ou de ressources nouvelles de la même
 importance.
 
+**Nota:**
+
+Conformément à l'article 61 de la la loi organique n° 2009-969 du 3 août 2009, les dispositions du 4° de son article 29 sont
+applicables à compter de l'exercice 2011.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -8137,9 +8060,13 @@ importance.
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1, 2 jorf 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Loi organique n°2009-969 du 3 août 2009 - art. 29
 
 
 ###### Article LO263-2
@@ -8147,13 +8074,21 @@ importance.
 Le président de l'assemblée de province dépose le projet de budget au plus tard le 15 novembre sur le bureau de l'assemblée.
 
 Si le budget n'est pas exécutoire au 1er janvier de l'exercice auquel il s'applique, le président de l'assemblée de province
-peut mettre en recouvrement les recettes et engager par douzièmes les dépenses de la section de fonctionnement dans la limite
-de celles inscrites au budget de l'année précédente.
+peut mettre en recouvrement les recettes et engager, liquider et mandater par douzièmes les dépenses de la section de
+fonctionnement dans la limite de celles inscrites au budget de l'année précédente.
+
+Il est en droit de mandater les dépenses afférentes au remboursement en capital des annuités de la dette venant à échéance
+avant le vote du budget.
 
 Si le budget n'est pas voté avant le 31 mars, il est arrêté par le haut-commissaire après avis de la chambre territoriale des
 comptes, sur la base des recettes de l'exercice précédent.
 
 La décision doit être motivée si elle s'écarte des propositions de la chambre territoriale des comptes.
+
+**Nota:**
+
+Conformément à l'article 61 de la la loi organique n° 2009-969 du 3 août 2009, les dispositions du 4° de son article 29 sont
+applicables à compter de l'exercice 2011.
 
 **Liens relatifs à cet article**
 
@@ -8165,26 +8100,36 @@ La décision doit être motivée si elle s'écarte des propositions de la chambr
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1, 3 jorf 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Loi organique n°2009-969 du 3 août 2009 - art. 29
 
 
 ###### Article LO263-3
 
 Le budget du territoire est voté en équilibre réel dans les formes et conditions prévues à l'article L.O. 263-1.
 
-Le haut-commissaire dépose le projet de budget du territoire sur le bureau du congrès, au plus tard le 15 novembre.
+Le gouvernement dépose le projet de budget du territoire sur le bureau du congrès, au plus tard le 15 novembre.
 
-Si le budget n'est pas exécutoire avant le 1er janvier de l'exercice auquel il s'applique, le haut-commissaire peut mettre en
-recouvrement les recettes et engager par douzièmes les dépenses de la section de fonctionnement dans la limite de celles
-inscrites au budget de l'année précédente.
+Si le budget n'est pas exécutoire avant le 1er janvier de l'exercice auquel il s'applique, le président du gouvernement peut
+mettre en recouvrement les recettes et engager,liquider et mandater par douzièmes les dépenses de la section de
+fonctionnement dans la limite de celles inscrites au budget de l'année précédente. Il est en droit de mandater les dépenses
+afférentes au remboursement en capital des annuités de la dette venant à échéance avant le vote du budget.
 
 Si le congrès n'a pas voté le budget avant le 31 mars et sous réserve des dispositions de l'article L.O. 263-4, le haut-
-commissaire, après avis de la chambre territoriale des comptes, établit sur la base des recettes de l'exercice précédent un
-budget pour l'année en cours.
+commissaire, après avis de la chambre territoriale des comptes et du gouvernement établit sur la base des recettes de
+l'exercice précédent un budget pour l'année en cours.
 
-La décision doit être motivée si elle s'écarte de cet avis.
+La décision doit être motivée si elle s'écarte de l'un au moins de ces avis.
+
+**Nota:**
+
+Conformément à l'article 61 de la la loi organique n° 2009-969 du 3 août 2009, les dispositions du 4° de son article 29 sont
+applicables à compter de l'exercice 2011.
 
 **Liens relatifs à cet article**
 
@@ -8196,9 +8141,13 @@ La décision doit être motivée si elle s'écarte de cet avis.
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 4 jorf 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Loi organique n°2009-969 du 3 août 2009 - art. 29
 
 
 ###### Article LO263-4
@@ -8218,6 +8167,11 @@ délai de quinze jours à compter de la nouvelle délibération, le budget est r
 
 Si celui-ci s'écarte des propositions formulées par la chambre territoriale des comptes, il doit motiver sa décision.
 
+**Nota:**
+
+Conformément à l'article 61 de la la loi organique n° 2009-969 du 3 août 2009, les dispositions du 4° de son article 29 sont
+applicables à compter de l'exercice 2011.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -8228,9 +8182,13 @@ Si celui-ci s'écarte des propositions formulées par la chambre territoriale de
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Loi organique n°2009-969 du 3 août 2009 - art. 29
 
 
 ###### Article LO263-5
@@ -8249,6 +8207,11 @@ taxes, soit par imputation respectivement sur les fonds territoriaux ou provinci
 A défaut de mandatement d'une dépense obligatoire par le président d'une assemblée de province dans le mois suivant la mise
 en demeure qui lui a été faite par le haut-commissaire, celui-ci y procède d'office.
 
+**Nota:**
+
+Conformément à l'article 61 de la la loi organique n° 2009-969 du 3 août 2009, les dispositions du 4° de son article 29 sont
+applicables à compter de l'exercice 2011.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -8259,9 +8222,13 @@ en demeure qui lui a été faite par le haut-commissaire, celui-ci y procède d'
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Loi organique n°2009-969 du 3 août 2009 - art. 29
 
 	**Cité par**:
 
@@ -8274,6 +8241,11 @@ Les établissements publics à caractère administratif du territoire et des pro
 interprovinciaux sont soumis au contrôle budgétaire prévu pour le territoire et les provinces par les articles L.O. 263-4 et
 L.O. 263-5.
 
+**Nota:**
+
+Conformément à l'article 61 de la la loi organique n° 2009-969 du 3 août 2009, les dispositions du 4° de son article 29 sont
+applicables à compter de l'exercice 2011.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -8284,9 +8256,13 @@ L.O. 263-5.
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Loi organique n°2009-969 du 3 août 2009 - art. 29
 
 
 ###### Article LO263-7
@@ -8300,18 +8276,18 @@ La chambre territoriale des comptes prend toutes dispositions pour garantir le s
 
 	**Anciens textes**:
 
-	  - Loi n°82-594 1982-07-10 modifiée, art 9 Loi 82-594 1982-07-05 modifiée, art 5 al 6
+	  - Loi n°82-594 1982-07-10, art 9 Loi 82-594 1982-07-10, art 5 al 6
 
 	**Codifié par**:
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
-##### Section 2 : Des communes et des établissements publics communaux et intercommunaux.
+##### Section 2 : Des communes et des établissements publics communaux et intercommunaux
 
 ###### Article L263-8
 
@@ -8338,9 +8314,9 @@ le montant et l'affectation des crédits.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -8374,9 +8350,9 @@ quinze jours après cette communication pour arrêter le budget de la commune.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -8407,9 +8383,9 @@ ce cas, le conseil municipal dispose de quinze jours après cette communication 
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -8439,9 +8415,9 @@ au cours de l'exercice.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L263-12
@@ -8472,9 +8448,9 @@ motivation explicite.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -8510,9 +8486,9 @@ reprise pour chacune des sections des résultats apparaissant au compte administ
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -8534,9 +8510,9 @@ son adoption par les articles L. 263-9 et L. 263-15. A défaut, il est fait appl
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -8570,7 +8546,7 @@ limite de transmission du compte de gestion du comptable prévu à l'article L. 
 
 	**Anciens textes**:
 
-	  - Loi n°90-1247 1990-12-29, art 1er Loi 82-213 1982-03-02 modifiée, art 8 al 5, 6 et 7
+	  - Loi n°90-1247 1990-12-29, art 1er Loi 82-213 1982-03-02 modifiée, art 8, al 5, 6 et 7
 	  - modifié par loi 96-609 1996-07-05, art 25-III-5°
 
 	**Codifié par**:
@@ -8579,7 +8555,7 @@ limite de transmission du compte de gestion du comptable prévu à l'article L. 
 
 	**Modifié par**:
 
-	  - Loi n°96-609 1996-07-05 art. 25 5° jorf 9 juillet 1996
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -8615,9 +8591,9 @@ ce titre.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -8656,9 +8632,9 @@ rapportent.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -8693,7 +8669,7 @@ Le compte administratif est arrêté si une majorité des voix ne s'est pas dég
 
 	**Modifié par**:
 
-	  - Loi n°96-609 1996-07-05 art. 25 6° jorf 9 juillet 1996
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -8722,7 +8698,7 @@ du plus proche budget voté par la commune.
 
 	**Modifié par**:
 
-	  - Loi n°96-609 1996-07-05 art. 25 7° jorf 9 juillet 1996
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -8767,7 +8743,7 @@ applicable.
 
 	**Modifié par**:
 
-	  - Loi n°96-609 1996-07-05 art. 25 8° jorf 9 juillet 1996
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -8810,9 +8786,9 @@ assortit sa décision d'une motivation explicite.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -8841,9 +8817,9 @@ section de fonctionnement du budget primitif.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L263-23
@@ -8876,9 +8852,9 @@ les quinze jours suivant la réception de la délibération inscrivant les créd
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -8900,9 +8876,9 @@ Nouvelle-Calédonie.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -8924,9 +8900,9 @@ représentant peut, à sa demande, présenter oralement ses observations. Il peu
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -8948,9 +8924,9 @@ La chambre territoriale des comptes prend toutes dispositions pour garantir le s
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -8969,7 +8945,7 @@ La chambre territoriale des comptes prend toutes dispositions pour garantir le s
 
 	**Anciens textes**:
 
-	  - Loi n°82-594 1982-03-02, art 9 Loi 82-594 1982-03-02, art 5 al 6
+	  - Loi n°82-594 1982-03-02, art 9er Loi 82-594 1982-03-02, art 5 al 6
 
 
 ###### Article L263-27
@@ -8987,13 +8963,13 @@ chambre territoriale des comptes dès sa plus proche réunion.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
-
-	  - Loi n°96-609 1996-07-05 art. 25 9° jorf 9 juillet 1996
-
 	**Anciens textes**:
 
 	  - Loi n°96-609 1996-07-05, art 25-III-9°
+
+	**Modifié par**:
+
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -9002,7 +8978,7 @@ chambre territoriale des comptes dès sa plus proche réunion.
 
 ##### CHAPITRE IV : Des comptables
 
-##### Section 1 : Dispositions statutaires.
+##### Section 1 : Dispositions statutaires
 
 ###### Article L264-1
 
@@ -9020,9 +8996,9 @@ comptable principal.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L264-2
@@ -9039,9 +9015,9 @@ Les fonctions de comptable de l'Etat ne peuvent pas être exercées par le compt
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L264-3
@@ -9059,14 +9035,14 @@ serment devant la chambre territoriale des comptes.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ##### Section 2 : Obligations et missions
 
-##### Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics.
+##### Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics
 
 ###### Article LO264-4
 
@@ -9084,18 +9060,19 @@ de sa responsabilité personnelle et pécuniaire. Il est tenu de motiver la susp
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article LO264-5
 
 Lorsque le comptable du territoire ou de la province notifie sa décision de suspendre le paiement d'une dépense, le haut-
-commissaire ou le président de l'assemblée de province peut lui adresser un ordre de réquisition. Il s'y conforme aussitôt,
-sauf en cas d'insuffisance de fonds territoriaux ou provinciaux disponibles, de dépense ordonnancée sur des crédits
-irrégulièrement ouverts ou insuffisants ou sur des crédits autres que ceux sur lesquels elle devrait être imputée, d'absence
-de justification du service fait ou de défaut de caractère libératoire du règlement.
+commissaire, le président du gouvernement ou le président du congrès ou le président de l'assemblée de province peut lui
+adresser un ordre de réquisition. Il s'y conforme aussitôt, sauf en cas d'insuffisance de fonds territoriaux ou provinciaux
+disponibles, de dépense ordonnancée sur des crédits irrégulièrement ouverts ou insuffisants ou sur des crédits autres que
+ceux sur lesquels elle devrait être imputée, d'absence de justification du service fait ou de défaut de caractère libératoire
+du règlement.
 
 Les présidents des assemblées de province notifient au haut-commissaire leurs ordres de réquisition. Celui-ci informe la
 chambre territoriale des comptes de ses ordres de réquisition et de ceux des présidents des assemblées de province.
@@ -9112,17 +9089,17 @@ En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
-
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
-
 	**Cité par**:
 
 	  - Décret du 2 septembre 1996 - art. 2 (V)
 	  - Code des juridictions financières - art. L312-2 (V)
 
+	**Modifié par**:
 
-##### Sous-section 2 : A l'égard des communes et des établissements publics communaux et intercommunaux.
+	  - Loi organique 99-209 1999-03-19 art. 226 1, 5 jorf 21 mars 1999
+
+
+##### Sous-section 2 : A l'égard des communes et des établissements publics communaux et intercommunaux
 
 ###### Article L264-6
 
@@ -9141,9 +9118,9 @@ suspension du paiement.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L264-7
@@ -9169,19 +9146,269 @@ En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
 	**Cité par**:
 
 	  - Décret du 2 septembre 1996 - art. 2 (V)
 	  - Code général des collectivités territoriales - art. D1617-20 (V)
 
+	**Modifié par**:
+
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+
+#### TITRE VI : Dispositions applicables en Nouvelle-Calédonie.
+
+##### CHAPITRE II : De la chambre territoriale des comptes
+
+##### Section 2 : Organisation
+
+##### Sous-section 1 : Organisation de la juridiction.
+
+###### Article L262-17
+
+Le président de la chambre territoriale des comptes est un conseiller maître ou un conseiller référendaire à la Cour des
+comptes nommé, à sa demande et sur proposition du premier président de la Cour des comptes, par décret du Président de la
+République.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-213 1982-03-02 modifiée, art 85 al 1
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+
+###### Article L262-18
+
+Des magistrats de la Cour des comptes peuvent, à leur demande et sur proposition du premier président de la Cour des comptes,
+être détachés auprès de la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-213 1982-03-02 modifiée, art 85 al 3
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+
+###### Article L262-20
+
+Des agents de l'Etat ou des collectivités territoriales peuvent être détachés auprès de la chambre territoriale des comptes
+pour assister ses membres dans l'exercice de leurs compétences dans des conditions fixées par voie réglementaire. Les
+intéressés ne peuvent exercer aucune activité juridictionnelle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-213 1982-03-02 modifiée, art 85 dernier alinéa
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+
+###### Article L262-24
+
+La chambre territoriale des comptes comporte un ou plusieurs commissaires du Gouvernement, choisis parmi les magistrats de la
+chambre, qui exercent les fonctions du ministère public et sont les correspondants du procureur général près la Cour des
+comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-213 1982-03-02 modifiée, art 85 al 4
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R262-2 (V)
+
+
+###### Article L262-25
+
+Des magistrats de la chambre territoriale des comptes sont, avec leur accord, délégués dans les fonctions du ministère public
+par décret pris sur le rapport du ministre chargé des finances sur proposition conjointe du premier président de la Cour des
+comptes et du procureur général près la Cour des comptes. Dans ces fonctions, les intéressés ne sont pas inamovibles. Il est
+mis fin à cette délégation dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-595 1982-07-10, art 4 al 2
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+
+###### Article L262-26
+
+L'intérim du ministère public auprès de la chambre territoriale des comptes peut être exercé, pour une période n'excédant pas
+six mois, par un magistrat de la chambre remplissant les conditions réglementaires pour être délégué dans les fonctions de
+commissaire du Gouvernement, désigné sur proposition du président de la chambre territoriale par décision conjointe du
+premier président de la Cour des comptes et du procureur général près la Cour des comptes. Il est mis fin à cet intérim par
+décision du procureur général qui en tient informé le premier président.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-595 1982-07-10, art 4 dernier alinéa
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R262-16 (V)
+
+
+##### Section 3 : Dispositions statutaires.
+
+###### Article L262-30
+
+Les magistrats de la chambre territoriale des comptes qui sont membres du Conseil supérieur des chambres régionales des
+comptes ne peuvent bénéficier d'aucun avancement de grade pendant la durée de leur mandat au sein de ce Conseil.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-595 1982-07-10, art 19 al 4, dernière phrase
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 30 ()
+
+
+##### Section 4 : Compétences et attributions juridictionnelles
+
+##### Sous-section 1 : Jugement des comptes.
+
+###### Article L262-33
+
+La chambre territoriale des comptes statue en premier ressort, à titre provisoire ou définitif, sur les comptes des
+comptables publics, sous réserve de l'article L. 262-4.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-594 1982-07-10, art 2 al 1
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L262-4 (M)
+
+
+##### Section 6 : Procédure
+
+##### Sous-section 3 : Dispositions communes.
+
+###### Article L262-53
+
+Les propositions, les rapports et les travaux de la chambre territoriale des comptes sont couverts par le secret
+professionnel que les experts sont tenus de respecter en application de l'article L. 262-52.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-594 1982-07-10, art 6 al 2
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L262-53 (M)
+
+
+###### Article L262-54
+
+Les jugements, avis, propositions, rapports et observations de la chambre territoriale des comptes sont délibérés et adoptés
+collégialement selon une procédure contradictoire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-213 1982-03-02 modifiée, art 84 al 2
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L262-58-1 (VT)
+
 
 #### TITRE VII : Dispositions applicables en Polynésie française
 
-##### CHAPITRE Ier : Du rapport public de la Cour des comptes.
+##### CHAPITRE Ier : Du rapport public de la Cour des comptes
 
 ###### Article L271-1
 
@@ -9193,15 +9420,15 @@ chapitre II du présent titre.
 
 	**Anciens textes**:
 
-	  - Loi n°67-483 1967-06-22, art 11 al 2, modifié par loi 82-594 1982-07-10 art 19-II
+	  - Loi n°67-594 1967-06-22, art 11 al 2, modifié par loi 82-594 1982-07-10 art 19-II
 
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L271-2
@@ -9214,15 +9441,15 @@ l'activité, aux moyens et aux résultats du contrôle de la chambre territorial
 
 	**Anciens textes**:
 
-	  - Loi n°82-213 1982-03-02 modifiée, art 28 al 1 et 3, complété par loi 88-13 1988-01-05, art 23-IX
+	  - Loi n°82-213 1982-03-02 modifiée, art 88 al 1 et 3, complété par loi 88-13 1988-01-05, art 23-IX
 
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L271-3
@@ -9241,14 +9468,14 @@ observations de la Cour des comptes.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ##### CHAPITRE II : De la chambre territoriale des comptes
 
-##### Section préliminaire : Création.
+##### Section préliminaire : Création
 
 ###### Article L272-1
 
@@ -9262,14 +9489,26 @@ Il est institué une chambre territoriale des comptes de la Polynésie français
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-24 (V)
 
 
-##### Section 1 : Missions.
+##### Section 1 : Missions
 
 ###### Article L272-3
 
@@ -9288,9 +9527,9 @@ Les premiers comptes jugés sont ceux de la gestion de 1991.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -9314,13 +9553,21 @@ et valeurs.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L272-3 (M)
+	  - Code des juridictions financières - art. L272-3 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-3-1 (V)
 
 
 ###### Article L272-6
@@ -9340,9 +9587,9 @@ moitié du capital ou des voix dans les organes délibérants, ou exercent un po
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -9370,9 +9617,9 @@ décision ou de gestion.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -9402,9 +9649,9 @@ même passible du contrôle de la Cour.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -9444,9 +9691,9 @@ comptes dont ces collectivités ou organismes relèvent n'est compétente.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -9470,9 +9717,13 @@ capital ou des voix dans les organes délibérants, ou exercent un pouvoir prép
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
 
 	**Cité par**:
 
@@ -9481,6 +9732,10 @@ capital ou des voix dans les organes délibérants, ou exercent un pouvoir prép
 	**Cite**:
 
 	  - Code des juridictions financières - art. L272-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-9 (V)
 
 
 ###### Article L272-11
@@ -9500,9 +9755,9 @@ président de la chambre territoriale intéressée.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L272-13
@@ -9522,9 +9777,9 @@ comptes.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -9550,9 +9805,9 @@ Les premiers comptes jugés sont ceux de la gestion de 1991.
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article LO272-4
@@ -9566,15 +9821,15 @@ crédits, fonds et valeurs.
 
 	**Anciens textes**:
 
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 6, sauf dernière phrase Loi 84-820 1984-09-06, art 97 al 3
+	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 6 Loi 84-820 1984-09-06, art 97 al 3
 
 	**Codifié par**:
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article LO272-12
@@ -9585,15 +9840,16 @@ La chambre territoriale des comptes examine la gestion du territoire et de ses �
 
 	**Anciens textes**:
 
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 13 Loi 84-820-1984-09-06, art 97 al 3
+	  - Loi n°82-213 1982-03-02 art. 87 al. 13
+	  - Loi n°84-820 1984-09-06 art. 97 al. 3
 
 	**Codifié par**:
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -9616,42 +9872,14 @@ III du présent titre.
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ##### Section 2 : Organisation
 
 ##### Sous-section 1 : Organisation de la juridiction.
-
-###### Article L272-15
-
-Les chambres territoriales des comptes de la Polynésie française et de la Nouvelle-Calédonie peuvent être présidées par un
-même président et dotées des mêmes assesseurs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-820 1984-09-06, art 97 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Abrogé par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 207 (V)
-
-	**Cité par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 207 (V)
-
 
 ###### Article L272-16
 
@@ -9667,9 +9895,17 @@ La chambre territoriale des comptes comprend au minimum un président et deux as
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-17 (V)
 
 
 ###### Article L272-17
@@ -9688,9 +9924,9 @@ République.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L272-18
@@ -9708,9 +9944,9 @@ Des magistrats de la Cour des comptes peuvent, à leur demande et sur propositio
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L272-19
@@ -9728,9 +9964,17 @@ conditions fixées par voie réglementaire.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-20 (V)
 
 
 ###### Article L272-20
@@ -9749,9 +9993,9 @@ intéressés ne peuvent exercer aucune activité juridictionnelle.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L272-21
@@ -9768,9 +10012,9 @@ Les membres de la chambre territoriale des comptes ont la qualité de magistrat.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L272-22
@@ -9790,9 +10034,18 @@ Les magistrats ne peuvent, en dehors de leurs fonctions, être requis pour d'aut
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-25 (V)
+	  - Code des juridictions financières - art. L272-26 (V)
 
 
 ###### Article L272-23
@@ -9817,9 +10070,17 @@ serment.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-27 (V)
 
 
 ###### Article L272-24
@@ -9832,15 +10093,15 @@ comptes.
 
 	**Anciens textes**:
 
-	  - Loi n°82-213 1982-03-02 modifiée, art 85 al 4
+	  - Loi n°82-213 1982-03-02, art 85 al 4
 
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L272-25
@@ -9860,9 +10121,9 @@ mis fin à cette délégation dans les mêmes formes.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L272-26
@@ -9883,9 +10144,9 @@ décision du procureur général qui en tient informé le premier président.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -9900,15 +10161,23 @@ Un décret en Conseil d'Etat fixe les modalités d'organisation et de fonctionne
 
 	**Anciens textes**:
 
-	  - Loi n°82-595 1982-07-10, art 1er sauf dernière phrase
+	  - Loi n°82-595 1982-07-10, art 1er, sauf dernière phrase
 
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-16 (V)
 
 	**Cité par**:
 
@@ -9932,9 +10201,17 @@ comptes au Conseil supérieur des chambres régionales dans des conditions fixé
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-30 (V)
 
 
 ###### Article L272-29
@@ -9952,12 +10229,20 @@ compétences qui sont les siennes à l'égard des chambres régionales des compt
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-31 (V)
 
 
-##### Section 3 : Dispositions statutaires.
+##### Section 3 : Dispositions statutaires
 
 ###### Article L272-30
 
@@ -9974,9 +10259,9 @@ composant ces juridictions sont applicables à la chambre territoriale des compt
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L272-31
@@ -9994,14 +10279,18 @@ comptes ne peuvent bénéficier d'aucun avancement de grade pendant la durée de
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 30 ()
 
 
 ##### Section 4 : Compétences et attributions juridictionnelles
 
-##### Sous-section 1 : Jugement des comptes.
+##### Sous-section 1 : Jugement des comptes
 
 ###### Article L272-33
 
@@ -10018,9 +10307,9 @@ chambre territoriale des comptes, dans les délais prescrits par les règlements
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L272-34
@@ -10038,9 +10327,9 @@ comptables publics, sous réserve de l'article L. 272-57.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -10062,9 +10351,9 @@ qu'elle a déclarées comptables de fait d'une collectivité ou d'un établissem
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article LO272-32
@@ -10074,24 +10363,20 @@ territoriale des comptes, dans les délais prescrits par les règlements.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°84-820 1984-09-06, art 95 dernier alinéa
-
 	**Codifié par**:
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
 	  - Loi n°2004-192 du 27 février 2004 - art. 184 (V)
 
 
-##### Sous-section 2 : Condamnation des comptables à l'amende.
+##### Sous-section 2 : Condamnation des comptables à l'amende
 
 ###### Article L272-36
 
@@ -10109,9 +10394,9 @@ amendes par la Cour des comptes pour un manquement analogue.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -10138,9 +10423,17 @@ dépasser le total des sommes indûment détenues ou maniées.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-38 (V)
 
 	**Cité par**:
 
@@ -10168,9 +10461,13 @@ manquements analogues.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 	**Cite**:
 
@@ -10181,7 +10478,7 @@ manquements analogues.
 	  - Code des juridictions financières - art. R272-38 (V)
 
 
-##### Section 5 : Contrôle des actes des sociétés d'économie mixte créées par le territoire.
+##### Section 5 : Contrôle des actes des sociétés d'économie mixte créées par le territoire
 
 ###### Article L272-39
 
@@ -10207,14 +10504,14 @@ haut-commissaire, à la société et au président du gouvernement du territoire
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
 	**Cité par**:
 
 	  - Loi n°96-313 du 12 avril 1996 - art. 10 (Ab)
 	  - Loi n°2004-193 du 27 février 2004 - art. 20 (V)
+
+	**Modifié par**:
+
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ##### Section 6 : Procédure
@@ -10236,9 +10533,9 @@ relatifs à la gestion du territoire.
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -10261,16 +10558,16 @@ code.
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. LO273-4 (VD)
 
 
-##### Sous-section 2 : A l'égard des autres collectivités et organismes.
+##### Sous-section 2 : A l'égard des autres collectivités et organismes
 
 ###### Article L272-42
 
@@ -10287,9 +10584,9 @@ relatifs à la gestion des communes, de leurs établissements publics et des aut
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -10314,9 +10611,9 @@ pouvoirs attribués à la Cour des comptes par le titre IV du livre Ier du prés
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -10327,7 +10624,7 @@ pouvoirs attribués à la Cour des comptes par le titre IV du livre Ier du prés
 	  - Code des juridictions financières - art. L273-6 (VD)
 
 
-##### Sous-section 3 : Dispositions communes.
+##### Sous-section 3 : Dispositions communes
 
 ###### Article L272-44
 
@@ -10346,9 +10643,9 @@ est jugée nécessaire, a l'obligation de répondre à la convocation de la cham
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -10374,9 +10671,17 @@ ou le président de la chambre et l'ordonnateur concerné.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-61 (V)
 
 
 ###### Article L272-46
@@ -10390,15 +10695,23 @@ mandatée à cet effet par celle-ci.
 
 	**Anciens textes**:
 
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 13, quatrième phrase
+	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 13 quatrième phrase
 
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-62 (V)
 
 	**Cite**:
 
@@ -10425,9 +10738,9 @@ mesure de leur apporter une réponse écrite.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L272-48
@@ -10459,9 +10772,9 @@ l'exécutif de la collectivité ou de l'établissement à son assemblée délib�
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -10482,9 +10795,17 @@ La chambre territoriale des comptes prend toutes dispositions pour garantir le s
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-46 (V)
 
 	**Cité par**:
 
@@ -10511,9 +10832,9 @@ professionnel.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -10538,9 +10859,9 @@ professionnel que les experts sont tenus de respecter en application de l'articl
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
@@ -10562,9 +10883,9 @@ collégialement selon une procédure contradictoire.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -10586,17 +10907,25 @@ collectivités, établissements, sociétés, groupements et organismes concerné
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. L272-55 (VD)
 	  - Code des juridictions financières - art. R272-59 (V)
 
+	**Nouveaux textes**:
 
-##### Section 7 : Voies de recours.
+	  - Code des juridictions financières - art. L272-60 (V)
+
+
+##### Section 7 : Voies de recours
 
 ###### Article L272-54
 
@@ -10614,9 +10943,9 @@ prononcé à titre définitif par la chambre territoriale des comptes.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -10639,9 +10968,9 @@ pour cause d'erreur, omission, faux ou double emploi.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L272-56
@@ -10659,12 +10988,12 @@ en Conseil d'Etat.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
-##### Section 8 : Dispositions concernant les exercices 1991, 1992 et 1993.
+##### Section 8 : Dispositions concernant les exercices 1991, 1992 et 1993
 
 ###### Article L272-57
 
@@ -10675,17 +11004,13 @@ administratif par les comptables supérieurs du Trésor.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°84-820 1984-09-06, art 97 al 3 Loi 82-213 1982-03-02 modifiée, art 87 al 2
-
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -10696,6 +11021,10 @@ administratif par les comptables supérieurs du Trésor.
 	**Cite**:
 
 	  - Code des juridictions financières L272-58 à L272-60
+
+	**Anciens textes**:
+
+	  - Loi n°84-820 0984-09-06, art 97 al 3 Loi 82-213 1982-03-02 modifiée, art 87 al 2
 
 
 ###### Article L272-58
@@ -10708,15 +11037,19 @@ comptes. La mise en débet du comptable ne peut être prononcée que par la cham
 
 	**Anciens textes**:
 
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 3
+	  - Loi n°82-213 1982-03-02 modifiée, art 3
 
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 	**Cite**:
 
@@ -10739,9 +11072,13 @@ Trésor emportent décharge définitive du comptable.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 	**Cité par**:
 
@@ -10765,16 +11102,16 @@ La chambre territoriale des comptes peut exercer son droit d'évocation et de r�
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. L272-59 (M)
 
 
-##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution du budget du territoire, des communes et des établissements publics.
+##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution du budget du territoire, des communes et des établissements publics
 
 ###### Article LO273-1
 
@@ -10805,7 +11142,7 @@ décision doit être motivée si elle s'écarte de l'un au moins de ces avis.
 
 	**Modifié par**:
 
-	  - Loi n°96-312 du 12 avril 1996 - art. 119 ()
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -10839,9 +11176,9 @@ d'une motivation explicite.
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -10878,9 +11215,9 @@ mise en demeure qui lui a été faite par le haut-commissaire, celui-ci y procè
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -10904,9 +11241,9 @@ La chambre territoriale des comptes prend toutes dispositions pour garantir le s
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ##### CHAPITRE IV : Du comptable du territoire
@@ -10928,9 +11265,9 @@ territoire. Celui-ci est un comptable direct du Trésor ayant la qualité de com
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L274-2
@@ -10948,9 +11285,9 @@ même personne.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ###### Article L274-3
@@ -10967,9 +11304,9 @@ Le comptable du territoire prête serment devant la chambre territoriale des com
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
 ##### Section 2 : Obligations et missions.
@@ -10990,9 +11327,9 @@ personnelle et pécuniaire. Il est tenu de motiver la suspension du paiement.
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27 jorf 28 décembre 1994
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -11013,7 +11350,8 @@ En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
 
 	**Anciens textes**:
 
-	  - Loi n°84-820 1984-09-06, art 96 al 2 à 4 : modifié par loi 96-312 1996-04-12, art 120
+	  - Loi n°84-820 1984-09-06, art 96 al 2 à 4
+	  - modifié par loi 96-312 1996-04-12, art 120
 
 	**Codifié par**:
 
@@ -11021,7 +11359,7 @@ En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
 
 	**Modifié par**:
 
-	  - Loi n°96-312 du 12 avril 1996 - art. 119 ()
+	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 

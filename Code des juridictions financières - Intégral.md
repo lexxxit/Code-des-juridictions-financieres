@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2003-12-21
+Version Consolidée au 2003-12-31
 
 # Partie législative
 
@@ -5657,7 +5657,7 @@ groupements de ces collectivités, à l'exception des établissements publics de
 Par dérogation aux dispositions des articles L. 1617-2 et L. 1617-3 du code général des collectivités territoriales, les
 chambres régionales des comptes sont destinataires des ordres de réquisition notifiés au comptable de l'établissement par
 l'ordonnateur d'un établissement public de santé ou d'un syndicat interhospitalier, régis par le livre VII du code de la
-santé publique, conformément aux dispositions de l'article L. 714-15, deuxième à septième alinéas, de ce code reproduit ci-
+santé publique, conformément aux dispositions de l'article L. 6145-8, deuxième à septième alinéas, de ce code reproduit ci-
 après :
 
 Art. L. 6145-8, deuxième à septième alinéas.
@@ -5677,29 +5677,15 @@ payeur général du département qui le transmet à la chambre régionale des co
 
 En cas de réquisition, le comptable est déchargé de sa responsabilité.
 
-Le comptable assiste avec voix consultative au conseil d'administration de l'établissement lorsque celui-ci délibère sur des
-affaires de sa compétence.
-
-Les conditions de placement et de rémunération des fonds des établissements publics de santé sont déterminés par décret.
-
-A la demande de l'ordonnateur, le comptable informe ce dernier de la situation de paiement des mandats et du recouvrement des
-titres de recettes, de la situation de la trésorerie et de tout élément utile à la bonne gestion de l'établissement. Il paie
-les mandats dans l'ordre de priorité indiqué par l'ordonnateur.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
-
-	  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-
 	**Modifié par**:
 
-	  - Loi n°99-1140 du 29 décembre 1999 - art. 23 (V)
-	  - Ordonnance 2000-548 2000-06-15 art. 4 I jorf 22 juin 2000
+	  - Loi n°2003-1311 2003-12-30 art. 116 II 2° finances pour 2004 JORF 31 décembre 2003
 
 	**Anciens textes**:
 
@@ -5712,7 +5698,7 @@ les mandats dans l'ordre de priorité indiqué par l'ordonnateur.
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L714-15 (M)
+	  - Code de la santé publique - art. L6145-8 (M)
 
 
 ###### Article L233-3

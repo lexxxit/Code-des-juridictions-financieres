@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2001-12-26
+Version Consolidée au 2001-12-27
 
 # Partie législative
 
@@ -5076,6 +5076,12 @@ Art.L. 1612-19.-Les assemblées délibérantes sont tenues informées dès leur 
 chambre régionale des comptes et des arrêtés pris par le représentant de l'Etat en application des dispositions du présent
 chapitre. 
 
+Art. L. 1612-19-1. - Les assemblées délibérantes doivent se prononcer sur le caractère d'utilité publique des dépenses ayant
+donné lieu à une déclaration en gestion de fait par la chambre régionale des comptes au cours de la plus proche séance
+suivant la transmission de la demande adressée par la chambre régionale des comptes au comptable de fait et à l'ordonnateur
+de la collectivité territoriale concernée. Passé ce délai, la chambre régionale des comptes statue sur les dépenses de la
+gestion de fait dont elle apprécie les justifications présentées. 
+
 Art.L. 1612-20.-I.-Les dispositions du présent chapitre sont applicables aux établissements publics communaux et
 intercommunaux. 
 
@@ -5100,7 +5106,7 @@ aux établissements publics régionaux et interrégionaux.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 130
+	  - Loi n°2001-1248 du 21 décembre 2001 - art. 40
 
 	**Cité par**:
 

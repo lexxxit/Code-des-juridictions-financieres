@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2004-08-12
+Version Consolidée au 2004-09-01
 
 # Partie législative
 
@@ -5287,7 +5287,7 @@ des communes au budget du syndicat.
 Le contrôle des actes budgétaires et de l'exécution des budgets des établissements publics locaux d'enseignement s'exerce
 dans les conditions prévues par les articles L. 421-11 à L. 421-13 du code de l'éducation ci-après reproduits : 
 
-Art.L. 421-11.-Le budget d'un établissement public local d'enseignement est préparé, adopté et devient exécutoire dans les
+Art. L. 421-11.-Le budget d'un établissement public local d'enseignement est préparé, adopté et devient exécutoire dans les
 conditions suivantes : 
 
 a) Avant le 1er novembre de l'année précédant l'exercice, le montant prévisionnel de la participation aux dépenses
@@ -5295,6 +5295,10 @@ d'équipement et de fonctionnement incombant à la collectivité territoriale do
 relatives à l'équipement et au fonctionnement matériel de l'établissement, arrêtés par l'assemblée délibérante de cette
 collectivité, sont notifiés au chef d'établissement. Cette participation ne peut être réduite lors de l'adoption ou de la
 modification du budget de cette collectivité ; 
+
+La répartition des crédits aux établissements par les collectivités de rattachement se fonde notamment sur des critères tels
+que le nombre d'élèves, l'importance de l'établissement, le type d'enseignement, les populations scolaires concernées, les
+indicateurs qualitatifs de la scolarisation ; 
 
 b) Le chef d'établissement prépare le projet de budget en fonction des orientations fixées et dans la limite de l'ensemble
 des ressources dont dispose l'établissement. Il le soumet au conseil d'administration ; 
@@ -5310,7 +5314,7 @@ mentionnées ci-dessus, sauf si, dans ce délai, l'autorité académique ou la c
 connaître son désaccord motivé sur le budget ainsi arrêté ; 
 
 e) En cas de désaccord, le budget est réglé conjointement par la collectivité de rattachement et l'autorité académique. Il
-est transmis au représentant de l'Etat et devient exécutoire.
+est transmis au représentant de l'Etat et devient exécutoire. 
 
 A défaut d'accord entre ces deux autorités dans le délai de deux mois à compter de la réception du budget, le budget est
 réglé par le représentant de l'Etat après avis public de la chambre régionale des comptes. Le représentant de l'Etat ne peut,
@@ -5322,16 +5326,12 @@ l'Etat et destinées à pourvoir aux dépenses pédagogiques de cet établisseme
 f) Lorsque le budget n'est pas adopté dans les trente jours suivant la notification de la participation de la collectivité
 dont dépend l'établissement, il est fait application de la procédure prévue au e. Toutefois, le délai prévu au deuxième
 alinéa dudit e est d'un mois à compter de la saisine par le représentant de l'Etat de la collectivité de rattachement et de
-l'autorité académique ;
+l'autorité académique. 
 
-g) La répartition des crédits aux établissements par les collectivités de rattachement se fonde notamment sur des critères
-tels que le nombre d'élèves, l'importance de l'établissement, le type d'enseignement, les populations scolaires concernées,
-les indicateurs qualitatifs de la scolarisation.
+Art. L. 421-12.-A l'exclusion de la date mentionnée au a de l'article L. 421-11, les dispositions de cet article sont
+applicables aux budgets modificatifs. Toutefois, le délai prévu au second alinéa du d est de quinze jours. 
 
-Art.L. 421-12.-A l'exclusion de la date mentionnée au a de l'article L. 421-11, les dispositions de cet article sont
-applicables aux budgets modificatifs. 
-
-Art.L. 421-13.-I.-Lorsqu'il règle le budget de l'établissement, en application des dispositions du troisième alinéa de
+Art. L. 421-13.-I.-Lorsqu'il règle le budget de l'établissement, en application des dispositions du troisième alinéa de
 l'article L. 1612-5 du code général des collectivités territoriales et du troisième alinéa de l'article L. 1612-15 du même
 code, le représentant de l'Etat ne peut, par rapport à l'exercice antérieur, sauf exceptions liées à l'évolution des
 effectifs ou à la consistance du parc des matériels ou des locaux, majorer la participation de la collectivité de
@@ -5341,7 +5341,8 @@ rattachement, ni l'évolution des recettes allouées par l'Etat et destinées à
 
 II.-Pour l'application des dispositions des articles L. 1612-1, L. 1612-5, L. 1612-9, L. 1612-12, premier alinéa, L. 1612-15,
 L. 1612-16 du code général des collectivités territoriales et L. 242-2 du code des juridictions financières, les prérogatives
-du maire et du conseil municipal sont exercées respectivement par le chef d'établissement et le conseil d'administration. 
+de l'exécutif et de l'assemblée délibérante sont exercées respectivement par le chef d'établissement et le conseil
+d'administration. 
 
 Toutefois, lorsque le budget a été arrêté conformément au premier alinéa du e de l'article L. 421-11 du présent code et qu'il
 n'est pas en équilibre réel, une décision conjointe de la collectivité de rattachement et de l'autorité académique tient lieu
@@ -5349,8 +5350,8 @@ de la nouvelle délibération mentionnée au deuxième alinéa de l'article L. 1
 territoriales. 
 
 III.-Par dérogation aux dispositions du premier alinéa de l'article L. 1612-12 du code général des collectivités
-territoriales, le compte financier est soumis par le chef d'établissement au conseil d'administration avant l'expiration du
-sixième mois suivant la clôture de l'exercice. 
+territoriales, le compte financier est soumis par le chef d'établissement au conseil d'administration avant l'expiration d'un
+délai fixé par décret en Conseil d'Etat. 
 
 Les autres dispositions de l'article L. 1612-12 du code général des collectivités territoriales et celles de l'article L.
 1612-14 du même code ne sont pas applicables. 
@@ -5362,19 +5363,15 @@ général ou le conseil régional peut déléguer tout ou partie de ses attribut
 relatives à la fixation du montant de la participation de la collectivité de rattachement prévue au a de l'article L. 421-11
 du présent code.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières l232-28 : loi 83-663 0983-07-22, art 9, modifié par loi 85-97 1985-01-25, art 9
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
 
 	**Modifié par**:
 
-	  - Rapport - art. 4 ()
+	  - Ordonnance n°2004-631 du 1 juillet 2004 - art. 2
 
 	**Cité par**:
 
@@ -5386,18 +5383,10 @@ du présent code.
 
 	**Cite**:
 
-	  - Code des juridictions financières L421-11, L1612-1, L1612-5, L1612-9, L1612-12, L421-12
-	  - Code général des collectivités territoriales - art. L1612-12 (M)
-	  - Code général des collectivités territoriales - art. L1612-14 (V)
-	  - Code général des collectivités territoriales - art. L1612-15 (V)
-	  - Code général des collectivités territoriales - art. L1612-5 (M)
-	  - Code de l'éducation L421-11 à L421-13
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de l'éducation - art. L421-11 (V)
-	  - PILOTE_SUIVEUR: Code de l'éducation - art. L421-12 (V)
-	  - PILOTE_SUIVEUR: Code de l'éducation - art. L421-13 (V)
+	  - Code général des collectivités territoriales - art. L1612-1 (V)
+	  - Code général des collectivités territoriales - art. L1612-12 (VT)
+	  - Code général des collectivités territoriales - art. L1612-5 (V)
+	  - Code général des collectivités territoriales - art. L1612-9 (V)
 
 
 ##### Section 4 : Des établissements publics de santé
@@ -23156,6 +23145,54 @@ l'agent comptable.
 	  - Code des juridictions financières - art. L232-4 (M)
 
 
+###### Article R232-4
+
+Les modifications apportées au budget initial en cours d'exercice sont adoptées dans les mêmes conditions que le budget.
+Elles deviennent exécutoires dans le délai de quinze jours à compter de la dernière date de réception par les autorités de
+tutelle, sauf si l'une ou l'autre fait connaître son désaccord motivé.
+
+Par dérogation aux dispositions ci-dessus, le chef d'établissement peut directement porter au budget les modifications
+suivantes :
+
+a) Les augmentations de crédits provenant de l'encaissement de ressources liées à des activités spécifiques de
+l'établissement dont le montant ne peut être arrêté avec exactitude lors de l'élaboration du budget ;
+
+b) Dans la mesure où elles n'ont pas pu faire l'objet d'une inscription au budget initial, les augmentations de crédits,
+suivies en ressources affectées, relatives à des recettes encaissées par l'établissement mais qui ne lui sont définitivement
+acquises qu'à concurrence du montant des dépenses constatées pour l'exécution des charges précisées lors du versement des
+fonds.
+
+Le chef d'établissement informe la commission permanente de ces modifications et en rend compte au prochain conseil
+d'administration.
+
+Il peut également, à charge d'en rendre compte au prochain conseil d'administration, procéder à tout virement de crédits à
+l'intérieur d'un chapitre.
+
+Toutes les décisions budgétaires modificatives précitées donnent lieu à l'élaboration d'un document budgétaire actualisé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 16 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2004-885 du 27 août 2004 - art. 12 () JORF 29 août 2004 en vigueur le 1er septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 5
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. R421-60 (V)
+
+
 ###### Article R232-5
 
 Lorsqu'il est fait application des dispositions de l'article L. 1612-1 du code général des collectivités territoriales, il
@@ -30046,55 +30083,6 @@ paritaires en matière de notation sont exercées par le Conseil supérieur des 
 	**Anciens textes**:
 
 	  - Décret n°82-970 du 16 novembre 1982 - art. 21 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-#### TITRE III : COMPÉTENCES ET ATTRIBUTIONS
-
-##### CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets
-
-##### Section 3 : Des établissements publics locaux d'enseignement.
-
-###### Article R232-4
-
-Les modifications apportées au budget initial en cours d'exercice sont adoptées et deviennent exécutoires dans les mêmes
-conditions que le budget.
-
-Par dérogation aux dispositions ci-dessus, le chef d'établissement peut directement porter au budget les modifications
-suivantes :
-
-a) Les augmentations de crédits provenant de l'encaissement de ressources liées à des activités spécifiques de
-l'établissement dont le montant ne peut être arrêté avec exactitude lors de l'élaboration du budget ;
-
-b) Dans la mesure où elles n'ont pas pu faire l'objet d'une inscription au budget initial, les augmentations de crédits,
-suivies en ressources affectées, relatives à des recettes encaissées par l'établissement mais qui ne lui sont définitivement
-acquises qu'à concurrence du montant des dépenses constatées pour l'exécution des charges précisées lors du versement des
-fonds.
-
-Le chef d'établissement informe la commission permanente de ces modifications et en rend compte au prochain conseil
-d'administration.
-
-Il peut également, à charge d'en rendre compte au prochain conseil d'administration, procéder à tout virement de crédits à
-l'intérieur d'un chapitre.
-
-Toutes les décisions budgétaires modificatives précitées donnent lieu à l'élaboration d'un document budgétaire actualisé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 37 (M)
-
-	**Cité par**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 16 (V)
 
 	**Codifié par**:
 

@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2004-09-01
+Version Consolidée au 2004-09-08
 
 # Partie législative
 
@@ -21717,6 +21717,53 @@ du grade de président de section, sans ancienneté.
 	  - Décret n°2002-1153 du 10 septembre 2002 - art. 11 ()
 
 
+###### Article R224-7
+
+Le tableau d'avancement est, pour chaque grade, commun à tous les membres du corps des chambres régionales des comptes. Il
+est établi par le Conseil supérieur des chambres régionales des comptes, conformément au premier alinéa de l'article L.
+212-16. Il doit être arrêté au plus tard le 15 décembre de l'année précédant celle pour laquelle il est établi. Il cesse
+d'être valable à l'expiration de l'année pour laquelle il est dressé. Il doit être porté à la connaissance des magistrats
+dans un délai de trois jours suivant la date à laquelle il a été arrêté.
+
+Pour l'établissement du tableau d'avancement, il est procédé à un examen approfondi de la valeur professionnelle du
+magistrat, compte tenu notamment :
+
+1° Des notations qui lui ont été attribuées ;
+
+2° Des propositions motivées formulées par les présidents des chambres ou, pour les commissaires du Gouvernement, par le
+procureur général près la Cour des comptes ;
+
+3° Et, à compter du 1er janvier 2005, de l'évaluation de l'intéressé retracée par les comptes rendus d'évaluation.
+
+Le Conseil supérieur des chambres régionales des comptes peut demander à entendre les intéressés.
+
+Les magistrats sont inscrits au tableau par ordre de mérite.
+
+Les candidats dont le mérite est jugé égal sont départagés par l'ancienneté.
+
+Le nombre des conseillers inscrits au tableau d'avancement au grade de premier conseiller ne peut excéder de plus de 30 % le
+nombre des vacances prévues au cours de l'année considérée. Cette limitation ne s'applique pas pour l'établissement du
+tableau d'avancement au grade de président de section.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 24 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2004-944 du 1 septembre 2004 - art. 1 () JORF 8 septembre 2004
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L212-16 (M)
+
+
 ###### Article R224-8
 
 Les avancements de grade sont prononcés dans l'ordre du tableau d'avancement.
@@ -21739,6 +21786,65 @@ d'avancement.
 	**Modifié par**:
 
 	  - Décret n°2002-1153 du 10 septembre 2002 - art. 13 ()
+
+
+##### CHAPITRE V : Evaluation et notation
+
+###### Article R225-1
+
+Un arrêté du premier président de la Cour des comptes pris après avis du Conseil supérieur des chambres régionales des
+comptes fixe la périodicité, le contenu et les modalités d'organisation de l'entretien d'évaluation, notamment l'autorité
+chargée de le conduire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 21 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2004-944 du 1 septembre 2004 - art. 2 () JORF 8 septembre 2004
+
+
+###### Article R225-2
+
+Le premier président de la Cour des comptes, après avis du président de la chambre régionale des comptes, ou, pour les
+commissaires du Gouvernement, le procureur général près la Cour des comptes attribuent aux magistrats une note chiffrée et
+formulent une appréciation générale sur leur valeur professionnelle. Les compétences des commissions administratives
+paritaires en matière de notation sont exercées par le Conseil supérieur des chambres régionales des comptes.
+
+Un arrêté du premier président de la Cour des comptes pris après avis du Conseil supérieur des chambres régionales des
+comptes fixe les critères d'appréciation des magistrats, les niveaux de notes, les marges d'évolution des notes, les
+modalités de leur harmonisation préalable ainsi que la périodicité de la notation.
+
+Les dispositions du titre II du décret n° 59-308 du 14 février 1959 relatif aux conditions générales de notation et
+d'avancement des fonctionnaires et, à compter de son entrée en vigueur, du titre III du décret n° 2002-682 du 29 avril 2002
+relatif aux conditions générales d'évaluation, de notation et d'avancement des fonctionnaires de l'Etat ne sont pas
+applicables aux membres du corps des chambres régionales des comptes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°59-308 1959-02-14
+	  - Décret n°2002-682 2002-04-29
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 21 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2004-944 du 1 septembre 2004 - art. 2 () JORF 8 septembre 2004
 
 
 ##### CHAPITRE VI : Positions des magistrats
@@ -30023,74 +30129,6 @@ par la collectivité ou l'établissement public concerné.
 
 	  - Code des juridictions financières - art. R263-20 (V)
 	  - Code des juridictions financières - art. R263-3 (V)
-
-
-## LIVRE II : Les chambres régionales et territoriales des comptes. 
-
-### DEUXIEME PARTIE : Les chambres régionales des comptes.
-
-#### TITRE II : DISPOSITIONS STATUTAIRES
-
-##### CHAPITRE IV : Avancement.
-
-###### Article R224-7
-
-Le tableau d'avancement est, pour chaque grade, commun à tous les membres du corps des chambres régionales des comptes. Il
-est établi par le Conseil supérieur des chambres régionales des comptes, au vu notamment des appréciations ou propositions
-formulées par les présidents des chambres ou, pour les commissaires du Gouvernement, par le procureur général près la Cour
-des comptes, conformément au premier alinéa de l'article L. 212-16. Il doit être arrêté au plus tard le 15 décembre de
-l'année précédant celle pour laquelle il est établi. Il cesse d'être valable à l'expiration de l'année pour laquelle il est
-dressé.
-
-Pour établir le tableau d'avancement, il est fait application des dispositions de l'article 15 du décret n° 59-308 du 14
-février 1959 relatif aux conditions générales de notation et d'avancement des fonctionnaires.
-
-Le nombre des conseillers inscrits au tableau d'avancement au grade de premier conseiller ne peut excéder de plus de 30 % le
-nombre des vacances prévues au cours de l'année considérée. Cette limitation ne s'applique pas pour l'établissement du
-tableau d'avancement au grade de président de section.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°59-308 du 14 février 1959 - art. 15 (Ab)
-	  - Code des juridictions financières - art. L212-16 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 24 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Modifié par**:
-
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 47 ()
-
-
-##### CHAPITRE V : Notation.
-
-###### Article R225-1
-
-Le premier président de la Cour des comptes, après avis du président de la chambre régionale des comptes, ou, pour les
-commissaires du Gouvernement, le procureur général près la Cour des comptes, attribuent aux magistrats une note chiffrée et
-formulent une appréciation générale sur leur valeur professionnelle. Les compétences des commissions administratives
-paritaires en matière de notation sont exercées par le Conseil supérieur des chambres régionales des comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 21 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
 ## LIVRE III : Les institutions associées à la Cour des comptes

@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1999-03-21
+Version Consolidée au 1999-07-13
 
 # Partie législative
 
@@ -4869,19 +4869,19 @@ même code.
 La chambre régionale des comptes, saisie par le représentant de l'Etat, donne un avis sur les modifications susceptibles
 d'être apportées aux règles fixant les modalités de répartition des contributions des communes au budget d'un syndicat dont
 elles sont membres dans le cadre défini à l'article L. 5212-25 du code général des collectivités territoriales ci-après
-reproduit :
+reproduit : 
 
-Art. L. 5212-25. - Lorsque l'application d'une disposition à caractère fiscal ou budgétaire a pour conséquence d'augmenter ou
-de diminuer les ressources de fonctionnement d'une commune membre d'un syndicat d'un pourcentage égal ou supérieur à 10 p.
-100 des recettes de la section de fonctionnement s'il s'agit d'une commune de moins de 20 000 habitants et à 5 p. 100 dans
-les autres cas, chaque commune membre peut demander au comité syndical une modification des règles fixant les modalités de
-répartition des contributions financières des communes au budget du syndicat à compter de l'année suivante.
+Art. L. 5212-25.-Lorsque l'application d'une disposition à caractère fiscal ou budgétaire a pour conséquence d'augmenter ou
+de diminuer les ressources de fonctionnement d'une commune membre d'un syndicat d'un pourcentage égal ou supérieur à 10 % des
+recettes de la section de fonctionnement, s'il s'agit d'une commune de moins de 20 000 habitants, et à 5 % dans les autres
+cas, chaque commune membre peut demander au comité du syndicat une modification des règles fixant les modalités de
+répartition des contributions financières des communes au budget du syndicat à compter de l'année suivante. 
 
-Si le comité syndical n'a pas fait droit à la demande dans un délai de six mois, ou si la délibération du comité syndical n'a
-pas été approuvée par les conseils municipaux dans les conditions prévues aux deuxième, troisième et cinquième alinéas de
-l'article L. 5212-27 du code général des collectivités territoriales, le représentant de l'Etat peut modifier, à la demande
-de la commune intéressée et après avis de la chambre régionale des comptes, les règles fixant les modalités de répartition
-des contributions financières des communes au budget du syndicat.
+Si le comité du syndicat n'a pas fait droit à la demande dans un délai de six mois, ou si la délibération du comité du
+syndicat n'a pas été approuvée par les conseils municipaux dans les conditions prévues aux deuxième, et troisième alinéas de
+l'article L. 5211-20, le représentant de l'Etat dans le département peut modifier, à la demande de la commune intéressée et
+après avis de la chambre régionale des comptes, les règles fixant les modalités de répartition des contributions financières
+des communes au budget du syndicat.
 
 **Liens relatifs à cet article**
 
@@ -4891,7 +4891,7 @@ des contributions financières des communes au budget du syndicat.
 
 	**Modifié par**:
 
-	  - Loi n°96-142 du 21 février 1996 - art. 4 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
 
 	**Cité par**:
 
@@ -4902,6 +4902,11 @@ des contributions financières des communes au budget du syndicat.
 	**Anciens textes**:
 
 	  - Code des juridictions financières l232-19
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-20 (V)
+	  - Code général des collectivités territoriales - art. L5212-25 (V)
 
 
 ##### Section 3 : Des établissements publics locaux d'enseignement
@@ -5246,36 +5251,47 @@ général des collectivités territoriales.
 
 ###### Article L233-1
 
-Le comptable d'une commune, d'un département, d'une région ne peut subordonner ses actes de paiement à une appréciation de
-l'opportunité des décisions prises par l'ordonnateur. Il ne peut soumettre les mêmes actes qu'au contrôle de légalité
-qu'impose l'exercice de sa responsabilité personnelle et pécuniaire. Il est tenu de motiver la suspension du paiement.
+Les ordres de réquisition des comptables sont régis par les dispositions des articles L. 1617-2 à L. 1617-4 du code général
+des collectivités territoriales ci-après reproduits :
 
-Lorsque le comptable notifie sa décision de suspendre le paiement d'une dépense, l'ordonnateur peut lui adresser un ordre de
-réquisition. Il s'y conforme aussitôt, sauf en cas d'insuffisance de fonds disponibles, de dépense ordonnancée sur des
-crédits irrégulièrement ouverts ou insuffisants ou sur des crédits autres que ceux sur lesquels elle devrait être imputée,
-d'absence totale de justification du service fait et de défaut de caractère libératoire du règlement ainsi qu'en cas
-d'absence de caractère exécutoire des actes pris par les autorités communales, départementales ou régionales.
+Art. L. 1617-2. -  Le comptable d'une commune, d'un département ou d'une région ne peut subordonner ses actes de paiement à
+une appréciation de l'opportunité des décisions prises par l'ordonnateur. Il ne peut soumettre les mêmes actes qu'au contrôle
+de légalité qu'impose l'exercice de sa responsabilité personnelle et pécuniaire. Il est tenu de motiver la suspension du
+paiement.
+
+Art. L. 1617-3. - Lorsque le comptable de la commune, du département ou de la région notifie sa décision de suspendre le
+paiement d'une dépense, le maire, le président du conseil général ou le président du conseil régional peut lui adresser un
+ordre de réquisition. Il s'y conforme aussitôt, sauf en cas d'insuffisance de fonds disponibles, de dépense ordonnancée sur
+des crédits irrégulièrement ouverts ou insuffisants ou sur des crédits autres que ceux sur lesquels elle devrait être
+imputée, d'absence totale de justification du service fait et de défaut de caractère libératoire du règlement ainsi qu'en cas
+d'absence de caractère exécutoire des actes pris selon les cas par les autorités communales, les autorités départementales ou
+les autorités régionales.
 
 L'ordre de réquisition est notifié à la chambre régionale des comptes.
 
 En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
 
-La liste des pièces justificatives que le comptable peut exiger avant de procéder au paiement est fixée par voie
-réglementaire.
+La liste des pièces justificatives que le comptable peut exiger avant de procéder au paiement est fixée par décret.
+
+Art. L. 1617-4 - Les dispositions du présent chapitre sont applicables aux établissements publics communaux et
+intercommunaux, aux établissements publics départementaux, aux établissements publics interdépartementaux, aux établissements
+publics communs aux communes et aux départements ainsi qu'aux établissements publics communs à des collectivités locales ou
+groupements de ces collectivités, à l'exception des établissements publics de santé.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°82-213 1982-03-02 modifiée, art 15 Loi 82-213 1982-03-02 modifiée, art 55 Loi 72-619 1972-07-05, art 21-3-II, issu de loi 82-213 1982-03-02, art 82 Loi 94-504 1994-06-22, art 8-IV, 8-V et 8-VI Modifié par loi 96-142 1996-02-21, art 4-XII
+	  - Loi n°82-213 1982-03-02 modifiée, art 15 Loi 82-213 1982-03-02 modifiée, art 55 Loi 72-619 1972-07-05, art 21-3-II, issu de loi 82-213 1982-03-02 modifiée, art 82 Loi 94-504 1994-06-22, art 8-IV, 8-V, 8-VI Modifié par loi 96-142 1996-02-21, art 4-XII
 
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°96-142 du 21 février 1996 - art. 4 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 66 () JORF 13 juillet 1999
 
 	**Cité par**:
 
@@ -5285,6 +5301,10 @@ réglementaire.
 	  - Code des juridictions financières - art. L233-5 (T)
 	  - Code des juridictions financières - art. L250-11 (Ab)
 	  - Code des juridictions financières - art. L312-2 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales L1617-2 à L1617-4
 
 
 ###### Article L233-3

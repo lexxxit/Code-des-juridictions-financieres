@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2002-03-05
+Version Consolidée au 2002-03-21
 
 # Partie législative
 
@@ -14243,6 +14243,71 @@ présidents de chambre ; le premier président désigne parmi les conseillers ma
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
+##### Section 6 : Assistants de la Cour des comptes
+
+###### Article R112-25
+
+Les assistants de la Cour des comptes collaborent, sous la responsabilité des magistrats et des rapporteurs extérieurs, aux
+contrôles et enquêtes relevant de la compétence des chambres auxquelles ils sont affectés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-370 du 14 mars 2002 - art. 1 () JORF 21 mars 2002
+
+	**Cité par**:
+
+	  - Décret n°2008-94 du 30 janvier 2008 - art. 9 (Ab)
+
+
+###### Article R112-26
+
+Des fonctionnaires peuvent être détachés, avec l'accord du premier président de la Cour des comptes, sur un emploi
+d'assistant de la Cour des comptes pour une période d'une durée maximale de trois ans renouvelable une fois.
+
+Un arrêté du premier président de la Cour des comptes fixe leur affectation dans une chambre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-370 du 14 mars 2002 - art. 1 () JORF 21 mars 2002
+
+	**Cité par**:
+
+	  - Décret n°2002-370 du 14 mars 2002 - art. 3 (V)
+	  - Décret n°2008-94 du 30 janvier 2008 - art. 7 (Ab)
+
+
+###### Article R112-27
+
+Il peut être mis fin par le premier président de la Cour des comptes, dans l'intérêt du service, au détachement des
+fonctionnaires occupant l'emploi d'assistant de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000 (V)
+
+	**Créé par**:
+
+	  - Décret n°2002-370 du 14 mars 2002 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2008-94 du 30 janvier 2008 - art. 11
+
+
 ### TITRE II : Dispositions statutaires
 
 #### CHAPITRE Ier : Nominations
@@ -14511,6 +14576,59 @@ Les magistrats recrutés à la Cour par la voie du tour extérieur sont considé
 	**Créé par**:
 
 	  - Décret n°2000-337 2000-04-14 jorf 16 avril 2000
+
+
+#### CHAPITRE IV : Assistants de la Cour des comptes
+
+###### Article R124-1
+
+L'emploi d'assistant de la Cour des comptes comprend 8 échelons.
+
+La durée de services effectifs passés dans chaque échelon pour accéder à l'échelon supérieur est fixée à deux ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-370 du 14 mars 2002 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-94 du 30 janvier 2008 - art. 11
+
+	**Cité par**:
+
+	  - Décret n°2008-94 du 30 janvier 2008 - art. 9 (Ab)
+
+
+###### Article R124-2
+
+Peuvent être détachés sur un emploi d'assistant de la Cour des comptes les fonctionnaires de catégorie A appartenant à un
+corps dont l'indice brut terminal du grade de début ou du grade unique est au moins égal à 780 et justifiant d'au moins
+quatre années de services effectifs en cette qualité.
+
+Lors de leur nomination dans l'emploi d'assistant de la Cour des comptes, les fonctionnaires sont classés à l'échelon
+comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient antérieurement dans leur
+corps, cadre d'emplois ou emploi d'origine.
+
+Ils conservent, dans la limite de la durée moyenne de service exigée pour l'accès à l'échelon supérieur de leur emploi de
+détachement, l'ancienneté acquise dans leur précédent emploi lorsque le détachement leur procure un avantage inférieur à
+celui qui aurait résulté d'un avancement d'échelon dans leur grade d'origine ou qui a résulté de leur élévation audit échelon
+si cet échelon était le plus élevé de leur précédent emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-370 du 14 mars 2002 (V)
+
+	**Cité par**:
+
+	  - Décret n°2002-370 du 14 mars 2002 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-94 du 30 janvier 2008 - art. 11
 
 
 ### TITRE III : Compétences et attributions
@@ -17354,9 +17472,6 @@ Pour l'exécution de leur mission, les rapporteurs procèdent à toutes investig
 place. Celles-ci comportent, en tant que de besoin, toutes demandes de renseignements, enquêtes ou expertises dans les
 conditions définies aux articles R. 141-3 à R. 141-6.
 
-Les fonctionnaires détachés auprès de la Cour des comptes ou mis à sa disposition, en qualité d'assistant, participent aux
-travaux de la juridiction sous la direction et la responsabilité des rapporteurs.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -17367,9 +17482,9 @@ travaux de la juridiction sous la direction et la responsabilité des rapporteur
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2002-370 du 14 mars 2002 - art. 4 () JORF 21 mars 2002
 
 	**Cite**:
 

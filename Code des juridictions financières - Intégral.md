@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2001-06-14
+Version Consolidée au 2001-07-13
 
 # Partie législative
 
@@ -6324,7 +6324,7 @@ Conseil d'Etat.
 	  - Code des juridictions financières - art. L245-3 (VD)
 
 
-#### TITRE V : Dispositions particulières concernant la collectivité territoriale de Mayotte.
+#### TITRE V : Dispositions particulières applicables à Mayotte.
 
 ###### Article L250-1
 
@@ -6332,15 +6332,21 @@ La chambre régionale des comptes de la Réunion juge l'ensemble des comptes des
 territoriale de Mayotte, des communes de Mayotte et de leurs établissements publics, ainsi que les comptes des personnes
 qu'elle a déclarées comptables de fait ; la Cour des comptes statue en appel.
 
-La chambre régionale des comptes vérifie sur pièces et sur place la régularité des recettes et dépenses décrites dans les
-comptabilités de la collectivité territoriale, des communes et de leurs établissements publics. Elle s'assure de l'emploi
-régulier des crédits, fonds et valeurs. Elle dispose des mêmes droits et pouvoirs que ceux prévus pour la Cour des comptes
-par le titre IV du livre Ier du présent code.
+**Nota:**
 
-Le procureur de la République peut transmettre au commissaire du Gouvernement de la chambre régionale des comptes, d'office
-ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de nature à constituer
-des irrégularités dans les comptes ou dans la gestion des collectivités ou organismes relevant de la compétence de cette
-chambre.
+NOTA : Loi 2001-616 2001-07-11 art. 22 III :
+
+A compter du renouvellement du conseil général prévu en 2007, le titre V du livre II de la première partie du même code est
+constitué de l'article L. 250-1 ainsi rédigé :
+
+Le présent code est applicable à Mayotte et ses modifications ultérieures sont applicables de plein droit sans mention
+d'applicabilité.
+
+La chambre régionale des comptes compétente pour les collectivités territoriales et les établissements publics locaux de
+Mayotte est la chambre régionale des comptes de la Réunion.
+
+Pour l'application du présent code à Mayotte, il y a lieu de lire : "collectivité départementale" au lieu de : "département"
+et "de la collectivité départementale" au lieu de : "départemental" ou "départementaux".
 
 **Liens relatifs à cet article**
 
@@ -6354,7 +6360,8 @@ chambre.
 
 	**Modifié par**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 13 ()
+	  - Loi n°2001-616 2001-07-11 art. 22, 77 jorf 13 juillet 2001
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 22 ()
 
 	**Cité par**:
 
@@ -6377,6 +6384,11 @@ représentant du Gouvernement à Mayotte. Elles peuvent être précédées d'un 
 ou le président de la chambre et le représentant du Gouvernement. Elles doivent être transmises par celui-ci aux
 collectivités et organismes qu'elles concernent.
 
+**Nota:**
+
+NOTA : Loi 2001-616 du 11 juillet 2001 77 III : Les dispositions de cet article sont abrogées à compter de la date mentionnée
+au II de l'article 2 de la loi 2001-616 du 11 juillet 2001 date du renouvellement du Conseil général.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -6387,9 +6399,13 @@ collectivités et organismes qu'elles concernent.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 22 ()
+
+	**Abrogé par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 77 (V)
 
 
 ###### Article L250-3
@@ -6404,6 +6420,10 @@ Elle peut assurer la vérification des comptes de filiales des établissements, 
 l'alinéa ci-dessus, lorsque ces organismes détiennent dans lesdites filiales, séparément ou ensemble, plus de la moitié du
 capital ou des voix dans les organes délibérants, ou exercent un pouvoir prépondérant de décision ou de gestion.
 
+**Nota:**
+
+NOTA : Loi 2001-616 2001-07-11 art. 2 II.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -6414,9 +6434,13 @@ capital ou des voix dans les organes délibérants, ou exercent un pouvoir prép
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 22 ()
+
+	**Abrogé par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 77 (V)
 
 	**Cité par**:
 
@@ -6436,6 +6460,10 @@ majorité du capital ou des voix dans les organes délibérants est détenue par
 organismes qui en dépendent, dans des conditions telles qu'aucune des chambres régionales dont ces collectivités ou
 organismes relèvent n'est compétente.
 
+**Nota:**
+
+NOTA : Loi 2001-616 2001-07-11 art. 2 II.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -6446,9 +6474,13 @@ organismes relèvent n'est compétente.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 22 ()
+
+	**Abrogé par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 77 (V)
 
 	**Cite**:
 
@@ -6461,6 +6493,10 @@ Les organismes dont la gestion n'est pas assujettie aux règles de la comptabili
 financier excédant les seuils mentionnés à l'article L. 250-3 peuvent être soumis aux mêmes contrôles que ceux exercés par la
 Cour des comptes en application des titres Ier et III du livre Ier du présent code.
 
+**Nota:**
+
+NOTA : Loi 2001-616 2001-07-11 art. 2 II.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -6471,9 +6507,13 @@ Cour des comptes en application des titres Ier et III du livre Ier du présent c
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 22 ()
+
+	**Abrogé par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 77 (V)
 
 	**Cite**:
 
@@ -6489,6 +6529,10 @@ mandaté à cet effet par celle-ci. Lorsque des observations sont formulées, el
 avant que ce dirigeant ait été en mesure de leur apporter une réponse écrite. La chambre régionale des comptes prend toutes
 les dispositions nécessaires pour garantir le secret de ses investigations.
 
+**Nota:**
+
+NOTA : Loi 2001-616 2001-07-11 art. 2 II.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -6499,9 +6543,13 @@ les dispositions nécessaires pour garantir le secret de ses investigations.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 22 ()
+
+	**Abrogé par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 77 (V)
 
 	**Cite**:
 
@@ -6515,34 +6563,40 @@ aux articles L. 250-3 à L. 250-5 sont également transmises au représentant du
 collectivité ou à l'établissement public qui leur a apporté un concours financier ou qui détient une partie du capital ou une
 partie des voix dans leurs instances de décision.
 
+**Nota:**
+
+NOTA : Loi 2001-616 2001-07-11 art. 2 II.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 91-755 1991-07-22, art 30 dernier alinéa
+	  - Ordonnance 91-755 1991-07-22, art 29 dernier alinéa
 
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 22 ()
+
+	**Abrogé par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 77 (V)
 
 	**Cite**:
 
 	  - Code des juridictions financières L250-3 à L250-5
 
 
-###### Article L250-8
+###### Article L250-11
 
-Le comptable de la collectivité territoriale prête serment devant la chambre régionale des comptes de la Réunion.
+Sont applicables à Mayotte les articles L. 131-1, L. 233-1, L. 233-2, le chapitre Ier du titre III du présent livre, à
+l'exception de l'article L. 231-6, de la section 2 et de l'article L. 231-13, le chapitre VI de ce même titre et les
+chapitres Ier et III du titre IV de ce même livre, à l'exclusion des articles L. 241-7 à L. 241-11 et L. 241-14.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 91-755 1991-07-22, art 15 al 3
 
 	**Codifié par**:
 
@@ -6550,22 +6604,25 @@ Le comptable de la collectivité territoriale prête serment devant la chambre r
 
 	**Créé par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 22 ()
 
-	**Abrogé par**:
+	**Cite**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 77 (V)
+	  - Code des juridictions financières - art. L131-1 (M)
+	  - Code des juridictions financières - art. L231-13 (V)
+	  - Code des juridictions financières - art. L231-6 (V)
+	  - Code des juridictions financières - art. L233-1 (M)
+	  - Code des juridictions financières - art. L233-2 (Ab)
+	  - Code des juridictions financières - art. L241-14 (V)
+	  - Code des juridictions financières L131-1, L233-1, L233-2, L231-6, L231-13, L241-7 à L241-11, L241-14
 
 
-###### Article L250-9
+###### Article L250-12
 
-Le comptable de la collectivité territoriale est tenu de produire ses comptes devant la chambre régionale des comptes.
+Sont applicables à Mayotte, à compter du transfert de l'exécutif de la collectivité départementale au président du conseil
+général, les articles L. 211-3 à L. 211-6, L. 211-8 et L. 211-9, L. 241-7 à L. 241-11 et L. 241-14.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 91-755 1991-07-22, art 15 al 4
 
 	**Codifié par**:
 
@@ -6573,42 +6630,18 @@ Le comptable de la collectivité territoriale est tenu de produire ses comptes d
 
 	**Créé par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 22 ()
 
 	**Abrogé par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 77 (V)
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
 
+	**Cite**:
 
-###### Article L250-10
-
-Lorsque le comptable de la collectivité territoriale notifie sa décision de suspendre le paiement d'une dépense, le
-représentant du Gouvernement peut lui adresser un ordre de réquisition. Le comptable s'y conforme aussitôt, sauf en cas
-d'insuffisance de fonds disponibles, de dépense ordonnancée sur des crédits irrégulièrement ouverts ou insuffisants ou sur
-des crédits autres que ceux sur lesquels elle devrait être imputée, d'absence totale de justification du service fait et de
-défaut de caractère libératoire du règlement.
-
-L'ordre de réquisition est notifié à la chambre régionale des comptes.
-
-En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 91-755 1991-07-22, art 15 al 6 à 8
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 77 (V)
+	  - Code des juridictions financières - art. L211-3 (V)
+	  - Code des juridictions financières - art. L211-8 (V)
+	  - Code des juridictions financières - art. L241-14 (V)
+	  - Code des juridictions financières - art. L241-7 (V)
 
 
 ### DEUXIEME PARTIE : Les chambres territoriales des comptes

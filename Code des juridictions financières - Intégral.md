@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2001-05-17
+Version Consolidée au 2001-06-14
 
 # Partie législative
 
@@ -26084,7 +26084,7 @@ peut également être donnée à d'autres fonctionnaires du secrétariat génér
 
 ###### Article R212-6
 
-Des sections sont créées dans chacune des chambres régionales des comptes ci-après :
+Les chambres régionales des comptes désignées ci-après sont composées de sections dont le nombre est fixé comme suit :
 
 Alsace : une section ;
 
@@ -26100,7 +26100,7 @@ Centre : deux sections ;
 
 Champagne-Ardenne : une section ;
 
-Ile-de-France : sept sections ;
+Ile-de-France : huit sections ;
 
 Languedoc-Roussillon : deux sections ;
 
@@ -26120,9 +26120,9 @@ Picardie : une section ;
 
 Poitou-Charentes : une section ;
 
-Provence-Alpes-Côte d'Azur : trois sections ;
+Provence-Alpes-Côte d'Azur : quatre sections ;
 
-Rhône-Alpes : trois sections.
+Rhône-Alpes : quatre sections. "
 
 **Liens relatifs à cet article**
 
@@ -26136,7 +26136,7 @@ Rhône-Alpes : trois sections.
 
 	**Créé par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2001-507 du 7 juin 2001 - art. 1 ()
 
 
 ##### Paragraphe 4 : Le président de section.

@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1996-06-25
+Version Consolidée au 1996-07-03
 
 # Partie législative
 
@@ -273,6 +273,33 @@ alinéa, sous quelque forme que ce soit, des ressources collectées dans le cadr
 	  - Code des juridictions financières - art. R142-2 (T)
 	  - Code des juridictions financières - art. R143-6 (M)
 	  - Code général des impôts, CGI. - art. 1378 octies (V)
+
+
+###### Article L111-8-1
+
+La "Fondation du patrimoine" est soumise au contrôle de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°96-590 du 2 juillet 1996 - art. 13 ()
+
+	**Anciens textes**:
+
+	  - Loi n°96-590 du 2 juillet 1996 - art. 13 ()
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code du patrimoine - art. L143-13 (VD)
 
 
 ###### Article L111-9

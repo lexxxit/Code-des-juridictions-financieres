@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2002-12-24
+Version Consolidée au 2002-12-31
 
 # Partie législative
 
@@ -612,8 +612,8 @@ décret en Conseil d'Etat. Ils ne peuvent exercer aucune activité juridictionne
 Cette disposition est également applicable aux fonctionnaires appartenant à des corps de même niveau de recrutement de la
 fonction publique de l'Etat, de la fonction publique territoriale, de la fonction publique hospitalière ainsi qu'aux agents
 de direction et aux agents comptables des organismes de sécurité sociale. Elle s'applique également, dans les conditions
-prévues par leur statut, aux fonctionnaires des assemblées parlementaires appartenant à des corps de même niveau de
-recrutement.
+prévues par leur statut aux militaires et aux fonctionnaires des assemblées parlementaires appartenant à des corps de même
+niveau de recrutement.
 
 **Liens relatifs à cet article**
 
@@ -629,7 +629,7 @@ recrutement.
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 2 ()
+	  - Loi - art. 62 ()
 
 	**Cité par**:
 

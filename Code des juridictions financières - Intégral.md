@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2002-03-21
+Version Consolidée au 2002-07-13
 
 # Partie législative
 
@@ -18586,6 +18586,69 @@ Les chambres régionales des comptes peuvent comporter une ou plusieurs sections
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
+###### Article R212-6
+
+Le nombre des sections des chambres régionales des comptes désignées ci-après est fixé comme suit :
+
+Alsace : une section ;
+
+Aquitaine : trois sections ;
+
+Auvergne : une section ;
+
+Bourgogne : une section ;
+
+Bretagne : trois sections ;
+
+Centre : deux sections ;
+
+Champagne-Ardenne : une section ;
+
+Ile-de-France : huit sections ;
+
+Languedoc-Roussillon : deux sections ;
+
+Lorraine : deux sections ;
+
+Midi-Pyrénées : deux sections ;
+
+Nord - Pas-de-Calais : trois sections ;
+
+Basse-Normandie : une section ;
+
+Haute-Normandie : une section ;
+
+Pays de la Loire : trois sections ;
+
+Picardie : une section ;
+
+Poitou-Charentes : une section ;
+
+Provence-Alpes-Côte d'Azur : quatre sections ;
+
+Rhône-Alpes : quatre sections ;
+
+Guadeloupe : une section ;
+
+Guyane : une section ;
+
+Martinique : une section.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-518 du 10 mai 1985 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-982 du 12 juillet 2002 - art. 1 ()
+
+
 ##### Paragraphe 3 : Le président
 
 ###### Article R212-7
@@ -26651,65 +26714,6 @@ peut également être donnée à d'autres fonctionnaires du secrétariat génér
 	  - Code des juridictions financières - art. R252-2 (V)
 	  - Code des juridictions financières - art. R262-5 (V)
 	  - Code des juridictions financières - art. R272-5 (V)
-
-
-##### Paragraphe 2 : Les sections.
-
-###### Article R212-6
-
-Les chambres régionales des comptes désignées ci-après sont composées de sections dont le nombre est fixé comme suit :
-
-Alsace : une section ;
-
-Aquitaine : deux sections ;
-
-Auvergne : une section ;
-
-Bourgogne : une section ;
-
-Bretagne : deux sections ;
-
-Centre : deux sections ;
-
-Champagne-Ardenne : une section ;
-
-Ile-de-France : huit sections ;
-
-Languedoc-Roussillon : deux sections ;
-
-Lorraine : deux sections ;
-
-Midi-Pyrénées : deux sections ;
-
-Nord - Pas-de-Calais : trois sections ;
-
-Basse-Normandie : une section ;
-
-Haute-Normandie : une section ;
-
-Pays de la Loire : deux sections ;
-
-Picardie : une section ;
-
-Poitou-Charentes : une section ;
-
-Provence-Alpes-Côte d'Azur : quatre sections ;
-
-Rhône-Alpes : quatre sections. "
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°85-518 du 10 mai 1985 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2001-507 du 7 juin 2001 - art. 1 ()
 
 
 ##### Paragraphe 4 : Le président de section.

@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2002-09-13
+Version Consolidée au 2002-09-28
 
 # Partie législative
 
@@ -13454,6 +13454,133 @@ comptes et publié au Journal officiel de la République française.
 
 ### TITRE Ier : Missions et organisation
 
+#### CHAPITRE Ier : Missions
+
+###### Article R111-1
+
+I. - Les établissements publics nationaux dont le jugement des comptes et l'examen de la gestion peuvent être délégués par
+arrêté du premier président de la Cour des comptes dans les conditions fixées au deuxième alinéa de l'article L. 111-9
+appartiennent aux catégories suivantes :
+
+1° Les établissements publics à caractère scientifique, culturel et professionnel mentionnés à l'article L. 711-2 du code de
+l'éducation ;
+
+2° Les établissements d'enseignement supérieur à caractère administratif placés sous la tutelle du ministre chargé de
+l'enseignement supérieur mentionnés à l'article L. 741-1 du code de l'éducation ;
+
+3° Les écoles d'architecture mentionnées à l'article L. 752-1 du code de l'éducation ;
+
+4° Les établissements d'enseignement supérieur agricole et vétérinaire mentionnés à l'article L. 751-1 du code de l'éducation
+et à l'article L. 812-2 du code rural ;
+
+5° Les instituts universitaires de formation des maîtres ;
+
+6° Les centres régionaux des oeuvres universitaires ;
+
+7° Les centres régionaux d'éducation populaire et de sports ;
+
+8° Les centres régionaux de documentation pédagogique ;
+
+9° Les établissements d'enseignement mentionnés à l'article L. 211-4 et L. 162-3 du code de l'éducation et le lycée Comte de
+Foix, à Andorre, assimilé à cette catégorie ;
+
+10° Les établissements créés en application de l'article L. 321-1 du code de l'urbanisme ;
+
+11° Les chambres de commerce et d'industrie et leurs groupements ;
+
+12° Les chambres des métiers et leurs groupements ;
+
+13° Les chambres d'agriculture et leurs groupements.
+
+II. - La délégation peut être limitée aux établissements d'une même catégorie situés dans une ou plusieurs régions. Elle est
+donnée pour une période minimale de trois ans et maximale de cinq ans.
+
+III. - En cas de délégation, sont applicables les dispositions du présent code relatives au jugement des comptes et à
+l'examen de la gestion des établissements publics relevant de la compétence directe des chambres régionales des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-337 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 1 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L111-9 (M)
+	  - Code des juridictions financières - art. L211-4 (M)
+	  - Code de l'éducation - art. L711-2 (V)
+	  - Code de l'éducation - art. L741-1 (V)
+	  - Code de l'éducation - art. L751-1 (V)
+	  - Code de l'éducation - art. L752-1 (V)
+	  - Code de l'urbanisme - art. L321-1 (M)
+	  - Code rural L812-2
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R111-2 (V)
+
+
+###### Article R111-2
+
+Lorsque le jugement des comptes d'un établissement mentionné à l'article R. 111-1 est délégué à une chambre régionale des
+comptes, la Cour des comptes reste néanmoins compétente pour juger les gestions de fait des deniers dudit établissement dont
+elle a été saisie ou s'est saisie d'office à l'occasion de l'examen des comptes relatifs aux exercices antérieurs à la
+délégation.
+
+Au terme de la délégation par la Cour des comptes du jugement des comptes d'un établissement mentionné à l'article R. 111-1 à
+une chambre régionale des comptes, celle-ci reste compétente pour juger les gestions de fait des deniers dudit établissement
+dont elle a été saisie ou s'est saisie d'office à l'occasion de l'examen des comptes relatifs aux exercices qui lui ont été
+délégués.
+
+La juridiction compétente peut demander communication des comptes et pièces justificatives nécessaires à l'apurement desdites
+gestions de fait.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-337 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 1 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R111-1 (M)
+
+
+###### Article R111-3
+
+La mission permanente d'inspection mentionnée à l'article L. 111-10 exerce le contrôle de l'activité des chambres régionales
+des comptes.
+
+Le président et les membres de la mission sont nommés par arrêté du premier président parmi les conseillers maîtres de la
+Cour des comptes.
+
+Un membre du corps des magistrats des chambres régionales des comptes apporte en qualité de chargé de mission son concours à
+l'accomplissement des travaux de la mission. Il est mis, avec son accord, à disposition de la Cour des comptes par arrêté du
+ministre chargé des finances, sur proposition du premier président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-337 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 1 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L111-10 (M)
+
+
 #### CHAPITRE II : Organisation
 
 ##### Section 1 : Composition
@@ -13594,7 +13721,8 @@ cette juridiction.
 Il ordonnance les dépenses de la Cour des comptes.
 
 Dans le cadre de ces attributions, il peut déléguer sa signature, par arrêté, dans les conditions définies à l'article R.
-112-7 ainsi qu'à des fonctionnaires du secrétariat général appartenant à un corps de catégorie A.
+112-7 ainsi qu'à des fonctionnaires appartenant à un corps de catégorie A et à des agents publics non titulaires, de même
+niveau de recrutement, affectés à des services relevant du secrétariat général.
 
 **Liens relatifs à cet article**
 
@@ -13606,9 +13734,9 @@ Dans le cadre de ces attributions, il peut déléguer sa signature, par arrêté
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 2 ()
 
 	**Cité par**:
 
@@ -13674,7 +13802,7 @@ du greffe central et des services administratifs. Le premier président peut, sa
 
 Le secrétaire général ou, en cas d'absence ou d'empêchement, un des secrétaires généraux adjoints certifie les expéditions
 des arrêts et en assure la notification aux comptables. Il délivre et certifie extraits et copies des actes intéressant le
-fonctionnement de la juridiction.
+fonctionnement de la juridiction. Il peut déléguer à cet effet sa signature au chef de service responsable du greffe central.
 
 **Liens relatifs à cet article**
 
@@ -13687,9 +13815,9 @@ fonctionnement de la juridiction.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 3 ()
 
 	**Cite**:
 
@@ -13722,7 +13850,8 @@ communiqués les rapports concernant les quitus, les débets, les amendes, les d
 de fait, les pourvois et les révisions ainsi que les appels des jugements rendus par les chambres régionales des comptes. Les
 autres rapports lui sont communiqués soit sur sa demande, soit sur décision des présidents de chambre.
 
-Il peut assister aux séances des chambres et des sections et y présenter des observations orales.
+Il peut assister aux séances des chambres et des sections et y présenter des observations orales. Il ne prend pas part au
+délibéré.
 
 **Liens relatifs à cet article**
 
@@ -13734,9 +13863,9 @@ Il peut assister aux séances des chambres et des sections et y présenter des o
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 4 ()
 
 	**Cité par**:
 
@@ -13815,6 +13944,28 @@ général.
 	**Créé par**:
 
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+
+
+###### Article R112-12-1
+
+Un membre du corps des magistrats des chambres régionales des comptes apporte en qualité de chargé de mission son concours à
+l'accomplissement de la mission définie au deuxième alinéa de l'article L. 112-2. Il est mis, avec son accord, à disposition
+de la Cour des comptes par arrêté du ministre chargé des finances, sur proposition conjointe du premier président de la Cour
+des comptes et du procureur général près de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 5 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L112-2 (M)
 
 
 ##### Section 4 : Rapporteurs extérieurs
@@ -14026,7 +14177,8 @@ propre initiative ou dans les conditions prévues au deuxième alinéa ci-dessus
 
 La Cour, siégeant toutes chambres réunies, ne peut statuer qu'à douze membres au moins.
 
-Le magistrat rapporteur devant les chambres réunies a voix délibérative.
+Sous réserve des dispositions du quatrième alinéa de l'article R. 141-8, le magistrat rapporteur devant les chambres réunies
+a voix délibérative.
 
 En cas de partage des voix, la voix du premier président est prépondérante.
 
@@ -14042,9 +14194,9 @@ Le procureur général assiste aux séances et présente ses conclusions.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 6 ()
 
 	**Cité par**:
 
@@ -14052,6 +14204,10 @@ Le procureur général assiste aux séances et présente ses conclusions.
 	  - Code des juridictions financières - art. R112-11 (M)
 	  - Code des juridictions financières - art. R141-13 (M)
 	  - Code des juridictions financières - art. R141-15 (T)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R141-8 (M)
 
 
 ###### Article R112-19
@@ -14311,6 +14467,85 @@ fonctionnaires occupant l'emploi d'assistant de la Cour des comptes.
 	  - Décret n°2008-94 du 30 janvier 2008 - art. 11
 
 
+##### Section 7 : La commission consultative de la Cour des comptes
+
+###### Article R112-28
+
+La commission consultative de la Cour des comptes prévue à l'article L. 112-8 comprend, en tant que membres élus :
+
+1° Trois conseillers maîtres ;
+
+2° Deux conseillers référendaires ;
+
+3° Deux auditeurs ;
+
+4° Un conseiller maître en service extraordinaire ;
+
+5° Un rapporteur extérieur à temps plein mentionné à l'article R. 112-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 7 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L112-8 (M)
+	  - Code des juridictions financières - art. R112-14 (M)
+
+
+###### Article R112-29
+
+Les magistrats en activité, en congé parental ou en position de détachement, les conseillers maîtres en service
+extraordinaire et les rapporteurs extérieurs à temps plein en fonctions à la Cour des comptes sont électeurs. Ils sont
+éligibles.
+
+Les conseillers maîtres, les conseillers référendaires, les auditeurs, les conseillers maîtres en service extraordinaire et
+les rapporteurs extérieurs à temps plein constituent des collèges électoraux distincts.
+
+Les représentants titulaires et suppléants des magistrats de la Cour des comptes, des conseillers maîtres en service
+extraordinaire et des rapporteurs extérieurs à temps plein sont élus au scrutin uninominal.
+
+L'organisation du scrutin, notamment les modalités du vote par correspondance, est fixée par un arrêté du premier président
+de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 7 ()
+
+
+###### Article R112-30
+
+Si, avant l'expiration de son mandat, l'un des représentants titulaires des membres élus démissionne ou se trouve dans
+l'impossibilité d'exercer son mandat, il est remplacé par son suppléant. Au cas où, pour l'une des causes mentionnées ci-
+dessus, ce dernier ne peut exercer son mandat, il est procédé à une élection complémentaire dans un délai de deux mois. Le
+représentant élu dans ces conditions achève le mandat de celui qu'il remplace.
+
+Si, en cours de mandat, un représentant élu fait l'objet d'une promotion de grade, il continue à représenter le grade pour
+lequel il a été élu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 7 ()
+
+
 ### TITRE II : Dispositions statutaires
 
 #### CHAPITRE Ier : Nominations
@@ -14390,6 +14625,67 @@ Conseiller référendaire de 2e classe : 2e échelon avec 6 mois d'ancienneté a
 
 #### CHAPITRE II : Avancements
 
+###### Article R*122-1
+
+Le nombre de postes prévus chaque année pour le tour extérieur dans le grade de conseiller référendaire de 2e classe à la
+Cour des comptes en application des quatrième et cinquième alinéas de l'article L. 122-5 est publié au Journal officiel en
+même temps que les besoins du corps exprimés par le premier président de la Cour des comptes en application du I de l'article
+2 de la loi du 28 juin 1994 relative à certaines modalités de nomination dans la fonction publique de l'Etat et aux modalités
+d'accès de certains fonctionnaires ou anciens fonctionnaires à des fonctions privées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°94-877 du 13 octobre 1994 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-337 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 9 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L122-5 (M)
+	  - Loi n°1994-06-28 art. 2
+
+
+###### Article R*122-2
+
+Les candidatures, motivées, doivent être présentées par les intéressés, dans le mois qui suit cette publication, au ministre
+chargé des finances.
+
+Celui-ci dispose d'un délai de deux mois pour adresser les dossiers des candidats remplissant les conditions prévues par le
+quatrième alinéa de l'article L. 122-5 au premier président de la Cour des comptes aux fins de recueillir l'avis de la
+commission prévue au quatrième alinéa de ce même article.
+
+Le dossier constitué pour chaque candidat, en liaison avec l'administration ou l'organisme dont il relève, comprend les
+éléments de notation ou d'évaluation de ses dix dernières années de service public ou de service dans un organisme relevant
+du contrôle de la Cour des comptes ainsi qu'une appréciation motivée et circonstanciée sur sa manière de servir, sur les
+emplois qu'il a occupés et sur sa compétence.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°94-877 du 13 octobre 1994 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-337 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 10 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L122-5 (M)
+
+
 ###### Article R*122-3
 
 La commission mentionnée à l'article précédent est présidée par le premier président de la Cour des comptes ou son
@@ -14468,67 +14764,6 @@ immédiatement supérieur à celui dont ils bénéficiaient dans leur corps d'or
 	**Cite**:
 
 	  - Code des juridictions financières - art. L221-2 (M)
-
-
-###### Article R122-1
-
-Le nombre de postes prévus chaque année pour le tour extérieur dans le grade de conseiller référendaire de 2e classe à la
-Cour des comptes en application des troisième et quatrième alinéas de l'article L. 122-5 est publié au Journal officiel en
-même temps que les besoins du corps exprimés par le premier président de la Cour des comptes en application du I de l'article
-2 de la loi du 28 juin 1994 relative à certaines modalités de nomination dans la fonction publique de l'Etat et aux modalités
-d'accès de certains fonctionnaires ou anciens fonctionnaires à des fonctions privées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°94-877 du 13 octobre 1994 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-337 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-337 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L122-5 (M)
-	  - Loi n°1994-06-28 art. 2
-
-
-###### Article R122-2
-
-Les candidatures, motivées, doivent être présentées par les intéressés, dans le mois qui suit cette publication, au ministre
-chargé des finances.
-
-Celui-ci dispose d'un délai de deux mois pour adresser les dossiers des candidats remplissant les conditions prévues par le
-troisième alinéa de l'article L. 122-5 au premier président de la Cour des comptes aux fins de recueillir l'avis de la
-commission prévue au quatrième alinéa de ce même article.
-
-Le dossier constitué pour chaque candidat, en liaison avec l'administration ou l'organisme dont il relève, comprend les
-éléments de notation ou d'évaluation de ses dix dernières années de service public ou de service dans un organisme relevant
-du contrôle de la Cour des comptes ainsi qu'une appréciation motivée et circonstanciée sur sa manière de servir, sur les
-emplois qu'il a occupés et sur sa compétence.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°94-877 du 13 octobre 1994 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-337 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-337 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L122-5 (M)
 
 
 #### CHAPITRE III : Mobilité
@@ -14906,6 +15141,8 @@ le constitue en débet par arrêt définitif.
 ###### Article R131-6
 
 L'arrêt est signé par le rapporteur et par le président de la formation de jugement ou celui qui en a exercé la fonction.
+Toutefois, lorsque la formation de jugement délibère hors la présence du rapporteur, le rapporteur ne signe pas l'arrêt, qui
+est, dans ce cas, signé par le greffier.
 
 Les arrêts de débet, de déclaration définitive de gestion de fait et de condamnation définitive à l'amende sont revêtus de la
 formule exécutoire.
@@ -14924,9 +15161,9 @@ sont fixées aux articles D. 144-1 à D. 144-6.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 11 ()
 
 	**Cité par**:
 
@@ -14937,47 +15174,6 @@ sont fixées aux articles D. 144-1 à D. 144-6.
 	**Cite**:
 
 	  - Code des juridictions financières D144-1 à D144-6
-
-
-###### Article R131-7
-
-Les comptes des établissements publics nationaux dont les recettes ordinaires, telles qu'elles figurent à ces comptes, ne
-dépassent pas les seuils déterminés par un arrêté du premier président de la Cour des comptes pris dans les conditions fixées
-à l'article L. 131-1, sont jugés en premier ressort par les chambres régionales des comptes.
-
-Tout compte d'un établissement public national dont le jugement entre dans la compétence d'une chambre régionale des comptes
-en application des dispositions de l'alinéa précédent demeure, même si les recettes ordinaires de cet établissement viennent
-à dépasser les seuils prévus, soumis au contrôle en premier ressort de cette juridiction jusqu'à l'intervention de l'arrêté
-portant révision de ces seuils. Cette révision doit avoir lieu tous les cinq ans.
-
-La Cour des comptes peut évoquer, par arrêt, les comptes d'établissements mentionnés au premier alinéa du présent article,
-sur lesquels la chambre régionale des comptes n'a pas statué définitivement. Elle peut aussi demander communication des
-jugements, des comptes et des autres pièces sur lesquelles ces jugements sont fondés, pour les gestions antérieures à la
-gestion évoquée.
-
-Paragraphe 2
-
-Dispositions concernant les receveurs
-
-des administrations financières
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°85-199 du 11 février 1985 - art. 30 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000) A(Décret 2002-1201 2002-09-27 art. 69 jorf 28 septembre 2002
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L131-1 (M)
 
 
 ##### Paragraphe 2 : Dispositions concernant les receveurs des administrations financières.
@@ -16075,6 +16271,129 @@ La Cour peut ordonner, d'office ou à la requête d'un appelant, le sursis à ex
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R131-46 (Ab)
+
+
+###### Article R131-42
+
+Si, au cours de l'instruction devant la Cour, de nouvelles pièces ou des mémoires complétant ceux produits dans les délais
+prévus à l'article R. 243-9 sont versés au dossier, ils sont communiqués au requérant et aux autres parties qui peuvent
+présenter éventuellement leurs observations déposées au greffe de la Cour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 12 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1397 du 19 décembre 2008 - art. 107
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R243-9
+
+
+###### Article R131-43
+
+Le président de la formation de jugement peut, par une ordonnance, fixer la date à partir de laquelle l'instruction sera
+close. Cette ordonnance n'est pas motivée et ne peut faire l'objet d'aucun recours.
+
+Les lettres recommandées avec demande d'avis de réception portant notification de cette ordonnance sont envoyées à toutes les
+parties en cause quinze jours au moins avant la date fixée par l'ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 12 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1397 du 19 décembre 2008 - art. 107
+
+
+###### Article R131-44
+
+En cas d'audience publique, si le président de la formation de jugement n'a pas pris une ordonnance de clôture, l'instruction
+est close trois jours francs avant la date de l'audience qui est notifiée dans les conditions prévues à l'article R. 141-10.
+La lettre recommandée le mentionne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 12 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1397 du 19 décembre 2008 - art. 107
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R141-10
+
+
+###### Article R131-45
+
+Les mémoires produits après la clôture de l'instruction ne donnent pas lieu à communication et ne sont pas examinés par la
+Cour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 12 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1397 du 19 décembre 2008 - art. 107
+
+
+###### Article R131-46
+
+Le président de la formation de jugement peut rouvrir l'instruction par une décision qui n'est pas motivée et ne peut faire
+l'objet d'aucun recours. Cette décision est notifiée dans les mêmes formes que l'ordonnance de clôture.
+
+La réouverture de l'instruction peut également résulter d'un arrêt provisoire dans les conditions prévues par le deuxième
+alinéa de l'article R. 131-41.
+
+Les mémoires qui auraient été produits pendant la période comprise entre la clôture et la réouverture de l'instruction sont
+communiqués aux parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 12 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1397 du 19 décembre 2008 - art. 107
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R131-41
 
 
 #### CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics
@@ -17502,6 +17821,10 @@ Un arrêté du premier président pris après avis du procureur général défin
 les propositions d'insertion dans ce rapport des observations présentées par les chambres régionales et territoriales des
 comptes.
 
+Un membre du corps des magistrats des chambres régionales des comptes apporte en qualité de chargé de mission son concours à
+l'accomplissement des travaux du comité. Il est mis, avec son accord, à disposition de la Cour des comptes par arrêté du
+ministre chargé des finances, sur proposition du premier président de la Cour des comptes.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -17512,9 +17835,9 @@ comptes.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 13 ()
 
 	**Cité par**:
 
@@ -17694,6 +18017,30 @@ dispositions de l'article R. 133-3.
 	  - Code des juridictions financières - art. R133-3 (V)
 
 
+###### Article R141-6-1
+
+Le droit à audition prévu par les articles L. 131-2 et L. 131-13 s'exerce dans le cadre de l'audience publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 14 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1397 du 19 décembre 2008 - art. 107
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L131-13
+	  - Code des juridictions financières - art. L131-2
+
+
 ###### Article R141-7
 
 Les observations auxquelles donnent lieu les contrôles sont consignées dans un rapport. Les suites à leur donner font l'objet
@@ -17738,6 +18085,8 @@ président recueille successivement l'opinion du rapporteur, de chacun des conse
 les affaires dont ils peuvent connaître au titre de l'article L. 112-5, puis de chacun des conseillers maîtres dans l'ordre
 inverse de leur ancienneté dans le grade. Il opine le dernier. En cas de partage, sa voix est prépondérante.
 
+Toutefois, en matière de gestion de fait et d'amende, la formation délibère hors la présence du rapporteur.
+
 Une section peut renvoyer à la chambre une affaire qui lui a été attribuée.
 
 Préalablement à la délibération sur l'envoi des observations énumérées à l'article R. 135-1, et notamment dans les cas prévus
@@ -17754,9 +18103,9 @@ constatations provisoires sur lesquelles elle estime nécessaire de susciter leu
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000 rectificatif jorf 20 mai 2000
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 15 ()
 
 	**Cite**:
 
@@ -17772,13 +18121,13 @@ constatations provisoires sur lesquelles elle estime nécessaire de susciter leu
 	  - Code des juridictions financières - art. R141-13 (M)
 
 
-##### Section 2 : Règles propres au prononcé des amendes.
+##### Section 2 : Règles propres à l'audience publique.
 
 ###### Article R141-9
 
-Sont publiques les séances de jugement au cours desquelles la Cour statue à titre définitif sur une amende. Il en est de même
-pour les séances au cours desquelles la Cour statue définitivement en appel sur un jugement d'une chambre régionale ou
-territoriale des comptes ayant prononcé une condamnation définitive à l'amende.
+Sont publiques les séances de jugement au cours desquelles la Cour statue à titre définitif sur une gestion de fait ou sur
+une amende. Il en est de même pour les séances au cours desquelles la Cour statue définitivement en appel sur un jugement
+d'une chambre régionale ou territoriale des comptes intervenu en matière de gestion de fait ou d'amende.
 
 **Liens relatifs à cet article**
 
@@ -17790,9 +18139,14 @@ territoriale des comptes ayant prononcé une condamnation définitive à l'amend
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2002-1201 2002-09-27 art. 16 I, 17 I jorf 28 septembre 2002
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 16 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1397 du 19 décembre 2008 - art. 107
 
 	**Cité par**:
 
@@ -17817,9 +18171,9 @@ L'ordre du jour de l'audience est affiché à l'entrée de la Cour.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 16 ()
 
 	**Cité par**:
 
@@ -17844,9 +18198,9 @@ précisant celles fournies par écrit sur l'affaire qui la concerne.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 16 ()
 
 	**Cité par**:
 
@@ -17871,9 +18225,9 @@ code.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 16 ()
 
 	**Cité par**:
 
@@ -17886,16 +18240,11 @@ code.
 	  - Code des juridictions financières - art. R231-15 (T)
 	  - Code des juridictions financières - art. R262-50 (T)
 
-	**Cite**:
-
-	  - Nouveau code de procédure civile 438, 439, 441, 435
-
 
 ###### Article R141-13
 
-La formation délibère hors de la présence de la ou des parties. Par dérogation aux dispositions des articles R. 112-18, R.
-112-19, R. 131-6 et R. 141-8, le rapporteur ne participe pas au délibéré et ne signe pas l'arrêt qui est dans ce cas signé
-par le greffier. L'arrêt est lu en audience publique.
+La formation délibère hors la présence de la ou des parties, du rapporteur et du ministère public. L'arrêt est lu en audience
+publique.
 
 **Liens relatifs à cet article**
 
@@ -17907,16 +18256,10 @@ par le greffier. L'arrêt est lu en audience publique.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R112-18 (M)
-	  - Code des juridictions financières - art. R112-19 (V)
-	  - Code des juridictions financières - art. R131-6 (M)
-	  - Code des juridictions financières - art. R141-8 (M)
+	  - Décret n°2002-1201 2002-09-27 art. 16 I, 18 II jorf 28 septembre 2002
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 16 ()
 
 	**Cité par**:
 
@@ -18635,6 +18978,44 @@ Les chambres régionales des comptes sont désignées sous le nom de la région 
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
+###### Article R212-3
+
+Le premier président de la Cour des comptes, président du Conseil supérieur des chambres régionales des comptes, assure la
+gestion des magistrats et des personnels des chambres régionales des comptes ainsi que celle des moyens matériels de ces
+juridictions. Il ordonnance les dépenses des chambres régionales des comptes.
+
+Il peut déléguer sa signature au secrétaire général et aux secrétaires généraux adjoints de la Cour des comptes. Délégation
+peut également être donnée aux fonctionnaires appartenant à un corps de catégorie A et aux agents publics non titulaires de
+même niveau de recrutement, affectés à des services du secrétariat général.
+
+Un membre du corps des magistrats des chambres régionales des comptes apporte en qualité de chargé de mission son concours à
+l'accomplissement des missions définies au premier alinéa. Il est mis, avec son accord, à disposition de la Cour des comptes
+par arrêté du ministre chargé des finances, sur proposition du premier président de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 135
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 19 ()
+
+	**Cité par**:
+
+	  - Décret n°2008-94 du 30 janvier 2008 - art. 1 (Ab)
+	  - Décret n°2008-94 du 30 janvier 2008 - art. 4 (Ab)
+	  - Décret n°2011-1317 du 17 octobre 2011 - art. (VD)
+	  - Code des juridictions financières - art. R252-2 (V)
+	  - Code des juridictions financières - art. R262-5 (V)
+	  - Code des juridictions financières - art. R272-5 (V)
+
+
 ###### Article R212-4
 
 Un arrêté du ministre chargé des finances, pris après avis du premier président de la Cour des comptes et du procureur
@@ -18817,6 +19198,36 @@ du siège, présent à la chambre, le plus ancien dans le grade le plus élevé.
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
+###### Article R212-8-1
+
+Le vice-président de la chambre régionale des comptes d'Ile-de-France assiste le président de la chambre dans la direction
+générale de la juridiction. A cette fin, il peut recevoir délégation de signature du président de la chambre.
+
+Il est membre des formations de la chambre réunie en séance plénière, en formation restreinte ou en sections réunies. Il peut
+présider, dans les conditions fixées par arrêté du président de la chambre, les formations de délibéré.
+
+Il peut signer, au lieu et place du président de la chambre, après avoir reçu délégation à cette fin, les actes, avis,
+décisions ou observations délibérées par la chambre.
+
+En cas d'absence, d'empêchement ou de vacance, le président de la chambre régionale des comptes d'Ile-de-France est remplacé
+par le vice-président ou, à défaut, par le magistrat du siège présent à la chambre, le plus ancien dans le grade le plus
+élevé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 20 ()
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R227-1 (Ab)
+
+
 ##### Paragraphe 4 : Le président de section
 
 ###### Article R212-9
@@ -18986,6 +19397,67 @@ dans les conditions définies à l'article R. 222-5.
 	  - Code des juridictions financières - art. R222-5
 
 
+##### Paragraphe 5 : Les rapporteurs auprès des chambres
+
+###### Article R212-13
+
+Les rapporteurs auprès des chambres régionales des comptes mentionnés à l'article L. 212-5-1 peuvent être mis à disposition
+pour exercer leurs fonctions à temps plein ou à temps partiel.
+
+Les mêmes fonctions de rapporteur peuvent être exercées à temps partiel par des magistrats de la Cour des comptes et par des
+magistrats d'autres chambres régionales ou territoriales des comptes.
+
+Peuvent exercer à temps partiel les mêmes fonctions de rapporteur les magistrats des chambres régionales des comptes ayant
+été admis à faire valoir leurs droits à la retraite.
+
+Les rapporteurs sont nommés pour une période de deux ans renouvelable. Ils sont désignés parmi les membres des corps
+susmentionnés sur proposition du premier président de la Cour des comptes et après avis du président de la chambre régionale
+des comptes où ils sont appelés à exercer leurs fonctions.
+
+Les rapporteurs sont tenus aux mêmes obligations que les magistrats. Ils doivent notamment observer la discrétion et sont
+tenus au secret professionnel.
+
+Les rapporteurs à temps plein participent dans les mêmes conditions que les magistrats aux activités de la chambre, à
+l'exception de celles ayant un caractère juridictionnel. Ils disposent à cette fin de l'ensemble des droits et pouvoirs
+attribués aux magistrats.
+
+Les rapporteurs à temps partiel ne participent qu'aux séances de délibéré portant sur les affaires qu'ils rapportent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 134
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 21 ()
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 76
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L212-5-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R212-22 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R212-7 (M)
+	  - Code des juridictions financières - art. R262-13 (V)
+	  - Code des juridictions financières - art. R262-7 (V)
+	  - Code des juridictions financières - art. R272-13 (V)
+	  - Code des juridictions financières - art. R272-7 (V)
+
+
 ##### Paragraphe 6 : Prestation de serment des magistrats
 
 ###### Article R212-14
@@ -19073,6 +19545,35 @@ sous réserve des dispositions applicables dans les régions d'outre-mer.
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R242-6 (V)
+	  - Code des juridictions financières - art. R252-2 (V)
+
+
+###### Article R212-17
+
+Lorsque la vacance d'un poste de commissaire du Gouvernement auprès d'une chambre régionale des comptes est comblée par la
+nomination d'un magistrat affecté dans une autre chambre régionale ou territoriale, ce dernier est muté avec son accord sur
+le poste vacant dans les conditions prévues par l'article L. 212-16.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 22
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 22 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L212-16 (M)
+
+	**Cité par**:
+
 	  - Code des juridictions financières - art. R252-2 (V)
 
 
@@ -19169,6 +19670,39 @@ la section.
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L1612-15
+
+
+###### Article R212-21
+
+Le commissaire du Gouvernement peut assister aux séances de la chambre et des sections et y présenter des observations
+orales. Il ne prend pas part au délibéré.
+
+Il peut assister aux auditions prévues aux articles R. 241-7 et R. 241-28.
+
+Il peut participer aux commissions ou aux comités constitués au sein de la chambre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 26
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 4 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R241-28 (M)
+	  - Code des juridictions financières - art. R241-7 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R252-2 (V)
 
 
 ###### Article R212-22
@@ -19298,6 +19832,42 @@ suppléant.
 
 
 ##### Paragraphe 9 : Le greffe
+
+###### Article R212-26
+
+Le président de la chambre régionale des comptes, le vice-président de la chambre régionale des comptes d'Ile-de-France et
+les présidents de section disposent du service du greffe de la chambre.
+
+Le greffe prépare l'ordre du jour des séances de la chambre et des sections, note les décisions prises et assure la tenue des
+rôles, registres et dossiers.
+
+Il tient à la disposition des personnes intéressées la liste des jugements communicables en application de l'article D.
+247-1, des lettres d'observations définitives, avis et décisions, mentionnés au présent code et communicables en application
+de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le
+public et diverses dispositions d'ordre administratif, social et fiscal.
+
+Il procède, sous le contrôle du ministère public, à l'enregistrement des comptes produits à la chambre et des actes,
+documents et requêtes dont elle est saisie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-753 1978-07-17
+	  - Code des juridictions financières - art. D247-1 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 12
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 23 ()
+
 
 ###### Article R212-27
 
@@ -19486,9 +20056,146 @@ La chambre régionale des comptes se réunit soit en formation plénière, soit 
 	  - Code des juridictions financières - art. R212-26 (V)
 
 
+###### Article R212-33
+
+Dès lors que ces formations ont été instituées dans les conditions fixées au troisième alinéa de l'article R. 212-7, la
+chambre régionale des comptes peut également délibérer en formation restreinte de chambre et en sections réunies.
+
+La formation restreinte de chambre est composée, lorsqu'il n'existe pas de section, du président de la chambre, du rapporteur
+et du contre-rapporteur quand celui-ci a été désigné ou, dans le cas contraire, du magistrat, présent à la chambre, le plus
+ancien dans le grade le plus élevé. La formation restreinte de chambre est composée, lorsqu'il existe une ou plusieurs
+sections, du président de la chambre, du ou des présidents de section, du rapporteur, le cas échéant du contre-rapporteur et,
+conformément à la règle de l'imparité fixée par le premier alinéa de l'article R. 212-31, du ou des deux magistrats présents
+à la chambre les plus anciens dans le grade le plus élevé.
+
+Lorsqu'il existe plus de quatre sections, la formation restreinte est composée du président de la chambre, des trois
+présidents de section les plus anciens dans le grade, du rapporteur, le cas échéant du contre-rapporteur et, conformément à
+la règle de l'imparité fixée par le premier alinéa de l'article R. 212-31, du ou des deux magistrats présents à la chambre
+les plus anciens dans le grade le plus élevé.
+
+A la chambre régionale des comptes d'Ile-de-France, le vice-président est membre de la formation restreinte.
+
+La formation en sections réunies est composée du président de la chambre, du vice-président et des membres des sections
+intéressées par une même affaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 18
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 24 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R212-31 (V)
+	  - Code des juridictions financières - art. R212-7 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R241-29 (T)
+
+
 ##### Section 2 : Le Conseil supérieur des chambres régionales des comptes
 
 ##### Sous-section 1 : Désignation des membres du Conseil supérieur des chambres régionales des comptes
+
+###### Article R212-34
+
+Le Conseil supérieur des chambres régionales des comptes comprend, en tant que représentants élus des magistrats des chambres
+régionales des comptes :
+
+1° Un représentant titulaire et un suppléant pour le grade de conseiller ;
+
+2° Trois représentants titulaires et trois suppléants pour le grade de premier conseiller ;
+
+3° Deux représentants titulaires et deux suppléants pour le grade de président de section.
+
+Les conseillers, les premiers conseillers et les présidents de section constituent des collèges électoraux distincts.
+
+Les candidatures au Conseil supérieur des chambres régionales des comptes font l'objet de listes qui doivent comporter les
+noms d'au moins un candidat titulaire et un candidat suppléant pour chaque grade.
+
+Les sièges sont pourvus par le ou les candidats titulaires et le ou les candidats suppléants qui ont obtenu le plus grand
+nombre de suffrages exprimés. En cas d'égalité, le plus âgé des candidats est proclamé élu.
+
+Lorsqu'un candidat titulaire ou suppléant inscrit sur une liste est reconnu inéligible, la liste intéressée doit, à peine de
+nullité, être complétée dans les trois jours pour le grade correspondant.
+
+Les modalités des opérations électorales sont fixées par un arrêté du premier président de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 1982-11-16, art 28
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 25 ()
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R212-46 (M)
+	  - Code des juridictions financières - art. R212-47 (M)
+	  - Code des juridictions financières - art. R252-3 (Ab)
+	  - Code des juridictions financières - art. R272-28 (V)
+
+
+###### Article R212-36
+
+Sont électeurs et éligibles les magistrats des chambres régionales des comptes en position d'activité, de congé parental ou
+de détachement.
+
+Toutefois ne peuvent être élus ni les magistrats en congé de longue durée au titre de l'article 34 de la loi n° 84-16 du 11
+janvier 1984, portant dispositions statutaires relatives à la fonction publique de l'Etat, ni ceux qui ont été frappés d'une
+des incapacités prononcées par les articles L. 5 et L. 6 du code électoral, ni ceux qui ont été frappés d'une rétrogradation
+ou d'une exclusion temporaire de fonctions relevant du troisième groupe des sanctions disciplinaires énumérées par l'article
+66 de la loi du 11 janvier 1984 précitée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 30 (M)
+
+	**Cite**:
+
+	  - Loi n°84-16 1984-01-11 art. 34, art. 66
+	  - Code électoral - art. L5 (M)
+	  - Code électoral - art. L6 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 26 ()
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 88
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R212-38 (V)
+	  - Code des juridictions financières - art. R212-47 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R220-6, v. 0.1 (V)
+
 
 ###### Article R212-45
 
@@ -19512,6 +20219,138 @@ proclamation des résultats, devant le ministre chargé des finances, sauf recou
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R212-47 (T)
+
+
+###### Article R212-46
+
+Le représentant des magistrats exerçant les fonctions du ministère public au Conseil supérieur des chambres régionales des
+comptes, statuant comme conseil de discipline, est élu, ainsi qu'un suppléant.
+
+Sont électeurs et éligibles tous les magistrats exerçant les fonctions du ministère public, qui constituent un collège
+électoral unique. Les modalités du scrutin sont fixées par un arrêté du premier président de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 1982-11-16, art 40
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 27 ()
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 88
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R220-8 (V)
+
+
+###### Article R212-47
+
+Le conseiller maître représentant les magistrats de la Cour des comptes au Conseil supérieur des chambres régionales des
+comptes est élu, ainsi qu'un suppléant.
+
+Sont électeurs les membres de la Cour des comptes en position d'activité, de congé parental ou de détachement, à l'exclusion
+de ceux qui exercent les fonctions de président de chambre régionale ou territoriale des comptes ou de vice-président de la
+chambre régionale des comptes d'Ile-de-France.
+
+Sont éligibles les conseillers maîtres à la Cour des comptes qui ont la qualité d'électeur, à l'exclusion du président de la
+mission permanente d'inspection, membre de droit du Conseil supérieur des chambres régionales des comptes et des conseillers
+maîtres en position de détachement.
+
+Sont élus le candidat titulaire et le candidat suppléant qui ont obtenu le plus grand nombre de suffrages exprimés. En cas
+d'égalité, le plus âgé des candidats est proclamé élu.
+
+Les modalités des opérations électorales sont fixées par un arrêté du premier président de la Cour des comptes.
+
+Les dispositions du deuxième alinéa de l'article R. 212-36 et celles de l'article R. 212-45 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 41 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 28 ()
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R212-34 (M)
+	  - Code des juridictions financières - art. R212-49 (Ab)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R212-45 (V)
+
+
+###### Article R212-47-1
+
+Pour l'élection des représentants titulaires et suppléants des magistrats exerçant les fonctions de président de chambre
+régionale des comptes et de vice-président de la chambre régionale des comptes d'Ile-de-France, les candidatures font l'objet
+d'une liste qui doit comporter le nom d'un candidat titulaire et d'un candidat suppléant pour chacun des deux sièges à
+pourvoir au titre des conseillers maîtres et des conseillers référendaires.
+
+Sont électeurs et éligibles les magistrats exerçant les fonctions de président de chambre régionale des comptes et de vice-
+président de la chambre régionale des comptes d'Ile-de-France. Ils constituent un collège électoral unique.
+
+Sont proclamés élus les candidats titulaires et suppléants ayant obtenu le plus grand nombre de suffrages exprimés. En cas
+d'égalité, le plus âgé des candidats est proclamé élu.
+
+Les modalités des opérations électorales sont fixées par un arrêté du premier président de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 29 ()
+
+
+###### Article R212-48
+
+Si, avant l'expiration de son mandat, l'un des représentants titulaires des membres élus démissionne ou se trouve dans
+l'impossibilité d'exercer son mandat ou si le conseil supérieur constate qu'il cesse de remplir les conditions requises pour
+être éligible, il est remplacé par son suppléant. Au cas où pour l'une des causes mentionnées ci-dessus ce dernier ne peut
+exercer son mandat, il est procédé à une élection complémentaire dans un délai de deux mois. Le représentant élu dans ces
+conditions achève le mandat de celui qu'il remplace.
+
+Si, en cours de mandat, un représentant élu fait l'objet d'une promotion de grade, il continue à représenter le grade pour
+lequel il a été élu.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 42 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 30 ()
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R212-49 (Ab)
+	  - Code des juridictions financières - art. R221-5 (M)
 
 
 ###### Article R212-51
@@ -19550,46 +20389,6 @@ dans le délai de trois mois.
 
 
 ##### Sous-section 2 : Fonctionnement du Conseil supérieur des chambres régionales des comptes
-
-###### Article R*212-56
-
-Le président d'une chambre régionale des comptes qui allègue l'existence d'un cas de force majeure pour demander à cesser
-d'exercer ses fonctions de président de chambre régionale avant l'expiration du délai de cinq ans prévu au dernier alinéa de
-l'article L. 221-2 doit adresser sa demande au président du Conseil supérieur des chambres régionales des comptes. Le conseil
-supérieur doit statuer dans le délai d'un mois à compter de la réception de la demande. Son président désigne, parmi les
-membres du conseil, un rapporteur qui accomplit, le cas échéant, tous actes d'investigation utiles à l'instruction de cette
-demande. Lorsque l'instruction est achevée ou si elle n'a pas été jugée nécessaire, le requérant est informé de la date à
-laquelle se réunira le conseil supérieur pour examiner sa requête.
-
-Le requérant peut être entendu par le conseil supérieur, à sa demande ou à l'initiative du président du conseil supérieur.
-Après audition du rapporteur et, le cas échéant, des observations du requérant ou de son représentant, le conseil supérieur
-statue à huis clos. Sa décision est prise à la majorité des voix ; en cas de partage des voix, celle du président est
-prépondérante. La décision doit être motivée.
-
-Le conseil supérieur porte immédiatement cette décision à la connaissance du ministre chargé des finances et du requérant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 51 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-337 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-337 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 69 (V)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L221-2 (M)
-
 
 ###### Article R212-52
 
@@ -19645,6 +20444,76 @@ moins quatre des membres élus titulaires et, dans ce cas, dans le délai de deu
 	**Nouveaux textes**:
 
 	  - Code des juridictions financières - art. R220-15 (V)
+
+
+###### Article R212-54
+
+Le secrétariat permanent du Conseil supérieur des chambres régionales des comptes est assuré par un membre du corps des
+chambres régionales des comptes n'appartenant pas à ce conseil, affecté à ces fonctions avec son accord, par arrêté du
+ministre chargé des finances, sur proposition du conseil supérieur. La durée de cette affectation ne peut excéder cinq ans.
+Il ne peut y être mis fin que sur proposition du conseil supérieur.
+
+Le conseil supérieur établit son règlement intérieur, qui détermine notamment les modalités de fixation de l'ordre du jour,
+l'organisation de ses travaux ainsi que les conditions dans lesquelles il prend les décisions et rend les avis prévus par le
+présent code.
+
+Un procès-verbal est établi après chaque séance du Conseil supérieur des chambres régionales des comptes par les soins du
+secrétaire de ce conseil. Il est signé par le président, contresigné par le secrétaire et par un membre élu titulaire désigné
+à cet effet par le conseil et transmis, dans le délai d'un mois, aux membres du conseil.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 49 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 31 ()
+
+
+###### Article R212-55
+
+Lorsqu'est examiné, en vue de son inscription sur la liste d'aptitude à l'emploi de président de chambre régionale des
+comptes et de vice-président de la chambre régionale des comptes d'Ile-de-France prévue par l'article L. 221-2, le cas d'un
+président de section, le représentant élu de ce grade siège avec son suppléant, sous réserve des dispositions des deuxième et
+troisième alinéas ci-après. Le suppléant participe aux discussions mais ne vote pas.
+
+Le représentant titulaire du grade de président de section remplissant les conditions fixées à l'article L. 221-2 pour être
+inscrit sur la liste d'aptitude à l'emploi de président de chambre régionale des comptes et de vice-président de la chambre
+régionale des comptes d'Ile-de-France ne peut prendre part à la réunion du Conseil supérieur des chambres régionales des
+comptes lorsque celui-ci établit cette liste. Il est alors remplacé par son suppléant à moins que ce dernier ne se trouve
+dans le même cas.
+
+Si le représentant titulaire du grade de président de section et son suppléant ne peuvent prendre part à la délibération du
+conseil supérieur en application de l'alinéa précédent, le représentant du grade concerné est désigné par voie de tirage au
+sort parmi les membres du corps titulaires de ce grade.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 50 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 32 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 20 () JORF 17 octobre 2006
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L221-2 (M)
 
 
 ###### Article R212-55-1
@@ -19706,6 +20575,27 @@ grade dans l'ordre de leur nomination.
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
+###### Article R221-2
+
+La liste d'aptitude à l'emploi de président de chambre régionale des comptes et de vice-président de la chambre régionale des
+comptes d'Ile-de-France est établie chaque année par le Conseil supérieur des chambres régionales des comptes ; sa validité
+est de douze mois à compter de sa publication au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 26 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 33 ()
+
+
 ###### Article R221-3
 
 Les conseillers recrutés parmi les anciens élèves de l'Ecole nationale d'administration sont nommés par décret du Président
@@ -19734,6 +20624,217 @@ Cour des comptes. La durée totale de ces périodes ne peut être supérieure à
 	**Modifié par**:
 
 	  - Décret n°2002-1153 du 10 septembre 2002 - art. 5 ()
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R221-14 (V)
+
+
+###### Article R221-4
+
+Lorsque le nombre des conseillers des chambres régionales des comptes nommés pendant une année donnée parmi les anciens
+élèves de l'Ecole nationale d'administration est inférieur à quatre ou n'est pas un multiple de quatre, le reste est ajouté
+au nombre des conseillers des chambres régionales des comptes nommés dans les mêmes conditions l'année suivante pour le
+calcul des nominations à prononcer au cours de cette année en application de l'article L. 221-4.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 1982-11-16, art 12, al 1 et 2
+	  - Décret n°82-970 du 16 novembre 1982 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 34 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L221-4 (V)
+
+
+###### Article R221-5
+
+La commission consultative de la Cour des comptes désigne, parmi ses membres, le représentant de la Cour des comptes à la
+commission instituée par l'article L. 221-7 et son suppléant.
+
+Le Conseil supérieur des chambres régionales des comptes désigne, parmi ses membres, les représentants des magistrats des
+chambres régionales des comptes à la commission instituée par l'article L. 221-7 et leurs suppléants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 46 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 35 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L221-7 (M)
+
+
+###### Article R221-6
+
+Si la commission instituée par l'article L. 221-7 estime ne pouvoir proposer, au titre de l'article L. 221-4, aucune
+nomination dans le grade concerné ou un nombre inférieur au contingent ouvert, le reliquat de ce contingent est reporté au
+profit des nominations à prononcer au titre du cycle annuel suivant de nomination.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 1982-11-16, art 12 al 3
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 36 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L221-4 (V)
+	  - Code des juridictions financières - art. L221-7 (V)
+
+
+###### Article R221-7
+
+Les candidats à un emploi de conseiller au titre de l'article L. 221-4 doivent soit être au moins titulaires du grade de
+début de l'un des corps recrutés par la voie de l'Ecole nationale d'administration, soit être titulaires d'un grade ou
+occuper un emploi dont l'indice terminal est au moins égal à l'indice brut 780, soit, s'ils sont militaires, avoir atteint au
+moins les grades de commandant ou de capitaine de corvette ou assimilés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 37 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L221-4 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R221-8 (V)
+
+
+###### Article R221-8
+
+Chaque année, le ministre chargé des finances détermine le nombre des emplois de conseiller à pourvoir en application de
+l'article L. 221-4 et fixe la date limite de dépôt des candidatures. Celles-ci sont adressées par les intéressés au président
+de la commission instituée par l'article L. 221-7.
+
+Le dossier administratif des candidats est envoyé par l'autorité dont relèvent les intéressés au secrétaire général de la
+Cour des comptes. Cette autorité doit indiquer si le candidat réunit les conditions d'ancienneté de service, de classement
+hiérarchique, de niveau d'indice ou d'emploi définies par l'article L. 221-4 et par l'article R. 221-7.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 38 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L221-4 (M)
+	  - Code des juridictions financières - art. L221-7 (M)
+	  - Code des juridictions financières - art. R221-7 (M)
+
+
+###### Article R221-9
+
+L'examen des titres prévus par l'article L. 221-7 comprend : 
+
+a) Un examen par la commission du dossier de chaque candidat ; 
+
+b) Une audition par la commission de ceux des candidats dont les mérites sont jugés satisfaisants à l'issue de cet examen. 
+
+La commission inscrit, par ordre de mérite, les candidats qu'elle retient sur la liste d'aptitude au grade postulé. Elle
+établit, si elle le juge utile, une liste complémentaire. 
+
+La liste d'aptitude est publiée au Journal officiel de la République française. Elle est caduque à l'expiration du délai de
+douze mois à compter du jour de sa publication.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 15 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 39 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L221-7 (V)
+
+
+###### Article R221-10
+
+Les conseillers des chambres régionales des comptes recrutés par application de l'article L221-4 sont nommés suivant l'ordre
+de la liste d'aptitude, dans la limite des vacances d'emplois. 
+
+Ils choisissent dans cet ordre leur chambre d'affectation sur une liste arrêtée au moins un mois avant la publication de la
+liste d'aptitude par le premier président de la Cour des comptes, après avis du Conseil supérieur des chambres régionales des
+comptes. Les affectations sont prononcées par décision du premier président de la Cour des comptes. Les conseillers qui
+n'exercent pas de choix sont affectés d'office. Si les intéressés n'acceptent pas cette affectation, ils sont considérés
+comme démissionnaires. 
+
+Dans les douze mois suivant leur entrée en fonctions, ils effectuent une ou plusieurs périodes de formation organisées par la
+Cour des comptes. La durée totale de ces périodes ne peut être supérieure à six mois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 16 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 40 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L221-4 (V)
 
 	**Cité par**:
 
@@ -19780,6 +20881,71 @@ Ceux recrutés par la voie du troisième concours sont placés au 6e échelon du
 	  - Code des juridictions financières - art. R224-2 (M)
 
 
+###### Article R221-12
+
+Les membres de corps recrutés par la voie de l'Ecole nationale d'administration qui sont nommés conseiller en application de
+l'article L. 221-4 sont classés dans leur nouveau grade à l'échelon comportant un indice égal ou à défaut immédiatement
+supérieur à celui dont ils bénéficiaient dans leur corps d'origine. Dans la limite de l'ancienneté nécessaire pour une
+promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade lorsque
+l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement d'échelon
+dans leur ancienne situation. 
+
+Les services accomplis par les intéressés dans leur corps d'origine sont assimilés pour l'avancement à des services effectifs
+accomplis dans le corps des membres des chambres régionales des comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 18 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 41 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L221-4 (V)
+
+
+###### Article R221-13
+
+Les autres candidats nommés au grade de conseiller en application de l'article L. 221-4 sont classés dans leur grade à
+l'échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur corps
+ou leur emploi d'origine. Dans le cas où les intéressés sont nommés à un grade dans lequel un tel classement n'est pas
+possible, ils sont classés à l'échelon terminal de ce grade et il leur est alloué une indemnité compensatrice égale à la
+différence existant entre le traitement qu'ils percevaient dans leur ancienne situation et le traitement afférent au dernier
+échelon de leur grade dans leur nouveau corps.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 19 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 42 ()
+
+	**Cité par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 68 (Ab)
+	  - Décret n°2011-1446 du 4 novembre 2011 - art. 6 (Ab)
+	  - Code des juridictions financières - art. R228-6 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L221-4 (V)
+
+
 ###### Article R221-14
 
 Les périodes de formation prévues aux articles R. 221-3 et R. 221-10 sont considérées comme des services effectifs accomplis
@@ -19803,6 +20969,33 @@ dans le corps des conseillers des chambres régionales des comptes.
 
 	  - Code des juridictions financières - art. R221-10 (V)
 	  - Code des juridictions financières - art. R221-3 (V)
+
+
+###### Article R221-15
+
+Les magistrats et les fonctionnaires visés à l'article L. 212-5 peuvent être détachés dans le corps des magistrats des
+chambres régionales des comptes, à grade équivalent et à l'échelon comportant un indice égal ou, à défaut, immédiatement
+supérieur à celui qu'ils détenaient dans leur corps d'origine. Ils concourent pour l'avancement de grade et d'échelon avec
+les membres du corps.
+
+Les magistrats et fonctionnaires intégrés dans le corps des magistrats de chambre régionale des comptes en application du
+dernier alinéa de l'article L. 221-9 sont reclassés à l'échelon comportant un indice égal ou, à défaut, immédiatement
+supérieur à celui qu'ils détenaient dans leur corps d'origine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 43 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L212-5 (M)
+	  - Code des juridictions financières - art. L221-9 (V)
 
 
 ##### CHAPITRE II : Obligations et incompatibilités
@@ -19985,6 +21178,36 @@ commis.
 	  - Arrêté du 1er décembre 2011 (Ab)
 
 
+###### Article R223-2
+
+Toute mention au dossier du blâme infligé à un magistrat est effacée au bout de trois ans si aucune autre sanction n'est
+intervenue pendant cette période.
+
+Le magistrat frappé d'une sanction disciplinaire autre que l'avertissement ou le blâme, mais qui n'a pas été exclu du corps
+des membres des chambres régionales des comptes peut, après dix années de services effectifs à compter de la date de la
+sanction disciplinaire, introduire auprès du conseil supérieur une demande tendant à ce qu'aucune trace de la sanction
+prononcée ne subsiste à son dossier.
+
+Si, par son comportement général, le magistrat a donné toute satisfaction depuis la sanction dont il a fait l'objet, il peut
+être fait droit à sa demande. Celle-ci est examinée comme en matière de sanction disciplinaire.
+
+Le dossier du magistrat doit alors être reconstitué dans sa nouvelle composition sous le contrôle du conseil supérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 53 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 44 ()
+
+
 ###### Article R223-3
 
 Le décret n° 84-961 du 25 octobre 1984 relatif à la procédure disciplinaire concernant les fonctionnaires de l'Etat et le
@@ -20009,6 +21232,107 @@ des chambres régionales des comptes.
 	**Créé par**:
 
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+
+
+###### Article R223-4
+
+Les frais de déplacement et de séjour des témoins cités par le magistrat poursuivi, ainsi que les frais de déplacement et de
+séjour de son ou de ses défenseurs ne sont pas pris en charge par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 45 ()
+
+
+###### Article R223-5
+
+Lorsque le magistrat fait l'objet de poursuites devant un tribunal répressif, le Conseil supérieur des chambres régionales
+des comptes peut, à la majorité des membres appelés à délibérer, proposer de suspendre la procédure disciplinaire jusqu'à
+l'intervention de la décision du tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 45 ()
+
+
+###### Article R223-6
+
+Le magistrat poursuivi est convoqué par le président du Conseil supérieur des chambres régionales des comptes quinze jours au
+moins avant la date de la réunion, par lettre recommandée avec demande d'avis de réception.
+
+Ce conseil peut décider, à la majorité des membres appelés à délibérer, de renvoyer, à la demande du magistrat ou de son ou
+de ses défenseurs, l'examen de l'affaire à une nouvelle réunion. Un tel report n'est possible qu'une fois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 45 ()
+
+
+###### Article R223-7
+
+Lorsque le Conseil supérieur des chambres régionales des comptes examine l'affaire au fond, son président informe les membres
+du Conseil des conditions dans lesquelles le magistrat poursuivi et, le cas échéant, l'un de ses pairs et son ou ses
+défenseurs ont été mis en mesure d'exercer leur droit à communication intégrale du dossier individuel et des documents
+annexes.
+
+Le rapport établi par le rapporteur désigné par le président du Conseil supérieur des chambres régionales des comptes ainsi
+que les observations écrites que peut présenter le magistrat poursuivi sont lus en séance.
+
+Le Conseil supérieur des chambres régionales des comptes entend séparément les témoins cités par l'administration et ceux
+désignés par le magistrat poursuivi.
+
+Une confrontation des témoins ou une nouvelle audition d'un témoin peut être décidée par le président du conseil supérieur à
+la demande de l'un des membres du conseil ou du magistrat poursuivi ou de son ou ses défenseurs.
+
+Le magistrat poursuivi et, le cas échéant, son ou ses défenseurs peuvent, à tout moment de la procédure, demander au
+président du conseil supérieur d'intervenir afin de présenter des observations orales. Ils sont invités à présenter leurs
+dernières observations avant que le conseil supérieur ne commence à délibérer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 45 ()
+
+
+###### Article R223-8
+
+Le président du conseil supérieur met aux voix la proposition de sanction la plus sévère parmi celles qui ont été exprimées,
+soit par le rapporteur, soit au cours du délibéré. Si cette proposition ne recueille pas l'accord de la majorité des membres
+présents, le président met aux voix les autres sanctions par ordre décroissant de sévérité jusqu'à ce que l'une d'entre elles
+recueille la majorité des membres présents ; à défaut, aucune sanction n'est prononcée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 45 ()
 
 
 ##### CHAPITRE IV : Avancement
@@ -20358,6 +21682,56 @@ exerçait jusqu'alors les fonctions du ministère public.
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
+##### CHAPITRE VII : Emploi de président de chambre régionale et territoriale des comptes et de vice-président de la chambre régionale des comptes d'Ile-de-France
+
+###### Article R227-1
+
+Dans l'emploi de président de chambre régionale des comptes et de vice-président de la chambre régionale des comptes d'Ile-
+de-France, les magistrats nommés exercent les missions qui leur sont respectivement dévolues par les articles R. 212-7 et R.
+212-8-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 48 ()
+
+
+###### Article R227-2
+
+L'emploi de président de chambre régionale des comptes et de vice-président de la chambre régionale des comptes d'Ile-de-
+France comporte huit échelons.
+
+La durée du temps de services effectifs passé dans chaque échelon pour accéder à l'échelon supérieur est fixée à deux ans
+pour les 1er et 2e échelons, à trois ans pour les 3e, 4e et 5e échelons, et à cinq ans pour les 6e et 7e échelons.
+
+Les magistrats détachés dans l'emploi de président de chambre régionale des comptes ou de vice-président de la chambre
+régionale des comptes d'Ile-de-France sont classés à l'échelon comportant un indice égal ou immédiatement supérieur à celui
+qu'ils détiennent dans leur grade d'origine. Ils conservent, dans la limite de la durée de services exigée pour l'accès à
+l'échelon supérieur de leur nouvel emploi, l'ancienneté acquise dans l'échelon de leur grade.
+
+Les présidents de chambre régionale nommés conseillers maîtres sont classés à l'échelon comportant un indice égal ou
+immédiatement supérieur à celui qu'ils détiennent dans leur grade.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 48 ()
+
+	**Cité par**:
+
+	  - Décret n°2017-294 du 7 mars 2017 - art. 4 (V)
+
+
 #### TITRE III : Compétences et attributions
 
 ##### CHAPITRE Ier : Compétences juridictionnelles
@@ -20543,6 +21917,35 @@ Lorsqu'il y a lieu, les jugements mentionnent que l'audience a été publique.
 	  - Code des juridictions financières - art. L231-12 (V)
 	  - Code des juridictions financières - art. L231-3 (M)
 	  - Code des juridictions financières - art. L241-4 (V)
+
+
+###### Article R231-7
+
+L'exemplaire original des jugements est signé par le magistrat rapporteur et par le président de la formation de jugement.
+Toutefois, lorsque la formation de jugement délibère hors la présence du rapporteur, le rapporteur ne signe pas le jugement,
+qui est, dans ce cas, signé par le greffier.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 50
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 11 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1397 du 19 décembre 2008 - art. 107
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R245-5 (M)
 
 
 ###### Article R231-8
@@ -20815,6 +22218,36 @@ dans les conditions prévues aux articles R. 231-3 à R. 231-13.
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R253-2 (V)
+
+
+###### Article R231-16-1
+
+Sur décision de la chambre régionale des comptes, le ministère public adresse au comptable de fait et à l'ordonnateur de la
+collectivité concernée une demande tendant à ce que l'assemblée délibérante de la collectivité se prononce sur le caractère
+d'utilité publique des dépenses ayant donné lieu à déclaration de gestion de fait, dans les conditions prévues à l'article L.
+1612-19-1 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 49 () JORF 28 septembre 2002
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 123
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R242-17 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1612-19-1
 
 
 ###### Article R231-17
@@ -21356,6 +22789,32 @@ observer la discrétion et sont tenus au secret professionnel.
 	  - Code des juridictions financières - art. R241-3 (V)
 
 
+###### Article R241-2
+
+Le président de la chambre régionale des comptes informe par lettre l'ordonnateur de la collectivité ou de l'établissement
+concerné de l'engagement de la procédure d'examen de la gestion, ainsi que, le cas échéant, le ou les ordonnateurs
+précédemment en fonction pour toute ou partie de la période examinée. La lettre mentionne le nom du rapporteur qu'il a
+désigné.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 112
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 50 ()
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R241-15 (Ab)
+
+
 ###### Article R241-3
 
 Les ordonnateurs, les comptables, les dirigeants, les agents des organismes vérifiés, les commissaires aux comptes, les
@@ -21579,6 +23038,114 @@ rapport à l'ordre du jour de la formation compétente.
 	  - Code des juridictions financières - art. R212-20 (V)
 
 
+###### Article R241-11
+
+Le rapporteur présente son rapport devant la formation de délibéré. S'il en a été désigné un, le contre-rapporteur fait
+connaître son avis sur les propositions formulées.
+
+Si le rapport a été communiqué au ministère public, lecture est donnée des conclusions de celui-ci.
+
+Lorsque le commissaire du Gouvernement assiste à la séance, il présente ses conclusions et prend part au débat.
+
+La formation devant laquelle le rapport a été présenté délibère ensuite ; elle rend une décision sur chaque proposition. S'il
+est nécessaire de procéder à un vote, le président recueille successivement le vote du rapporteur, puis de chacun des membres
+de la formation de délibéré s'exprimant dans l'ordre inverse de celui résultant de leur grade et de leur ancienneté dans le
+grade ; il opine le dernier.
+
+Toutefois, en matière de gestion de fait et d'amende, la formation délibère hors la présence du rapporteur.
+
+Une section peut, soit d'office, soit sur demande du ministère public, renvoyer à la chambre une affaire sur laquelle elle a
+été appelée à délibérer.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 36
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 2002-09-27 art. 15 II, 51 jorf 28 septembre 2002
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 15 ()
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R245-5 (M)
+
+
+###### Article R241-12
+
+Le président de la chambre régionale des comptes adresse aux ordonnateurs et aux représentants légaux des collectivités et
+établissements publics le rapport d'observations provisoires formulées par la chambre.
+
+Il adresse aux ordonnateurs et aux représentants légaux ayant quitté leurs fonctions la partie de ce rapport concernant leur
+gestion.
+
+La notification de ce rapport ou d'extraits de ce rapport indique le délai, qui ne peut être inférieur à deux mois, dans
+lequel les destinataires peuvent apporter une réponse écrite et mentionne la possibilité qu'ils ont d'être entendus par la
+chambre.
+
+Le rapport d'observations provisoires ou des extraits de ce rapport sont communiqués dans les mêmes conditions à toute
+personne nominativement ou explicitement mise en cause. Celle-ci peut demander à être entendue en application de l'article L.
+241-14.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 114
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 52 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L241-14 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R241-15 (Ab)
+
+
+###### Article R241-13
+
+Les destinataires du rapport d'observations provisoires ou d'extraits du rapport d'observations provisoires peuvent demander
+à consulter au greffe de la chambre régionale des comptes, en personne ou par l'intermédiaire d'un représentant dûment
+mandaté, les pièces et documents du dossier sur lesquelles sont fondées les observations les concernant. Ils peuvent en
+prendre copie à leurs frais.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 115
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 53 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L241-14 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R241-15 (Ab)
+
+
 ###### Article R241-14
 
 Les dispositions des articles R. 241-1 à R. 241-13 s'appliquent, lors de la vérification des comptes et de l'examen de la
@@ -21639,6 +23206,290 @@ conformément à l'article L. 211-8.
 	  - Code des juridictions financières - art. R241-2 (M)
 	  - Code des juridictions financières - art. R241-8 (V)
 	  - Code des juridictions financières R211-2, R211-3, R241-2, R241-8, R241-12, R241-13, R241-16 à R241-21, L211-8
+
+
+###### Article R241-16
+
+Après examen des réponses écrites apportées au rapport d'observations provisoires et audition éventuelle des personnes
+mentionnées à l'article L. 241-14, la chambre régionale des comptes peut arrêter son rapport d'observations définitives.
+
+Elle peut également arrêter son rapport d'observations définitives en cas d'absence de réponse écrite dans le délai de deux
+mois prévu à l'article L. 241-9 du présent code.
+
+Ce rapport est notifié par le président de la chambre régionale des comptes à l'ordonnateur et au représentant légal de la
+collectivité ou de l'établissement public concerné, ainsi que, pour ce qui les concerne, à celui ou à ceux qui étaient en
+fonction au cours des exercices examinés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 116
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 54 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L241-14 (V)
+	  - Code des juridictions financières - art. L241-9 (M)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R241-18 (T)
+	  - Code des juridictions financières - art. R241-18-1 (T)
+	  - Code des juridictions financières - art. R241-19 (T)
+	  - Code des juridictions financières - art. R241-21 (M)
+	  - Code des juridictions financières - art. R241-23 (T)
+
+
+###### Article R241-17
+
+En application de l'article L. 241-11, chaque destinataire peut adresser au greffe de la chambre régionale des comptes une
+réponse qu'il signe personnellement. A l'expiration du délai d'un mois prévu à l'article L. 241-11 du présent code pour
+apporter une réponse écrite au rapport d'observations définitives, ce rapport, accompagné, le cas échéant, de la ou des
+réponses reçues, est notifié par le président de la chambre régionale des comptes à l'ordonnateur et au représentant légal de
+la collectivité ou de l'établissement public concerné, en vue de la communication à l'assemblée délibérante prévue au même
+article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 117
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 55 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L241-11 (M)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R241-18-1 (T)
+	  - Code des juridictions financières - art. R241-21-1 (T)
+
+
+###### Article R241-18
+
+Le rapport d'observations définitives de la chambre régionale des comptes auquel sont jointes les réponses reçues est
+communicable aux tiers dès qu'a eu lieu la première réunion de l'assemblée délibérante ou de l'organe collégial de décision
+suivant sa réception par la collectivité ou l'établissement public concerné.
+
+En cas d'absence de réponse à la lettre d'observations provisoires dans le délai imparti, la chambre régionale des comptes
+peut arrêter ses observations définitives, qui sont notifiées conformément aux dispositions de l'article R. 241-16.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 118
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 56 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R241-16 (M)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R241-18-1 (T)
+	  - Code des juridictions financières - art. R241-21 (M)
+
+
+###### Article R241-18-1
+
+La procédure prévue aux articles R. 241-16, R. 241-17 et R. 241-18 est suspendue à compter du premier jour du troisième mois
+précédant le mois au cours duquel il doit être procédé à des élections pour la collectivité concernée et jusqu'au lendemain
+du tour de scrutin où l'élection est acquise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 57 () JORF 28 septembre 2002
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R241-16 (M)
+	  - Code des juridictions financières - art. R241-17 (M)
+	  - Code des juridictions financières - art. R241-18 (M)
+
+
+###### Article R241-19
+
+Lorsque la chambre régionale des comptes a décidé de ne pas formuler de rapport d'observations définitives, le président
+adresse aux destinataires visés à l'article R. 241-16 une lettre indiquant la clôture de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 119
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 58 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R241-16 (M)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R241-21 (M)
+
+
+###### Article R241-20
+
+Le rapport d'observations définitives arrêté par la chambre régionale des comptes lors de l'examen de la gestion d'un
+établissement public est transmis, si la chambre l'estime utile, à la collectivité de rattachement de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 120
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 59 ()
+
+
+###### Article R241-21
+
+Le rapport d'observations définitives est notifié au représentant légal des organismes mentionnés aux articles L. 133-3, L.
+133-4 et L. 211-4 à L. 211-6.
+
+Les dispositions des articles R. 241-16 à R. 241-19 s'appliquent tant à l'égard du représentant légal des organismes visés à
+l'alinéa précédent qu'en ce qui concerne l'ordonnateur de la collectivité territoriale qui leur a apporté un concours
+financier ou détient une partie du capital ou une partie des voix dans leurs instances de décision.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 124
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 60 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L133-3 (M)
+	  - Code des juridictions financières - art. L133-4 (V)
+	  - Code des juridictions financières L133-3, L133-4, L211-4 à L211-6, R241-16 à R241-19
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R254-1 (M)
+
+
+###### Article R241-21-1
+
+Lorsque le président de la chambre régionale des comptes constate que la rédaction du rapport d'observations définitives est
+entachée d'une erreur ou d'une omission matérielle, il peut, par décision prise après avis conforme du ministère public, y
+apporter les rectifications nécessaires.
+
+La notification du rapport d'observations rectifié se substitue à celle prévue à l'article R. 241-17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 61 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R241-17 (M)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R254-1 (V)
+
+
+###### Article R241-22
+
+Les notifications des rapports d'observations prévues au présent chapitre sont faites par lettre recommandée avec demande
+d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 125
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 62 ()
+
+
+###### Article R241-23
+
+Le président de la chambre régionale des comptes communique au représentant de l'Etat ainsi qu'au trésorier-payeur général le
+rapport d' observations définitives arrêté par la chambre lors de l'examen de la gestion d'une collectivité territoriale,
+d'un établissement public local ou d'un organisme non soumis aux règles de la comptabilité publique. Les réponses adressées à
+la chambre en application de l'article R. 241-16 sont jointes au rapport.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 127
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 63 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R241-16 (M)
 
 
 ###### Article R241-24
@@ -21761,6 +23612,41 @@ La procédure devant les chambres régionales des comptes est écrite et contrad
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
+###### Article R241-28
+
+Les personnes citées à l'article L. 241-14 peuvent demander par lettre adressée au président de la chambre régionale des
+comptes à être entendues par la chambre pour présenter toutes observations avant décision définitive.
+
+Ces observations complètent et précisent celles fournies par écrit sur les affaires qui les concernent.
+
+Le président de la chambre accuse réception de cette demande et fixe la date à laquelle l'audition aura lieu.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 38
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 14 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L241-14 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R212-21 (V)
+	  - Code des juridictions financières - art. R241-12 (M)
+	  - Code des juridictions financières - art. R241-29 (V)
+	  - Code des juridictions financières - art. R245-3 (V)
+
+
 ###### Article R241-29
 
 Les auditions prévues aux articles R. 241-7 et R. 241-28 se déroulent devant l'une des formations compétentes pour délibérer,
@@ -21789,6 +23675,71 @@ auditions ; il est émargé par les personnes entendues.
 	  - Code des juridictions financières - art. R212-33 (M)
 	  - Code des juridictions financières - art. R241-28 (M)
 	  - Code des juridictions financières - art. R241-7 (V)
+
+
+###### Article R241-30
+
+Le droit à audition prévu par les articles L. 231-3 et L. 231-12 s'exerce dans le cadre de l'audience publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 14 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1397 du 19 décembre 2008 - art. 107
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L231-12
+	  - Code des juridictions financières - art. L231-3
+
+
+###### Article R241-31
+
+La demande en rectification du rapport d'observations définitives prévue à l'article L. 243-4 peut être adressée au greffe de
+la chambre dès que la communication de ce rapport à l'assemblée ou à l'organe délibérant permet à toute personne
+nominativement ou explicitement mise en cause d'avoir connaissance des observations définitives de la chambre et des réponses
+qui y ont été éventuellement apportées conformément à l'article L. 241-11.
+
+Dans le délai d'un an suivant la communication du rapport d'observations définitives à l'assemblée délibérante de la
+collectivité ou de l'établissement qui a fait l'objet d'un examen de la gestion, une demande en rectification d'erreur ou
+d'omission dudit rapport peut être adressée au greffe de la chambre par les personnes mentionnées à l'article L. 243-4 du
+présent code.
+
+La demande en rectification est transmise par lettre recommandée avec avis de réception. Elle doit comporter l'exposé des
+faits et les motifs invoqués et être accompagnée des justifications sur lesquelles elle se fonde.
+
+Le président de la chambre régionale des comptes transmet la demande en rectification à toute personne nominativement ou
+explicitement concernée par ladite demande et, le cas échéant, aux ordonnateurs et dirigeants des personnes morales
+contrôlées. Il leur précise le délai, qui ne peut être inférieur à un mois, dans lequel ils peuvent présenter des
+observations écrites ou demander à être entendus par la chambre. Il informe également l'auteur de la demande de la date à
+laquelle il peut solliciter son audition par la chambre.
+
+La chambre régionale des comptes se prononce sur la demande en rectification par une décision qui est notifiée par lettre du
+président au demandeur ainsi qu'à l'ordonnateur ou au dirigeant de l'organisme concerné. A compter de cette réception, cette
+décision est annexée au rapport d'observations définitives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 64 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L241-11 (M)
+	  - Code des juridictions financières - art. L243-4 (V)
 
 
 ##### CHAPITRE II : Contrôle budgétaire
@@ -22229,6 +24180,29 @@ prendre connaissance et présenter éventuellement leurs observations au greffe 
 	  - Code des juridictions financières - art. R242-23 (V)
 
 
+###### Article R243-11
+
+Le dossier du recours est transmis au procureur général près la Cour des comptes par le ministère public près la chambre
+régionale. Ce dernier en avise le requérant et les autres parties.
+
+Les comptes concernés par le jugement attaqué peuvent être joints au dossier du recours, en tout ou partie, à l'initiative du
+ministère public près la chambre ou sur demande du procureur général près la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 74
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 65 ()
+
+
 ###### Article R243-12
 
 Les notifications et transmissions concernant la procédure d'appel sont effectuées par lettre recommandée avec demande d'avis
@@ -22490,6 +24464,136 @@ reconnu la recevabilité du recours, prendre par jugement provisoire les disposi
 	**Créé par**:
 
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+
+
+##### CHAPITRE V : Règles propres à l'audience publique.
+
+###### Article R245-1
+
+Sont publiques les séances de jugement au cours desquelles la chambre régionale des comptes statue à titre définitif sur une
+gestion de fait ou sur une amende.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 40
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 2002-09-27 art. 16 II, 17 II jorf 28 septembre 2002
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 16 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1397 du 19 décembre 2008 - art. 107
+
+
+###### Article R245-2
+
+Toute partie est avertie par une notification faite par lettre recommandée du jour où l'affaire sera appelée à l'audience.
+
+Cette notification est faite sept jours au moins avant l'audience.
+
+L'ordre du jour de l'audience est affiché à l'entrée de la juridiction.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 41
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 16 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1397 du 19 décembre 2008 - art. 107
+
+
+###### Article R245-3
+
+Après l'exposé du rapporteur et les conclusions du commissaire du Gouvernement, la ou les parties présentes peuvent formuler,
+soit en personne, soit par un avocat, des observations conformément au second alinéa de l'article R. 241-28.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 42
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 16 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1397 du 19 décembre 2008 - art. 107
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R241-28 (M)
+
+
+###### Article R245-4
+
+Sont applicables aux audiences publiques de la chambre régionale des comptes les articles 438, 439 et 441 du nouveau code de
+procédure civile sur la police de l'audience.
+
+Le président peut décider que l'audience aura lieu ou se poursuivra à huis clos dans les cas prévus à l'article 435 du même
+code.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 43
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 16 ()
+
+
+###### Article R245-5
+
+La formation délibère hors la présence de la ou des parties, du rapporteur et du ministère public. Le jugement est lu en
+audience publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 44
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 2002-09-27 art. 16 II, 18 II jorf 28 septembre 2002
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 16 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1397 du 19 décembre 2008 - art. 107
 
 
 ##### CHAPITRE VI : Notification des jugements.
@@ -23319,6 +25423,31 @@ conditions prévues à l'article L. 262-26.
 	  - Code des juridictions financières - art. L262-26 (M)
 
 
+###### Article R262-17
+
+Lorsque la vacance d'un poste de commissaire du Gouvernement auprès de la chambre territoriale des comptes est comblée par la
+nomination d'un magistrat affecté dans une autre chambre territoriale, ce dernier est muté avec son accord sur le poste
+vacant dans les conditions prévues par l'article L. 212-16.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 22
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 22 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L212-16 (M)
+
+
 ###### Article R262-18
 
 Le ministère public veille à la production des comptes dans les délais réglementaires et, en cas de retard, requiert
@@ -23387,6 +25516,34 @@ la section.
 
 	  - Code des juridictions financières - art. R262-57 (V)
 	  - Code des juridictions financières - art. R262-65 (V)
+
+
+###### Article R262-20
+
+Le commissaire du Gouvernement peut assister aux séances de la chambre et des sections et y présenter des observations
+orales. Il ne prend pas part au délibéré.
+
+Il peut assister aux auditions prévues à l'article R. 262-62.
+
+Il peut participer aux commissions ou aux comités constitués au sein de la chambre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 26
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 4 ()
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R262-62 (V)
 
 
 ###### Article R262-21
@@ -24801,6 +26958,29 @@ prendre connaissance et présenter éventuellement leurs observations au greffe 
 	**Créé par**:
 
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+
+
+###### Article R262-93
+
+Le dossier du recours est transmis au procureur général près la Cour des comptes par le ministère public près la chambre
+régionale. Ce dernier en avise le réquérant et les autres parties.
+
+Les comptes concernés par le jugement attaqué peuvent être joints au dossier du recours, en tout ou partie, à l'initiative du
+ministère public près la chambre ou sur demande du procureur général près la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-945 1995-08-23, art 74
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 65 ()
 
 
 ###### Article R262-94
@@ -27111,1190 +29291,7 @@ par la collectivité ou l'établissement public concerné.
 
 ### DEUXIEME PARTIE : Les chambres régionales des comptes.
 
-#### TITRE Ier : Missions et organisation. 
-
-##### CHAPITRE II : Organisation
-
-##### Section 1 : Organisation des juridictions
-
-##### Sous-section 1 : Dispositions générales
-
-##### Paragraphe 1 : Le siège, la désignation et la gestion des chambres.
-
-###### Article R212-3
-
-Le premier président de la Cour des comptes, président du Conseil supérieur des chambres régionales des comptes, assure la
-gestion des magistrats et des personnels des chambres régionales des comptes ainsi que celle des moyens matériels de ces
-juridictions. Il ordonnance les dépenses des chambres régionales des comptes.
-
-Il peut déléguer sa signature au secrétaire général et aux secrétaires généraux adjoints de la Cour des comptes. Délégation
-peut également être donnée à d'autres fonctionnaires du secrétariat général appartenant à un corps de catégorie A.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 135
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cité par**:
-
-	  - Décret n°2008-94 du 30 janvier 2008 - art. 1 (Ab)
-	  - Décret n°2008-94 du 30 janvier 2008 - art. 4 (Ab)
-	  - Décret n°2011-1317 du 17 octobre 2011 - art. (VD)
-	  - Code des juridictions financières - art. R252-2 (V)
-	  - Code des juridictions financières - art. R262-5 (V)
-	  - Code des juridictions financières - art. R272-5 (V)
-
-
-##### Paragraphe 5 : Les rapporteurs auprès des chambres.
-
-###### Article R212-13
-
-Peuvent exercer à temps plein les fonctions de rapporteur auprès des chambres régionales des comptes, en application de
-l'article L. 212-6, les fonctionnaires appartenant soit à l'un des corps recrutés par la voie de l'Ecole nationale
-d'administration, soit au corps des administrateurs des postes et télécommunications, soit à l'un des corps recrutés par
-l'Ecole polytechnique, soit aux corps des maîtres de conférences ou des professeurs des universités, ainsi que des magistrats
-de l'ordre judiciaire.
-
-Les rapporteurs à temps plein sont placés dans une position de détachement ou de mise à disposition.
-
-Peuvent exercer à temps partiel les mêmes fonctions de rapporteur les magistrats des chambres régionales des comptes ayant
-été admis à faire valoir leurs droits à la retraite.
-
-Les rapporteurs sont nommés pour une période de deux ans renouvelable. Ils sont désignés parmi les membres des corps
-susmentionnés sur proposition du premier président de la Cour des comptes et après avis du président de la chambre régionale
-des comptes où ils sont appelés à exercer leurs fonctions.
-
-Les rapporteurs sont tenus aux mêmes obligations que les magistrats. Ils doivent notamment observer la discrétion et sont
-tenus au secret professionnel.
-
-Les rapporteurs à temps plein participent dans les mêmes conditions que les magistrats aux activités de la chambre, à
-l'exception de celles ayant un caractère juridictionnel. Ils disposent à cette fin de l'ensemble des droits et pouvoirs
-attribués aux magistrats.
-
-Les rapporteurs à temps partiel ne participent qu'aux séances de délibéré portant sur les affaires qu'ils rapportent.
-
-Paragraphe 6
-
-Prestation de serment des magistrats
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 134
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L212-6 (M)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R212-7 (M)
-	  - Code des juridictions financières - art. R262-13 (V)
-	  - Code des juridictions financières - art. R262-7 (V)
-	  - Code des juridictions financières - art. R272-13 (V)
-	  - Code des juridictions financières - art. R272-7 (V)
-
-
-##### Paragraphe 7 : Le ministère public.
-
-###### Article R212-17
-
-Lorsque la vacance d'un poste de commissaire du Gouvernement auprès d'une chambre régionale des comptes ne peut être comblée
-par une nomination parmi les magistrats de la même chambre, un commissaire du Gouvernement auprès d'une autre chambre peut
-être muté avec son accord sur ce poste vacant dans les conditions prévues par l'article L. 212-16, sur proposition du
-procureur général près la Cour des comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 22
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L212-16 (M)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R252-2 (V)
-
-
-###### Article R212-21
-
-Le commissaire du Gouvernement peut assister aux séances de la chambre et des sections et y présenter des observations
-orales.
-
-Il peut assister aux auditions prévues aux articles R. 241-7 et R. 241-28.
-
-Il peut participer aux commissions ou aux comités constitués au sein de la chambre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 26
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R241-28 (M)
-	  - Code des juridictions financières - art. R241-7 (V)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R252-2 (V)
-
-
-##### Paragraphe 9 : Le greffe.
-
-###### Article R212-26
-
-Le président de la chambre régionale des comptes et les présidents de section disposent du service du greffe de la chambre.
-
-Le greffe prépare l'ordre du jour des séances de la chambre et des sections, note les décisions prises et assure la tenue des
-rôles, registres et dossiers.
-
-Il tient à la disposition des personnes intéressées la liste des jugements communicables en application de l'article D.
-247-1, des lettres d'observations définitives, avis et décisions, mentionnés au présent code et communicables en application
-de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le
-public et diverses dispositions d'ordre administratif, social et fiscal.
-
-Il procède, sous le contrôle du ministère public, à l'enregistrement des comptes produits à la chambre et des actes,
-documents et requêtes dont elle est saisie.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-753 1978-07-17
-	  - Code des juridictions financières - art. D247-1 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 12
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-##### Sous-section 4 : Fonctionnement des chambres.
-
-###### Article R212-33
-
-Dès lors que ces formations ont été instituées dans les conditions fixées au troisième alinéa de l'article R. 212-7, la
-chambre régionale des comptes peut également délibérer en formation restreinte de chambre et en sections réunies.
-
-La formation restreinte de chambre est composée, lorsqu'il n'existe pas de section, du président de la chambre, du rapporteur
-et du contre-rapporteur quand celui-ci a été désigné ou, dans le cas contraire, du magistrat, présent à la chambre, le plus
-ancien dans le grade le plus élevé. La formation restreinte de chambre est composée, lorsqu'il existe une ou plusieurs
-sections, du président de la chambre, du ou des présidents de section, du rapporteur, le cas échéant du contre-rapporteur et,
-conformément à la règle de l'imparité fixée par le premier alinéa de l'article R. 212-31, du ou des deux magistrats présents
-à la chambre les plus anciens dans le grade le plus élevé.
-
-La formation en sections réunies est composée du président de la chambre et des membres des sections intéressées par une même
-affaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 18
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R212-31 (V)
-	  - Code des juridictions financières - art. R212-7 (V)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R241-29 (T)
-
-
-##### Section 2 : Le Conseil supérieur des chambres régionales des comptes
-
-##### Sous-section 1 : Désignation des membres du Conseil supérieur des chambres régionales des comptes.
-
-###### Article R212-34
-
-Les élections au Conseil supérieur des chambres régionales des comptes ont lieu quatre mois au plus et quinze jours au moins
-avant la date d'expiration du mandat des membres du précédent conseil.
-
-Sous réserve des dispositions particulières relatives à l'élection des magistrats de la Cour des comptes, membres du conseil,
-figurant à l'article R. 212-47, sont électeurs les magistrats du corps des membres des chambres régionales des comptes en
-position d'activité ou en position de détachement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 1982-11-16, art 28
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R212-46 (M)
-	  - Code des juridictions financières - art. R252-3 (Ab)
-	  - Code des juridictions financières - art. R272-28 (V)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R212-47 (M)
-
-
-###### Article R212-35
-
-Pour l'accomplissement des opérations électorales, les électeurs peuvent être répartis en sections de vote créées par
-décision du premier président de la Cour des comptes.
-
-La liste des électeurs appelés à voter dans une section de vote est arrêtée par les soins du président de la chambre
-régionale auprès duquel est placée cette section. Elle est affichée dans la section de vote quinze jours au moins avant la
-date fixée pour le scrutin.
-
-Dans les huit jours qui suivent la publication, les électeurs peuvent vérifier les inscriptions et, le cas échéant, présenter
-des demandes d'inscription. Dans le même délai, et pendant trois jours à compter de son expiration, des réclamations peuvent
-être formulées contre les inscriptions ou omissions sur la liste électorale.
-
-Le président du conseil supérieur statue sans délai sur les réclamations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 29 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000) A(Décret 2002-1201 2002-09-27 art. 69 jorf 28 septembre 2002
-
-
-###### Article R212-36
-
-Sont éligibles les membres du corps remplissant les conditions requises pour être inscrits sur la liste électorale du conseil
-supérieur.
-
-Toutefois ne peuvent être élus ni les magistrats en congé de longue durée au titre de l'article 34 de la loi n° 84-16 du 11
-janvier 1984, portant dispositions statutaires relatives à la fonction publique de l'Etat, ni ceux qui ont été frappés d'une
-des incapacités prononcées par les articles L. 5 et L. 6 du code électoral, ni ceux qui ont été frappés d'une rétrogradation
-ou d'une exclusion temporaire de fonctions relevant du troisième groupe des sanctions disciplinaires énumérées par l'article
-66 de la loi du 11 janvier 1984 précitée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 30 (M)
-
-	**Cite**:
-
-	  - Loi n°84-16 1984-01-11 art. 34, art. 66
-	  - Code électoral - art. L5 (M)
-	  - Code électoral - art. L6 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R212-38 (V)
-	  - Code des juridictions financières - art. R212-47 (T)
-
-
-###### Article R212-37
-
-Les titulaires d'un grade déterminé dans le corps des magistrats des chambres régionales constituent un collège électoral
-distinct pour l'élection au conseil supérieur du représentant de ce grade et celle de son suppléant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 31 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000) A(Décret 2002-1201 2002-09-27 art. 69 jorf 28 septembre 2002
-
-
-###### Article R212-38
-
-Les déclarations de candidature doivent être signées par le candidat et son suppléant et être déposées au moins un mois avant
-la date fixée pour les élections et, si nécessaire, porter le nom d'un magistrat du corps résidant au lieu où s'effectue le
-dépouillement du scrutin et habilité à représenter le candidat et son suppléant dans toutes les opérations électorales.
-
-Aucune candidature ne peut être déposée après la date limite prévue au premier alinéa ci-dessus. Si, après cette date, un
-candidat est reconnu inéligible, le candidat suppléant peut se substituer à lui, sous réserve de faire déposer dans les trois
-jours de la notification de l'inéligibilité la candidature d'un suppléant. Si le candidat suppléant est inéligible, il peut
-être pourvu à son remplacement dans les mêmes conditions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 1982-11-16, art 32
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000) A(Décret 2002-1201 2002-09-27 art. 69 jorf 28 septembre 2002
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R212-47 (M)
-
-
-###### Article R212-39
-
-Les bulletins de vote comprenant le nom du candidat titulaire et de son suppléant et les enveloppes sont établis aux frais de
-l'administration, d'après un modèle type fourni par celle-ci. Ils sont remis au président de chambre régionale auprès duquel
-est placée chaque section de vote, en nombre au moins égal, pour chaque grade, au nombre des électeurs inscrits sur la liste
-électorale de cette section, au titre du collège électoral correspondant.
-
-Ils sont transmis par les soins de l'administration aux magistrats admis à voter dans les sections de vote.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 33 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000) A(Décret 2002-1201 2002-09-27 art. 69 jorf 28 septembre 2002
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R212-47 (M)
-	  - Code des juridictions financières - art. R252-1 (V)
-
-
-###### Article R212-40
-
-Un bureau de vote central est institué, comprenant un président et un secrétaire désignés par le président du Conseil
-supérieur des chambres régionales des comptes ainsi qu'un délégué de chaque candidat en présence.
-
-Les suffrages recueillis dans chaque section de vote sont transmis sous pli cacheté au bureau de vote central par les soins
-du président de chambre régionale auprès duquel est placée cette section.
-
-Le bureau de vote central procède au dépouillement du scrutin et à la proclamation des résultats.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 34 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000) A(Décret 2002-1201 2002-09-27 art. 69 jorf 28 septembre 2002
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R212-47 (M)
-
-
-###### Article R212-41
-
-Les opérations électorales se déroulent publiquement dans les locaux des chambres régionales. Le vote a lieu au scrutin
-secret et sous enveloppe.
-
-Les électeurs ne peuvent rayer ni le nom du candidat ni celui de son suppléant.
-
-Le vote peut avoir lieu par correspondance dans les conditions fixées par le premier président de la Cour des comptes, après
-avis du Conseil supérieur des chambres régionales des comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 35 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000) A(Décret 2002-1201 2002-09-27 art. 69 jorf 28 septembre 2002
-
-
-###### Article R212-42
-
-Le scrutin est uninominal majoritaire à deux tours.
-
-Quinze jours au plus séparent les deux tours de scrutin. Aucune candidature n'est recevable entre le premier et le deuxième
-tour.
-
-Dans chaque grade, est déclaré élu au premier tour le candidat ayant obtenu la majorité absolue des suffrages exprimés et un
-nombre de suffrages égal au quart au moins de celui des électeurs inscrits.
-
-Au deuxième tour est déclaré élu le candidat ayant obtenu la majorité des suffrages exprimés.
-
-Si deux candidats ont obtenu le même nombre de voix, le plus âgé est proclamé élu.
-
-Les suppléants suivent le sort du candidat avec lequel ils se sont présentés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 36 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000) A(Décret 2002-1201 2002-09-27 art. 69 jorf 28 septembre 2002
-
-
-###### Article R212-43
-
-Le bureau central de vote constate le nombre d'électeurs inscrits.
-
-Il détermine le nombre de suffrages valablement exprimés, le nombre de voix obtenu par chaque candidat et proclame les
-résultats.
-
-Il fixe s'il y a lieu la date du second tour de scrutin.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 37 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000) A(Décret 2002-1201 2002-09-27 art. 69 jorf 28 septembre 2002
-
-
-###### Article R212-44
-
-Un procès-verbal des opérations électorales est établi par le bureau central de vote et immédiatement transmis au président
-du Conseil supérieur des chambres régionales des comptes, au ministre chargé des finances, et à chaque candidat ou à son
-représentant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 38 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000) A(Décret 2002-1201 2002-09-27 art. 69 jorf 28 septembre 2002
-
-
-###### Article R212-46
-
-Le représentant des magistrats exerçant les fonctions du ministère public au Conseil supérieur des chambres régionales des
-comptes, statuant comme conseil de discipline, est élu en même temps qu'un suppléant, au bulletin secret, au scrutin
-uninominal majoritaire à un tour, dans les délais fixés au premier alinéa de l'article R. 212-34.
-
-Sont électeurs et éligibles tous les magistrats en activité exerçant les fonctions du ministère public, qui constituent un
-collège électoral unique sans distinction de grade.
-
-Est déclaré élu le candidat qui obtient la majorité des suffrages exprimés. Le choix du représentant titulaire entraîne celui
-de son suppléant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 1982-11-16, art 40
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R212-34 (M)
-
-
-###### Article R212-47
-
-Les représentants des magistrats de la Cour des comptes au Conseil supérieur des chambres régionales des comptes sont élus,
-en même temps que leurs suppléants, dans les délais fixés au premier alinéa de l'article R. 212-34.
-
-Les membres de la Cour des comptes en position d'activité ou de détachement sont électeurs. Ils sont également éligibles, à
-l'exclusion, parmi eux, des membres de droit du Conseil supérieur des chambres régionales des comptes.
-
-Les électeurs constituent un collège électoral unique. Il est créé un seul bureau de vote à la Cour des comptes.
-
-Les dispositions du second alinéa de l'article R. 212-36, des articles R. 212-38, R. 212-39, des premier et dernier alinéas
-de l'article R. 212-40 et des articles R. 212-43 à R. 212-45 sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 41 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R212-34 (M)
-	  - Code des juridictions financières - art. R212-36 (M)
-	  - Code des juridictions financières - art. R212-38 (Ab)
-	  - Code des juridictions financières - art. R212-39 (Ab)
-	  - Code des juridictions financières - art. R212-40 (Ab)
-	  - Code des juridictions financières R212-34, R212-36, R212-38, R212-39, R212-40, R212-43 à R212-45
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R212-49 (Ab)
-
-
-###### Article R212-48
-
-Dans le cas de démissions simultanées ou successives d'un représentant titulaire et de son suppléant, il est pourvu à leur
-remplacement par une élection organisée dans les deux mois de la constatation de la vacance ainsi créée.
-
-Dans le cas où un représentant élu au conseil supérieur cesserait d'être éligible, ce conseil supérieur constate la démission
-d'office de ce représentant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 42 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R212-49 (Ab)
-	  - Code des juridictions financières - art. R221-5 (M)
-
-
-###### Article R212-49
-
-Les opérations électorales prévues aux articles R. 212-47 et R. 212-48 se déroulent publiquement. Le vote a lieu au scrutin
-secret et sous enveloppe.
-
-Le vote peut avoir lieu par procuration.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 43 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000) A(Décret 2002-1201 2002-09-27 art. 69 jorf 28 septembre 2002
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R212-47 (M)
-	  - Code des juridictions financières - art. R212-48 (M)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R221-5 (M)
-
-
-###### Article R212-50
-
-Les élections des représentants des membres de la Cour des comptes au Conseil supérieur des chambres régionales des comptes
-ont lieu au scrutin de liste majoritaire à deux tours avec panachage.
-
-Chaque liste doit comprendre six noms à raison d'un nom de titulaire et un nom de suppléant pour chaque siège à pourvoir.
-
-Les électeurs peuvent soit voter pour une liste entière sans rayer aucun nom, soit rayer pour chaque siège, à la fois le nom
-du candidat et celui de son suppléant, sans les remplacer ou en leur substituant les noms d'autres candidats à ce siège,
-titulaire et suppléant, figurant ensemble sur une autre liste.
-
-Le bureau de vote détermine le nombre total de voix obtenu par chaque candidat.
-
-Sont proclamés élus au premier tour les candidats titulaires et suppléants ayant obtenu la majorité des suffrages exprimés et
-un nombre de suffrages égal au quart au moins de celui des électeurs inscrits.
-
-Sont proclamés élus au second tour les candidats ayant recueilli la majorité des suffrages exprimés.
-
-Si plusieurs candidats obtiennent le même nombre de suffrages, le plus âgé d'entre eux est proclamé élu.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 44 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000) A(Décret 2002-1201 2002-09-27 art. 69 jorf 28 septembre 2002
-
-
-##### Sous-section 2 : Fonctionnement du Conseil supérieur des chambres régionales des comptes.
-
-###### Article R212-54
-
-Le secrétariat permanent du Conseil supérieur des chambres régionales des comptes est assuré par un membre du corps des
-chambres régionales des comptes n'appartenant pas à ce conseil, affecté à ces fonctions avec son accord, par arrêté du
-ministre chargé des finances, sur proposition du conseil supérieur. La durée de cette affectation ne peut excéder cinq ans.
-Il ne peut y être mis fin que sur proposition du conseil supérieur.
-
-Le conseil supérieur établit son règlement intérieur, qui détermine notamment :
-
-a) Les conditions de fixation de l'ordre du jour ;
-
-b) L'organisation des travaux du conseil supérieur en matière d'avancement, d'inscription sur la liste d'aptitude aux
-fonctions de président de chambre régionale des comptes, de notation et de discipline ;
-
-c) La procédure d'examen des propositions d'affectations et de mutations soumises au conseil supérieur par le premier
-président de la Cour des comptes ;
-
-d) Les modalités selon lesquelles le conseil se prononce sur l'organisation et le fonctionnement des chambres régionales des
-comptes.
-
-Un procès-verbal est établi après chaque séance du Conseil supérieur des chambres régionales des comptes par les soins du
-secrétaire de ce conseil. Il est signé par le président, contresigné par le secrétaire et par un membre élu titulaire désigné
-à cet effet par le conseil et transmis, dans le délai d'un mois, aux membres du conseil.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 49 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article R212-55
-
-Lorsqu'est examiné, en vue de son inscription sur la liste d'aptitude aux fonctions de président de chambre régionale, prévue
-par l'article L. 221-2, le cas d'un président de section, le représentant élu de ce grade siège avec son suppléant, sous
-réserve des dispositions des deuxième et troisième alinéas ci-après. Le suppléant participe aux discussions mais ne vote pas.
-
-Un magistrat remplissant les conditions fixées à l'article L. 221-2 pour être inscrit sur la liste d'aptitude aux fonctions
-de président de chambre régionale ne peut prendre part à la réunion du Conseil supérieur des chambres régionales des comptes
-lorsque celui-ci établit cette liste. Il est alors remplacé par son suppléant à moins que ce dernier ne se trouve dans le
-même cas.
-
-Si le représentant titulaire d'un grade et son suppléant ne peuvent prendre part à la délibération du conseil supérieur en
-application de l'alinéa précédent, le représentant du grade concerné est désigné par voie de tirage au sort parmi les membres
-du corps titulaires de ce grade.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 50 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L221-2 (M)
-
-
 #### TITRE II : DISPOSITIONS STATUTAIRES
-
-##### CHAPITRE Ier : Nominations.
-
-###### Article R221-2
-
-La liste d'aptitude aux fonctions de président de chambre régionale des comptes est établie chaque année par le Conseil
-supérieur des chambres régionales des comptes ; sa validité est de douze mois à compter de sa publication au Journal officiel
-de la République française.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 26 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article R221-4
-
-Lorsque le nombre des conseillers de 2e classe des chambres régionales des comptes nommés pendant une année donnée parmi les
-anciens élèves de l'Ecole nationale d'administration est inférieur à quatre ou n'est pas un multiple de quatre, le reste est
-ajouté au nombre des conseillers des chambres régionales des comptes nommés dans les mêmes conditions l'année suivante pour
-le calcul des nominations à prononcer au cours de cette année en application de l'article L. 221-4.
-
-Il est procédé de même pour le calcul des nominations à prononcer au cours d'une année en application des articles L. 221-5
-ou L. 221-6 lorsque le nombre de conseillers de 2e classe promus à la 1re classe est inférieur à cinq ou n'est pas un
-multiple de cinq, ou que le nombre des conseillers de 1re classe promus à la hors-classe est inférieur à six ou n'est pas un
-multiple de six.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 1982-11-16, art 12, al 1 et 2
-	  - Décret n°82-970 du 16 novembre 1982 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L221-4 (M)
-	  - Code des juridictions financières - art. L221-5 (Ab)
-	  - Code des juridictions financières - art. L221-6 (Ab)
-
-
-###### Article R221-5
-
-La durée du mandat des membres élus de la commission instituée par l'article L. 221-7 est de trois ans. Ce mandat n'est pas
-renouvelable. Les élections ont lieu quatre mois au plus et quinze jours au moins avant l'expiration du mandat des membres de
-la commission en exercice.
-
-Le magistrat de la Cour des comptes, membre de la commission, est élu au scrutin uninominal à un tour. Si deux candidats ont
-obtenu le même nombre de voix, le plus âgé est proclamé élu. Il n'est pas élu de suppléant. Sous réserve des dispositions qui
-précèdent, les articles R. 212-38 à R. 212-41, R. 212-43 à R. 212-45, le premier alinéa de l'article R. 212-48 et l'article
-R. 212-49 sont applicables aux opérations électorales.
-
-Les quatre magistrats du corps des chambres régionales des comptes, membres de la commission, sont élus au scrutin uninominal
-à un tour, à raison d'un magistrat par grade. Il n'est pas élu de suppléant. Sous réserve des dispositions qui précèdent, les
-articles R. 212-37 à R. 212-41 et R. 212-43 à R. 212-45 sont applicables aux opérations électorales.
-
-Il est procédé à une nouvelle élection dans les deux mois de la constatation de l'impossibilité pour un élu de siéger.
-
-Le magistrat élu en application de l'alinéa précédent achève le mandat de celui qu'il remplace. Si le renouvellement du
-mandat en cause doit intervenir dans les quatre mois de la constatation de la vacance, il n'est pas procédé à une élection
-partielle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 46 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L221-7 (M)
-	  - Code des juridictions financières - art. R212-48 (M)
-	  - Code des juridictions financières - art. R212-49 (Ab)
-	  - Code des juridictions financières L221-7, R212-38 à R212-41, R212-43 à R212-45, R212-48, R212-49, R212-37 à R212-41
-
-
-###### Article R221-6
-
-Si la commission instituée par l'article L. 221-7 estime ne pouvoir proposer, au titre des articles L. 221-4, L. 221-5 ou L.
-221-6, aucune nomination dans l'un quelconque des grades concernés ou un nombre inférieur au contingent ouvert, les reliquats
-de ces contingents sont reportés au profit des nominations à prononcer au titre du cycle annuel suivant de nomination. Ce
-report ne peut avoir lieu qu'une fois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 1982-11-16, art 12 al 3
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L221-4 (M)
-	  - Code des juridictions financières - art. L221-5 (Ab)
-	  - Code des juridictions financières - art. L221-6 (Ab)
-	  - Code des juridictions financières - art. L221-7 (M)
-
-
-###### Article R221-7
-
-Les candidats à un emploi de conseiller de 2e classe au titre de l'article L. 221-4 doivent soit être au moins titulaires du
-grade de début de l'un des corps recrutés par la voie de l'Ecole nationale d'administration, soit être titulaires d'un grade
-ou occuper un emploi dont l'indice terminal est au moins égal à l'indice brut 780, soit, s'ils sont militaires, avoir atteint
-au moins les grades de commandant ou de capitaine de corvette ou assimilés.
-
-Les candidats à un emploi de conseiller de 1re classe au titre de l'article L. 221-5 doivent être titulaires d'un grade ou
-occuper un emploi dont l'indice terminal est au moins égal à l'indice brut 801 ou, s'ils sont militaires, avoir atteint au
-moins les grades de lieutenant-colonel ou de capitaine de frégate ou assimilés.
-
-Les candidats à un emploi de conseiller hors classe au titre de l'article L. 221-6 doivent être titulaires d'un grade ou
-occuper un emploi dont l'indice terminal est au moins égal à l'indice brut 901, ou, s'ils sont militaires, avoir atteint au
-moins le 3e échelon du grade de lieutenant-colonel ou de capitaine de frégate ou le grade de colonel, de capitaine de
-vaisseau ou assimilés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L221-4 (M)
-	  - Code des juridictions financières - art. L221-5 (Ab)
-	  - Code des juridictions financières - art. L221-6 (Ab)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R221-8 (V)
-
-
-###### Article R221-8
-
-Chaque année, le ministre chargé des finances détermine le nombre des emplois de conseiller de 2e classe, de conseiller de
-1re classe et de conseillers hors classe à pourvoir en application des articles L. 221-4, L. 221-5 et L. 221-6 et fixe la
-date limite de dépôt des candidatures. Celles-ci sont adressées par les intéressés au président de la commission instituée
-par l'article L. 221-7.
-
-Le dossier administratif des candidats est envoyé par l'autorité dont relèvent les intéressés au ministre chargé des finances
-qui le transmet à cette commission. Cette autorité doit indiquer si le candidat réunit les conditions d'ancienneté de
-service, de classement hiérarchique, de niveau d'indice ou d'emploi définies par les articles L. 221-4, L. 221-5 ou L. 221-6
-et par l'article R. 221-7.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L221-4 (M)
-	  - Code des juridictions financières - art. L221-5 (Ab)
-	  - Code des juridictions financières - art. L221-6 (Ab)
-	  - Code des juridictions financières - art. L221-7 (M)
-	  - Code des juridictions financières - art. R221-7 (M)
-
-
-###### Article R221-9
-
-L'examen des titres prévus par l'article L. 221-7 comprend :
-
-a) Un examen par la commission du dossier de chaque candidat ;
-
-b) Une audition par la commission de ceux des candidats dont les mérites sont jugés satisfaisants à l'issue de cet examen.
-
-La commission inscrit, par ordre de mérite, les candidats qu'elle retient sur la liste d'aptitude au grade postulé. Elle
-établit, si elle le juge utile, une liste complémentaire.
-
-Chaque liste d'aptitude est publiée au Journal officiel de la République française. Elle est caduque à l'expiration du délai
-de douze mois à compter du jour de sa publication.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 15 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L221-7 (M)
-
-
-###### Article R221-10
-
-Les conseillers des chambres régionales des comptes recrutés par application des articles L. 221-4, L. 221-5 ou L. 221-6 sont
-nommés suivant l'ordre de la liste d'aptitude, dans la limite des vacances d'emplois.
-
-Ils choisissent dans cet ordre leur chambre d'affectation sur une liste arrêtée au moins un mois avant la publication de la
-liste d'aptitude par le premier président de la Cour des comptes, après avis du Conseil supérieur des chambres régionales des
-comptes. Les affectations sont prononcées par décision du premier président de la Cour des comptes. Les conseillers qui
-n'exercent pas de choix sont affectés d'office. Si les intéressés n'acceptent pas cette affectation, ils sont considérés
-comme démissionnaires.
-
-Dans les douze mois suivant leur entrée en fonctions, ils effectuent une ou plusieurs périodes de formation organisées par la
-Cour des comptes. La durée totale de ces périodes ne peut être supérieure à six mois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 16 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L221-4 (M)
-	  - Code des juridictions financières - art. L221-5 (Ab)
-	  - Code des juridictions financières - art. L221-6 (Ab)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R221-14 (V)
-
-
-###### Article R221-12
-
-Les membres de corps recrutés par la voie de l'Ecole nationale d'administration qui sont nommés conseiller de 2e classe,
-conseiller de 1re classe ou conseiller hors classe en application des articles L. 221-4, L. 221-5 ou L. 221-6 sont classés
-dans leur nouveau grade à l'échelon comportant un indice égal ou à défaut immédiatement supérieur à celui dont ils
-bénéficiaient dans leur corps d'origine. Dans la limite de l'ancienneté nécessaire pour une promotion à l'échelon supérieur,
-ils conservent l'ancienneté d'échelon acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à
-leur nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancienne situation.
-
-Toutefois, ceux qui sont nommés conseillers hors classe et qui étaient titulaires dans leur ancien corps d'un grade dont
-l'indice terminal est égal à celui du grade de conseiller de 1re classe sont classés dans le grade de conseiller hors classe
-à l'échelon comportant un indice immédiatement supérieur à celui dont ils bénéficiaient antérieurement. Ils conservent dans
-cet échelon l'ancienneté d'échelon détenue dans leur corps d'origine.
-
-Les services accomplis par les intéressés dans leur corps d'origine sont assimilés pour l'avancement à des services effectifs
-accomplis dans le corps des membres des chambres régionales des comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 18 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L221-4 (M)
-	  - Code des juridictions financières - art. L221-5 (Ab)
-	  - Code des juridictions financières - art. L221-6 (Ab)
-
-
-###### Article R221-13
-
-Les autres candidats nommés conseillers en application des articles L. 221-4, L. 221-5 ou L. 221-6 sont classés dans leur
-grade à l'échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans
-leur corps ou leur emploi d'origine. Dans le cas où les intéressés sont nommés à un grade dans lequel un tel classement n'est
-pas possible, ils sont classés à l'échelon terminal de ce grade et il leur est alloué une indemnité compensatrice égale à la
-différence existant entre le traitement qu'ils percevaient dans leur ancienne situation et le traitement afférent au dernier
-échelon de leur grade dans leur nouveau corps.
-
-Toutefois, ceux qui sont nommés conseillers hors classe sont classés dans ce grade à l'échelon comportant un indice
-immédiatement supérieur à celui dont ils bénéficiaient antérieurement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 19 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cité par**:
-
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 68 (Ab)
-	  - Décret n°2011-1446 du 4 novembre 2011 - art. 6 (Ab)
-	  - Code des juridictions financières - art. R228-6 (V)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L221-4 (M)
-	  - Code des juridictions financières - art. L221-5 (Ab)
-	  - Code des juridictions financières - art. L221-6 (Ab)
-
-
-##### CHAPITRE III : Discipline.
-
-###### Article R223-2
-
-Le magistrat frappé d'une sanction disciplinaire mais qui n'a pas été exclu du corps des membres des chambres régionales des
-comptes peut, après cinq années s'il s'agit d'un avertissement ou d'un blâme et après dix années s'il s'agit de toute autre
-sanction, introduire auprès du conseil supérieur une demande tendant à ce qu'aucune trace de la sanction prononcée ne
-subsiste à son dossier.
-
-Si, par son comportement général, le magistrat a donné toute satisfaction depuis la sanction dont il a fait l'objet, il peut
-être fait droit à sa demande. Celle-ci est examinée comme en matière de sanction disciplinaire.
-
-Le dossier du magistrat doit alors être reconstitué dans sa nouvelle composition sous le contrôle du conseil supérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 53 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
 
 ##### CHAPITRE IV : Avancement.
 
@@ -28308,11 +29305,29 @@ Peuvent être inscrits au tableau d'avancement :
 
 Les intéressés doivent, en outre, justifier de quatre années de services effectifs dans le corps.
 
+Il est satisfait à l'obligation de mobilité posée par l'article L. 221-2-1 :
+
+1° Par mutation dans une autre chambre régionale ou territoriale des comptes ;
+
+2° Par détachement ou mise à disposition à la Cour des comptes ;
+
+3° Par détachement ou mise à disposition dans un service, une juridiction, un organisme, une collectivité ou une entreprise
+publique pouvant accueillir, au titre de leur mobilité, les fonctionnaires des corps recrutés par la voie de l'Ecole
+nationale d'administration ;
+
+4° Par mobilité au sens du décret n° 97-274 du 21 mars 1997 relatif à la mobilité des fonctionnaires des corps recrutés par
+la voie de l'Ecole nationale d'administration et des administrateurs des postes et télécommunications.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°82-970 du 16 novembre 1982 - art. 22 (Ab)
+
+	**Cite**:
+
+	  - Décret n°97-274 1997-03-21
+	  - Code des juridictions financières - art. L221-2-1 (V)
 
 	**Codifié par**:
 
@@ -28320,7 +29335,7 @@ Les intéressés doivent, en outre, justifier de quatre années de services effe
 
 	**Modifié par**:
 
-	  - Décret n°2002-1153 du 10 septembre 2002 - art. 10 ()
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 46 ()
 
 	**Cité par**:
 
@@ -28339,9 +29354,9 @@ dressé.
 Pour établir le tableau d'avancement, il est fait application des dispositions de l'article 15 du décret n° 59-308 du 14
 février 1959 relatif aux conditions générales de notation et d'avancement des fonctionnaires.
 
-Dans chaque grade, le nombre des inscrits au tableau d'avancement ne peut excéder de plus de 30 % le nombre des vacances
-prévues au cours de l'année considérée, calculé compte tenu des nominations dans le corps qui doivent être prononcées en
-application des articles L. 221-4 à L. 221-6.
+Le nombre des conseillers inscrits au tableau d'avancement au grade de premier conseiller ne peut excéder de plus de 30 % le
+nombre des vacances prévues au cours de l'année considérée. Cette limitation ne s'applique pas pour l'établissement du
+tableau d'avancement au grade de président de section.
 
 **Liens relatifs à cet article**
 
@@ -28349,7 +29364,6 @@ application des articles L. 221-4 à L. 221-6.
 
 	  - Décret n°59-308 du 14 février 1959 - art. 15 (Ab)
 	  - Code des juridictions financières - art. L212-16 (M)
-	  - Code des juridictions financières L212-16, L221-4 à L221-6
 
 	**Anciens textes**:
 
@@ -28361,7 +29375,7 @@ application des articles L. 221-4 à L. 221-6.
 
 	**Modifié par**:
 
-	  - Décret n°2002-1153 du 10 septembre 2002 - art. 12 ()
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 47 ()
 
 
 ##### CHAPITRE V : Notation.
@@ -28408,9 +29422,6 @@ exercent leurs fonctions au moment de leur départ en mobilité ;
 c) Dans l'administration préfectorale ou dans un secrétariat général pour les affaires régionales situé dans la région au
 sein de laquelle la chambre régionale des comptes exerce ses compétences.
 
-Les magistrats des chambres régionales des comptes recrutés en application des articles L. 221-4 à L. 221-6 sont considérés
-comme ayant satisfait à la mobilité.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -28420,15 +29431,14 @@ comme ayant satisfait à la mobilité.
 	**Cite**:
 
 	  - Décret n°97-274 1997-03-21
-	  - Code des juridictions financières L221-4 à L221-6
 
 	**Codifié par**:
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 69 (V)
 
 	**Cité par**:
 
@@ -28439,34 +29449,6 @@ comme ayant satisfait à la mobilité.
 #### TITRE III : COMPÉTENCES ET ATTRIBUTIONS
 
 ##### CHAPITRE Ier : Compétences juridictionnelles
-
-##### Section 1 : Jugement des comptes
-
-##### Sous-section 1 : Jugement des comptes des comptables patents.
-
-###### Article R231-7
-
-L'exemplaire original des jugements est signé par le magistrat rapporteur, par le président de section ou le magistrat qui en
-exerce les fonctions, s'il a été rendu par une section et par le président de la chambre régionale des comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 50
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R245-5 (M)
-
 
 ##### Section 2 : Contrôle de l'apurement administratif des comptes.
 
@@ -28884,528 +29866,6 @@ Toutes les décisions budgétaires modificatives précitées donnent lieu à l'�
 
 #### TITRE IV : PROCÉDURE
 
-##### CHAPITRE Ier : Règles générales de procédure.
-
-###### Article R241-2
-
-Le président de la chambre régionale des comptes informe l'ordonnateur de la collectivité ou de l'établissement concerné de
-l'engagement de la procédure d'examen de la gestion, par lettre mentionnant le nom du rapporteur qu'il a désigné.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 112
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R241-15 (Ab)
-
-
-###### Article R241-11
-
-Le rapporteur présente son rapport devant la formation de délibéré. S'il en a été désigné un, le contre-rapporteur fait
-connaître son avis sur les propositions formulées.
-
-Si le rapport a été communiqué au ministère public, lecture est donnée des conclusions de celui-ci.
-
-Lorsque le commissaire du Gouvernement assiste à la séance, il présente ses conclusions et prend part au débat.
-
-La formation devant laquelle le rapport a été présenté délibère ensuite ; elle rend une décision sur chaque proposition. S'il
-est nécessaire de procéder à un vote, le président recueille successivement le vote du rapporteur, puis de chacun des
-conseillers, s'exprimant dans l'ordre inverse de celui résultant de leur grade et de leur ancienneté dans le grade ; il opine
-le dernier.
-
-Une section peut, soit d'office, soit sur demande du ministère public, renvoyer à la chambre une affaire sur laquelle elle a
-été appelée à délibérer.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 36
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R245-5 (M)
-
-
-###### Article R241-12
-
-Le président de la chambre régionale des comptes adresse aux représentants légaux et aux ordonnateurs des collectivités et
-établissements publics une lettre faisant part des observations provisoires retenues par la chambre.
-
-Le président de la chambre adresse une lettre faisant part des observations provisoires retenues par la chambre concernant
-leur gestion aux ordonnateurs ayant quitté leurs fonctions.
-
-Ces lettres indiquent le délai, qui ne peut être inférieur à un mois, dans lequel les destinataires doivent apporter une
-réponse écrite et mentionnent la possibilité qu'ils ont d'être entendus par la chambre.
-
-Les observations provisoires ou extraits d'observations provisoires les concernant sont communiqués dans les mêmes conditions
-aux personnes mentionnées à l'article R. 241-28 autres que les ordonnateurs ou les représentants légaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 114
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R241-15 (Ab)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R241-28 (M)
-
-
-###### Article R241-13
-
-Les destinataires des observations provisoires peuvent demander à consulter au greffe de la chambre régionale des comptes, en
-personne ou par l'intermédiaire d'un représentant dûment mandaté, les pièces et documents du dossier sur lesquelles sont
-fondées les observations les concernant. Ils peuvent en prendre copie à leurs frais.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 115
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R241-15 (Ab)
-
-
-###### Article R241-16
-
-Après examen des réponses écrites apportées aux observations provisoires et audition éventuelle des personnes mentionnées à
-l'article L. 241-14, la chambre régionale des comptes peut arrêter des observations définitives qui sont notifiées par le
-président aux ordonnateurs et aux représentants légaux des collectivités territoriales et établissements publics intéressés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 116
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L241-14 (V)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R241-18 (T)
-	  - Code des juridictions financières - art. R241-18-1 (T)
-	  - Code des juridictions financières - art. R241-19 (T)
-	  - Code des juridictions financières - art. R241-21 (M)
-	  - Code des juridictions financières - art. R241-23 (T)
-
-
-###### Article R241-17
-
-Les observations définitives de la chambre régionale des comptes sont communicables aux tiers dès qu'a eu lieu la première
-réunion de l'assemblée délibérante ou de l'organe collégial de décision suivant leur réception par la collectivité ou
-l'établissement public concerné.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 117
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R241-18-1 (T)
-	  - Code des juridictions financières - art. R241-21-1 (T)
-
-
-###### Article R241-18
-
-En cas d'absence de réponse à la lettre d'observations provisoires dans le délai imparti, la chambre régionale des comptes
-peut arrêter ses observations définitives, qui sont notifiées conformément aux dispositions de l'article R. 241-16.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 118
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R241-16 (M)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R241-18-1 (T)
-	  - Code des juridictions financières - art. R241-21 (M)
-
-
-###### Article R241-19
-
-Lorsque la chambre régionale des comptes a décidé de ne pas formuler d'observations définitives, le président adresse, dans
-les mêmes formes, une lettre indiquant la clôture de la procédure.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 119
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R241-21 (M)
-
-
-###### Article R241-20
-
-Les observations définitives arrêtées par la chambre régionale des comptes lors de l'examen de la gestion d'un établissement
-public sont transmises, si la chambre l'estime utile, à la collectivité de rattachement de l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 120
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article R241-21
-
-Les observations définitives arrêtées par la chambre régionale des comptes sont arrêtées et notifiées au représentant légal
-des organismes visés au premier alinéa de l'article L. 241-8 dans les conditions prévues aux articles L. 211-4 à L. 211-6 et
-R. 241-16, R. 241-18 et R. 241-19.
-
-Lorsque le président de la chambre régionale des comptes constate que la rédaction des observations définitives est entachée
-d'une erreur ou d'une omission matérielles, il peut, par décision prise après avis conforme du ministère public, y apporter
-les rectifications nécessaires.
-
-La notification des observations rectifiées se substitue à celle prévue au premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 124
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L241-8 (V)
-	  - Code des juridictions financières - art. R241-16 (M)
-	  - Code des juridictions financières - art. R241-18 (M)
-	  - Code des juridictions financières - art. R241-19 (M)
-	  - Code des juridictions financières L241-8, L211-4 à L211-6, R241-16, R241-18, R241-19
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R254-1 (M)
-
-
-###### Article R241-22
-
-Les notifications des observations prévues au présent chapitre sont effectuées par lettre recommandée avec demande d'avis de
-réception.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 125
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article R241-23
-
-Le président de la chambre régionale des comptes communique au représentant de l'Etat ainsi qu'au trésorier-payeur général
-les observations définitives arrêtées par la chambre lors de l'examen de la gestion d'une collectivité territoriale, d'un
-établissement public local ou d'un organisme non soumis aux règles de la comptabilité publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 127
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article R241-28
-
-Les personnes citées aux articles L. 231-3, L. 231-12 ou L. 241-14 peuvent demander par lettre adressée au président de la
-chambre régionale des comptes à être entendues par la chambre pour présenter toutes observations avant décision définitive.
-
-Ces observations complètent et précisent celles fournies par écrit sur les affaires qui les concernent.
-
-Le président de la chambre accuse réception de cette demande et fixe la date à laquelle l'audition aura lieu.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 38
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L231-12 (V)
-	  - Code des juridictions financières - art. L231-3 (M)
-	  - Code des juridictions financières - art. L241-14 (V)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R212-21 (V)
-	  - Code des juridictions financières - art. R241-12 (M)
-	  - Code des juridictions financières - art. R241-29 (V)
-	  - Code des juridictions financières - art. R245-3 (V)
-
-
-##### CHAPITRE III : Voies de recours.
-
-###### Article R243-11
-
-Le dossier du recours est transmis au procureur général près la Cour des comptes par le ministère public près la chambre
-régionale des comptes qui joint, le cas échéant, à ce dossier une note sur les moyens de droit et les circonstances de fait
-invoqués dans la décision attaquée et lors de la mise en état de l'appel.
-
-Les comptes concernés par le jugement attaqué peuvent être joints au dossier du recours, en tout ou partie, à l'initiative du
-ministère public près la chambre ou sur demande du procureur général près la Cour des comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 74
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-##### CHAPITRE V : Règles propres au prononcé des amendes.
-
-###### Article R245-1
-
-Sont publiques les séances de jugement au cours desquelles la chambre régionale des comptes statue à titre définitif sur une
-amende.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 40
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article R245-2
-
-Toute partie est avertie par une notification faite par lettre recommandée du jour où l'affaire sera appelée à l'audience.
-
-Cette notification est faite sept jours au moins avant l'audience.
-
-L'ordre du jour de l'audience est affiché à l'entrée de la juridiction.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 41
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article R245-3
-
-Après l'exposé du rapporteur et les conclusions du commissaire du Gouvernement, la ou les parties présentes peuvent formuler,
-soit en personne, soit par un avocat, des observations conformément au second alinéa de l'article R. 241-28.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 42
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R241-28 (M)
-
-
-###### Article R245-4
-
-Sont applicables aux audiences publiques de la chambre régionale des comptes les articles 438, 439 et 441 du nouveau code de
-procédure civile sur la police de l'audience.
-
-Le président peut décider que l'audience aura lieu ou se poursuivra à huis clos dans les cas prévus à l'article 435 du même
-code.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 43
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 438, 439, 441, 435
-
-
-###### Article R245-5
-
-La formation délibère hors de la présence de la ou des parties. Par dérogations aux dispositions des articles R. 212-31, R.
-231-7 et R. 241-11, le rapporteur ne participe pas au délibéré et ne signe pas le jugement qui est dans ce cas signé par le
-greffier. Le jugement est lu en audience publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 44
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R212-31 (V)
-	  - Code des juridictions financières - art. R231-7 (M)
-	  - Code des juridictions financières - art. R241-11 (M)
-
-
 ##### CHAPITRE VI : Notification des jugements.
 
 ###### Article D246-6
@@ -29473,123 +29933,52 @@ compétents.
 
 ##### CHAPITRE II : De la chambre territoriale des comptes.
 
-##### Section 2 : Organisation
-
-##### Sous-section 1 : Organisation de la juridiction
-
-##### Paragraphe 5 : Le ministère public
-
-###### Article R262-17
-
-Lorsque la vacance d'un poste de commissaire du Gouvernement auprès de la chambre territoriale des comptes ne peut être
-comblée par une nomination parmi les magistrats de la même chambre, un commissaire du Gouvernement auprès d'une autre chambre
-peut être muté avec son accord sur ce poste vacant dans les conditions prévues par l'article L. 212-16, sur proposition du
-procureur général près la Cour des comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 22
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L212-16 (M)
-
-
-###### Article R262-20
-
-Le commissaire du Gouvernement peut assister aux séances de la chambre et des sections et y présenter des observations
-orales.
-
-Il peut assister aux auditions prévues à l'article R. 262-62.
-
-Il peut participer aux commissions ou aux comités constitués au sein de la chambre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 26
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R262-62 (V)
-
-
 ##### Section 4 : Compétences et attributions juridictionnelles
 
 ##### Sous-section 2 : Contrôle de l'apurement administratif des comptes
 
 ###### Article R262-52
 
-Les dispositions des articles D. 231-18 à D. 231-31 sont applicables au contrôle de l'apurement administratif des comptes
-prévu aux articles L. 262-35 à L. 262-37.
+I. - Le seuil de 2 000 habitants, prévu à l'article L. 262-4, est apprécié annuellement à la clôture de l'exercice sur la
+base des résultats du recensement général de la population effectué par l'INSEE et, le cas échéant, des arrêtés ministériels
+homologuant les résultats des recensements complémentaires, dans les conditions fixées par les articles D. 2151-1 et suivants
+du code général des collectivités territoriales.
 
-Les contribuables qui demandent à la chambre la réformation d'un arrêté de décharge dans les conditions prévues à l'article
-D. 231-30 doivent être dûment autorisés à cet effet dans les conditions prévues à l'article L. 316-5 du code des communes.
+II. - Le seuil de 2 000 habitants prévu à l'article L. 262-4 s'apprécie, pour les groupements de communes, en prenant en
+compte la population totale des communes qui sont membres de ces groupements.
+
+III. - Le seuil des 305 000 euros de recettes ordinaires, prévu à l'article L. 262-4, est apprécié, pour chaque exercice, sur
+la base du compte administratif de la commune ou du groupement de communes.
+
+IV. - Les dispositions des articles D. 231-21 à D. 231-23 et D. 231-25 à D. 231-31 sont applicables au contrôle de
+l'apurement administratif des comptes prévu aux articles L. 262-35 à L. 262-37.
+
+V. - Les contribuables qui demandent à la chambre la réformation d'un arrêté de décharge dans les conditions prévues à
+l'article D. 231-30 doivent être dûment autorisés à cet effet dans les conditions prévues à l'article L. 316-5 du code des
+communes de la Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-364 1990-04-23, art 9 Décret 89-342 1989-05-25, art 13
+	  - Décret n°89-342 du 25 mai 1989 - art. 13 (Ab)
+	  - Décret n°90-364 1990-04-23, art 9
 
 	**Codifié par**:
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 66 ()
 
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L316-5 (Ab)
 	  - Code des juridictions financières - art. D231-30 (M)
-	  - Code des juridictions financières D231-18 à D231-31, L262-35 à L262-37, D231-30
-
-
-##### Section 7 : Voies de recours
-
-###### Article R262-93
-
-Le dossier du recours est transmis au procureur général près la Cour des comptes par le ministère public près la chambre
-territoriale des comptes qui joint, le cas échéant, à ce dossier une note sur les moyens de droit et les circonstances de
-fait invoqués dans la décision attaquée et lors de la mise en état de l'appel.
-
-Les comptes concernés par le jugement attaqué peuvent être joints au dossier du recours, en tout ou partie, à l'initiative du
-ministère public près la chambre ou sur demande du procureur général près la Cour des comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 74
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Code des juridictions financières - art. L262-4 (M)
+	  - Code des juridictions financières L262-4, D231-21 à D231-23, D231-25 à D231-31, L262-35 à L262-37, D231-30
+	  - Code général des collectivités territoriales - art. D2151-1 (Ab)
 
 
 ## LIVRE III : Les institutions associées à la Cour des comptes

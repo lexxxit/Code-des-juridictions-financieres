@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2000-09-02
+Version Consolidée au 2000-12-15
 
 # Partie législative
 
@@ -4835,6 +4835,11 @@ diminution de dépenses facultatives destinées à couvrir la dépense obligatoi
 règle et rend exécutoire le budget rectifié en conséquence.S'il s'écarte des propositions formulées par la chambre régionale
 des comptes, il assortit sa décision d'une motivation explicite. 
 
+Art. L. 1612-15-1. - En cas d'absence de convention visée à l'article 21-4 de la loi no 82-1153 du 30 décembre 1982 précitée,
+le préfet de région peut mettre en oeuvre, dans les conditions de l'article L. 1612-15, une procédure d'inscription d'office
+au budget de la région, au bénéfice de la Société nationale des chemins de fer français dans la limite de la part de la
+compensation visée au quatrième alinéa de l'article L. 1614-8-1. 
+
 Art.L. 1612-16.-A défaut de mandatement d'une dépense obligatoire par le maire, le président du conseil général ou le
 président du conseil régional suivant le cas, dans le mois suivant la mise en demeure qui lui en a été faite par le
 représentant de l'Etat dans le département, celui-ci y procède d'office. 
@@ -4889,7 +4894,7 @@ aux établissements publics régionaux et interrégionaux.
 
 	**Modifié par**:
 
-	  - Loi n°98-135 du 7 mars 1998 - art. 5
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 130
 
 	**Cité par**:
 

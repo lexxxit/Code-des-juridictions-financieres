@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2003-12-19
+Version Consolidée au 2003-12-21
 
 # Partie législative
 
@@ -4958,7 +4958,7 @@ L'autorisation mentionnée à l'alinéa ci-dessus précise le montant et l'affec
 Les crédits correspondants, visés aux alinéas ci-dessus, sont inscrits au budget lors de son adoption. Le comptable est en
 droit de payer les mandats et recouvrer les titres de recettes émis dans les conditions ci-dessus. 
 
-Le présent article s'applique aux régions, sous réserve des dispositions du dernier alinéa de l'article L. 4311-3.
+Le présent article s'applique aux régions, sous réserve des dispositions du dernier alinéa du I de l'article L. 4311-3.
 
 Art.L. 1612-2.-Si le budget n'est pas adopté avant le 31 mars de l'exercice auquel il s'applique, ou avant le 15 avril de
 l'année du renouvellement des organes délibérants, le représentant de l'Etat dans le département saisit sans délai la chambre
@@ -5124,8 +5124,9 @@ fonctionnement du budget primitif.
 Art.L. 1612-17.-Les dispositions des articles L. 1612-15 et L. 1612-16 ne sont pas applicables à l'inscription et au
 mandatement des dépenses obligatoires résultant, pour les collectivités territoriales, leurs groupements et leurs
 établissements publics, d'une décision juridictionnelle passée en la force de la chose jugée. Ces opérations demeurent régies
-par la loi n° 80-539 du 16 juillet 1980 relative aux astreintes prononcées en matière administrative et à l'exécution des
-jugements par les personnes morales de droit public. 
+l'article 1er de la loi n° 80-539 du 16 juillet 1980 relative aux astreintes prononcées en matière administrative et à
+l'exécution des jugements par les personnes morales de droit public et les articles L. 911-1, L. 911-2, L. 911-5 à L. 911-8
+du code de justice administrative.
 
 Art.L. 1612-18.-Dans le cadre des commandes publiques, lorsque des intérêts moratoires ne sont pas mandatés en même temps que
 le principal, ce dernier étant d'un montant supérieur à un seuil fixé par voie réglementaire, le comptable assignataire de la
@@ -5148,7 +5149,7 @@ Art. L. 1612-19-1. - Les assemblées délibérantes doivent se prononcer sur le 
 donné lieu à une déclaration en gestion de fait par la chambre régionale des comptes au cours de la plus proche séance
 suivant la transmission de la demande adressée par la chambre régionale des comptes au comptable de fait et à l'ordonnateur
 de la collectivité territoriale concernée. Passé ce délai, la chambre régionale des comptes statue sur les dépenses de la
-gestion de fait dont elle apprécie les justifications présentées. 
+gestion de fait dont elle apprécie les justifications présentées.
 
 Art.L. 1612-20.-I.-Les dispositions du présent chapitre sont applicables aux établissements publics communaux et
 intercommunaux. 
@@ -5174,7 +5175,7 @@ aux établissements publics régionaux et interrégionaux.
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 40
+	  - Ordonnance n°2003-1212 du 18 décembre 2003 - art. 2
 
 	**Cité par**:
 

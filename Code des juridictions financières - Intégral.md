@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2004-03-02
+Version Consolidée au 2004-07-02
 
 # Partie législative
 
@@ -702,8 +702,8 @@ remplacé par son suppléant.
 
 Lorsque la participation d'un magistrat de la Cour des comptes, soit à une commission à caractère juridictionnel ou
 administratif, soit à un jury de concours ou d'examen, est prévue par une disposition législative ou réglementaire,
-l'autorité chargée de la désignation peut porter son choix sur un membre honoraire de rang au moins égal, après avis du
-premier président de la Cour des comptes.
+l'autorité chargée de la désignation peut porter son choix sur un membre honoraire de rang au moins égal ou un conseiller
+maître étant ou ayant été en service extraordinaire, après avis du premier président de la Cour des comptes.
 
 **Liens relatifs à cet article**
 
@@ -711,9 +711,9 @@ premier président de la Cour des comptes.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 3 ()
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 37 () JORF 2 juillet 2004
 
 
 ### TITRE II : Dispositions statutaires

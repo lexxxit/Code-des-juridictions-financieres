@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2003-12-31
+Version Consolidée au 2004-03-02
 
 # Partie législative
 
@@ -371,6 +371,11 @@ concernées. Un décret en Conseil d'Etat définit les catégories d'établissem
 fixe, le cas échéant, le montant des recettes ordinaires en deçà duquel le jugement des comptes et l'examen de la gestion des
 établissements publics relevant d'une même catégorie peuvent être délégués.
 
+Dans les conditions définies à l'alinéa précédent, le jugement des comptes et l'examen de la gestion de tout ou partie des
+établissements publics nationaux relevant d'une même catégorie et ayant leur siège en Polynésie française peuvent être
+délégués à la chambre territoriale des comptes par arrêté du premier président de la Cour des comptes pris après avis du
+procureur général près la Cour des comptes et du président de la chambre territoriale des comptes. ;
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -384,7 +389,7 @@ fixe, le cas échéant, le montant des recettes ordinaires en deçà duquel le j
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 35 ()
+	  - Loi n°2004-193 2004-02-27 art. 21 1° JORF 2 mars 2004
 
 	**Cité par**:
 
@@ -10002,9 +10007,10 @@ et valeurs.
 ###### Article L272-6
 
 La chambre territoriale des comptes peut assurer la vérification des comptes des établissements, sociétés, groupements et
-organismes, quel que soit leur statut juridique, auxquels les collectivités territoriales ou leurs établissements publics
-apportent un concours financier supérieur à 1 500 euros ou dans lesquels elles détiennent, séparément ou ensemble, plus de la
-moitié du capital ou des voix dans les organes délibérants, ou exercent un pouvoir prépondérant de décision ou de gestion.
+organismes, quel que soit leur statut juridique, auxquels les collectivités territoriales, leurs établissements publics ou
+les établissements publics nationaux dont le siège est en Polynésie française apportent un concours financier supérieur à 1
+500 euros ou dans lesquels elles détiennent, séparément ou ensemble, plus de la moitié du capital ou des voix dans les
+organes délibérants, ou exercent un pouvoir prépondérant de décision ou de gestion.
 
 **Liens relatifs à cet article**
 
@@ -10018,7 +10024,7 @@ moitié du capital ou des voix dans les organes délibérants, ou exercent un po
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 annexe jorf 22 septembre 2000    en vigueur le 1er janvier 2002
+	  - Loi n°2004-193 2004-02-27 art. 21 2° JORF 2 mars 2004
 
 	**Cité par**:
 
@@ -10196,6 +10202,16 @@ celle des établissements, sociétés, groupements et organismes mentionnés aux
 articles L. 272-9 et L. 272-10, lorsque la vérification lui en est confiée par arrêté du premier président de la Cour des
 comptes.
 
+Elle peut également assurer ces vérifications sur demande motivée soit du haut-commissaire, soit de l'exécutif de la
+collectivité ou de l'établissement public mentionné au premier alinéa.
+
+L'examen de la gestion porte sur la régularité des actes de gestion, sur l'économie des moyens mis en oeuvre et sur
+l'évaluation des résultats atteints par rapport aux objectifs fixés par l'organe délibérant. L'opportunité de ces objectifs
+ne peut faire l'objet d'observations.
+
+Elle peut également, dans le cadre du contrôle des comptes de l'autorité délégante, vérifier auprès des délégataires de
+service public les comptes qu'ils ont produits aux autorités délégantes.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -10208,7 +10224,11 @@ comptes.
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2004-193 2004-02-27 art. 21 3° JORF 2 mars 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 	**Cite**:
 
@@ -10265,6 +10285,22 @@ crédits, fonds et valeurs.
 
 La chambre territoriale des comptes examine la gestion du territoire et de ses établissements publics.
 
+Elle peut également, dans le cadre du contrôle des comptes de l'autorité délégante, vérifier auprès de délégataires de
+services publics les comptes qu'ils ont produits aux autorités délégantes.
+
+L'examen de la gestion porte sur la régularité des actes de gestion, sur l'économie des moyens mis en oeuvre et sur
+l'évaluation des résultats atteints par rapport aux objectifs fixés par l'organe délibérant. L'opportunité de ces objectifs
+ne peut faire l'objet d'observations.
+
+**Nota:**
+
+Loi organique n° 2007-1719 du 7 décembre 2007 article 36 IV : Les articles 1er,5,6,18,24 à 32 et 34 de la présente loi
+entrent en vigueur à compter du renouvellement de l'assemblée de la Polynésie française prévu au I de l'article 36. Le décret
+n° 2007-1728 du 8 décembre 2007 publié au Journal officiel du 9 décembre 2007 a fixé au 27 janvier 2008 la date de l'élection
+des représentants à l'assemblée de la Polynésie française. 
+
+Le deuxième tour de ces élections a eu lieu le 10 février 2008.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -10278,7 +10314,7 @@ La chambre territoriale des comptes examine la gestion du territoire et de ses �
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2004-192 du 27 février 2004 - art. 186 () JORF 2 mars 2004
 
 	**Cité par**:
 
@@ -10917,6 +10953,59 @@ manquements analogues.
 	  - Code des juridictions financières - art. R272-38 (V)
 
 
+##### Section 4 bis : Du contrôle de certaines conventions
+
+###### Article L272-38-2
+
+Les conventions relatives aux marchés et aux délégations de service public conclues par les communes et leurs établissements
+publics peuvent être transmises par le haut-commissaire à la chambre territoriale des comptes. Le haut-commissaire en informe
+l'autorité signataire de la convention.
+
+La chambre territoriale des comptes formule ses observations dans un délai d'un mois à compter de sa saisine. Son avis est
+transmis à l'exécutif de la commune ou de l'établissement public intéressé ainsi qu'au haut-commissaire. L'ordonnateur ou son
+représentant peut, à sa demande, présenter oralement ses observations et être assisté par une personne de son choix. L'organe
+délibérant est informé de l'avis de la chambre territoriale des comptes dès sa plus prochaine réunion.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°91-814 du 23 août 1991 - art. 7-2 (Ab)
+	  - Code des juridictions financières - art. R272-40 (V)
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2004-193 2004-02-27 art. 21 4° JORF 2 mars 2004
+
+
+###### Article LO272-38-1
+
+Les conventions relatives aux marchés et aux délégations de service public conclues par la Polynésie française et ses
+établissements publics peuvent être transmises par le haut-commissaire à la chambre territoriale des comptes. Le haut-
+commissaire en informe l'autorité signataire de la convention.
+
+La chambre territoriale des comptes formule ses observations dans un délai d'un mois à compter de sa saisine. L'avis de la
+chambre territoriale des comptes est transmis au gouvernement de la Polynésie française ou à l'établissement public intéressé
+ainsi qu'au haut-commissaire.
+
+L'ordonnateur ou son représentant peut, à sa demande, présenter oralement ses observations et être assisté par une personne
+de son choix. L'organe délibérant est informé de l'avis de la chambre territoriale des comptes dès sa plus prochaine réunion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2004-192 du 27 février 2004 - art. 186 () JORF 2 mars 2004
+
+
 ##### Section 5 : Contrôle des actes des sociétés d'économie mixte créées par le territoire
 
 ###### Article L272-39
@@ -10957,16 +11046,40 @@ haut-commissaire, à la société et au président du gouvernement du territoire
 
 ##### Sous-section 1 : A l'égard du territoire
 
+###### Article L272-41-1
+
+L'avis d'enquête mentionné à l'article L. 140-4-1 est établi par le président de la chambre territoriale des comptes.
+
+Le procureur de la République peut transmettre au commissaire du Gouvernement de la chambre territoriale des comptes,
+d'office ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de nature à
+constituer des irrégularités dans les comptes ou la gestion de la Polynésie française ou de ses établissements publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1132 1994-12-27
+
+	**Créé par**:
+
+	  - Loi n°2004-193 2004-02-27 art. 21 5° JORF 2 mars 2004
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L140-4-1 (M)
+
+
 ###### Article LO272-40
 
 La chambre territoriale des comptes est habilitée à se faire communiquer tous documents, de quelque nature que ce soit,
-relatifs à la gestion du territoire.
+relatifs à la gestion de la Polynésie française, de ses établissements publics et des autres organismes soumis à son
+contrôle.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°82-594 1982-07-10, art 5 al 1
+	  - Loi n°82-594 1982-07-10 art. 5 al. 1
 
 	**Codifié par**:
 
@@ -10974,7 +11087,7 @@ relatifs à la gestion du territoire.
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2004-192 du 27 février 2004 - art. 186 () JORF 2 mars 2004
 
 	**Cité par**:
 
@@ -11004,6 +11117,24 @@ code.
 	**Cité par**:
 
 	  - Code des juridictions financières - art. LO273-4 (VD)
+
+
+###### Article LO272-41-2
+
+Lorsqu'à l'occasion de ses contrôles, la chambre territoriale des comptes relève des faits de nature à justifier une
+amélioration des règles de droit dont l'édiction entre dans la compétence de la Polynésie française, elle peut demander à son
+président d'adresser une communication au président de la Polynésie française ou au président de l'assemblée de la Polynésie
+française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1132 1994-12-27
+
+	**Créé par**:
+
+	  - Loi n°2004-192 du 27 février 2004 - art. 186 () JORF 2 mars 2004
 
 
 ##### Sous-section 2 : A l'égard des autres collectivités et organismes
@@ -11040,6 +11171,8 @@ Les magistrats de la chambre territoriale des comptes disposent à l'égard des 
 des organismes visés à l'article L. 272-42, pour l'exercice des contrôles qu'ils effectuent, de l'ensemble des droits et
 pouvoirs attribués à la Cour des comptes par le titre IV du livre Ier du présent code.
 
+L'avis d'enquête visé à l'article L. 140-4-1 est établi par le président de la chambre territoriale des comptes.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -11052,10 +11185,11 @@ pouvoirs attribués à la Cour des comptes par le titre IV du livre Ier du prés
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2004-193 2004-02-27 art. 21 6° JORF 2 mars 2004
 
 	**Cite**:
 
+	  - Code des juridictions financières - art. L140-4-1 (M)
 	  - Code des juridictions financières - art. L272-42 (M)
 
 	**Cité par**:
@@ -11114,6 +11248,32 @@ est jugée nécessaire, a l'obligation de répondre à la convocation de la cham
 	  - Code des juridictions financières - art. LO273-4 (VD)
 	  - Code des juridictions financières - art. R272-102 (V)
 	  - Code des juridictions financières - art. R272-48 (T)
+
+
+###### Article L272-44-1
+
+Le fait de faire obstacle de quelque façon que ce soit à l'exercice des pouvoirs attribués par le présent code aux magistrats
+et rapporteurs de la chambre territoriale des comptes est puni d'une amende de 15 000 Euros ou de sa contrepartie en monnaie
+locale. Le ministère public près la chambre territoriale des comptes peut saisir le parquet près la juridiction compétente en
+vue de déclencher l'action publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Créé par**:
+
+	  - Loi n°2004-193 2004-02-27 art. 21 7° JORF 2 mars 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-48 (VD)
 
 
 ###### Article L272-45
@@ -11181,8 +11341,10 @@ mandatée à cet effet par celle-ci.
 
 ###### Article L272-47
 
-Lorsque des observations sont formulées, elles ne peuvent être arrêtées définitivement avant que l'ordonnateur ait été en
-mesure de leur apporter une réponse écrite.
+Lorsque des observations sont formulées, le dirigeant ou l'ordonnateur, y compris, le cas échéant, celui qui était en
+fonction au cours de l'exercice examiné, dispose d'un délai de deux mois pour remettre au greffe de la chambre territoriale
+des comptes une réponse écrite. Les observations ne peuvent être arrêtées définitivement qu'après réception de cette réponse
+ou, à défaut, qu'à l'expiration du délai précité.
 
 **Liens relatifs à cet article**
 
@@ -11201,18 +11363,43 @@ mesure de leur apporter une réponse écrite.
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2004-193 2004-02-27 art. 21 8° JORF 2 mars 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-63 (V)
 
 
 ###### Article L272-48
 
-Les observations définitives adressées aux représentants des établissements, sociétés, groupements et organismes mentionnés
-aux articles L. 272-6 à L. 272-10 sont également transmises à l'exécutif de la collectivité territoriale qui leur a apporté
-un concours financier ou qui détient une partie du capital ou une partie des voix dans leurs instances de décision.
+La chambre territoriale des comptes arrête ses observations définitives sous la forme d'un rapport d'observations.
 
-Les observations définitives formulées par la chambre territoriale des comptes sur la gestion d'une collectivité
-territoriale, d'un établissement public local ou de l'un des organismes mentionnés à l'alinéa précédent sont communiquées par
-l'exécutif de la collectivité ou de l'établissement à son assemblée délibérante, dès sa plus proche réunion.
+Ce rapport d'observations est communiqué :
+
+1° Soit à l'exécutif de la collectivité territoriale ou au dirigeant de l'établissement public soumis au contrôle ;
+
+2° Soit aux représentants des établissements, sociétés, groupements et organismes mentionnés aux articles L. 272-6 à L.
+272-10 ; dans ce cas, il est également transmis à l'exécutif de la collectivité territoriale qui leur a apporté son concours
+financier ou qui détient une partie du capital ou une partie des voix dans leurs instances de décision.
+
+Il est communiqué à l'exécutif de la collectivité territoriale ou de l'établissement public et, le cas échéant, pour ce qui
+le concerne, à l'ordonnateur ou au dirigeant qui était en fonction au cours de l'exercice examiné.
+
+Les destinataires du rapport d'observations disposent d'un délai d'un mois pour adresser au greffe de la chambre territoriale
+des comptes une réponse écrite. Dès lors qu'elles ont été adressées dans le délai précité, ces réponses sont jointes au
+rapport. Elles engagent la seule responsabilité de leurs auteurs.
+
+Le rapport d'observations est communiqué par l'exécutif de la collectivité territoriale ou de l'établissement public à son
+organe délibérant dès sa plus prochaine réunion. Il fait l'objet d'une inscription à l'ordre du jour de l'organe délibérant ;
+il est joint à la convocation adressée à chacun des membres de celui-ci et donne lieu à un débat.
+
+Le rapport d'observations ne peut être publié ni communiqué à ses destinataires ou à des tiers à compter du premier jour du
+troisième mois précédant le mois au cours duquel il doit être procédé à des élections pour la collectivité en cause et
+jusqu'au lendemain du tour de scrutin où l'élection est acquise.
 
 **Liens relatifs à cet article**
 
@@ -11235,7 +11422,17 @@ l'exécutif de la collectivité ou de l'établissement à son assemblée délib�
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2004-193 2004-02-27 art. 21 9° JORF 2 mars 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-65 (V)
+	  - Code des juridictions financières - art. L272-66 (V)
+	  - Code des juridictions financières - art. L272-67 (V)
 
 	**Cite**:
 
@@ -11334,6 +11531,9 @@ secret professionnel que les experts sont tenus de respecter en application de l
 Les jugements, avis, propositions, rapports d'instruction et observations de la chambre territoriale des comptes sont
 délibérés et adoptés collégialement selon une procédure contradictoire.
 
+Lorsque la chambre territoriale des comptes statue en matière de gestion de fait et d'amende, elle délibère hors la présence
+du rapporteur. Le jugement est rendu en audience publique.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -11346,7 +11546,7 @@ délibérés et adoptés collégialement selon une procédure contradictoire.
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 39 ()
+	  - Loi n°2004-193 2004-02-27 art. 21 10° JORF 2 mars 2004
 
 	**Cité par**:
 
@@ -11452,6 +11652,40 @@ en Conseil d'Etat.
 	**Modifié par**:
 
 	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+
+###### Article L272-56-1
+
+La chambre territoriale des comptes statue dans les formes prévues à l'article L. 272-52 sur toute demande en rectification
+d'observations définitives sur la gestion qui peut lui être présentée par les dirigeants des personnes morales contrôlées ou
+toute autre personne nominativement ou explicitement mise en cause.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°83-224 du 22 mars 1983 - art. 16-12 (Ab)
+	  - Code des juridictions financières - art. R272-66 (M)
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2004-193 2004-02-27 art. 21 11° JORF 2 mars 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L272-52
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-70 (V)
 
 
 ##### Section 8 : Dispositions concernant les exercices 1991, 1992 et 1993
@@ -11711,9 +11945,9 @@ La chambre territoriale des comptes prend toutes dispositions pour garantir le s
 	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
-##### CHAPITRE IV : Du comptable du territoire
+##### CHAPITRE IV : Des comptables
 
-##### Section 1 : Dispositions statutaires.
+##### Section 1 : Dispositions statutaires
 
 ###### Article L274-1
 
@@ -11732,7 +11966,7 @@ territoire. Celui-ci est un comptable direct du Trésor ayant la qualité de com
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2004-193 2004-02-27 art. 21 12° JORF 2 mars 2004
 
 
 ###### Article L274-2
@@ -11752,12 +11986,13 @@ même personne.
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2004-193 2004-02-27 art. 21 12° JORF 2 mars 2004
 
 
 ###### Article L274-3
 
-Le comptable du territoire prête serment devant la chambre territoriale des comptes.
+Les comptables de la Polynésie française, des communes et de leurs établissements publics prêtent serment devant la chambre
+territoriale des comptes.
 
 **Liens relatifs à cet article**
 
@@ -11771,10 +12006,10 @@ Le comptable du territoire prête serment devant la chambre territoriale des com
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2004-193 2004-02-27 art. 21 12°, 13° JORF 2 mars 2004
 
 
-##### Section 2 : Obligations et missions.
+##### Section 2 : Obligations et missions
 
 ###### Article LO274-4
 
@@ -11794,7 +12029,7 @@ personnelle et pécuniaire. Il est tenu de motiver la suspension du paiement.
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2004-193 2004-02-27 art. 21 12° JORF 2 mars 2004
 
 	**Cité par**:
 
@@ -11824,7 +12059,7 @@ En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2004-193 2004-02-27 art. 21 12° JORF 2 mars 2004
 
 	**Cité par**:
 

@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2004-11-04
+Version Consolidée au 2004-12-21
 
 # Partie législative
 
@@ -1467,15 +1467,19 @@ sans préjudice des dispositions des articles L. 211-1 et L. 211-8, est habilit�
 régionales des comptes, des informations auprès des établissements mentionnés à l'article L. 6141-2 du code de la santé
 publique.
 
+Elle établit, en liaison avec les chambres régionales des comptes, un programme trisannuel des travaux à mener notamment sur
+l'évaluation comparative des coûts et des modes de gestion des établissements financés par l'assurance maladie. Elle en rend
+compte dans le rapport mentionné à l'article LO 132-3.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-1487 du 20 décembre 2002 - art. 3 ()
+	  - Loi n°2004-1370 du 20 décembre 2004 - art. 2 () JORF 21 décembre 2004
 
 	**Cité par**:
 
@@ -1484,6 +1488,7 @@ publique.
 
 	**Cite**:
 
+	  - Code des juridictions financières - art. L132-3 (Ab)
 	  - Code des juridictions financières - art. L211-1 (V)
 	  - Code des juridictions financières - art. L211-8 (M)
 	  - Code de la santé publique - art. L6141-2 (V)

@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2004-07-02
+Version Consolidée au 2004-07-17
 
 # Partie législative
 
@@ -14045,8 +14045,8 @@ des comptes et du procureur général près de la Cour des comptes.
 ###### Article R112-13
 
 Les rapporteurs affectés à la Cour avec l'accord du premier président et du procureur général, en application du décret n°
-97-274 du 21 mars 1997 relatif à la mobilité des fonctionnaires des corps recrutés par la voie de l'Ecole nationale
-d'administration et des administrateurs des postes et télécommunications, exercent leur fonction à temps plein.
+2004-708 du 16 juillet 2004 relatif à la mobilité et au détachement des fonctionnaires des corps recrutés par la voie de
+l'Ecole nationale d'administration, exercent leur fonction à temps plein.
 
 Un arrêté du premier président fixe leur affectation.
 
@@ -14056,17 +14056,17 @@ Un arrêté du premier président fixe leur affectation.
 
 	  - Décret n°85-199 1985-02-11, art 12-I
 
-	**Cite**:
-
-	  - Décret n°97-274 1997-03-21
-
 	**Codifié par**:
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2004-708 2004-07-16
+
+	**Modifié par**:
+
+	  - Décret n°2004-708 du 16 juillet 2004 - art. 14 (V) JORF 17 juillet 2004
 
 	**Cité par**:
 
@@ -14840,6 +14840,33 @@ immédiatement supérieur à celui dont ils bénéficiaient dans leur corps d'or
 
 #### CHAPITRE III : Mobilité
 
+###### Article R*123-1
+
+Les magistrats peuvent accomplir une période dite de mobilité dans les conditions définies par le décret n° 2004-708 du 16
+juillet 2004 relatif à la mobilité et au détachement des fonctionnaires de corps recrutés par la voie de l'Ecole nationale
+d'administration.
+
+Les magistrats recrutés à la Cour par la voie du tour extérieur sont considérés comme ayant accompli la mobilité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-369 1973-03-27, art 1er
+
+	**Codifié par**:
+
+	  - Décret n°2000-337 2000-04-14
+
+	**Cite**:
+
+	  - Décret n°2004-708 2004-07-16
+
+	**Modifié par**:
+
+	  - Décret n°2004-708 du 16 juillet 2004 - art. 14 (V) JORF 17 juillet 2004
+
+
 ###### Article R*123-2
 
 Les mesures individuelles prises en application de l'article précédent sont prononcées sur demande des intéressés après
@@ -14851,33 +14878,6 @@ finances et des ministres intéressés.
 	**Anciens textes**:
 
 	  - Décret n°73-369 1973-03-27, art 2
-
-	**Codifié par**:
-
-	  - Décret n°2000-337 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-337 2000-04-14 jorf 16 avril 2000
-
-
-###### Article R123-1
-
-Les magistrats peuvent accomplir une période dite de mobilité dans les conditions définies par le décret n° 97-274 du 21 mars
-1997 relatif à la mobilité des fonctionnaires de corps recrutés par la voie de l'Ecole nationale d'administration et des
-administrateurs des postes et télécommunications.
-
-Les magistrats recrutés à la Cour par la voie du tour extérieur sont considérés comme ayant accompli la mobilité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-369 1973-03-27, art 1er
-
-	**Cite**:
-
-	  - Décret n°97-274 1997-03-21
 
 	**Codifié par**:
 
@@ -21506,6 +21506,53 @@ pouvoir être délégués dans les fonctions de commissaire du Gouvernement.
 	  - Décret n°2002-1153 du 10 septembre 2002 - art. 9 ()
 
 
+###### Article R224-5
+
+Peuvent être inscrits au tableau d'avancement :
+
+1° Pour l'accès au grade de président de section, les premiers conseillers ayant atteint au moins le 3e échelon ;
+
+2° Pour l'accès au grade de premier conseiller, les conseillers ayant atteint le 7e échelon.
+
+Les intéressés doivent, en outre, justifier de quatre années de services effectifs dans le corps.
+
+Il est satisfait à l'obligation de mobilité posée par l'article L. 221-2-1 :
+
+1° Par mutation dans une autre chambre régionale ou territoriale des comptes ;
+
+2° Par détachement ou mise à disposition à la Cour des comptes ;
+
+3° Par détachement ou mise à disposition dans un service, une juridiction, un organisme, une collectivité ou une entreprise
+publique pouvant accueillir, au titre de leur mobilité, les fonctionnaires des corps recrutés par la voie de l'Ecole
+nationale d'administration ;
+
+4° Par mobilité au sens du décret n° 2004-708 du 16 juillet 2004 relatif à la mobilité et au détachement des fonctionnaires
+des corps recrutés par la voie de l'Ecole nationale d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 22 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Cite**:
+
+	  - Décret n°2004-708 2004-07-16
+	  - Code des juridictions financières - art. L221-2-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-708 du 16 juillet 2004 - art. 14 (V) JORF 17 juillet 2004
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R212-55-1 (Ab)
+
+
 ###### Article R224-6
 
 Les conseillers promus premiers conseillers sont classés au 1er échelon de leur nouveau grade et conservent, dans la limite
@@ -21559,6 +21606,46 @@ d'avancement.
 ##### CHAPITRE VI : Positions des magistrats
 
 ##### Section 1 : Mobilité
+
+###### Article R226-1
+
+Les magistrats des chambres régionales des comptes peuvent accomplir une période dite de mobilité dans les conditions
+définies par le décret n° 2004-708 du 16 juillet 2004 relatif à la mobilité et au détachement des fonctionnaires des corps
+recrutés par la voie de l'Ecole nationale d'administration.
+
+Toutefois, les intéressés ne peuvent accomplir cette mobilité en exerçant des fonctions :
+
+a) Dans un cabinet ministériel ;
+
+b) Auprès d'une collectivité territoriale ou d'un organisme soumis au contrôle de la chambre régionale des comptes où ils
+exercent leurs fonctions au moment de leur départ en mobilité ;
+
+c) Dans l'administration préfectorale ou dans un secrétariat général pour les affaires régionales situé dans la région au
+sein de laquelle la chambre régionale des comptes exerce ses compétences.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°82-970 du 16 novembre 1982 - art. 57 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Cité par**:
+
+	  - Décret n°2002-1201 du 27 septembre 2002 - art. 69 (V)
+	  - Code des juridictions financières - art. R226-5 (V)
+
+	**Cite**:
+
+	  - Décret n°2004-708 2004-07-16
+
+	**Modifié par**:
+
+	  - Décret n°2004-708 du 16 juillet 2004 - art. 14 (V) JORF 17 juillet 2004
+
 
 ###### Article R226-2
 
@@ -29760,53 +29847,6 @@ par la collectivité ou l'établissement public concerné.
 
 ##### CHAPITRE IV : Avancement.
 
-###### Article R224-5
-
-Peuvent être inscrits au tableau d'avancement :
-
-1° Pour l'accès au grade de président de section, les premiers conseillers ayant atteint au moins le 3e échelon ;
-
-2° Pour l'accès au grade de premier conseiller, les conseillers ayant atteint le 7e échelon.
-
-Les intéressés doivent, en outre, justifier de quatre années de services effectifs dans le corps.
-
-Il est satisfait à l'obligation de mobilité posée par l'article L. 221-2-1 :
-
-1° Par mutation dans une autre chambre régionale ou territoriale des comptes ;
-
-2° Par détachement ou mise à disposition à la Cour des comptes ;
-
-3° Par détachement ou mise à disposition dans un service, une juridiction, un organisme, une collectivité ou une entreprise
-publique pouvant accueillir, au titre de leur mobilité, les fonctionnaires des corps recrutés par la voie de l'Ecole
-nationale d'administration ;
-
-4° Par mobilité au sens du décret n° 97-274 du 21 mars 1997 relatif à la mobilité des fonctionnaires des corps recrutés par
-la voie de l'Ecole nationale d'administration et des administrateurs des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 22 (Ab)
-
-	**Cite**:
-
-	  - Décret n°97-274 1997-03-21
-	  - Code des juridictions financières - art. L221-2-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Modifié par**:
-
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 46 ()
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R212-55-1 (Ab)
-
-
 ###### Article R224-7
 
 Le tableau d'avancement est, pour chaque grade, commun à tous les membres du corps des chambres régionales des comptes. Il
@@ -29865,50 +29905,6 @@ paritaires en matière de notation sont exercées par le Conseil supérieur des 
 	**Créé par**:
 
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-##### CHAPITRE VI : Positions des magistrats
-
-##### Section 1 : Mobilité.
-
-###### Article R226-1
-
-Les magistrats des chambres régionales des comptes peuvent accomplir une période dite de mobilité dans les conditions
-définies par le décret n° 97-274 du 21 mars 1997 relatif à la mobilité des fonctionnaires des corps recrutés par la voie de
-l'Ecole nationale d'administration et des administrateurs des postes et télécommunications.
-
-Toutefois, les intéressés ne peuvent accomplir cette mobilité en exerçant des fonctions :
-
-a) Dans un cabinet ministériel ;
-
-b) Auprès d'une collectivité territoriale ou d'un organisme soumis au contrôle de la chambre régionale des comptes où ils
-exercent leurs fonctions au moment de leur départ en mobilité ;
-
-c) Dans l'administration préfectorale ou dans un secrétariat général pour les affaires régionales situé dans la région au
-sein de laquelle la chambre régionale des comptes exerce ses compétences.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 57 (Ab)
-
-	**Cite**:
-
-	  - Décret n°97-274 1997-03-21
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Modifié par**:
-
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 69 (V)
-
-	**Cité par**:
-
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 69 (V)
-	  - Code des juridictions financières - art. R226-5 (V)
 
 
 #### TITRE III : COMPÉTENCES ET ATTRIBUTIONS

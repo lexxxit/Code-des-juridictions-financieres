@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 1999-07-28
+Version Consolidée au 1999-12-29
 
 # Partie législative
 
@@ -7193,6 +7193,88 @@ serment.
 	  - Code des juridictions financières - art. L262-24 (VD)
 
 
+###### Article L262-24
+
+La chambre territoriale des comptes comporte un ou plusieurs commissaires du Gouvernement, choisis parmi les magistrats d'une
+chambre territoriale, qui exercent les fonctions du ministère public et sont les correspondants du procureur général près la
+Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-213 1982-03-02 modifiée, art 85 al 4
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi n°99-1121 1999-12-28 art. 20 jorf 29 décembre 1999
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R262-2 (V)
+
+
+###### Article L262-25
+
+Des magistrats de chambre territoriale des comptes sont, avec leur accord, délégués dans les fonctions du ministère public
+par décret pris sur le rapport du ministre chargé des finances sur proposition conjointe du premier président de la Cour des
+comptes et du procureur général près la Cour des comptes. Dans ces fonctions, les intéressés ne sont pas inamovibles. Il est
+mis fin à cette délégation dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-595 1982-07-10, art 4 al 2
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi n°99-1121 1999-12-28 art. 20 jorf 29 décembre 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-20 (VD)
+
+
+###### Article L262-26
+
+L'intérim du ministère public auprès de la chambre territoriale des comptes peut être exercé, pour une période n'excédant pas
+six mois, par un magistrat d'une chambre territoriale remplissant les conditions réglementaires pour être délégué dans les
+fonctions de commissaire du Gouvernement, désigné sur proposition du président de la chambre territoriale par décision
+conjointe du premier président de la Cour des comptes et du procureur général près la Cour des comptes. Il est mis fin à cet
+intérim par décision du procureur général qui en tient informé le premier président.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°82-595 1982-07-10, art 4 dernier alinéa
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi n°99-1121 1999-12-28 art. 20 jorf 29 décembre 1999
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R262-16 (V)
+
+
 ##### Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes
 
 ###### Article L262-27
@@ -9277,80 +9359,6 @@ intéressés ne peuvent exercer aucune activité juridictionnelle.
 	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 
-###### Article L262-24
-
-La chambre territoriale des comptes comporte un ou plusieurs commissaires du Gouvernement, choisis parmi les magistrats de la
-chambre, qui exercent les fonctions du ministère public et sont les correspondants du procureur général près la Cour des
-comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 85 al 4
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R262-2 (V)
-
-
-###### Article L262-25
-
-Des magistrats de la chambre territoriale des comptes sont, avec leur accord, délégués dans les fonctions du ministère public
-par décret pris sur le rapport du ministre chargé des finances sur proposition conjointe du premier président de la Cour des
-comptes et du procureur général près la Cour des comptes. Dans ces fonctions, les intéressés ne sont pas inamovibles. Il est
-mis fin à cette délégation dans les mêmes formes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1982-07-10, art 4 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
-
-
-###### Article L262-26
-
-L'intérim du ministère public auprès de la chambre territoriale des comptes peut être exercé, pour une période n'excédant pas
-six mois, par un magistrat de la chambre remplissant les conditions réglementaires pour être délégué dans les fonctions de
-commissaire du Gouvernement, désigné sur proposition du président de la chambre territoriale par décision conjointe du
-premier président de la Cour des comptes et du procureur général près la Cour des comptes. Il est mis fin à cet intérim par
-décision du procureur général qui en tient informé le premier président.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1982-07-10, art 4 dernier alinéa
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R262-16 (V)
-
-
 ##### Section 3 : Dispositions statutaires.
 
 ###### Article L262-30
@@ -10136,9 +10144,9 @@ serment.
 
 ###### Article L272-24
 
-La chambre territoriale des comptes comporte un ou plusieurs commissaires du Gouvernement, choisis parmi les magistrats de la
-chambre, qui exercent les fonctions du ministère public et sont les correspondants du procureur général près la Cour des
-comptes.
+La chambre territoriale des comptes comporte un ou plusieurs commissaires du Gouvernement, choisis parmi les magistrats d'une
+chambre territoriale, qui exercent les fonctions du ministère public et sont les correspondants du procureur général près la
+Cour des comptes.
 
 **Liens relatifs à cet article**
 
@@ -10152,12 +10160,12 @@ comptes.
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°99-1121 1999-12-28 art. 20 jorf 29 décembre 1999
 
 
 ###### Article L272-25
 
-Des magistrats de la chambre territoriale des comptes sont, avec leur accord, délégués dans les fonctions du ministère public
+Des magistrats de chambre territoriale des comptes sont, avec leur accord, délégués dans les fonctions du ministère public
 par décret pris sur le rapport du ministre chargé des finances sur proposition conjointe du premier président de la Cour des
 comptes et du procureur général près la Cour des comptes. Dans ces fonctions, les intéressés ne sont pas inamovibles. Il est
 mis fin à cette délégation dans les mêmes formes.
@@ -10174,16 +10182,24 @@ mis fin à cette délégation dans les mêmes formes.
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°99-1121 1999-12-28 art. 20 jorf 29 décembre 1999
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-22 (VD)
 
 
 ###### Article L272-26
 
 L'intérim du ministère public auprès de la chambre territoriale des comptes peut être exercé, pour une période n'excédant pas
-six mois, par un magistrat de la chambre remplissant les conditions réglementaires pour être délégué dans les fonctions de
-commissaire du Gouvernement, désigné sur proposition du président de la chambre territoriale par décision conjointe du
-premier président de la Cour des comptes et du procureur général près la Cour des comptes. Il est mis fin à cet intérim par
-décision du procureur général qui en tient informé le premier président.
+six mois, par un magistrat d'une chambre territoriale remplissant les conditions réglementaires pour être délégué dans les
+fonctions de commissaire du Gouvernement, désigné sur proposition du président de la chambre territoriale par décision
+conjointe du premier président de la Cour des comptes et du procureur général près la Cour des comptes. Il est mis fin à cet
+intérim par décision du procureur général qui en tient informé le premier président.
 
 **Liens relatifs à cet article**
 
@@ -10197,7 +10213,7 @@ décision du procureur général qui en tient informé le premier président.
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°99-1121 1999-12-28 art. 20 jorf 29 décembre 1999
 
 	**Cité par**:
 

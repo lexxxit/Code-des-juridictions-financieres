@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2004-12-21
+Version Consolidée au 2005-05-03
 
 # Partie législative
 
@@ -5402,24 +5402,25 @@ Les chambres régionales des comptes exercent le contrôle des actes budgétaire
 établissements publics de santé régis par le livre VII du code de la santé publique conformément aux dispositions du deuxième
 alinéa du 1° de l'article L. 6143-4 et de l'article L. 6145-3 de ce code reproduits ci-après :
 
-Art. L. 6143-4, 1°, deuxième alinéa.   Le directeur de l'agence régionale de l'hospitalisation saisit, pour avis, la chambre
-régionale des comptes, dans les quinze jours suivant leur réception, des délibérations dont il estime qu'elles entraînent des
-dépenses de nature à menacer l'équilibre budgétaire de l'établissement. Il informe sans délai l'établissement de cette
-saisine, qu'il peut assortir d'un sursis à exécution. Sur avis conforme de la chambre régionale des comptes, rendu dans un
-délai de trente jours suivant la saisine, le directeur de l'agence régionale de l'hospitalisation peut annuler la
-délibération ainsi mise en cause.
+"Art. L. 6143-4, 1°, deuxième alinéa.   Le directeur de l'agence régionale de l'hospitalisation défère au tribunal
+administratif les délibérations portant sur ces matières qu'il estime illégales dans les deux mois de leur réception. Il
+informe sans délai l'établissement et lui communique toute précision sur les illégalités invoquées. Il peut assortir son
+recours d'une demande de sursis à exécution. Il est fait droit à cette demande si l'un des moyens invoqués paraît de nature à
+justifier l'annulation de la délibération attaquée."
 
-Art. L. 6145-3.   Si le budget n'est pas adopté par le conseil d'administration avant le 1er janvier de l'exercice auquel il
-s'applique, le directeur de l'agence régionale de l'hospitalisation saisit sans délai la chambre régionale des comptes qui,
-dans un délai de trente jours, formule des propositions permettant d'arrêter le budget. Le président du conseil
-d'administration peut, à sa demande, présenter oralement ses observations à la chambre régionale des comptes. Il est assisté
-par le directeur de l'établissement. Le directeur de l'agence régionale de l'hospitalisation, arrête le budget et le rend
-exécutoire. Si le directeur de l'agence régionale de l'hospitalisation s'écarte des propositions de la chambre régionale des
-comptes, il assortit sa décision d'une motivation explicite.
+"Art. L. 6145-3.   Si l'état des prévisions de recettes et de dépenses n'est pas adopté par le conseil d'administration à un
+date fixée par voie réglementaire, le directeur de l'agence régionale de l'hospitalisation arrête l'état des prévisions de
+recettes et de dépenses. Cet état a élors un caractère limitatif.
 
-En cas de carence de l'ordonnateur, le directeur de l'agence régionale de l'hospitalisation peut après mise en demeure et à
-défaut d'exécution dans le délai de trente jours, procéder au mandatement d'office d'une dépense ou au recouvrement d'une
-recette régulièrement inscrite au budget initial et aux décisions modificatives éventuelles.
+En cas de carence de l'ordonnateur, le directeur de l'agence régionale de l'hospitalisation peut, après mise en demeure
+restée sans suite au terme d'un délai fixé par voie réglementaire, procéder au mandatement d'office d'une dépense ou au
+recouvrement d'une recette régulièrement inscrite à l'état des prévisions de recettes et de dépenses initial et aux décisions
+modificatives éventuelles (1)."
+
+**Nota:**
+
+Nota (1) : Ordonnance 2005-406 2005-05-02 art. 13 IV A : Pour l'application en 2005 du présent article les mots : "état des
+prévisions de recettes et de dépenses" ou : "état" sont remplacés par le mot : "budget".
 
 **Liens relatifs à cet article**
 
@@ -5443,23 +5444,20 @@ recette régulièrement inscrite au budget initial et aux décisions modificativ
 	  - Code des juridictions financières - art. L232-9 (M)
 	  - Code des juridictions financières - art. L242-1 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Rapport - art. 4 ()
+	  - Ordonnance n°2005-406 du 2 mai 2005 - art. 1 () JORF 3 mai 2005
+	  - Ordonnance n°2005-406 du 2 mai 2005 - art. 10 () JORF 3 mai 2005
 
 	**Anciens textes**:
 
-	  - Code des juridictions financières L232-29 : loi 83-663 1983-07-22, art 15-10 modifié par loi 85-97 1985-01-25, art 9
-	  - Code des juridictions financières l232-7
+	  - Code des juridictions financières - art. L232-29 (T)
+	  - Code des juridictions financières - art. L232-7 (M)
 
 	**Cite**:
 
 	  - Code des juridictions financières L714-5
 	  - Code de la santé publique - art. L714-9 (M)
-
-	**Modifié par**:
-
-	  - Ordonnance 2002-303 2002-03-04 art. 19 III jorf 5 mars 2002
 
 
 ###### Article L232-6
@@ -5600,14 +5598,14 @@ général des collectivités territoriales.
 ###### Article L233-1
 
 Les ordres de réquisition des comptables sont régis par les dispositions des articles L. 1617-2 à L. 1617-4 du code général
-des collectivités territoriales ci-après reproduits :
+des collectivités territoriales ci-après reproduits : 
 
-Art. L. 1617-2. -  Le comptable d'une commune, d'un département ou d'une région ne peut subordonner ses actes de paiement à
-une appréciation de l'opportunité des décisions prises par l'ordonnateur. Il ne peut soumettre les mêmes actes qu'au contrôle
-de légalité qu'impose l'exercice de sa responsabilité personnelle et pécuniaire. Il est tenu de motiver la suspension du
-paiement.
+Art.L. 1617-2.-Le comptable d'une commune, d'un département ou d'une région ne peut subordonner ses actes de paiement à une
+appréciation de l'opportunité des décisions prises par l'ordonnateur. Il ne peut soumettre les mêmes actes qu'au contrôle de
+légalité qu'impose l'exercice de sa responsabilité personnelle et pécuniaire. Il est tenu de motiver la suspension du
+paiement. 
 
-Art. L. 1617-3. - Lorsque le comptable de la commune, du département ou de la région notifie sa décision de suspendre le
+Art.L. 1617-3.-Lorsque le comptable de la commune, du département ou de la région notifie sa décision de suspendre le
 paiement d'une dépense, le maire, le président du conseil général ou le président du conseil régional peut lui adresser un
 ordre de réquisition. Il s'y conforme aussitôt, sauf en cas d'insuffisance de fonds disponibles, de dépense ordonnancée sur
 des crédits irrégulièrement ouverts ou insuffisants ou sur des crédits autres que ceux sur lesquels elle devrait être
@@ -5615,16 +5613,17 @@ imputée, d'absence totale de justification du service fait et de défaut de car
 d'absence de caractère exécutoire des actes pris selon les cas par les autorités communales, les autorités départementales ou
 les autorités régionales.
 
-L'ordre de réquisition est notifié à la chambre régionale des comptes.
+L'ordre de réquisition est notifié à la chambre régionale des comptes. 
 
-En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
+En cas de réquisition, l'ordonnateur engage sa responsabilité propre. 
 
-La liste des pièces justificatives que le comptable peut exiger avant de procéder au paiement est fixée par décret.
+La liste des pièces justificatives que le comptable peut exiger avant de procéder au paiement est fixée par décret. 
 
-Art. L. 1617-4 - Les dispositions du présent chapitre sont applicables aux établissements publics communaux et
-intercommunaux, aux établissements publics départementaux, aux établissements publics interdépartementaux, aux établissements
-publics communs aux communes et aux départements ainsi qu'aux établissements publics communs à des collectivités locales ou
-groupements de ces collectivités, à l'exception des établissements publics de santé.
+Art.L. 1617-4-Les dispositions du présent chapitre sont applicables aux établissements publics communaux et intercommunaux,
+aux établissements publics départementaux, aux établissements publics interdépartementaux, aux établissements publics communs
+aux communes et aux départements ainsi qu'aux établissements publics communs à des collectivités locales ou groupements de
+ces collectivités. Toutefois, elles ne sont pas applicables aux établissements publics de santé, sauf disposition
+particulière du code de la santé publique.
 
 **Liens relatifs à cet article**
 
@@ -5638,8 +5637,7 @@ groupements de ces collectivités, à l'exception des établissements publics de
 
 	**Modifié par**:
 
-	  - Loi n°96-142 du 21 février 1996 - art. 4 ()
-	  - Loi n°99-586 du 12 juillet 1999 - art. 66 () JORF 13 juillet 1999
+	  - Ordonnance n°2005-406 du 2 mai 2005 - art. 11 () JORF 3 mai 2005
 
 	**Cité par**:
 
@@ -5650,10 +5648,6 @@ groupements de ces collectivités, à l'exception des établissements publics de
 	  - Code des juridictions financières - art. L250-11 (Ab)
 	  - Code des juridictions financières - art. L312-2 (V)
 
-	**Cite**:
-
-	  - Code général des collectivités territoriales L1617-2 à L1617-4
-
 
 ###### Article L233-2
 
@@ -5661,24 +5655,24 @@ Par dérogation aux dispositions des articles L. 1617-2 et L. 1617-3 du code gé
 chambres régionales des comptes sont destinataires des ordres de réquisition notifiés au comptable de l'établissement par
 l'ordonnateur d'un établissement public de santé ou d'un syndicat interhospitalier, régis par le livre VII du code de la
 santé publique, conformément aux dispositions de l'article L. 6145-8, deuxième à septième alinéas, de ce code reproduit ci-
-après :
+après : 
 
-Art. L. 6145-8, deuxième à septième alinéas.
+" Art.L. 6145-8, deuxième à septième alinéas. 
 
 Lorsque le comptable de l'établissement notifie à l'ordonnateur sa décision de suspendre une dépense, celui-ci peut lui
-adresser un ordre de réquisition. Le comptable est tenu de s'y conformer, sauf en cas :
+adresser un ordre de réquisition. Le comptable est tenu de s'y conformer, sauf en cas : 
 
-1° D'insuffisance de fonds disponibles ;
+1° D'insuffisance de fonds disponibles ; 
 
-2° De dépense ordonnancée sur des crédits irrégulièrement ouverts ou insuffisants ou sur des crédits autres que ceux sur
-lesquels elle devrait être imputée ;
+2° De mauvaise imputation comptable des dépenses ; 
 
-3° D'absence de justification du service fait ou de défaut de caractère libératoire du règlement.
+3° D'absence de justification de service fait ou de défaut de caractère libératoire du règlement ; 
+
+4° De dépenses mandatées sur des crédits irrégulièrement ouverts ou insuffisants lorsque ces crédits ont un caractère
+limitatif.
 
 L'ordre de réquisition est porté à la connaissance du conseil d'administration de l'établissement et notifié au trésorier-
-payeur général du département qui le transmet à la chambre régionale des comptes.
-
-En cas de réquisition, le comptable est déchargé de sa responsabilité.
+payeur général du département qui le transmet à la chambre régionale des comptes. "
 
 **Liens relatifs à cet article**
 
@@ -5688,7 +5682,7 @@ En cas de réquisition, le comptable est déchargé de sa responsabilité.
 
 	**Modifié par**:
 
-	  - Loi n°2003-1311 2003-12-30 art. 116 II 2° finances pour 2004 JORF 31 décembre 2003
+	  - Ordonnance n°2005-406 du 2 mai 2005 - art. 10 () JORF 3 mai 2005
 
 	**Anciens textes**:
 

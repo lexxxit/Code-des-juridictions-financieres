@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2005-05-03
+Version Consolidée au 2005-05-10
 
 # Partie législative
 
@@ -16667,8 +16667,9 @@ relevé détaillé de la situation des filiales à la date de clôture de l'exer
 
 La Cour reçoit en outre les rapports des commissaires aux comptes.
 
-Les contrôleurs d'Etat, les membres des missions de contrôle ou les commissaires du Gouvernement adressent à la Cour copie de
-leurs rapports relatifs aux états financiers de ces organismes et comportant leurs observations sur ces documents.
+Les membres du corps du contrôle général économique et financier, les membres des missions de contrôle ou les commissaires du
+Gouvernement adressent à la Cour copie de leurs rapports relatifs aux états financiers de ces organismes et comportant leurs
+observations sur ces documents.
 
 **Liens relatifs à cet article**
 
@@ -16678,15 +16679,61 @@ leurs rapports relatifs aux états financiers de ces organismes et comportant le
 
 	**Codifié par**:
 
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Modifié par**:
+
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 181
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R133-1
+
+
+###### Article R133-3
+
+Les constatations relevées par la Cour lors de ses contrôles sont portées, dans le respect des dispositions de l'article L.
+140-5, à la connaissance des dirigeants de l'organisme et des ministres de tutelle, ainsi que, le cas échéant, du chef de la
+mission de contrôle ou du membre du corps du contrôle général économique et financier afin qu'ils puissent faire connaître
+leurs observations écrites, dans le délai d'un mois qui suit cette communication. La Cour peut procéder à des auditions, soit
+de sa propre initiative, soit à la demande des ministres de tutelle ou des dirigeants de l'organisme. Les représentants des
+autorités de tutelle sont entendus par la Cour lorsque l'action de ces autorités est mise en cause par les dirigeants de
+l'organisme dans leurs réponses écrites ou lors de leur audition. A l'expiration du délai d'un mois précité et après avoir
+procédé éventuellement aux auditions, la Cour statue définitivement.
+
+Les conclusions arrêtées par la Cour sont consignées dans le rapport particulier prévu par l'article L. 135-3, sous réserve
+des dispositions législatives et réglementaires applicables en matière de secret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-199 du 11 février 1985 - art. 37 (Ab)
+
+	**Codifié par**:
+
 	  - Décret n°2000-338 2000-04-14
 
 	**Créé par**:
 
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
+	**Modifié par**:
+
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
 	**Cite**:
 
-	  - Code des juridictions financières - art. R133-1 (V)
+	  - Code des juridictions financières - art. L135-3 (V)
+	  - Code des juridictions financières - art. L140-5 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R141-6 (M)
 
 
 ###### Article R133-4

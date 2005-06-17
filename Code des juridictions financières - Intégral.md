@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2005-06-07
+Version Consolidée au 2005-06-18
 
 # Partie législative
 
@@ -12336,13 +12336,7 @@ La Cour est composée comme suit :
 
 - le président de la section des finances du Conseil d'Etat, vice-président ;
 
-- deux conseillers d'Etat ;
-
-- deux conseillers maîtres à la Cour des comptes.
-
-La présidence de la Cour est assurée par son vice-président en cas d'absence ou d'empêchement de son président.
-
-Elle siège à la Cour des comptes.
+- un nombre égal de conseillers d'Etat et de conseillers maîtres à la Cour des comptes.
 
 **Liens relatifs à cet article**
 
@@ -12350,19 +12344,19 @@ Elle siège à la Cour des comptes.
 
 	  - Loi n°95-851 1995-07-24
 
-	**Créé par**:
-
-	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
 	**Anciens textes**:
 
 	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 1 () JORF 18 juin 2005
 
 
 ###### Article L311-3
 
 Les conseillers d'Etat et conseillers maîtres à la Cour des comptes sont nommés à la Cour par décret pris en conseil des
-ministres pour une durée de cinq ans. Ils doivent être en activité.
+ministres pour une durée de cinq ans.
 
 **Liens relatifs à cet article**
 
@@ -12370,20 +12364,19 @@ ministres pour une durée de cinq ans. Ils doivent être en activité.
 
 	  - Loi n°95-851 1995-07-24
 
-	**Créé par**:
-
-	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
 	**Anciens textes**:
 
 	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 1 () JORF 18 juin 2005
 
 
 ###### Article L311-4
 
 Les fonctions du ministère public près la Cour sont remplies par le procureur général près la Cour des comptes, assisté d'un
-avocat général et, s'il y a lieu, d'un ou de deux commissaires du Gouvernement choisis parmi les magistrats de la Cour des
-comptes.
+avocat général et, s'il y a lieu, de commissaires du Gouvernement.
 
 **Liens relatifs à cet article**
 
@@ -12391,19 +12384,18 @@ comptes.
 
 	  - Loi n°95-851 1995-07-24
 
-	**Créé par**:
-
-	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
 	**Anciens textes**:
 
 	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 1 () JORF 18 juin 2005
 
 
 ###### Article L311-5
 
-L'instruction des affaires est confiée à des rapporteurs choisis parmi les membres du Conseil d'Etat et de la Cour des
-comptes.
+L'instruction des affaires est confiée à des rapporteurs.
 
 **Liens relatifs à cet article**
 
@@ -12411,35 +12403,11 @@ comptes.
 
 	  - Loi n°95-851 1995-07-24
 
-	**Créé par**:
-
-	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
 	**Anciens textes**:
 
 	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
 
-
-###### Article L311-6
-
-Les commissaires du Gouvernement et les rapporteurs sont nommés par décret pris sur proposition du ministre chargé des
-finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°95-851 1995-07-24
-
-	**Créé par**:
-
-	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
-	**Anciens textes**:
-
-	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2005-677 du 17 juin 2005 - art. 1 () JORF 18 juin 2005
 
@@ -12465,30 +12433,6 @@ Le secrétariat de la Cour est assuré par les services de la Cour des comptes.
 	**Cité par**:
 
 	  - Décret n°2007-1171 du 2 août 2007 - art. 5 (V)
-
-
-###### Article L311-8
-
-La Cour est habilitée à se faire assister par un greffier nommé par arrêté du ministre chargé des finances et du ministre
-dont dépend l'intéressé, sur proposition du président de la Cour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°95-851 1995-07-24
-
-	**Créé par**:
-
-	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
-	**Anciens textes**:
-
-	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2005-677 du 17 juin 2005 - art. 1 () JORF 18 juin 2005
 
 
 #### CHAPITRE II : Personnes justiciables de la Cour
@@ -13240,8 +13184,8 @@ mois ; si les ministres n'ont pas émis un avis à l'expiration de ce délai, la
 
 ###### Article L314-6
 
-Le dossier est ensuite transmis au procureur général qui, dans le délai de quinze jours, prononce le classement de l'affaire
-par décision motivée ou le renvoi devant la Cour avec des conclusions motivées.
+Le dossier est ensuite transmis au procureur général qui prononce le classement de l'affaire par décision motivée ou le
+renvoi devant la Cour avec des conclusions motivées.
 
 **Liens relatifs à cet article**
 
@@ -13249,13 +13193,17 @@ par décision motivée ou le renvoi devant la Cour avec des conclusions motivée
 
 	  - Loi n°95-851 1995-07-24
 
-	**Créé par**:
-
-	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
 	**Anciens textes**:
 
 	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 1 () JORF 18 juin 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 	**Cité par**:
 
@@ -13298,12 +13246,10 @@ Premier ministre, à l'intéressé, au ministre dont l'intéressé dépend, au m
 
 ###### Article L314-8
 
-Si le procureur général conclut au renvoi devant la Cour, le dossier est communiqué à la commission administrative paritaire
-compétente siégeant en formation disciplinaire ou éventuellement à la formation qui en tient lieu, s'il en existe une. En
-l'absence d'avis dans le délai d'un mois, la Cour peut statuer. Le président de la formation consultée pourra toutefois être
-entendu au cours de l'audience. L'intéressé est ensuite avisé, par lettre recommandée avec demande d'avis de réception, qu'il
-peut, dans le délai de quinze jours, prendre connaissance au secrétariat de la Cour, soit par lui-même, soit par mandataire,
-soit par un avocat ou un avoué, soit par un avocat au Conseil d'Etat et à la Cour de cassation, du dossier de l'affaire.
+Si le procureur général conclut au renvoi devant la cour, l'intéressé est avisé par lettre recommandée avec demande d'avis de
+réception, qu'il peut, dans le délai de quinze jours, prendre connaissance au secrétariat de la Cour, soit par lui-même, soit
+par mandataire, soit par un avocat ou un avoué, soit par un avocat au Conseil d'Etat et à la Cour de cassation, du dossier de
+l'affaire.
 
 Le dossier communiqué est le dossier complet de l'affaire, y compris les conclusions du procureur général.
 
@@ -13316,13 +13262,13 @@ L'intéressé peut, dans le délai d'un mois à dater de la communication qui lu
 
 	  - Loi n°95-851 1995-07-24
 
-	**Créé par**:
-
-	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
 	**Anciens textes**:
 
 	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 1 () JORF 18 juin 2005
 
 
 ###### Article L314-9
@@ -13399,42 +13345,17 @@ Dans chaque affaire, le rapporteur résume son rapport écrit. L'intéressé, so
 conclusions. Des questions peuvent être posées par le président ou, avec son autorisation, par les membres de la Cour à
 l'intéressé ou à son représentant, qui doit avoir la parole le dernier.
 
-Le rapporteur a voix consultative dans les affaires qu'il rapporte.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°95-851 1995-07-24
 
-	**Créé par**:
-
-	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
 	**Anciens textes**:
 
 	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
 
-
-###### Article L314-13
-
-La Cour ne peut valablement délibérer que si quatre au moins de ses membres sont présents.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°95-851 1995-07-24
-
-	**Créé par**:
-
-	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
-	**Anciens textes**:
-
-	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2005-677 du 17 juin 2005 - art. 1 () JORF 18 juin 2005
 
@@ -13464,56 +13385,6 @@ Les décisions sont prises à la majorité des voix. En cas de partage, la voix 
 	**Nouveaux textes**:
 
 	  - Code des juridictions financières - art. L314-13 (VD)
-
-
-###### Article L314-15
-
-Les audiences de la Cour ne sont pas publiques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°95-851 1995-07-24
-
-	**Créé par**:
-
-	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
-	**Anciens textes**:
-
-	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2005-677 du 17 juin 2005 - art. 1 () JORF 18 juin 2005
-
-
-###### Article L314-16
-
-L'arrêt de la Cour est notifié aux personnes mentionnées à l'article L. 314-7.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°95-851 1995-07-24
-
-	**Créé par**:
-
-	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
-	**Anciens textes**:
-
-	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2005-677 du 17 juin 2005 - art. 1 () JORF 18 juin 2005
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L314-7 (V)
 
 
 ###### Article L314-17
@@ -30278,6 +30149,204 @@ par la collectivité ou l'établissement public concerné.
 
 
 ## LIVRE III : Les institutions associées à la Cour des comptes
+
+### TITRE Ier : La Cour de discipline budgétaire et financière
+
+#### CHAPITRE Ier : Organisation
+
+###### Article R311-1
+
+I. - Outre le président et le vice-président, la cour est composée de dix membres titulaires et de six membres suppléants.
+
+II. - La cour comporte deux sections. Les sections comprennent un président et cinq membres titulaires désignés par le
+président de la cour. Elles sont présidées respectivement par le président et le vice-président de la cour.
+
+III. - Les affaires portées devant la cour sont délibérées en section.
+
+Le président de la cour ou le président de la section devant laquelle elle est portée peut renvoyer une affaire en formation
+plénière.
+
+Le président de la cour peut décider l'inscription directe d'une affaire en formation plénière.
+
+IV. - En cas d'absence ou d'empêchement de son président, la cour siégeant en formation plénière est présidée par le vice-
+président ou, à défaut, par le membre de la cour le plus anciennement nommé. En cas d'ancienneté égale de plusieurs membres,
+la présidence est assurée par le plus âgé.
+
+En cas d'absence ou d'empêchement de son président, une section est présidée par le président de l'autre section ou, en cas
+d'absence ou d'empêchement de celui-ci, par le membre de la section le plus anciennement nommé. En cas d'ancienneté égale de
+plusieurs membres, la présidence est assurée par le plus âgé.
+
+V. - La cour ne peut valablement délibérer en formation plénière ou en section que si quatre au moins des membres de la
+formation de jugement sont présents, dont au moins un membre du Conseil d'Etat et un membre de la Cour des comptes.
+
+Lorsque par suite de vacance, d'absence ou d'empêchement, la composition d'une section ne respecte pas les règles de quorum
+fixées au précédent alinéa, la section est complétée en priorité par un ou plusieurs membres titulaires de l'autre section
+et, à défaut, par un ou plusieurs membres suppléants désignés par le président de la cour. Les membres ainsi désignés sont
+choisis par ordre d'ancienneté de nomination à la cour. En cas d'ancienneté égale de plusieurs membres, le membre choisi est
+le plus âgé. Lorsqu'aucun membre du Conseil d'Etat ou de la Cour des comptes n'est présent, la section est complétée par un
+membre de la cour issu du Conseil d'Etat ou de la Cour des comptes désigné selon les mêmes règles.
+
+Lorsque par suite de vacance, d'absence ou d'empêchement, la composition de la formation plénière ne respecte pas les règles
+fixées au premier alinéa, la formation plénière est complétée par un ou plusieurs membres suppléants désignés par le
+président de la cour selon les règles fixées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 2 () JORF 18 juin 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 178
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R311-2 (V)
+
+
+###### Article R311-2
+
+La cour siège à la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 2 () JORF 18 juin 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 178
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R311-1 (V)
+
+
+###### Article R311-3
+
+Les rapporteurs sont choisis parmi les membres du Conseil d'Etat, de la Cour des comptes, des tribunaux administratifs et des
+cours administratives d'appel et des chambres régionales et territoriales des comptes.
+
+Ils sont nommés par arrêté du ministre chargé du budget pris sur proposition du président de la cour. Il est mis fin à leurs
+fonctions dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 2 () JORF 18 juin 2005
+
+
+###### Article R311-4
+
+Les commissaires du Gouvernement sont choisis parmi les magistrats des juridictions financières ou de l'ordre judiciaire.
+
+Ils sont nommés par arrêté du ministre chargé du budget pris sur proposition du procureur général. Il est mis fin à leurs
+fonctions dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 2 () JORF 18 juin 2005
+
+
+###### Article R311-5
+
+Le président de la cour nomme un ou plusieurs greffiers choisis parmi les fonctionnaires de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 2 () JORF 18 juin 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 178
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R311-13 (V)
+
+
+#### CHAPITRE IV : Procédure devant la cour
+
+###### Article R314-1
+
+A l'audience, après la présentation par le rapporteur du résumé de son rapport écrit, le représentant du ministère public
+donne lecture d'un résumé de la décision de renvoi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 2 () JORF 18 juin 2005
+
+
+###### Article R314-2
+
+Les audiences de la cour sont publiques. Le président peut décider que l'audience aura lieu ou se poursuivra à huis clos dans
+les cas prévus à l'article 435 du nouveau code de procédure civile et dans les cas où la publicité de l'audience est de
+nature à porter atteinte à un secret protégé par la loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 2 () JORF 18 juin 2005
+
+
+###### Article R314-3
+
+L'arrêt de la cour est notifié aux personnes mentionnées à l'article L. 314-7.
+
+Il est lu publiquement par le président ou par un membre de la cour qu'il désigne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2005-677 du 17 juin 2005 - art. 2 () JORF 18 juin 2005
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L314-7 (V)
+
 
 ### TITRE II : Le comité d'enquête sur le coût et le rendement des services publics
 

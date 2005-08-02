@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2005-06-18
+Version Consolidée au 2005-08-03
 
 # Partie législative
 
@@ -1475,23 +1475,6 @@ comptes sur le projet de loi de règlement du budget de l'Etat.
 	  - Code des communes - art. L235-5 (Ab)
 
 
-###### Article L132-3-1
-
-La Cour des comptes peut être saisie par la commission parlementaire compétente de toute question relative à l'application
-des lois de financement de la sécurité sociale et procède, dans ce cadre et à la demande de cette commission, aux enquêtes
-sur les organismes soumis à son contrôle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°96-646 du 22 juillet 1996 - art. 2 ()
-
-
 ###### Article L132-3-2
 
 Dans le cadre de sa mission de contrôle de l'application des lois de financement de la sécurité sociale, la Cour des comptes,
@@ -1586,12 +1569,59 @@ l'Etat. Cette déclaration est annexée au projet de loi de règlement.
 	  - Code des juridictions financières - art. L314-19 (V)
 
 
+###### Article LO132-2-1
+
+Chaque année, la Cour des comptes établit un rapport présentant le compte rendu des vérifications qu'elle a opérées en vue de
+certifier la régularité, la sincérité et la fidélité des comptes des organismes nationaux du régime général et des comptes
+combinés de chaque branche et de l'activité de recouvrement du régime général, relatifs au dernier exercice clos, établis
+conformément aux dispositions du livre Ier du code de la sécurité sociale. Ce rapport est remis au Parlement et au
+Gouvernement sitôt son arrêt par la Cour des comptes, et au plus tard le 30 juin de l'année suivant celle afférente aux
+comptes concernés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2005-881 du 2 août 2005 - art. 12 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Décret n°2008-460 du 15 mai 2008 - art. 4 (V)
+	  - Décret n°2012-388  du 21 mars 2012 (V)
+	  - Code de commerce - art. A823-27-2 (V)
+	  - Code de la sécurité sociale. - art. L114-6-1 (V)
+	  - Code de la sécurité sociale. - art. L114-8 (VD)
+	  - Code de la sécurité sociale. - art. LO111-3 (VD)
+	  - Code de la sécurité sociale. - art. R114-6-1 (V)
+	  - Code de la sécurité sociale. - art. R221-1 (V)
+	  - Code des juridictions financières - art. L132-2-2 (VT)
+	  - Code des juridictions financières - art. L141-10 (VD)
+	  - Code des juridictions financières - art. L141-3 (V)
+	  - Code des juridictions financières - art. R112-17 (VD)
+	  - Code des juridictions financières - art. R112-17-1 (T)
+	  - Code des juridictions financières - art. R112-37 (V)
+	  - Code des juridictions financières - art. R137-1 (T)
+	  - Code des juridictions financières - art. R137-3 (T)
+	  - Code des juridictions financières - art. R137-4 (T)
+	  - Code des juridictions financières - art. R137-5 (T)
+	  - Code des juridictions financières - art. R137-6 (T)
+	  - Code des juridictions financières - art. R143-10 (T)
+	  - Code des juridictions financières - art. R143-11 (V)
+	  - Code des juridictions financières - art. R143-23 (V)
+
+
 ###### Article LO132-3
 
 Chaque année, la Cour des comptes établit un rapport sur l'application des lois de financement de la sécurité sociale. Ce
-rapport présente, en outre, une analyse de l'ensemble des comptes des organismes de sécurité sociale soumis à son contrôle et
-fait une synthèse des rapports et avis émis par les organismes de contrôle placés sous sa surveillance. Ce rapport est remis
-au Parlement sitôt son arrêt par la Cour des comptes.
+rapport comprend l'avis de la cour sur la cohérence des tableaux d'équilibre relatifs au dernier exercice clos présentés dans
+la partie du projet de loi de financement de la sécurité sociale, comprenant les dispositions relatives au dernier exercice
+clos. Ce rapport présente, en outre, une analyse de l'ensemble des comptes des organismes de sécurité sociale soumis à son
+contrôle et fait une synthèse des rapports et avis émis par les organismes de contrôle placés sous sa surveillance. Ce
+rapport est remis au Parlement et au Gouvernement sitôt son arrêt par la Cour des comptes.
 
 Les réponses faites aux observations de la Cour des comptes sont jointes au rapport.
 
@@ -1608,7 +1638,7 @@ Les réponses faites aux observations de la Cour des comptes sont jointes au rap
 
 	**Modifié par**:
 
-	  - Loi n°96-646 du 22 juillet 1996 - art. 2 ()
+	  - Loi n°2005-881 du 2 août 2005 - art. 13 () JORF 3 août 2005
 
 	**Cité par**:
 
@@ -1621,6 +1651,24 @@ Les réponses faites aux observations de la Cour des comptes sont jointes au rap
 	  - Code des juridictions financières - art. R112-17 (VD)
 	  - Code des juridictions financières - art. R134-14 (Ab)
 	  - Code des juridictions financières - art. R143-11 (V)
+
+
+###### Article LO132-3-1
+
+La Cour des comptes peut être saisie, par les commissions parlementaires saisies au fond des projets de loi de financement de
+la sécurité sociale, de toute question relative à l'application des lois de financement de la sécurité sociale et procède,
+dans ce cadre et à la demande de ces commissions, aux enquêtes sur les organismes soumis à son contrôle. Les conclusions de
+ces enquêtes sont communiquées à la commission dont la demande d'enquête émane. La commission statue sur leur publication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Modifié par**:
+
+	  - Loi n°2005-881 du 2 août 2005 - art. 14 () JORF 3 août 2005
 
 
 #### CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics

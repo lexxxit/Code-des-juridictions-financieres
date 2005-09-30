@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2005-09-06
+Version Consolidée au 2005-10-01
 
 # Partie législative
 
@@ -13648,6 +13648,384 @@ comptes et publié au Journal officiel de la République française.
 	**Anciens textes**:
 
 	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+
+### TITRE V : Le Conseil des prélèvements obligatoires
+
+#### CHAPITRE UNIQUE
+
+###### Article L351-1
+
+Il est institué un Conseil des prélèvements obligatoires, placé auprès de la Cour des comptes et chargé d'apprécier
+l'évolution et l'impact économique, social et budgétaire de l'ensemble des prélèvements obligatoires, ainsi que de formuler
+des recommandations sur toute question relative aux prélèvements obligatoires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 du 24 juillet 1995
+
+	**Créé par**:
+
+	  - Loi n°2005-358 du 20 avril 2005 - art. Unique
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 49
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L331-1 (VD)
+
+
+###### Article L351-2
+
+Le Conseil des prélèvements obligatoires remet chaque année au Président de la République et au Parlement un rapport rendant
+compte de l'exécution de ses travaux. Le compte rendu des débats et les contributions personnelles de ses membres peuvent
+être joints au rapport.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 du 24 juillet 1995
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 49
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L331-2 (VD)
+
+
+###### Article L351-3
+
+Le Conseil des prélèvements obligatoires peut être chargé, à la demande du Premier ministre ou des commissions de l'Assemblée
+nationale et du Sénat chargées des finances ou des commissions de l'Assemblée nationale et du Sénat chargées des affaires
+sociales, de réaliser des études relatives à toute question relevant de sa compétence. Les résultats de ces études sont
+transmis au Premier ministre et aux commissions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 49
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L331-11 (VD)
+	  - Code des juridictions financières - art. L351-10-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L331-3 (VD)
+
+
+###### Article L351-4
+
+Le Conseil des prélèvements obligatoires est présidé par le Premier président de la Cour des comptes. Celui-ci peut se faire
+représenter par un président de chambre. En cas de partage égal des voix, il a voix prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Cité par**:
+
+	  - Arrêté du 16 mars 2006 - art. 5 (V)
+	  - Code des juridictions financières - art. D330-8 (V)
+	  - Code des juridictions financières - art. D350-8 (T)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 49
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L331-4 (VD)
+
+
+###### Article L351-5
+
+Le Conseil des prélèvements obligatoires est constitué, outre son président, de huit magistrats ou fonctionnaires, choisis
+pour leurs compétences en matière de prélèvements obligatoires, ainsi que de huit personnalités qualifiées choisies à raison
+de leur expérience professionnelle :
+
+- un membre du Conseil d'Etat, désigné par le vice-président du Conseil d'Etat ;
+
+- un magistrat de l'ordre judiciaire désigné par le Premier président de la Cour de cassation ;
+
+- un magistrat de la Cour des comptes désigné par le Premier président de la Cour des comptes ;
+
+- un inspecteur général des finances désigné par le ministre chargé de l'économie et des finances ;
+
+- un inspecteur général des affaires sociales désigné par le ministre chargé des affaires sociales ;
+
+- un inspecteur général de l'Institut national de la statistique et des études économiques désigné par le ministre chargé de
+l'économie et des finances ;
+
+- deux professeurs agrégés des facultés de droit et de sciences économiques désignés respectivement par le ministre chargé de
+l'économie et des finances et par le ministre chargé des affaires sociales ;
+
+- une personnalité qualifiée désignée par le ministre chargé de l'économie et des finances ;
+
+- une personnalité qualifiée désignée par le ministre chargé des affaires sociales ;
+
+- une personnalité qualifiée désignée par le ministre chargé de l'intérieur ;
+
+- une personnalité qualifiée désignée par le Président de l'Assemblée nationale après avis du président et du rapporteur
+général de la commission de l'Assemblée nationale chargée des finances ;
+
+- une personnalité qualifiée désignée par le Président de l'Assemblée nationale après avis du président de la commission de
+l'Assemblée nationale chargée des affaires sociales ;
+
+- une personnalité qualifiée désignée par le Président du Sénat après avis du président et du rapporteur général de la
+commission du Sénat chargée des finances ;
+
+- une personnalité qualifiée désignée par le Président du Sénat après avis du président de la commission du Sénat chargée des
+affaires sociales ;
+
+- une personnalité qualifiée désignée par le Président du Conseil économique et social.
+
+Les personnalités désignées par le Président de l'Assemblée nationale, le Président du Sénat ou le Président du Conseil
+économique et social ne peuvent appartenir à l'une de ces assemblées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L331-12 (VD)
+	  - Code des juridictions financières - art. L331-13 (VD)
+	  - Code des juridictions financières - art. L351-11 (VT)
+	  - Code des juridictions financières - art. L351-12 (VT)
+
+
+###### Article L351-6
+
+Les membres du Conseil des prélèvements obligatoires autres que son président sont désignés pour deux ans et leur mandat peut
+être renouvelé une fois. Cependant, à titre exceptionnel, huit des seize membres désignés en 2005, tirés au sort dans les
+deux mois suivant la nomination de tous les membres, le sont pour une période de quatre ans et leur mandat peut être
+renouvelé une fois pour une période de deux ans.
+
+En cas de vacance, pour quelque cause que ce soit, d'un siège autre que celui du président, il est procédé à son remplacement
+pour la durée restant à courir du mandat. Un mandat exercé pendant moins d'un an n'est pas pris en compte pour l'application
+de la règle de renouvellement fixée à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 du 24 juillet 1995
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 49
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L331-6 (VD)
+
+
+###### Article L351-7
+
+Le secrétariat du Conseil des prélèvements obligatoires est assuré par la Cour des comptes. Les agents chargés du secrétariat
+peuvent assister aux réunions du conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 49
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L331-12 (VD)
+	  - Code des juridictions financières - art. L351-11 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L331-7 (VD)
+
+
+###### Article L351-8
+
+Le Conseil des prélèvements obligatoires peut faire appel à toute compétence extérieure de son choix. En particulier, le
+conseil peut désigner des rapporteurs chargés de recueillir les informations nécessaires à l'exercice de ses missions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 du 24 juillet 1995
+
+	**Créé par**:
+
+	  - Loi n°2005-358 du 20 avril 2005 - art. Unique
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 49
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L331-10 (VD)
+	  - Code des juridictions financières - art. L331-11 (VD)
+	  - Code des juridictions financières - art. L331-12 (VD)
+	  - Code des juridictions financières - art. L331-13 (VD)
+	  - Code des juridictions financières - art. L351-10 (VT)
+	  - Code des juridictions financières - art. L351-10-1 (VT)
+	  - Code des juridictions financières - art. L351-11 (VT)
+	  - Code des juridictions financières - art. L351-12 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L331-8 (VD)
+
+
+###### Article L351-9
+
+Afin d'assurer l'information du Conseil des prélèvements obligatoires, le directeur de la sécurité sociale, le directeur du
+budget, le directeur général du Trésor et de la politique économique, le directeur de la législation fiscale et le directeur
+général des collectivités locales assistent, à la demande de son président, à ses réunions, sans voix délibérative, ou s'y
+font représenter.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 du 24 juillet 1995
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 49
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L331-9 (VD)
+
+
+###### Article L351-10
+
+Pour l'exercice de leurs missions, les membres du Conseil des prélèvements obligatoires et les rapporteurs désignés en
+application de l'article L. 351-8 ont libre accès aux services, établissements, institutions et organismes entrant dans leur
+champ de compétences.
+
+Ceux-ci sont tenus de leur prêter leur concours, de leur fournir toutes justifications et tous renseignements utiles à
+l'accomplissement de leurs missions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 du 24 juillet 1995
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 49
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L331-10 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L331-11 (VD)
+	  - Code des juridictions financières - art. L351-10-1 (VT)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L351-8
+
+
+###### Article L351-11
+
+Dans l'exercice des missions qu'elles accomplissent pour le Conseil des prélèvements obligatoires, les personnes visées aux
+articles L. 351-5, L. 351-7 et L. 351-8 ne peuvent solliciter ou recevoir aucune instruction du Gouvernement ou de toute
+autre personne publique ou privée. Elles sont tenues au secret professionnel sous peine des sanctions prévues à l'article
+226-13 du code pénal et sous réserve des dispositions de l'article 226-14 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 49
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L331-12 (VD)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L351-5
+	  - Code des juridictions financières - art. L351-7 (VT)
+	  - Code des juridictions financières - art. L351-8
+	  - Code pénal - art. 226-13
+	  - Code pénal - art. 226-14
+
+
+###### Article L351-12
+
+Les personnalités qualifiées visées à l'article L. 351-5 et les rapporteurs visés à l'article L. 351-8 sont rémunérés dans
+des conditions propres à assurer leur indépendance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 1995-07-24
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 49
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L331-13 (VD)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L351-5
+	  - Code des juridictions financières - art. L351-8
+
+
+###### Article L351-13
+
+Les conditions de fonctionnement du Conseil des prélèvements obligatoires et les modalités de suppression du Conseil des
+impôts, auquel le Conseil des prélèvements obligatoires se substitue, sont précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°95-851 du 24 juillet 1995
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 49
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L331-14 (VD)
 
 
 # Partie réglementaire
@@ -30654,182 +31032,6 @@ Ce rapport est adressé au Premier ministre, aux membres du Gouvernement et du P
 	  - Décret n°2017-671 du 28 avril 2017 - art. 180
 
 
-### TITRE III : LE CONSEIL DES IMPÔTS.
-
-###### Article D330-1
-
-Le conseil des impôts, placé auprès de la Cour des comptes, a pour mission générale de constater la répartition de la charge
-fiscale et d'en mesurer l'évolution compte tenu notamment des caractéristiques économiques et sociales des catégories de
-redevables concernés.
-
-Il établit périodiquement un rapport sur l'exécution de ses travaux. Ce rapport est remis au Président de la République et
-publié.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-142 1971-02-22, art 1er
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2006-310 du 16 mars 2006 - art. 2 () JORF 18 mars 2006 en vigueur le 1er octobre 2005
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. D330-2 (Ab)
-
-
-###### Article D330-2
-
-Indépendamment de la mission définie à l'article D. 330-1, le conseil des impôts peut être chargé, à la demande du ministre
-chargé des finances, d'études relatives à l'élaboration ou à la mise en oeuvre de certains aspects de la politique fiscale.
-Les rapports qu'il établit à ce titre sont remis au ministre chargé des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-142 1971-02-22, art 2
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2006-310 du 16 mars 2006 - art. 2 () JORF 18 mars 2006 en vigueur le 1er octobre 2005
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. D330-1 (Ab)
-
-
-###### Article D330-3
-
-Le conseil des impôts est constitué de :
-
-- deux membres du Conseil d'Etat désignés par le vice-président du Conseil d'Etat ;
-
-- deux magistrats de l'ordre judiciaire désignés par le premier président de la Cour de cassation ;
-
-- deux magistrats de la Cour des comptes désignés par le premier président de la Cour des comptes ;
-
-- deux inspecteurs généraux des finances désignés par le ministre chargé des finances ;
-
-- un inspecteur général de l'Institut national de la statistique et des études économiques désigné par le ministre chargé des
-finances ;
-
-- un professeur agrégé des facultés de droit et de sciences économiques désigné par le ministre chargé des finances sur
-proposition du ministre chargé des universités.
-
-Il est présidé par le premier président de la Cour des comptes. Celui-ci peut se faire représenter par un président de
-chambre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-142 1971-02-22, art 3
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2006-310 du 16 mars 2006 - art. 2 () JORF 18 mars 2006 en vigueur le 1er octobre 2005
-
-
-###### Article D330-4
-
-Les membres du conseil des impôts sont choisis parmi des magistrats ou des fonctionnaires en situation d'activité. Ils sont
-désignés pour deux ans et leur mandat peut être renouvelé une fois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-142 1971-02-22, art 4
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2006-310 du 16 mars 2006 - art. 2 () JORF 18 mars 2006 en vigueur le 1er octobre 2005
-
-
-###### Article D330-5
-
-Le conseil des impôts désigne des rapporteurs choisis parmi les magistrats de la Cour des comptes, les membres du Conseil
-d'Etat, les membres de l'inspection générale des finances, ainsi que les administrateurs de l'Institut national de la
-statistique et des études économiques. Ces rapporteurs sont chargés de recueillir les informations nécessaires à la mission
-du conseil des impôts, notamment auprès des services dépendant du ministre chargé des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-142 1971-02-22, art 5
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2006-310 du 16 mars 2006 - art. 2 () JORF 18 mars 2006 en vigueur le 1er octobre 2005
-
-
-###### Article D330-6
-
-Le secrétariat du conseil des impôts est assuré par la Cour des comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-142 1971-02-22, art 6
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2006-310 du 16 mars 2006 - art. 2 () JORF 18 mars 2006 en vigueur le 1er octobre 2005
-
-
 ### TITRE IV : LA COMMISSION DE CERTIFICATION DES COMPTES DES ORGANISMES PAYEURS DES DÉPENSES FINANCÉES PAR LE FONDS EUROPÉEN D'ORIENTATION ET DE GARANTIE AGRICOLE, SECTION GARANTIE.
 
 ###### Article D340-1
@@ -31063,5 +31265,136 @@ information au ministre chargé des finances et au ministre chargé de l'agricul
 	**Abrogé par**:
 
 	  - Décret n°2005-1290 du 12 octobre 2005 - art. 9 () JORF 19 octobre 2005
+
+
+### TITRE V : Le conseil des prélèvements obligatoires
+
+###### Article R350-1
+
+Le Conseil des prélèvements obligatoires arrête son programme de travail sur proposition de son président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Créé par**:
+
+	  - Décret n°2006-310 du 16 mars 2006 - art. 1 () JORF 18 mars 2006 en vigueur le 1er octobre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 180
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R330-1 (V)
+
+
+###### Article R350-2
+
+Les rapports du Conseil des prélèvements obligatoires sont publiés au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2006-310 du 16 mars 2006 - art. 1 () JORF 18 mars 2006 en vigueur le 1er octobre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 180
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R330-2 (V)
+
+
+###### Article R350-3
+
+Le secrétariat du Conseil des prélèvements obligatoires est chargé d'en organiser les travaux.
+
+Le secrétariat est dirigé par un secrétaire général magistrat de la Cour des comptes. Le secrétaire général peut être assisté
+d'un ou plusieurs secrétaires généraux adjoints.
+
+Les secrétaires généraux adjoints et les autres agents administratifs du secrétariat peuvent être des fonctionnaires
+détachés.
+
+Les membres du secrétariat sont nommés par le président du Conseil des prélèvements obligatoires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2006-310 du 16 mars 2006 - art. 1 () JORF 18 mars 2006 en vigueur le 1er octobre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 180
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R330-3 (V)
+
+
+###### Article R350-4
+
+Sur proposition de son président, le Conseil des prélèvements obligatoires désigne un rapporteur général ou plusieurs
+rapporteurs généraux ainsi que des rapporteurs parmi les membres des corps recrutés par la voie de l'Ecole nationale
+d'administration ou de l'Ecole polytechnique, les administrateurs de l'Assemblée nationale, les administrateurs du Sénat et
+les professeurs et les maîtres de conférences des universités.
+
+Il peut également faire appel à toute autre personne choisie en fonction de ses compétences particulières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2006-310 du 16 mars 2006 - art. 1 () JORF 18 mars 2006 en vigueur le 1er octobre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 180
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R330-4 (V)
+
+
+###### Article R350-5
+
+Les crédits affectés au fonctionnement du Conseil des prélèvements obligatoires sont ordonnancés par le président de ce
+conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Créé par**:
+
+	  - Décret n°2006-310 du 16 mars 2006 - art. 1 () JORF 18 mars 2006 en vigueur le 1er octobre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 180
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R330-5 (V)
 
 

@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2005-12-22
+Version Consolidée au 2006-01-01
 
 # Partie législative
 
@@ -5537,16 +5537,21 @@ du présent code.
 
 Les chambres régionales des comptes exercent le contrôle des actes budgétaires et de l'exécution des budgets des
 établissements publics de santé régis par le livre Ier de la sixième partie du code de la santé publique conformément aux
-dispositions de l'article L. 6143-3 de ce code reproduit ci-après :
+dispositions de l'article L. 6143-3 de ce code reproduit ci-après : 
 
-"Art. L. 6143-3 : Le directeur de l'agence régionale de l'hospitalisation peut demander au conseil d'administration de
-présenter un plan de redressement lorsqu'il estime que la situation financière de l'établissement l'exige.
+" Art.L. 6143-3 : I.-Lorsqu'un établissement public de santé présente une situation de déséquilibre financier répondant à des
+critères définis par décret, le directeur de l'agence régionale de l'hospitalisation demande au conseil d'administration de
+présenter un plan de redressement. Les modalités de retour à l'équilibre prévues par ce plan donnent lieu à la signature d'un
+avenant au contrat pluriannuel d'objectifs et de moyens prévu à l'article L. 6114-1.
 
-A défaut d'adoption par le conseil d'administration d'un plan de redressement adapté à la situation et si la dégradation
-financière répond à des critères définis par décret, le directeur de l'agence régionale de l'hospitalisation saisit la
-chambre régionale des comptes. Dans le délai de deux mois suivant sa saisine, celle-ci évalue la situation financière de
-l'établissement et propose, le cas échéant, des mesures de redressement. Le directeur de l'agence régionale de
-l'hospitalisation peut alors mettre en demeure l'établissement de prendre les mesures de redressement appropriées".
+A défaut d'adoption par le conseil d'administration d'un plan de redressement adapté à la situation ou en cas de refus de
+l'établissement de signer l'avenant susmentionné, le directeur de l'agence régionale de l'hospitalisation prend les mesures
+appropriées en application de l'article L. 6145-1 et des II et III de l'article L. 6145-4. 
+
+II.-Si la dégradation financière répond à des critères définis par décret, le directeur de l'agence régionale de
+l'hospitalisation saisit la chambre régionale des comptes. Dans le délai de deux mois suivant sa saisine, celle-ci évalue la
+situation financière de l'établissement et propose, le cas échéant, des mesures de redressement. Le directeur de l'agence
+régionale de l'hospitalisation met en demeure l'établissement de prendre les mesures de redressement appropriées".
 
 **Liens relatifs à cet article**
 
@@ -5572,16 +5577,12 @@ l'hospitalisation peut alors mettre en demeure l'établissement de prendre les m
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1112 du 1 septembre 2005 - art. 2 () JORF 6 septembre 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
 
 	**Anciens textes**:
 
 	  - Code des juridictions financières - art. L232-29 (T)
 	  - Code des juridictions financières - art. L232-7 (M)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L6143-3 (Ab)
 
 
 ###### Article L232-6
@@ -14978,8 +14979,13 @@ ancien, chaque président de section par le conseiller maître le plus ancien de
 
 ###### Article R112-24
 
-Le comité du rapport public et des programmes a pour membres de droit le premier président, le procureur général et les
-présidents de chambre ; le premier président désigne parmi les conseillers maîtres le rapporteur général de ce comité.
+Le comité du rapport public et des programmes est composé du premier président, du procureur général, des magistrats exerçant
+les fonctions de président de chambre et du rapporteur général de ce comité.
+
+Le premier président désigne le rapporteur général parmi les magistrats détenant le grade de président de chambre. Il met fin
+à ses fonctions.
+
+Au terme de ses fonctions, le rapporteur général exerce les fonctions de président de chambre ou de conseiller maître.
 
 **Liens relatifs à cet article**
 
@@ -14992,9 +14998,9 @@ présidents de chambre ; le premier président désigne parmi les conseillers ma
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2005-1793 du 30 décembre 2005 - art. 1 () JORF 1er janvier 2006
 
 
 ##### Section 6 : Assistants de la Cour des comptes

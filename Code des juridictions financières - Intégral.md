@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-03-01
 
 # Partie législative
 
@@ -21492,23 +21492,23 @@ Cour des comptes. La durée totale de ces périodes ne peut être supérieure à
 ###### Article R221-11
 
 Pour tenir compte de leur scolarité à l'Ecole nationale d'administration quelle qu'en soit la durée, les conseillers recrutés
-par la voie de cette école sont nommés directement au 3e échelon de leur grade.
+par la voie de cette école sont nommés directement au 3e échelon de leur grade. 
 
 Toutefois, si l'indice qu'ils détiennent dans leur corps ou emploi d'origine est supérieur à celui correspondant au 3e
 échelon du grade de conseillers, les conseillers recrutés par la voie du concours interne de cette école sont placés à
 l'échelon du grade de conseiller comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils
-bénéficiaient dans leur corps d'origine ou dans leur emploi pour les agents non titulaires.
+bénéficiaient dans leur corps d'origine ou dans leur emploi pour les agents non titulaires. 
 
 Dans la limite de l'ancienneté exigée à l'article R. 224-2 pour une promotion à l'échelon supérieur, les conseillers recrutés
 par la voie du concours interne de l'ENA conservent l'ancienneté d'échelon acquise dans leur précédent grade ou classe,
 lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement
-d'échelon dans leur ancienne situation.
+d'échelon dans leur ancienne situation. 
 
 Les agents nommés alors qu'ils avaient atteint l'échelon le plus élevé de leur précédent grade ou classe conservent leur
 ancienneté d'échelon dans les mêmes conditions et limites, lorsque l'augmentation de traitement consécutive à leur nomination
-est inférieure à celle résultant d'un avancement à ce dernier échelon.
+est inférieure à celle résultant d'un avancement à ce dernier échelon. 
 
-Ceux recrutés par la voie du troisième concours sont placés au 6e échelon du grade de conseiller.
+Ceux recrutés par la voie du troisième concours sont placés au 7e échelon du grade de conseiller.
 
 **Liens relatifs à cet article**
 
@@ -21522,11 +21522,11 @@ Ceux recrutés par la voie du troisième concours sont placés au 6e échelon du
 
 	**Modifié par**:
 
-	  - Décret n°2002-1153 du 10 septembre 2002 - art. 6 ()
+	  - Décret n°2006-232 du 27 février 2006 - art. 1 () JORF 28 février 2006 en vigueur le 1er mars 2006
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. R224-2 (M)
+	  - Code des juridictions financières - art. R224-2 (V)
 
 
 ###### Article R221-12
@@ -21991,7 +21991,7 @@ Les grades du corps des magistrats des chambres régionales des comptes comporte
 
 1° Président de section de chambre régionale des comptes : quatre échelons ;
 
-2° Premier conseiller de chambre régionale des comptes : six échelons ;
+2° Premier conseiller de chambre régionale des comptes : sept échelons ;
 
 3° Conseiller de chambre régionale des comptes : sept échelons.
 
@@ -22007,19 +22007,20 @@ Les grades du corps des magistrats des chambres régionales des comptes comporte
 
 	**Modifié par**:
 
-	  - Décret n°2002-1153 du 10 septembre 2002 - art. 7 ()
+	  - Décret n°2006-232 du 27 février 2006 - art. 2 () JORF 28 février 2006 en vigueur le 1er mars 2006
 
 
 ###### Article R224-2
 
 Le temps à passer dans chacun des échelons des différents grades pour accéder à l'échelon supérieur est fixé comme suit :
 
-1° Un an pour les quatre premiers échelons du grade de conseiller ;
+1° Un an pour les quatre premiers échelons du grade de conseiller et pour les deux premiers échelons du grade de premier
+conseiller ;
 
-2° Deux ans pour les 5e et 6e échelons du grade de conseiller, pour les trois premiers échelons du grade de premier
-conseiller et pour le premier échelon du grade de président de section ;
+2° Deux ans pour les 5e et 6e échelons du grade de conseiller, pour les 3e et 4e échelons du grade de premier conseiller et
+pour le premier échelon du grade de président de section ;
 
-3° Trois ans pour les 4e et 5e échelons du grade de premier conseiller et pour les 2e et 3e échelons du grade de président de
+3° Trois ans pour les 5e et 6e échelons du grade de premier conseiller et pour les 2e et 3e échelons du grade de président de
 section.
 
 **Liens relatifs à cet article**
@@ -22034,7 +22035,7 @@ section.
 
 	**Modifié par**:
 
-	  - Décret n°2002-1153 du 10 septembre 2002 - art. 8 ()
+	  - Décret n°2006-232 du 27 février 2006 - art. 3 () JORF 28 février 2006 en vigueur le 1er mars 2006
 
 	**Cité par**:
 
@@ -22088,9 +22089,9 @@ Peuvent être inscrits au tableau d'avancement :
 
 1° Pour l'accès au grade de président de section, les premiers conseillers ayant atteint au moins le 3e échelon ;
 
-2° Pour l'accès au grade de premier conseiller, les conseillers ayant atteint le 7e échelon.
+2° Pour l'accès au grade de premier conseiller, les conseillers ayant atteint le 6e échelon.
 
-Les intéressés doivent, en outre, justifier de quatre années de services effectifs dans le corps.
+Les intéressés doivent, en outre, justifier de trois années de services effectifs dans le corps.
 
 Il est satisfait à l'obligation de mobilité posée par l'article L. 221-2-1 :
 
@@ -22122,7 +22123,7 @@ des corps recrutés par la voie de l'Ecole nationale d'administration.
 
 	**Modifié par**:
 
-	  - Décret n°2004-708 du 16 juillet 2004 - art. 14 (V) JORF 17 juillet 2004
+	  - Décret n°2006-232 du 27 février 2006 - art. 4 () JORF 28 février 2006 en vigueur le 1er mars 2006
 
 	**Cité par**:
 
@@ -22131,8 +22132,9 @@ des corps recrutés par la voie de l'Ecole nationale d'administration.
 
 ###### Article R224-6
 
-Les conseillers promus premiers conseillers sont classés au 1er échelon de leur nouveau grade et conservent, dans la limite
-de deux ans, l'ancienneté acquise dans le précédent échelon.
+Les conseillers promus premiers conseillers sont classés au 1er échelon de leur nouveau grade. Ceux qui sont promus alors
+qu'ils étaient classés au 7e échelon de leur ancien grade conservent, dans la limite d'un an, l'ancienneté acquise dans cet
+échelon.
 
 Les premiers conseillers promus présidents de section sont classés à l'échelon de leur nouveau grade comportant un indice de
 rémunération égal à celui dont ils bénéficiaient antérieurement. Dans la limite de l'ancienneté nécessaire pour une promotion
@@ -22152,7 +22154,7 @@ du grade de président de section, sans ancienneté.
 
 	**Modifié par**:
 
-	  - Décret n°2002-1153 du 10 septembre 2002 - art. 11 ()
+	  - Décret n°2006-232 du 27 février 2006 - art. 5 () JORF 28 février 2006 en vigueur le 1er mars 2006
 
 
 ###### Article R224-7

@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2006-03-07
+Version Consolidée au 2006-03-18
 
 # Partie législative
 
@@ -31041,6 +31041,208 @@ Ce rapport est adressé au Premier ministre, aux membres du Gouvernement et du P
 
 
 ### TITRE V : Le conseil des prélèvements obligatoires
+
+###### Article D350-6
+
+Les crédits affectés au fonctionnement du Conseil des prélèvements obligatoires sont destinés à couvrir la rémunération des
+secrétaires généraux adjoints et des agents administratifs, les indemnités versées aux membres du Conseil des prélèvements
+obligatoires, au président ou son représentant, au secrétaire général, aux secrétaires généraux adjoints, aux rapporteurs
+généraux et aux rapporteurs et les frais de fonctionnement et de déplacements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Créé par**:
+
+	  - Décret n°2006-311 du 16 mars 2006 - art. 1 () JORF 18 mars 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 180
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D330-6 (V)
+
+
+###### Article D350-7
+
+Les indemnités allouées au président, au secrétaire général et aux secrétaires généraux adjoints du Conseil des prélèvements
+obligatoires ont un caractère forfaitaire et mensuel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Créé par**:
+
+	  - Décret n°2006-311 du 16 mars 2006 - art. 1 () JORF 18 mars 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 180
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D330-7 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. D350-11 (T)
+
+
+###### Article D350-8
+
+Les indemnités pouvant être allouées aux autres membres du Conseil des prélèvements obligatoires et au président de chambre
+mentionné à l'article L. 351-4 du code des juridictions financières ont un caractère forfaitaire.
+
+Ces indemnités sont allouées pour chaque présence effective aux séances du conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Créé par**:
+
+	  - Décret n°2006-311 du 16 mars 2006 - art. 1 () JORF 18 mars 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 180
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D330-8 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. D350-11 (T)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L351-4
+
+
+###### Article D350-9
+
+Le Conseil des prélèvements obligatoires rembourse aux employeurs de ses membres ayant la qualité de travailleur salarié les
+salaires maintenus pour leur permettre d'exercer leurs fonctions pendant le temps de travail ainsi que les avantages et les
+charges sociales y afférents.
+
+Les membres ayant la qualité de travailleur indépendant peuvent percevoir des indemnités pour perte de leurs gains.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Créé par**:
+
+	  - Décret n°2006-311 du 16 mars 2006 - art. 1 () JORF 18 mars 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 180
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D330-9 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. D350-11 (T)
+
+
+###### Article D350-10
+
+Les rapporteurs généraux et les rapporteurs sont rémunérés sous forme d'indemnités forfaitaires mensuelles dont le montant
+est fixé par le président du Conseil des prélèvements obligatoires en fonction de la complexité et du temps nécessaire à la
+préparation de leur rapport.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2006-311 du 16 mars 2006 - art. 1 () JORF 18 mars 2006
+
+	**Cité par**:
+
+	  - Arrêté du 16 mars 2006 - art. 4 (V)
+	  - Code des juridictions financières - art. D350-11 (T)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 180
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D330-10 (V)
+
+
+###### Article D350-11
+
+Un arrêté conjoint du ministre de l'économie, des finances et de l'industrie et du ministre de la fonction publique détermine
+les montants moyens et maximums des indemnités prévues à l'article D. 350-10, ainsi que les montants des indemnités prévues
+aux articles R. 350-7 (1), D. 350-8 et D. 350-9.
+
+**Nota:**
+
+(1) Lire D. 350-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2006-311 du 16 mars 2006 - art. 1 () JORF 18 mars 2006
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. D350-10 (V)
+	  - Code des juridictions financières - art. D350-8 (V)
+	  - Code des juridictions financières - art. D350-9 (V)
+	  - Code des juridictions financières D350-10, R350-7, D350-8, D350-9
+
+
+###### Article D350-12
+
+Les frais occasionnés par les déplacements et les séjours des membres du Conseil des prélèvements obligatoires et des autres
+personnes qui lui apportent leur concours sont remboursés dans les conditions prévues par la réglementation applicable aux
+fonctionnaires de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Créé par**:
+
+	  - Décret n°2006-311 du 16 mars 2006 - art. 1 () JORF 18 mars 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 180
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D330-12 (V)
+
 
 ###### Article R350-1
 

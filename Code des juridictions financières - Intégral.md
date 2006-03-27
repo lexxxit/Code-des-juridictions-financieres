@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2006-03-18
+Version Consolidée au 2006-03-28
 
 # Partie législative
 
@@ -14921,13 +14921,46 @@ de chambre. L'arrêté désigne le président de la formation parmi les préside
 	  - Code des juridictions financières - art. R112-15 (T)
 
 
+###### Article R112-21-1
+
+La formation commune aux juridictions prévue à l'article L. 111-9-1 est constituée par arrêté du premier président de la Cour
+des comptes, à son initiative ou sur proposition du procureur général, d'un président d'une chambre de la cour ou d'un
+président de chambre régionale des comptes.
+
+Cet arrêté, pris après avis du procureur général, des présidents des chambres de la Cour des comptes et des présidents des
+chambres régionales des comptes intéressées, en désigne le président, les membres délibérants, les rapporteurs et le
+greffier.
+
+La procédure applicable à la formation commune aux juridictions est celle qui régit l'exercice des missions non
+juridictionnelles de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2006-364 du 21 mars 2006 - art. 1 () JORF 28 mars 2006
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L111-9-1 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R112-11 (M)
+
+
 ###### Article R112-22
 
 Une chambre ne peut délibérer si le nombre de ses membres présents est inférieur à six, une section si ce nombre est
 inférieur à trois. Au cas où ce dernier quorum ne serait pas atteint, l'effectif de la section peut être complété en faisant
 appel à un autre conseiller maître de la chambre désigné par le président de celle-ci.
 
-Une formation interchambres ne peut délibérer que si au moins les trois cinquièmes de ses membres sont présents.
+Une formation interchambres ou une formation commune aux juridictions ne peut délibérer que si au moins les trois cinquièmes
+de ses membres sont présents.
 
 **Liens relatifs à cet article**
 
@@ -14939,9 +14972,17 @@ Une formation interchambres ne peut délibérer que si au moins les trois cinqui
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2006-364 du 21 mars 2006 - art. 2 () JORF 28 mars 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 23
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R112-50 (V)
 
 
 ###### Article R112-23

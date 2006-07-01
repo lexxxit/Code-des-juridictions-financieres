@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2006-03-28
+Version Consolidée au 2006-07-02
 
 # Partie législative
 
@@ -477,8 +477,6 @@ conseiller maître.
 La Cour des comptes est composée du premier président, de présidents de chambre, de conseillers maîtres, de conseillers
 référendaires et d'auditeurs.
 
-Les membres de la Cour des comptes ont la qualité de magistrats. Ils sont et demeurent inamovibles.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -489,9 +487,9 @@ Les membres de la Cour des comptes ont la qualité de magistrats. Ils sont et de
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 17 () JORF 2 juillet 2006
 
 
 ###### Article L112-2
@@ -525,48 +523,13 @@ Il veille au bon exercice du ministère public près les chambres régionales et
 	  - Code des juridictions financières - art. R112-12-1 (Ab)
 
 
-##### Section 2 : Installation et serment des magistrats.
-
-###### Article L112-3
-
-Tout magistrat de la Cour des comptes, avant d'entrer en fonctions, prête serment publiquement devant la Cour réunie en
-audience solennelle, sur réquisition du procureur général, en ces termes :
-
-Je jure de bien et fidèlement remplir mes fonctions, de garder religieusement le secret des délibérations et de me conduire
-en tout comme un digne et loyal magistrat.
-
-Il ne peut en aucun cas être relevé de ce serment.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret du 1849-10-23, art 1er à 4
-	  - Décret du 1870-09-21, art 1er
-	  - Loi du 1849-08-11, art 3
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2006-769 du 1 juillet 2006 - art. 17 () JORF 2 juillet 2006
-
+##### Section 2 : Installation des magistrats
 
 ###### Article L112-4
 
 Les magistrats de la Cour des comptes sont installés dans leurs fonctions en audience solennelle.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L112-6 (VD)
 
 	**Anciens textes**:
 
@@ -576,19 +539,31 @@ Les magistrats de la Cour des comptes sont installés dans leurs fonctions en au
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 3 () JORF 2 juillet 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L112-3 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L112-6 (VD)
 
 
 ##### Section 3 : Conseillers maîtres en service extraordinaire
 
 ###### Article L112-5
 
-Des fonctionnaires appartenant au corps de contrôle des ministères exerçant la tutelle des entreprises publiques ou des
-personnes ayant exercé des responsabilités dans les fonctions de tutelle ou de gestion des entreprises publiques peuvent être
-nommés conseillers maîtres en service extraordinaire en vue d'assister la Cour des comptes dans l'exercice des compétences
-mentionnées aux articles L. 111-2 à L. 111-8 Ils ne peuvent exercer aucune activité d'ordre juridictionnel.
+Des fonctionnaires appartenant au corps de contrôle des ministères ou des personnes ayant exercé des fonctions d'encadrement
+supérieur au sein de l'Etat ou d'organismes soumis au contrôle des juridictions financières peuvent être nommés conseillers
+maîtres en service extraordinaire en vue d'assister la Cour des comptes dans l'exercice des compétences mentionnées aux
+articles L. 111-2 à L. 111-8. Ils ne peuvent exercer aucune activité d'ordre juridictionnel.
 
 **Liens relatifs à cet article**
 
@@ -603,7 +578,12 @@ mentionnées aux articles L. 111-2 à L. 111-8 Ils ne peuvent exercer aucune act
 
 	**Modifié par**:
 
-	  - Loi n°96-314 du 12 avril 1996 - art. 72 ()
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 1 () JORF 2 juillet 2006
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L111-2 (V)
+	  - Code des juridictions financières L111-2 à L111-8
 
 	**Cité par**:
 
@@ -616,15 +596,12 @@ mentionnées aux articles L. 111-2 à L. 111-8 Ils ne peuvent exercer aucune act
 	  - Code des juridictions financières - art. R127-4 (V)
 	  - Code des juridictions financières - art. R141-8 (V)
 
-	**Cite**:
-
-	  - Code des juridictions financières L111-2 à L111-8
-
 
 ###### Article L112-6
 
-Les conseillers maîtres en service extraordinaire, dont le nombre ne pourra être supérieur à dix, sont nommés par décret pris
-en conseil des ministres pour une période de quatre ans non renouvelable.
+Les conseillers maîtres en service extraordinaire, dont le nombre ne peut être supérieur à douze, sont nommés par décret pris
+en conseil des ministres, après avis du premier président de la Cour des comptes, pour une période de cinq ans non
+renouvelable.
 
 **Liens relatifs à cet article**
 
@@ -636,9 +613,9 @@ en conseil des ministres pour une période de quatre ans non renouvelable.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 1 () JORF 2 juillet 2006
 
 	**Cité par**:
 
@@ -688,48 +665,67 @@ niveau de recrutement.
 	  - Code des juridictions financières - art. R212-34 (V)
 
 
-##### Section 5 : Commission consultative de la Cour des comptes
+##### Section 5 : Conseil supérieur de la Cour des comptes
 
 ###### Article L112-8
 
-Une commission consultative est placée auprès du premier président de la Cour des comptes qui la préside.
+Il est institué un conseil supérieur de la Cour des comptes.
 
-La commission consultative comprend, d'une part, le premier président, le procureur général et les présidents de chambres,
-d'autre part, un nombre égal de membres élus représentant les magistrats de la Cour des comptes, les conseillers maîtres en
-service extraordinaire et les rapporteurs extérieurs. Un suppléant est élu pour chaque représentant titulaire. Leur mandat
-est de deux ans ; il est renouvelable une fois. Les modalités de cette élection sont fixées par décret.
+Ce conseil comprend :
 
-Elle est consultée par le premier président sur toutes les questions relatives à la compétence, à l'organisation et au
+1° Le premier président de la Cour des comptes, qui le préside ;
+
+2° Le procureur général près la Cour des comptes ;
+
+3° Trois personnalités qualifiées dans les domaines soumis au contrôle des juridictions financières qui n'exercent pas de
+mandat électif et sont désignées pour une période de trois ans non renouvelable respectivement par décret du Président de la
+République, par le Président de l'Assemblée nationale et par le Président du Sénat ;
+
+4° Quatre magistrats les plus anciens dans leur grade de président de chambre, à l'exclusion des présidents de chambre
+maintenus en activité en application de l'article 1er de la loi n° 86-1304 du 23 décembre 1986 relative à la limite d'âge et
+aux modalités de recrutement de certains fonctionnaires civils de l'Etat ;
+
+5° Neuf membres élus représentant les magistrats de la Cour des comptes, les conseillers maîtres en service extraordinaire et
+les rapporteurs extérieurs. Pour chacun d'eux, il est procédé à l'élection d'un suppléant. Leur mandat est de trois ans, il
+est renouvelable une fois. Les modalités de cette élection sont fixées par décret.
+
+Le conseil est consulté par le premier président sur toutes les questions relatives à la compétence, à l'organisation et au
 fonctionnement de la Cour des comptes, sur les modifications des dispositions statutaires applicables aux magistrats, ainsi
 que sur toute question déontologique, d'ordre général ou individuel, relative à l'exercice des fonctions des magistrats, des
 conseillers maîtres en service extraordinaire et des rapporteurs extérieurs.
 
-Elle donne également un avis sur les mesures individuelles concernant la situation, la discipline et l'avancement des
-magistrats de la Cour des comptes, ainsi que dans les cas prévus à l'article L. 221-2. Dans ces cas, siègent en nombre égal
-des membres de droit et des membres élus de grade supérieur ou égal à celui du magistrat intéressé.
+Le conseil donne un avis sur les mesures individuelles concernant la situation et l'avancement des magistrats de la Cour des
+comptes, à l'exception des propositions de nomination des présidents de chambre. De même, il donne un avis sur les
+propositions de nomination aux emplois de président de chambre régionale des comptes et de vice-président de la chambre
+régionale des comptes d'Ile-de-France, ainsi que sur les propositions de nomination des premiers conseillers et des
+présidents de section de chambre régionale des comptes au grade de conseiller référendaire ou de conseiller maître.
 
-Lorsque la situation de l'un des membres élus de la commission consultative est évoquée à l'occasion de l'examen d'une
-question figurant à l'ordre du jour, le magistrat ou le rapporteur extérieur en cause ne siège pas à la réunion. Il est
-remplacé par son suppléant.
+Sauf en matière disciplinaire, tous les membres du conseil siègent, quel que soit le niveau hiérarchique des magistrats dont
+le cas est examiné. Toutefois, les représentants des conseillers maîtres en service extraordinaire et des rapporteurs
+extérieurs ne siègent pas lorsque le conseil se réunit pour donner l'avis prévu à l'alinéa précédent.
+
+Lorsque la situation de l'un des membres élus du conseil supérieur est évoquée à l'occasion de l'examen d'une question
+figurant à l'ordre du jour, le magistrat, le conseiller maître en service extraordinaire ou le rapporteur extérieur en cause
+ne siège pas à la réunion. Il est remplacé par son suppléant.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-1304 du 23 décembre 1986 - art. 1 (V)
 
 	**Codifié par**:
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 3 ()
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 2 () JORF 2 juillet 2006
 
 	**Cité par**:
 
 	  - Loi n°2006-769 du 1 juillet 2006 - art. 19 (V)
 	  - Code des juridictions financières - art. R112-28 (T)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L221-2 (M)
 
 
 ##### Section 6 : Magistrats honoraires
@@ -753,6 +749,85 @@ maître étant ou ayant été en service extraordinaire, après avis du premier 
 
 
 ### TITRE II : Dispositions statutaires
+
+#### CHAPITRE PRELIMINAIRE : Dispositions générales
+
+###### Article L120-1
+
+Les membres de la Cour des comptes ont la qualité de magistrats. Ils sont et demeurent inamovibles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 3 () JORF 2 juillet 2006
+
+
+###### Article L120-2
+
+Le statut des membres de la Cour des comptes est régi par le présent titre et, pour autant qu'elles n'y sont pas contraires,
+par les dispositions statutaires de la fonction publique de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 3 () JORF 2 juillet 2006
+
+
+###### Article L120-3
+
+Tout magistrat de la Cour des comptes, lors de sa nomination dans le corps, prête serment publiquement devant la cour réunie
+en audience solennelle, sur réquisition du procureur général, de bien et fidèlement remplir ses fonctions, de garder le
+secret des délibérations et de se comporter en tout comme un digne et loyal magistrat.
+
+Il ne peut en aucun cas être relevé de ce serment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 3 () JORF 2 juillet 2006
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L112-7-1 (VT)
+	  - Code des juridictions financières - art. L123-1 (VD)
+	  - Code des juridictions financières - art. L124-1 (VD)
+	  - Code des juridictions financières - art. L141-10 (VD)
+	  - Code des juridictions financières - art. L141-3 (V)
+
+
+###### Article L120-4
+
+Aucun membre de la Cour des comptes ne peut se prévaloir, à l'appui d'une activité politique, de son appartenance à la Cour
+des comptes.
+
+Tout membre de la Cour des comptes, en service à la cour ou chargé de fonctions extérieures, doit s'abstenir de toute
+manifestation de nature politique incompatible avec la réserve que lui imposent ses fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 3 () JORF 2 juillet 2006
+
 
 #### CHAPITRE Ier : Nominations
 
@@ -836,25 +911,48 @@ trois ans d'ancienneté.
 	  - Loi du 1936-08-13, art 24
 
 
+###### Article L122-1-1
+
+Les promotions des magistrats de la Cour des comptes aux grades d'auditeur de 1re classe, de conseiller référendaire et de
+conseiller maître sont prononcées sur proposition du premier président de la Cour des comptes, après avis du conseil
+supérieur de la Cour des comptes.
+
+Pour les nominations au grade de président de chambre, une liste comportant plusieurs noms est présentée par le premier
+président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 4 () JORF 2 juillet 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L122-2 (VD)
+
+
 ###### Article L122-2
 
-Les deux tiers des postes vacants dans la maîtrise sont attribués à des conseillers référendaires de 1re classe.
+Les deux tiers des vacances dans la maîtrise sont attribués à des conseillers référendaires.
 
-La moitié des autres postes vacants dans la maîtrise est obligatoirement réservée aux candidats appartenant à
-l'administration supérieure des finances.
-
-Toutefois, une nomination sur dix-huit est effectuée au profit des magistrats de chambre régionale des comptes ayant le grade
-de président de section, âgés de plus de cinquante ans et justifiant au moins de quinze ans de services effectifs dans les
-chambres régionales des comptes. Cette nomination est prononcée sur proposition du premier président de la Cour des comptes,
-après avis de la commission consultative de la Cour des comptes et du Conseil supérieur des chambres régionales des comptes.
-Elle est imputée alternativement sur les postes vacants attribués aux conseillers référendaires de 1re classe et sur ceux
-réservés aux candidats appartenant à l'administration supérieure des finances.
+Une vacance sur dix-huit est pourvue par un magistrat de chambre régionale des comptes ayant le grade de président de
+section, âgé de plus de cinquante ans et justifiant au moins de quinze ans de services publics effectifs. Cet emploi est
+attribué sur proposition du premier président de la Cour des comptes, après avis du conseil supérieur de la Cour des comptes
+et du conseil supérieur des chambres régionales des comptes.
 
 Pour les magistrats de la Cour des comptes en service détaché, l'avancement au grade de conseiller maître s'effectue hors
 tour.
 
-En dehors des conseillers référendaires de 1re classe, nul ne peut être nommé conseiller maître s'il n'est âgé de quarante
-ans accomplis et ne justifie d'un minimum de quinze ans de services publics.
+En dehors des conseillers référendaires et des magistrats de chambre régionale des comptes ayant le grade de président de
+section, nul ne peut être nommé conseiller maître s'il n'est âgé de quarante ans accomplis.
 
 **Liens relatifs à cet article**
 
@@ -864,7 +962,7 @@ ans accomplis et ne justifie d'un minimum de quinze ans de services publics.
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 4 ()
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 5 () JORF 2 juillet 2006
 
 	**Cité par**:
 
@@ -880,16 +978,17 @@ ans accomplis et ne justifie d'un minimum de quinze ans de services publics.
 	  - Loi du 1941-05-16, art 3 et 4bis, complété par Loi 84-834 1984-09-13, art9
 
 
-###### Article L122-3
+###### Article L122-2-1
 
-Les places vacantes dans la 1re classe des conseillers référendaires sont attribuées aux conseillers référendaires de 2e
-classe dans la proportion de quatre cinquièmes au choix et un cinquième à l'ancienneté.
+La promotion d'un conseiller référendaire au grade de conseiller maître est subordonnée à l'accomplissement par l'intéressé
+soit de douze années au moins de service dans le grade de conseiller référendaire, soit de dix-sept années au moins de
+service comme magistrat de la Cour des comptes.
+
+Pour l'application de ces dispositions, les conseillers référendaires nommés directement dans leur grade sont réputés avoir
+la même durée de service dans l'auditorat que le conseiller référendaire ancien auditeur de 2e classe qui les précède
+immédiatement au tableau.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret-Loi du 1926-11-21, art 5 dernier alinéa
 
 	**Codifié par**:
 
@@ -897,27 +996,25 @@ classe dans la proportion de quatre cinquièmes au choix et un cinquième à l'a
 
 	**Créé par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2006-769 du 1 juillet 2006 - art. 17 () JORF 2 juillet 2006
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 6 () JORF 2 juillet 2006
 
 	**Cité par**:
 
-	  - Code des juridictions financières - art. L122-6 (V)
-	  - Code des juridictions financières - art. R*122-6 (V)
-	  - Code des juridictions financières - art. R122-8 (V)
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 19 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 
 ###### Article L122-4
 
 Les magistrats des chambres régionales des comptes choisis pour occuper un emploi de président de chambre régionale ou
-territoriale des comptes et de vice-président de la chambre régionale des comptes sont nommés conseillers référendaires de
-1re classe à la Cour des comptes.
+territoriale des comptes et de vice-président de la chambre régionale des comptes sont nommés conseillers référendaires à la
+Cour des comptes. Ils sont réputés avoir une ancienneté de six ans dans le grade de conseiller référendaire.
 
 Ces nominations sont prononcées hors tour. Dans le cas où elles interviennent en surnombre, ces surnombres sont résorbés sur
-les premières vacances venant à s'ouvrir dans le référendariat de 1re classe.
+les premières vacances venant à s'ouvrir dans le référendariat.
 
 **Liens relatifs à cet article**
 
@@ -938,35 +1035,34 @@ les premières vacances venant à s'ouvrir dans le référendariat de 1re classe
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 5 ()
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 7 () JORF 2 juillet 2006
 
 
 ###### Article L122-5
 
-Les trois quarts des postes vacants parmi les conseillers référendaires de 2e classe sont attribués, d'une part, à des
-auditeurs de 1re classe, d'autre part, à des magistrats de chambre régionale des comptes dans les conditions fixées ci-après.
+Les trois quarts des postes vacants parmi les conseillers référendaires sont attribués, d'une part, à des auditeurs de 1re
+classe, d'autre part, à des magistrats de chambre régionale des comptes dans les conditions fixées ci-après.
 
-Chaque année, est nommé conseiller référendaire de 2e classe à la Cour des comptes un magistrat de chambre régionale des
-comptes ayant au moins le grade de premier conseiller, âgé de trente-cinq ans au moins et justifiant, à la date de
-nomination, de dix ans de services publics effectifs. Cette nomination est prononcée sur proposition du premier président de
-la Cour des comptes, après avis de la commission consultative de la Cour des comptes et du Conseil supérieur des chambres
-régionales des comptes.
+Chaque année, est nommé conseiller référendaire à la Cour des comptes un magistrat de chambre régionale des comptes ayant au
+moins le grade de premier conseiller, âgé de trente-cinq ans au moins et justifiant, à la date de nomination, de dix ans de
+services publics effectifs. Cette nomination est prononcée sur proposition du premier président de la Cour des comptes, après
+avis du conseil supérieur de la Cour des comptes et du Conseil supérieur des chambres régionales des comptes.
 
-Pour les magistrats de la Cour des comptes en service détaché, l'avancement au grade de conseiller référendaire de 2e classe
-s'effectue hors tour.
+Pour les magistrats de la Cour des comptes en service détaché, l'avancement au grade de conseiller référendaire s'effectue
+hors tour.
 
 En dehors des auditeurs de 1re classe et des magistrats de chambre régionale des comptes visés au deuxième alinéa du présent
-article nul ne peut être nommé conseiller référendaire de 2e classe s'il n'est âgé de trente-cinq ans au moins à la date de
-nomination et s'il ne justifie de dix ans de services publics ou de services dans un organisme relevant du contrôle de la
-Cour des comptes.
+article nul ne peut être nommé conseiller référendaire s'il n'est âgé de trente-cinq ans au moins à la date de nomination et
+s'il ne justifie de dix ans de services publics ou de services dans un organisme relevant du contrôle de la Cour des comptes.
 
-Les nominations prononcées en application de l'alinéa précédent ne peuvent intervenir qu'après qu'une commission siégeant
-auprès du premier président de la Cour des comptes a émis un avis sur l'aptitude des candidats à exercer les fonctions de
-conseiller référendaire. Les conditions de la publicité donnée aux vacances de poste ainsi que la composition et les
-modalités de fonctionnement de la commission sont fixées par décret en Conseil d'Etat.
+Les vacances parmi les conseillers référendaires autres que celles mentionnées au premier alinéa sont pourvues au moins à
+raison d'une sur quatre par des rapporteurs extérieurs à temps plein exerçant leurs fonctions à la Cour des comptes depuis au
+moins trois ans ou ayant exercé ces fonctions pendant au moins trois ans.
 
-Il ne peut être procédé à ces nominations qu'après avis du premier président de la Cour des comptes délibérant avec les
-présidents de chambre et du procureur général.
+Les nominations prononcées en application des deux alinéas précédents ne peuvent intervenir qu'après qu'une commission
+siégeant auprès du premier président de la Cour des comptes a émis un avis sur l'aptitude des candidats à exercer les
+fonctions de conseiller référendaire. Les conditions de la publicité donnée aux vacances de poste ainsi que la composition et
+les modalités de fonctionnement de la commission sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -976,7 +1072,7 @@ présidents de chambre et du procureur général.
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 6 ()
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 8 () JORF 2 juillet 2006
 
 	**Cité par**:
 
@@ -992,6 +1088,193 @@ présidents de chambre et du procureur général.
 	**Anciens textes**:
 
 	  - Loi du 1941-05-16, art 4 et 4bis, modifié par Loi 78-743 1978-07-13, complété par Loi 84-834 1984-09-13, art 9, et par Loi 94-530 1994-06-28, art 2-II
+
+
+###### Article L122-6
+
+Les nominations au tour extérieur dans les grades de conseiller maître et de conseiller référendaire ne peuvent être
+prononcées qu'après avis du premier président. 
+
+Cet avis tient compte des fonctions antérieurement exercées par l'intéressé, de son expérience et des besoins du corps,
+exprimés annuellement par le premier président ; le sens de l'avis sur les nominations prononcées est publié au Journal
+officiel en même temps que l'acte de nomination. 
+
+L'avis du premier président est communiqué à l'intéressé sur sa demande. 
+
+Les dispositions du présent article ne s'appliquent pas aux nominations au grade de conseiller référendaire prononcées en
+application de l'article L. 122-4 et du deuxième alinéa de l'article L. 122-5, ainsi qu'aux nominations au grade de
+conseiller maître prononcées en application du deuxième alinéa de l'article L. 122-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 9 () JORF 2 juillet 2006
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L122-2 (V)
+	  - Code des juridictions financières - art. L122-4 (V)
+	  - Code des juridictions financières - art. L122-5 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R*122-1 (V)
+	  - Code des juridictions financières - art. R112-24 (T)
+	  - Code des juridictions financières - art. R112-3 (V)
+
+
+#### CHAPITRE III : Discipline
+
+###### Article L123-1
+
+Toute faute commise par un magistrat dans l'exercice de ses fonctions ou tout manquement aux devoirs de l'état de magistrat
+exprimés dans le serment prêté en application de l'article L. 120-3 l'expose à une sanction disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Créé par**:
+
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 10 () JORF 2 juillet 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 6
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L120-3
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L124-1 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R112-14-1 (V)
+	  - Code des juridictions financières - art. R124-1 (V)
+
+
+###### Article L123-2
+
+Les sanctions disciplinaires applicables aux magistrats de la Cour des comptes sont :
+
+1° L'avertissement ;
+
+2° Le blâme ;
+
+3° Le retrait de certains emplois ou fonctions ;
+
+4° L'exclusion temporaire de fonctions dans la limite de six mois ;
+
+5° La mise à la retraite d'office ;
+
+6° La révocation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Créé par**:
+
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 10 () JORF 2 juillet 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 6
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L124-2 (VD)
+
+
+###### Article L123-3
+
+Les sanctions disciplinaires sont prononcées par l'autorité investie du pouvoir de nomination, sur proposition du conseil
+supérieur de la Cour des comptes.
+
+Toutefois, l'avertissement et le blâme peuvent être prononcés par le premier président de la Cour des comptes, après l'avis
+du conseil supérieur de la Cour des comptes s'il est saisi soit par lui-même, soit par le magistrat en cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 10 () JORF 2 juillet 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 6
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L124-3 (VD)
+
+
+###### Article L123-5
+
+Le conseil supérieur de la Cour des comptes est saisi des faits motivant la poursuite disciplinaire par le président de la
+chambre où est affecté le magistrat en cause. Dans ce cas, ce président de chambre ne siège pas au conseil supérieur. Pour
+les présidents de chambre et pour les magistrats qui ne sont pas affectés dans une chambre, le conseil supérieur est saisi
+par le premier président de la Cour des comptes, qui ne siège pas, le conseil étant dans ce cas présidé par le président de
+chambre en activité le plus ancien dans son grade.
+
+Lorsque le magistrat en cause est délégué dans les fonctions du ministère public, le conseil supérieur, saisi par le premier
+président, est présidé par le procureur général près la Cour des comptes.
+
+Ne siègent pas au conseil supérieur les représentants des rapporteurs extérieurs, des conseillers maîtres en service
+extraordinaire ainsi que le procureur général près la Cour des comptes, sauf, s'agissant du procureur général, dans le cas
+mentionné à l'alinéa précédent.
+
+Seuls siègent au conseil supérieur de la Cour des comptes les magistrats d'un grade égal ou supérieur à celui du magistrat
+faisant l'objet de la procédure disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 10 () JORF 2 juillet 2006
+
+
+###### Article L123-14
+
+Lorsqu'un magistrat de la Cour des comptes, y compris lorsqu'il a été nommé sur un emploi de président de chambre régionale
+des comptes ou de vice-président de la chambre régionale des comptes d'Ile-de-France, commet une faute grave qui rend
+impossible, eu égard à l'intérêt du service, son maintien en fonctions, et si l'urgence le commande, il peut être
+immédiatement suspendu de ses fonctions par l'autorité investie du pouvoir de nomination. Celle-ci saisit d'office et sans
+délai le conseil supérieur de la Cour des comptes.
+
+Cette suspension est prononcée sur proposition du premier président de la Cour des comptes ou sur proposition du procureur
+général près la Cour des comptes lorsque cette mesure concerne un magistrat délégué dans les fonctions du ministère public.
+La suspension ne peut être rendue publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 10 () JORF 2 juillet 2006
 
 
 ### TITRE III : Compétences et attributions
@@ -3517,11 +3800,15 @@ correspondants du procureur général près la Cour des comptes.
 ###### Article L212-11
 
 Des magistrats des chambres régionales des comptes sont, avec leur accord, délégués dans les fonctions du ministère public
-par décret pris sur le rapport du ministre chargé des finances sur proposition conjointe du premier président de la Cour des
-comptes et du procureur général près la Cour des comptes. Dans ces fonctions, les intéressés ne sont pas inamovibles. Il est
-mis fin à cette délégation dans les mêmes formes.
+par décret pris sur proposition conjointe du premier président de la Cour des comptes et du procureur général près la Cour
+des comptes. Dans ces fonctions, les intéressés ne sont pas inamovibles. Il est mis fin à cette délégation dans les mêmes
+formes.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L212-6 (VD)
 
 	**Anciens textes**:
 
@@ -3531,9 +3818,13 @@ mis fin à cette délégation dans les mêmes formes.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 11 () JORF 2 juillet 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 15
 
 
 ##### Sous-section 2 : Dispositions particulières aux régions d'outre-mer
@@ -3759,36 +4050,36 @@ représentants au Conseil supérieur des chambres régionales des comptes.
 
 ###### Article L212-19
 
-Lors des travaux d'établissement des tableaux d'avancement et des listes d'aptitude, lors de l'examen des propositions de
-nomination à l'emploi de président de chambre régionale des comptes et de vice-président de la chambre régionale des comptes
-d'Ile-de-France, ainsi que des propositions de nomination prévues aux articles L. 122-2 et L. 122-5, seuls siègent au Conseil
-supérieur des chambres régionales des comptes des magistrats d'un grade supérieur ou égal à celui du magistrat intéressé. En
-cas de partage égal des voix, celle du président est prépondérante. Lorsque la situation de l'un des membres élus du conseil
-supérieur est évoquée à l'occasion de l'examen d'une question figurant à l'ordre du jour, le magistrat en cause ne siège pas
-à la réunion.
+Sauf en matière disciplinaire, tous les membres du conseil supérieur des chambres régionales des comptes siègent, quel que
+soit le niveau hiérarchique des magistrats dont le cas est examiné. En cas de partage égal des voix, celle du président est
+prépondérante. Lorsque la situation de l'un des membres élus du conseil supérieur est évoquée à l'occasion de l'examen d'une
+question figurant à l'ordre du jour, le magistrat en cause ne siège pas à la réunion.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 17 ()
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L122-2 (M)
-	  - Code des juridictions financières - art. L122-5 (M)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R242-2 (M)
 
 	**Anciens textes**:
 
 	  - Loi n°82-595 1983-07-10, art 19 al 5
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 13 () JORF 2 juillet 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 16
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L220-15 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R242-2 (M)
 
 
 #### TITRE II : Dispositions statutaires
@@ -3878,8 +4169,8 @@ Cour des comptes. L'emploi de vice-président de la chambre régionale des compt
 référendaire à la Cour des comptes.
 
 Les nominations sont prononcées, à la demande des magistrats intéressés, par décret du Président de la République, sur
-proposition du premier président de la Cour des comptes après avis de la commission consultative de la Cour des comptes et du
-Conseil supérieur des chambres régionales des comptes.
+proposition du premier président de la Cour des comptes après avis du conseil supérieur de la Cour des comptes et du Conseil
+supérieur des chambres régionales des comptes.
 
 Peuvent se porter candidats à ces emplois les magistrats de la Cour des comptes ainsi que les présidents de section de
 chambre régionale des comptes inscrits sur une liste d'aptitude établie à cet effet par le Conseil supérieur des chambres
@@ -3943,7 +4234,7 @@ modalités de recrutement de certains fonctionnaires civils de l'Etat ne sont pa
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 19 ()
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 14 () JORF 2 juillet 2006
 
 	**Anciens textes**:
 
@@ -4011,7 +4302,7 @@ d'administration.
 
 ###### Article L221-4
 
-Pour quatre conseillers de chambre régionale des comptes recrutés en application de l'article L. 221-3, une nomination est
+Pour deux conseillers de chambre régionale des comptes recrutés en application de l'article L. 221-3, une nomination est
 prononcée au bénéfice des fonctionnaires civils ou militaires appartenant à un corps de catégorie A ou assimilé, des
 magistrats de l'ordre judiciaire, des fonctionnaires appartenant à des corps de même niveau de recrutement de la fonction
 publique territoriale ou de la fonction publique hospitalière justifiant, au 31 décembre de l'année considérée, d'une durée
@@ -4026,11 +4317,11 @@ ou des chambres régionales des comptes.
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 21 ()
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 15 () JORF 2 juillet 2006
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L221-3 (M)
+	  - Code des juridictions financières - art. L221-3 (V)
 
 	**Cité par**:
 
@@ -4053,28 +4344,24 @@ ou des chambres régionales des comptes.
 
 ###### Article L221-7
 
-Les nominations prévues a l'articles L. 221-4 sont prononcées après inscription sur une liste d'aptitude établie par ordre de
-mérite sur proposition d'une commission chargée d'examiner les titres des candidats.
+Les nominations prévues à l'article L. 221-4 sont prononcées après inscription sur une liste d'aptitude établie par ordre de
+mérite sur proposition d'une commission chargée d'examiner les titres des candidats. 
 
 Cette commission comprend :
 
-- le premier président de la Cour des comptes ;.
+- le premier président de la Cour des comptes ;
 
 - le procureur général près la Cour des comptes ou son représentant ;
 
-- le président de la mission permanente d'inspection des chambres régionales et territoriales des comptes ;.
+- le président de la mission permanente d'inspection des chambres régionales et territoriales des comptes ;
 
-- le directeur général de l'administration et de la fonction publique ou son représentant ;
-
-- le directeur du personnel et des services généraux du ministère des finances ou son représentant ;
-
-- le directeur général de l'administration du ministère de l'intérieur ou son représentant ;
+- trois membres désignés respectivement par le ministre chargé de la fonction publique, par le ministre chargé des finances
+et par le ministre de l'intérieur ;
 
 - le directeur de l'Ecole nationale d'administration ou son représentant ;
 
-- un magistrat de la Cour des comptes désigné par la commission consultative de la Cour des comptes parmi les membres de la
-commission et trois magistrats de chambres régionales des comptes désignés par le Conseil supérieur des chambres régionales
-des comptes en son sein.
+- un magistrat de la Cour des comptes désigné par le conseil supérieur de la Cour des comptes en son sein et trois magistrats
+de chambres régionales des comptes désignés par le Conseil supérieur des chambres régionales des comptes en son sein. 
 
 La commission est présidée par le premier président de la Cour des comptes. En cas d'empêchement, celui-ci est suppléé par le
 président de la mission permanente d'inspection des chambres régionales et territoriales des comptes. Ce dernier est lui-même
@@ -4088,11 +4375,12 @@ suppléé par un conseiller maître membre de cette mission, désigné par le pr
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 22 ()
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 14 () JORF 2 juillet 2006
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 16 () JORF 2 juillet 2006
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L221-4 (M)
+	  - Code des juridictions financières - art. L221-4 (V)
 
 	**Cité par**:
 
@@ -4384,8 +4672,8 @@ près la Cour des comptes n'assiste pas aux séances de ce conseil, sauf dans le
 
 Lorsqu'il exerce le pouvoir disciplinaire à l'égard des magistrats délégués dans les fonctions du ministère public, le
 Conseil supérieur est présidé par le procureur général près la Cour des comptes et comprend, en outre, un magistrat exerçant
-les fonctions du ministère public élu par les magistrats exerçant ces fonctions. Dans ce cas, il est saisi par le ministre
-chargé des finances.
+les fonctions du ministère public élu par les magistrats exerçant ces fonctions. Dans ce cas, il est saisi par le premier
+président.
 
 **Liens relatifs à cet article**
 
@@ -4397,9 +4685,9 @@ chargé des finances.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2006-769 du 1 juillet 2006 - art. 12 () JORF 2 juillet 2006
 
 
 ###### Article L223-2

@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2006-07-09
+Version Consolidée au 2006-09-01
 
 # Partie législative
 
@@ -20104,6 +20104,22 @@ Martinique : une section.
 
 
 ##### Paragraphe 3 : Le président
+
+###### Article R*212-7-1
+
+Le président de la chambre régionale des comptes est ordonnateur secondaire des dépenses de la juridiction qu'il préside. En
+cas d'absence ou d'empêchement, il peut déléguer sa signature à un magistrat ou au secrétaire général de cette juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2006-1098 du 31 août 2006 - art. 1 () JORF 1er septembre 2006
+
 
 ###### Article R212-7
 

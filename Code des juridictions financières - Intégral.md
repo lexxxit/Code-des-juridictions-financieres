@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2006-09-01
+Version Consolidée au 2006-10-17
 
 # Partie législative
 
@@ -14448,7 +14448,7 @@ Cour des comptes.
 
 Un membre du corps des magistrats des chambres régionales des comptes apporte en qualité de chargé de mission son concours à
 l'accomplissement des travaux de la mission. Il est mis, avec son accord, à disposition de la Cour des comptes par arrêté du
-ministre chargé des finances, sur proposition du premier président.
+Premier ministre, sur proposition du premier président.
 
 **Liens relatifs à cet article**
 
@@ -14456,9 +14456,9 @@ ministre chargé des finances, sur proposition du premier président.
 
 	  - Décret n°2000-337 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 1 ()
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 2 () JORF 17 octobre 2006
 
 	**Cite**:
 
@@ -14479,9 +14479,7 @@ Les présidents de chambre ;
 
 Les conseillers maîtres ;
 
-Les conseillers référendaires de 1re classe ;
-
-Les conseillers référendaires de 2e classe ;
+Les conseillers référendaires ;
 
 Les auditeurs de 1re classe ;
 
@@ -14497,9 +14495,39 @@ Les auditeurs de 2e classe.
 
 	  - Décret n°2000-337 2000-04-14
 
+	**Modifié par**:
+
+	  - Décret n°2006-1261 du 11 octobre 2006 - art. 1 () JORF 17 octobre 2006
+
+
+###### Article R*112-2-1
+
+Le Premier ministre prépare les actes réglementaires et les mesures individuelles relatifs aux magistrats, aux personnels et
+au fonctionnement de la Cour des comptes, ainsi qu'aux procédures qui lui sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
 	**Créé par**:
 
-	  - Décret n°2000-337 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2006-1261 du 11 octobre 2006 - art. 2 () JORF 17 octobre 2006
+
+	**Cité par**:
+
+	  - Décret n°2008-94 du 30 janvier 2008 - art. 1 (Ab)
+	  - Décret n°2011-1317 du 17 octobre 2011 - art. (VD)
+	  - Arrêté du 29 juin 2016 - art. Annexe 1 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 6
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R*112-1 (V)
 
 
 ###### Article R*112-10
@@ -14567,8 +14595,8 @@ Le premier président est chargé de la direction générale de la Cour des comp
 l'organisation générale des travaux de la Cour, il répartit les attributions de la Cour entre les chambres et arrête le
 programme annuel des travaux au vu des propositions des présidents de chambre.
 
-Il préside les audiences solennelles, la chambre du conseil, les chambres réunies et le comité du rapport public et des
-programmes. Il peut présider les séances de chambre.
+Il préside les audiences solennelles, la chambre du conseil, les chambres réunies, la conférence des présidents et le comité
+du rapport public et des programmes. Il peut présider les séances de chambre.
 
 Il signe les arrêts et décisions rendus sous sa présidence.
 
@@ -14584,9 +14612,9 @@ Il fait connaître aux ministres compétents, par voie de référé, les observa
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
 
 	**Cité par**:
 
@@ -14688,6 +14716,9 @@ Le secrétaire général ou, en cas d'absence ou d'empêchement, un des secréta
 des arrêts et en assure la notification aux comptables. Il délivre et certifie extraits et copies des actes intéressant le
 fonctionnement de la juridiction. Il peut déléguer à cet effet sa signature au chef de service responsable du greffe central.
 
+Le secrétaire général, ou, en cas d'absence ou d'empêchement, un des secrétaires généraux adjoints, assiste à la conférence
+des présidents.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -14701,7 +14732,7 @@ fonctionnement de la juridiction. Il peut déléguer à cet effet sa signature a
 
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 3 ()
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
 
 	**Cite**:
 
@@ -14834,8 +14865,33 @@ général.
 
 Un membre du corps des magistrats des chambres régionales des comptes apporte en qualité de chargé de mission son concours à
 l'accomplissement de la mission définie au deuxième alinéa de l'article L. 112-2. Il est mis, avec son accord, à disposition
-de la Cour des comptes par arrêté du ministre chargé des finances, sur proposition conjointe du premier président de la Cour
-des comptes et du procureur général près de la Cour des comptes.
+de la Cour des comptes par arrêté du Premier ministre, sur proposition conjointe du premier président de la Cour des comptes
+et du procureur général près de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Modifié par**:
+
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 2 () JORF 17 octobre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 35
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L112-2
+
+
+##### Section 3 : Conseillers maîtres en service extraordinaire
+
+###### Article R112-12-2
+
+Les conseillers maîtres en service extraordinaire, avant d'entrer en fonctions, prêtent serment devant le premier président.
 
 **Liens relatifs à cet article**
 
@@ -14845,20 +14901,24 @@ des comptes et du procureur général près de la Cour des comptes.
 
 	**Créé par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 5 ()
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 3 () JORF 17 octobre 2006
 
-	**Cite**:
+	**Liens**:
 
-	  - Code des juridictions financières - art. L112-2 (M)
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R112-15 (V)
 
 
 ##### Section 4 : Rapporteurs extérieurs
 
 ###### Article R112-13
 
-Les rapporteurs affectés à la Cour avec l'accord du premier président et du procureur général, en application du décret n°
-2004-708 du 16 juillet 2004 relatif à la mobilité et au détachement des fonctionnaires des corps recrutés par la voie de
-l'Ecole nationale d'administration, exercent leur fonction à temps plein.
+Les rapporteurs affectés à la Cour des comptes avec l'accord du premier président et du procureur général, pour accomplir la
+mobilité statutaire instituée pour les membres des corps recrutés par la voie de l'Ecole nationale d'administration et les
+administrateurs des postes et télécommunications exercent leurs fonctions à temps plein.
 
 Un arrêté du premier président fixe leur affectation.
 
@@ -14872,13 +14932,9 @@ Un arrêté du premier président fixe leur affectation.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Cite**:
-
-	  - Décret n°2004-708 2004-07-16
-
 	**Modifié par**:
 
-	  - Décret n°2004-708 du 16 juillet 2004 - art. 14 (V) JORF 17 juillet 2004
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 4 () JORF 17 octobre 2006
 
 	**Cité par**:
 
@@ -14930,6 +14986,29 @@ plein ou à temps partiel, par contrat.
 
 	  - Code des juridictions financières - art. R112-28 (T)
 	  - Code des juridictions financières - art. R141-1 (M)
+
+
+###### Article R112-14-1
+
+Les rapporteurs extérieurs, autres que les magistrats, prêtent serment devant le premier président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 5 () JORF 17 octobre 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 11
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R112-18 (V)
 
 
 ##### Section 5 : Formations
@@ -15316,6 +15395,13 @@ Le premier président désigne le rapporteur général parmi les magistrats dét
 
 Au terme de ses fonctions, le rapporteur général exerce les fonctions de président de chambre ou de conseiller maître.
 
+La conférence des présidents est composée du premier président, du procureur général et des magistrats ayant le grade de
+président de chambre, à l'exception des magistrats mentionnés à l'article 1er de la loi n° 86-1304 du 23 décembre 1986
+relative à la limite d'âge et aux modalités de recrutement de certains fonctionnaires civils de l'Etat.
+
+Le premier président consulte la conférence des présidents, notamment pour rendre l'avis prévu à l'article L. 122-6 et sur
+toute question qu'il juge utile d'évoquer.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -15323,13 +15409,28 @@ Au terme de ses fonctions, le rapporteur général exerce les fonctions de prés
 	  - Décret n°85-199 1985-02-11, art 2, 3ème alinéa
 	  - Décret n°85-199 du 11 février 1985 - art. 2 (Ab)
 
+	**Cite**:
+
+	  - Loi n°86-1304 du 23 décembre 1986 - art. 1 (V)
+	  - Code des juridictions financières - art. L122-6 (V)
+
 	**Codifié par**:
 
 	  - Décret n°2000-338 2000-04-14
 
 	**Modifié par**:
 
-	  - Décret n°2005-1793 du 30 décembre 2005 - art. 1 () JORF 1er janvier 2006
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 6 () JORF 17 octobre 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 24
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R112-3 (V)
+	  - Code des juridictions financières - art. R112-51 (V)
 
 
 ##### Section 6 : Assistants de la Cour des comptes
@@ -15397,11 +15498,11 @@ fonctionnaires occupant l'emploi d'assistant de la Cour des comptes.
 	  - Décret n°2008-94 du 30 janvier 2008 - art. 11
 
 
-##### Section 7 : La commission consultative de la Cour des comptes
+##### Section 7 : Le Conseil supérieur de la Cour des comptes
 
 ###### Article R112-28
 
-La commission consultative de la Cour des comptes prévue à l'article L. 112-8 comprend, en tant que membres élus :
+Le Conseil supérieur de la Cour des comptes prévu à l'article L. 112-8 comprend, en tant que membres élus :
 
 1° Trois conseillers maîtres ;
 
@@ -15419,9 +15520,10 @@ La commission consultative de la Cour des comptes prévue à l'article L. 112-8 
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 7 ()
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 7 () JORF 17 octobre 2006
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 8 () JORF 17 octobre 2006
 
 	**Cite**:
 
@@ -15450,9 +15552,17 @@ de la Cour des comptes.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 7 ()
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 7 () JORF 17 octobre 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 26
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R120-6 (V)
 
 
 ###### Article R112-30
@@ -15471,9 +15581,9 @@ lequel il a été élu.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 7 ()
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 7 () JORF 17 octobre 2006
 
 
 ### TITRE II : Dispositions statutaires
@@ -15512,31 +15622,118 @@ Les auditeurs qui ont été recrutés par la voie du troisième concours de l'Ec
 
 Les auditeurs mentionnés à l'article précédent sont, en fonction de leur échelon de reclassement dans le grade d'auditeur de
 2e classe, classés ainsi qu'il suit lors de leurs promotions aux grades d'auditeur de 1re classe et de conseiller
-référendaire de 2e classe :
+référendaire : 
 
-Auditeur de 2e classe : 4e échelon
+<table>
+  <tbody>
+    <tr>
+      <td width="167">
 
-Auditeur de 1e classe : 1e échelon
+AUDITEUR
 
-Conseiller référendaire de 2e classe : 1e échelon
+de 2
+          <sup>e</sup> classe
 
-Auditeur de 2e classe : 5e échelon
+</td>
+      <td width="150">
 
-Auditeur de 1e classe : 2e échelon
+AUDITEUR
 
-Conseiller référendaire de 2e classe : 1e échelon avec 6 mois d'ancienneté acquise
+de 1
+          <sup>re</sup> classe
 
-Auditeur de 2e classe : 6e échelon
+</td>
+      <td width="288">
 
-Auditeur de 1e classe : 3e échelon
+CONSEILLER REFERENDAIRE
 
-Conseiller référendaire de 2e classe : 2e échelon
+de 2
+          <sup>e</sup> classe
 
-Auditeur de 2e classe : 7e échelon
+</td>
+    </tr>
+    <tr>
+      <td width="167" valign="top">
 
-Auditeur de 1e classe : 4e échelon
+4
+          <sup>e</sup> échelon
 
-Conseiller référendaire de 2e classe : 2e échelon avec 6 mois d'ancienneté acquise
+</td>
+      <td width="150" valign="top">
+
+1
+          <sup>er</sup> échelon
+
+</td>
+      <td width="288" valign="top">
+
+1
+          <sup>er</sup> échelon
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="167">
+
+5
+          <sup>e</sup> échelon
+
+</td>
+      <td valign="top" width="150">
+
+2
+          <sup>e</sup> échelon
+
+</td>
+      <td valign="top" width="288">
+
+1
+          <sup>er</sup> échelon avec 6 mois d'ancienneté acquise
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="167">
+
+6
+          <sup>e</sup> échelon
+
+</td>
+      <td valign="top" width="150">
+
+3
+          <sup>e</sup> échelon
+
+</td>
+      <td valign="top" width="288">
+
+2
+          <sup>e</sup> échelon
+
+</td>
+    </tr>
+    <tr>
+      <td width="167" valign="top">
+
+7
+          <sup>e</sup> échelon
+
+</td>
+      <td valign="top" width="150">
+
+4
+          <sup>e</sup> échelon
+
+</td>
+      <td valign="top" width="288">
+
+2
+          <sup>e</sup> échelon avec 6 mois d'ancienneté acquise
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -15544,9 +15741,9 @@ Conseiller référendaire de 2e classe : 2e échelon avec 6 mois d'ancienneté a
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-839 du 31 août 2000 - art. 1 () JORF 2 septembre 2000
+	  - Décret n°2006-1261 du 11 octobre 2006 - art. 3 () JORF 17 octobre 2006
 
 	**Cite**:
 
@@ -15557,11 +15754,10 @@ Conseiller référendaire de 2e classe : 2e échelon avec 6 mois d'ancienneté a
 
 ###### Article R*122-1
 
-Le nombre de postes prévus chaque année pour le tour extérieur dans le grade de conseiller référendaire de 2e classe à la
-Cour des comptes en application des quatrième et cinquième alinéas de l'article L. 122-5 est publié au Journal officiel en
-même temps que les besoins du corps exprimés par le premier président de la Cour des comptes en application du I de l'article
-2 de la loi du 28 juin 1994 relative à certaines modalités de nomination dans la fonction publique de l'Etat et aux modalités
-d'accès de certains fonctionnaires ou anciens fonctionnaires à des fonctions privées.
+Le nombre de postes prévus chaque année pour le tour extérieur dans le grade de conseiller référendaire à la Cour des comptes
+en application des quatrième, cinquième et sixième alinéas de l'article L. 122-5 est publié au Journal officiel de la
+République française en même temps que les besoins du corps exprimés par le premier président de la Cour des comptes en
+application de l'article L. 122-6.
 
 **Liens relatifs à cet article**
 
@@ -15575,12 +15771,12 @@ d'accès de certains fonctionnaires ou anciens fonctionnaires à des fonctions p
 
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 9 ()
+	  - Décret n°2006-1261 du 11 octobre 2006 - art. 4 () JORF 17 octobre 2006
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. L122-5 (M)
-	  - Loi n°1994-06-28 art. 2
+	  - Code des juridictions financières - art. L122-6 (V)
 
 
 ###### Article R*122-2
@@ -15589,8 +15785,8 @@ Les candidatures, motivées, doivent être présentées par les intéressés, da
 chargé des finances.
 
 Celui-ci dispose d'un délai de deux mois pour adresser les dossiers des candidats remplissant les conditions prévues par le
-quatrième alinéa de l'article L. 122-5 au premier président de la Cour des comptes aux fins de recueillir l'avis de la
-commission prévue au quatrième alinéa de ce même article.
+quatrième et cinquième alinéas de l'article L. 122-5 au premier président de la Cour des comptes aux fins de recueillir
+l'avis de la commission prévue au sixième alinéa de ce même article.
 
 Le dossier constitué pour chaque candidat, en liaison avec l'administration ou l'organisme dont il relève, comprend les
 éléments de notation ou d'évaluation de ses dix dernières années de service public ou de service dans un organisme relevant
@@ -15609,7 +15805,7 @@ emplois qu'il a occupés et sur sa compétence.
 
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 10 ()
+	  - Décret n°2006-1261 du 11 octobre 2006 - art. 5 () JORF 17 octobre 2006
 
 	**Cite**:
 
@@ -15651,10 +15847,10 @@ La liste des membres de la commission est publiée au Journal officiel.
 
 La commission peut, si elle l'estime nécessaire, faire compléter le dossier d'un candidat par lui-même ou l'autorité ou
 organisme dont il relève. Elle émet, au vu de leur dossier, un avis sur l'aptitude de chaque candidat à exercer les fonctions
-de conseiller référendaire de 2e classe à la Cour des comptes.
+de conseiller référendaire à la Cour des comptes.
 
 En cas de partage, le président a voix prépondérante. Dans le délai d'un mois de la saisine de la commission, il transmet au
-ministre chargé des finances l'avis émis sur l'aptitude de chaque candidat.
+Premier ministre l'avis émis sur l'aptitude de chaque candidat.
 
 **Liens relatifs à cet article**
 
@@ -15666,16 +15862,21 @@ ministre chargé des finances l'avis émis sur l'aptitude de chaque candidat.
 
 	  - Décret n°2000-337 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-337 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2006-1261 du 11 octobre 2006 - art. 6 () JORF 17 octobre 2006
 
 
 ###### Article R*122-5
 
-Les magistrats des chambres régionales des comptes nommés conseillers référendaires de 1re classe à la Cour des comptes en
-application de l'article L. 221-2 sont classés dans leur grade à l'échelon comportant un traitement égal ou, à défaut,
-immédiatement supérieur à celui dont ils bénéficiaient dans leur corps d'origine.
+Les magistrats des chambres régionales des comptes nommés conseillers référendaires à la Cour des comptes en application de
+l'article L. 221-2 sont classés dans leur grade à l'échelon comportant un traitement égal ou, à défaut, immédiatement
+supérieur à celui dont ils bénéficiaient dans leur corps d'origine. 
+
+Lors de leur nomination, les intéressés conservent, dans la limite de l'ancienneté requise pour un avancement d'échelon dans
+leur nouveau grade, l'ancienneté d'échelon acquise dans leur précédent grade, lorsque cette nomination leur procure un
+avantage inférieur à celui qui serait résulté d'un avancement d'échelon dans leur grade d'origine ou qui a résulté de leur
+accession à cet échelon, si cet échelon était le plus élevé de leur précédent grade.
 
 **Liens relatifs à cet article**
 
@@ -15687,22 +15888,81 @@ immédiatement supérieur à celui dont ils bénéficiaient dans leur corps d'or
 
 	  - Décret n°2000-337 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-337 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2006-1261 du 11 octobre 2006 - art. 7 () JORF 17 octobre 2006
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L221-2 (M)
+	  - Code des juridictions financières - art. L221-2 (V)
+
+
+###### Article R*122-6
+
+Les conseillers maîtres nommés en application des deuxième et quatrième alinéas de l'article L. 122-2 et les conseillers
+référendaires nommés en application des deuxième, quatrième et cinquième alinéas de l'article L. 122-5 sont classés dans leur
+grade à l'échelon comportant un traitement égal, ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans
+leur corps d'origine.
+
+Lors de leur nomination, les intéressés conservent, dans la limite de l'ancienneté requise pour un avancement d'échelon dans
+leur nouveau grade, l'ancienneté d'échelon acquise dans leur précédent grade, lorsque cette nomination leur procure un
+avantage inférieur à celui qui aurait résulté d'un avancement d'échelon dans leur grade d'origine ou qui a résulté de leur
+élévation audit échelon si cet échelon était le plus élevé de leur précédent grade.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-337 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2006-1261 du 11 octobre 2006 - art. 8 () JORF 17 octobre 2006
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L122-2 (M)
+	  - Code des juridictions financières - art. L122-5 (M)
+
+
+###### Article R*122-7
+
+Le grade de conseiller maître comporte deux échelons ; celui de conseiller référendaire en comporte huit ; ceux d'auditeur de
+1re classe et d'auditeur de 2e classe en comportent respectivement quatre et sept.
+
+Le temps à passer dans chacun des échelons pour accéder à l'échelon supérieur est fixé à :
+
+1° Un an pour les trois premiers échelons du grade d'auditeur de 2e classe et pour le premier échelon du grade de conseiller
+référendaire ;
+
+2° Deux ans pour les 4e, 5e et 6e échelons du grade d'auditeur de 2e classe, pour les trois premiers échelons du grade
+d'auditeur de 1re classe et pour les 2e, 3e, 4e et 5e échelons du grade de conseiller référendaire ;
+
+3° Trois ans pour les 6e et 7e échelons du grade de conseiller référendaire ;
+
+4° Cinq ans pour le premier échelon du grade de conseiller maître.
+
+Le délai de deux ans prévu pour les 2e et 3e échelons du grade de conseiller référendaire peut être réduit, par décision du
+premier président de la Cour des comptes, sans pouvoir être inférieur à un an, pour les conseillers référendaires faisant
+preuve d'une valeur exceptionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-337 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2006-1261 du 11 octobre 2006 - art. 8 () JORF 17 octobre 2006
 
 
 #### CHAPITRE III : Mobilité
 
 ###### Article R*123-1
 
-Les magistrats peuvent accomplir une période dite de mobilité dans les conditions définies par le décret n° 2004-708 du 16
-juillet 2004 relatif à la mobilité et au détachement des fonctionnaires de corps recrutés par la voie de l'Ecole nationale
-d'administration.
+Les magistrats de la Cour des comptes peuvent accomplir la mobilité statutaire instituée pour les membres des corps recrutés
+par la voie de l'Ecole nationale d'administration.
 
 Les magistrats recrutés à la Cour par la voie du tour extérieur sont considérés comme ayant accompli la mobilité.
 
@@ -15716,20 +15976,15 @@ Les magistrats recrutés à la Cour par la voie du tour extérieur sont considé
 
 	  - Décret n°2000-337 2000-04-14
 
-	**Cite**:
-
-	  - Décret n°2004-708 2004-07-16
-
 	**Modifié par**:
 
-	  - Décret n°2004-708 du 16 juillet 2004 - art. 14 (V) JORF 17 juillet 2004
+	  - Décret n°2006-1261 du 11 octobre 2006 - art. 9 () JORF 17 octobre 2006
 
 
 ###### Article R*123-2
 
 Les mesures individuelles prises en application de l'article précédent sont prononcées sur demande des intéressés après
-accord préalable du premier président et du procureur général, par arrêté du Premier ministre, du ministre chargé des
-finances et des ministres intéressés.
+accord préalable du premier président et du procureur général, par arrêté du Premier ministre et des ministres intéressés.
 
 **Liens relatifs à cet article**
 
@@ -15741,9 +15996,9 @@ finances et des ministres intéressés.
 
 	  - Décret n°2000-337 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-337 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2006-1261 du 11 octobre 2006 - art. 10 () JORF 17 octobre 2006
 
 
 #### CHAPITRE IV : Assistants de la Cour des comptes
@@ -19860,6 +20115,35 @@ le compte d'emploi n'est pas tenu, le contrôle porte sur l'ensemble des comptes
 
 ##### Paragraphe 1 : Le siège, la désignation et la gestion des chambres
 
+###### Article R*212-2-1
+
+Le Premier ministre prépare les actes réglementaires et les mesures individuelles relatifs aux procédures applicables aux
+chambres régionales des comptes, aux magistrats et aux personnels ainsi qu'au fonctionnement de ces juridictions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2006-1261 du 11 octobre 2006 - art. 11 () JORF 17 octobre 2006
+
+	**Cité par**:
+
+	  - Décret n°2008-94 du 30 janvier 2008 - art. 1 (Ab)
+	  - Décret n°2011-1317 du 17 octobre 2011 - art. (VD)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 80
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R*212-31 (V)
+
+
 ###### Article R212-1
 
 Les sièges des chambres régionales des comptes sont fixés comme suit (région et siège de la chambre régionale des comptes) :
@@ -19967,7 +20251,7 @@ même niveau de recrutement, affectés à des services du secrétariat général
 
 Un membre du corps des magistrats des chambres régionales des comptes apporte en qualité de chargé de mission son concours à
 l'accomplissement des missions définies au premier alinéa. Il est mis, avec son accord, à disposition de la Cour des comptes
-par arrêté du ministre chargé des finances, sur proposition du premier président de la Cour des comptes.
+par arrêté du Premier ministre, sur proposition du premier président de la Cour des comptes.
 
 **Liens relatifs à cet article**
 
@@ -19981,7 +20265,7 @@ par arrêté du ministre chargé des finances, sur proposition du premier prési
 
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 19 ()
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 9 () JORF 17 octobre 2006
 
 	**Cité par**:
 
@@ -19995,9 +20279,9 @@ par arrêté du ministre chargé des finances, sur proposition du premier prési
 
 ###### Article R212-4
 
-Un arrêté du ministre chargé des finances, pris après avis du premier président de la Cour des comptes et du procureur
-général près la Cour des comptes, fixe, pour chaque chambre, l'effectif des magistrats qui la composent et le nombre des
-commissaires du Gouvernement.
+Un arrêté du Premier ministre, pris après avis du premier président de la Cour des comptes et du procureur général près la
+Cour des comptes, fixe, pour chaque chambre, l'effectif des magistrats qui la composent et le nombre des commissaires du
+Gouvernement.
 
 **Liens relatifs à cet article**
 
@@ -20009,9 +20293,9 @@ commissaires du Gouvernement.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 9 () JORF 17 octobre 2006
 
 	**Cité par**:
 
@@ -21469,81 +21753,6 @@ secrétaire de ce conseil. Il est signé par le président, contresigné par le 
 	  - Décret n°2002-1201 du 27 septembre 2002 - art. 31 ()
 
 
-###### Article R212-55
-
-Lorsqu'est examiné, en vue de son inscription sur la liste d'aptitude à l'emploi de président de chambre régionale des
-comptes et de vice-président de la chambre régionale des comptes d'Ile-de-France prévue par l'article L. 221-2, le cas d'un
-président de section, le représentant élu de ce grade siège avec son suppléant, sous réserve des dispositions des deuxième et
-troisième alinéas ci-après. Le suppléant participe aux discussions mais ne vote pas.
-
-Le représentant titulaire du grade de président de section remplissant les conditions fixées à l'article L. 221-2 pour être
-inscrit sur la liste d'aptitude à l'emploi de président de chambre régionale des comptes et de vice-président de la chambre
-régionale des comptes d'Ile-de-France ne peut prendre part à la réunion du Conseil supérieur des chambres régionales des
-comptes lorsque celui-ci établit cette liste. Il est alors remplacé par son suppléant à moins que ce dernier ne se trouve
-dans le même cas.
-
-Si le représentant titulaire du grade de président de section et son suppléant ne peuvent prendre part à la délibération du
-conseil supérieur en application de l'alinéa précédent, le représentant du grade concerné est désigné par voie de tirage au
-sort parmi les membres du corps titulaires de ce grade.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 50 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Modifié par**:
-
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 32 ()
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1262 du 16 octobre 2006 - art. 20 () JORF 17 octobre 2006
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L221-2 (M)
-
-
-###### Article R212-55-1
-
-Un magistrat représentant titulaire d'un grade remplissant les conditions fixées à l'article R. 224-5 pour être inscrit au
-tableau d'avancement du grade supérieur ne peut prendre part à la délibération du Conseil supérieur des chambres régionales
-des comptes lorsque celui-ci établit ce tableau. Il est alors remplacé par son suppléant à moins que ce dernier ne se trouve
-dans le même cas.
-
-Si le représentant titulaire d'un grade et son suppléant ne peuvent prendre part à la délibération du Conseil supérieur des
-chambres régionales des comptes en application de l'alinéa précédent, le représentant du grade concerné est désigné par voie
-de tirage au sort parmi les membres du corps titulaires de ce grade ne remplissant pas les conditions d'accès au grade
-supérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 50 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2002-1153 du 10 septembre 2002 - art. 4 ()
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1262 du 16 octobre 2006 - art. 20 () JORF 17 octobre 2006
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R224-5 (M)
-
-
 #### TITRE II : Dispositions statutaires
 
 ##### CHAPITRE Ier : Nominations
@@ -21735,9 +21944,9 @@ moins les grades de commandant ou de capitaine de corvette ou assimilés.
 
 ###### Article R221-8
 
-Chaque année, le ministre chargé des finances détermine le nombre des emplois de conseiller à pourvoir en application de
-l'article L. 221-4 et fixe la date limite de dépôt des candidatures. Celles-ci sont adressées par les intéressés au président
-de la commission instituée par l'article L. 221-7.
+Chaque année, le Premier ministre détermine le nombre des emplois de conseiller à pourvoir en application de l'article L.
+221-4 et fixe la date limite de dépôt des candidatures. Celles-ci sont adressées par les intéressés au président de la
+commission instituée par l'article L. 221-7. 
 
 Le dossier administratif des candidats est envoyé par l'autorité dont relèvent les intéressés au secrétaire général de la
 Cour des comptes. Cette autorité doit indiquer si le candidat réunit les conditions d'ancienneté de service, de classement
@@ -21755,13 +21964,13 @@ hiérarchique, de niveau d'indice ou d'emploi définies par l'article L. 221-4 e
 
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 38 ()
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 9 () JORF 17 octobre 2006
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L221-4 (M)
-	  - Code des juridictions financières - art. L221-7 (M)
-	  - Code des juridictions financières - art. R221-7 (M)
+	  - Code des juridictions financières - art. L221-4 (V)
+	  - Code des juridictions financières - art. L221-7 (V)
+	  - Code des juridictions financières - art. R221-7 (V)
 
 
 ###### Article R221-9
@@ -22043,7 +22252,7 @@ résidence des magistrats de ces chambres est satisfaite par une résidence dans
 ###### Article R222-3
 
 Le magistrat d'une chambre régionale des comptes qui a accepté d'exercer un mandat de conseiller économique et social est
-placé en position de disponibilité par arrêté du ministre chargé des finances.
+placé en position de disponibilité par arrêté du Premier ministre.
 
 **Liens relatifs à cet article**
 
@@ -22055,9 +22264,9 @@ placé en position de disponibilité par arrêté du ministre chargé des financ
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 9 () JORF 17 octobre 2006
 
 
 ###### Article R222-4
@@ -22145,7 +22354,7 @@ un des organismes mentionnés à l'article L. 222-7.
 Le Conseil supérieur des chambres régionales des comptes est saisi des faits motivant la poursuite disciplinaire par un
 rapport émanant du président de la chambre régionale des comptes dont relève l'intéressé.
 
-Si la procédure concerne un magistrat du ministère public, le rapport émane du ministre chargé des finances.
+Si la procédure concerne un magistrat du ministère public, le rapport émane du Premier ministre.
 
 Ce rapport doit indiquer les faits motivant la poursuite disciplinaire et les circonstances dans lesquelles ils ont été
 commis.
@@ -22160,9 +22369,9 @@ commis.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 9 () JORF 17 octobre 2006
 
 	**Cité par**:
 
@@ -22638,9 +22847,8 @@ applicables aux membres du corps des chambres régionales des comptes.
 
 ###### Article R226-1
 
-Les magistrats des chambres régionales des comptes peuvent accomplir une période dite de mobilité dans les conditions
-définies par le décret n° 2004-708 du 16 juillet 2004 relatif à la mobilité et au détachement des fonctionnaires des corps
-recrutés par la voie de l'Ecole nationale d'administration.
+Les magistrats des chambres régionales des comptes peuvent accomplir la mobilité statutaire instituée pour les membres des
+corps recrutés par la voie de l'Ecole nationale d'administration.
 
 Toutefois, les intéressés ne peuvent accomplir cette mobilité en exerçant des fonctions :
 
@@ -22673,7 +22881,7 @@ sein de laquelle la chambre régionale des comptes exerce ses compétences.
 
 	**Modifié par**:
 
-	  - Décret n°2004-708 du 16 juillet 2004 - art. 14 (V) JORF 17 juillet 2004
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 10 () JORF 17 octobre 2006
 
 
 ###### Article R226-2
@@ -22729,11 +22937,10 @@ des comptes dans le ressort de laquelle ils ont exercé ces fonctions.
 
 Les mesures individuelles destinées à permettre aux magistrats des chambres régionales des comptes de satisfaire à la
 mobilité ou à les autoriser à prolonger cette période interviennent sur demande des intéressés et après accord du président
-du Conseil supérieur des chambres régionales des comptes, par arrêté conjoint du Premier ministre, du ministre chargé des
-finances et du ministre intéressé.
+du Conseil supérieur des chambres régionales des comptes, par arrêté conjoint du Premier ministre et du ministre intéressé.
 
-A l'expiration de la période de mobilité, la réintégration des intéressés est prononcée par arrêté du ministre chargé des
-finances pris sur avis du Conseil supérieur des chambres régionales des comptes.
+A l'expiration de la période de mobilité, la réintégration des intéressés est prononcée par arrêté du Premier ministre pris
+sur avis du Conseil supérieur des chambres régionales des comptes.
 
 Sur sa demande, le magistrat est affecté auprès de la chambre à laquelle il appartenait au moment de son départ en mobilité,
 sous réserve de l'existence d'un emploi vacant et des dispositions de l'article R. 226-3.
@@ -22751,9 +22958,9 @@ chambres régionales des comptes.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 11 () JORF 17 octobre 2006
 
 	**Cite**:
 
@@ -22788,14 +22995,14 @@ effectifs dans ce corps, sauf le cas échéant pour l'accomplissement de la mobi
 
 ###### Article R226-6
 
-Le détachement des magistrats des chambres régionales des comptes est prononcé par arrêté conjoint du Premier ministre, du
-ministre chargé des finances et du ministre intéressé.
+Le détachement des magistrats des chambres régionales des comptes est prononcé par arrêté conjoint du Premier ministre et du
+ministre intéressé.
 
 Hormis le cas de détachement de droit, ce détachement est prononcé après avis du président de la chambre régionale
 d'affectation de l'intéressé et du président du Conseil supérieur des chambres régionales des comptes.
 
-Le détachement est renouvelé par arrêté conjoint du ministre chargé des finances et du ministre intéressé pris après les
-mêmes consultations. Il est mis fin au détachement par arrêté pris dans les mêmes formes.
+Le détachement est renouvelé par arrêté conjoint du Premier ministre et du ministre intéressé pris après les mêmes
+consultations. Il est mis fin au détachement par arrêté pris dans les mêmes formes.
 
 La nouvelle affectation dans une chambre, du magistrat dont le détachement a pris fin, est prononcée après avis du Conseil
 supérieur des chambres régionales des comptes.
@@ -22810,9 +23017,9 @@ supérieur des chambres régionales des comptes.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 12 () JORF 17 octobre 2006
 
 
 ##### Section 3 : Disponibilité
@@ -22822,10 +23029,12 @@ supérieur des chambres régionales des comptes.
 Sauf lorsqu'elle est prononcée d'office dans les cas prévus aux articles 27 et 47 du décret n° 86-442 du 14 mars 1986 relatif
 à la désignation des médecins agréés, à l'organisation des comités médicaux et des commissions de réforme, aux conditions
 d'aptitude physique pour l'admission aux emplois publics et au régime de congés de maladie des fonctionnaires, la
-disponibilité est prononcée par arrêté du ministre chargé des finances, après avis du Conseil supérieur des chambres
-régionales des comptes.
+disponibilité est prononcée par arrêté du Premier ministre, après avis du Conseil supérieur des chambres régionales des
+comptes.
 
 La fin de la disponibilité est prononcée dans les mêmes formes.
+
+nnn
 
 **Liens relatifs à cet article**
 
@@ -22842,9 +23051,9 @@ La fin de la disponibilité est prononcée dans les mêmes formes.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 13 () JORF 17 octobre 2006
 
 
 ##### Section 4 : Délégation dans les fonctions du ministère public
@@ -22892,10 +23101,10 @@ de-France, les magistrats nommés exercent les missions qui leur sont respective
 ###### Article R227-2
 
 L'emploi de président de chambre régionale des comptes et de vice-président de la chambre régionale des comptes d'Ile-de-
-France comporte huit échelons.
+France comporte six échelons.
 
-La durée du temps de services effectifs passé dans chaque échelon pour accéder à l'échelon supérieur est fixée à deux ans
-pour les 1er et 2e échelons, à trois ans pour les 3e, 4e et 5e échelons, et à cinq ans pour les 6e et 7e échelons.
+La durée du temps de services effectifs passé dans chaque échelon pour accéder à l'échelon supérieur est fixée à un an pour
+le 1er échelon, à trois ans pour les 2e et 3e échelons et à cinq ans pour les 4e et 5e échelons.
 
 Les magistrats détachés dans l'emploi de président de chambre régionale des comptes ou de vice-président de la chambre
 régionale des comptes d'Ile-de-France sont classés à l'échelon comportant un indice égal ou immédiatement supérieur à celui
@@ -22911,9 +23120,9 @@ immédiatement supérieur à celui qu'ils détiennent dans leur grade.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 48 ()
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 14 () JORF 17 octobre 2006
 
 	**Cité par**:
 
@@ -31005,8 +31214,8 @@ La cour siège à la Cour des comptes.
 Les rapporteurs sont choisis parmi les membres du Conseil d'Etat, de la Cour des comptes, des tribunaux administratifs et des
 cours administratives d'appel et des chambres régionales et territoriales des comptes.
 
-Ils sont nommés par arrêté du ministre chargé du budget pris sur proposition du président de la cour. Il est mis fin à leurs
-fonctions dans les mêmes formes.
+Ils sont nommés par arrêté du Premier ministre pris sur proposition du président de la cour. Il est mis fin à leurs fonctions
+dans les mêmes formes.
 
 **Liens relatifs à cet article**
 
@@ -31014,17 +31223,17 @@ fonctions dans les mêmes formes.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-677 du 17 juin 2005 - art. 2 () JORF 18 juin 2005
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 15 () JORF 17 octobre 2006
 
 
 ###### Article R311-4
 
 Les commissaires du Gouvernement sont choisis parmi les magistrats des juridictions financières ou de l'ordre judiciaire.
 
-Ils sont nommés par arrêté du ministre chargé du budget pris sur proposition du procureur général. Il est mis fin à leurs
-fonctions dans les mêmes formes.
+Ils sont nommés par arrêté du Premier ministre pris sur proposition du procureur général. Il est mis fin à leurs fonctions
+dans les mêmes formes.
 
 **Liens relatifs à cet article**
 
@@ -31032,9 +31241,17 @@ fonctions dans les mêmes formes.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-677 du 17 juin 2005 - art. 2 () JORF 18 juin 2005
+	  - Décret n°2006-1262 du 16 octobre 2006 - art. 15 () JORF 17 octobre 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 178
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R311-11 (V)
 
 
 ###### Article R311-5

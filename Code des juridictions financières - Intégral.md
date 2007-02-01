@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2006-10-17
+Version Consolidée au 2007-02-02
 
 # Partie législative
 
@@ -5912,14 +5912,14 @@ de ces établissements.
 	  - Code de la santé publique
 
 
-##### Section 5 : Des offices publics d'aménagement et de construction    soumis aux règles applicables aux entreprises de    commerce.
+##### Section 5 : Des offices publics de l'habitat soumis aux règles applicables aux entreprises de commerce
 
 ###### Article L232-7
 
-Conformément aux dispositions de l'article L. 421-1-1, deuxième à cinquième alinéas, du code de la construction et de
-l'habitation, les offices publics d'aménagement et de construction, lorsqu'ils sont soumis, en matière de gestion financière
-et comptable, aux règles applicables aux entreprises de commerce, demeurent soumis aux dispositions des articles L. 1612-2,
-L. 1612-4, L. 1612-9 et L. 1612-15 du code général des collectivités territoriales et L. 242-2 du présent code.
+Le contrôle des actes budgétaires des offices publics de l'habitat soumis aux règles applicables aux entreprises de commerce
+s'exerce dans les conditions prévues par l'article L. 421-21 du code de la construction et de l'habitation. 
+
+La chambre régionale des comptes peut assurer la vérification des comptes de ces offices et en examiner la gestion.
 
 **Liens relatifs à cet article**
 
@@ -5929,7 +5929,11 @@ L. 1612-4, L. 1612-9 et L. 1612-15 du code général des collectivités territor
 
 	**Modifié par**:
 
-	  - Rapport - art. 4 ()
+	  - Ordonnance n°2007-137 du 1 février 2007 - art. 4 () JORF 2 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 22
 
 	**Cité par**:
 
@@ -5940,21 +5944,17 @@ L. 1612-4, L. 1612-9 et L. 1612-15 du code général des collectivités territor
 	**Nouveaux textes**:
 
 	  - Code des juridictions financières - art. L232-5 (V)
+	  - Code des juridictions financières - art. L232-6 (V)
 
 	**Anciens textes**:
 
+	  - Code de la santé publique - art. L714-9 (M)
 	  - Code des juridictions financières l232-31 :
 	  - Code des juridictions financières l232-9
-	  - Code de la santé publique  L714-5-1° al 2, issu de loi 91-748 1991-07-31, art 8
-	  - Code de la santé publique - art. L714-9 (M)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1612-15 (V)
-	  - Code général des collectivités territoriales - art. L1612-2 (M)
-	  - Code général des collectivités territoriales - art. L1612-4 (V)
-	  - Code général des collectivités territoriales - art. L1612-9 (V)
-	  - Code de la construction et de l'habitation. - art. L421-1-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L421-21 (V)
 
 
 ##### Section 6 : Du centre national de la fonction publique territoriale

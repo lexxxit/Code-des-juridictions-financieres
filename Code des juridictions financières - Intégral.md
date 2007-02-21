@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2007-02-21
+Version Consolidée au 2007-02-22
 
 # Partie législative
 
@@ -371,14 +371,12 @@ concernées. Un décret en Conseil d'Etat définit les catégories d'établissem
 fixe, le cas échéant, le montant des recettes ordinaires en deçà duquel le jugement des comptes et l'examen de la gestion des
 établissements publics relevant d'une même catégorie peuvent être délégués.
 
-Dans les conditions définies à l'alinéa précédent, le jugement des comptes et l'examen de la gestion de tout ou partie des
-établissements publics nationaux relevant d'une même catégorie et ayant leur siège en Polynésie française peuvent être
-délégués à la chambre territoriale des comptes par arrêté du premier président de la Cour des comptes pris après avis du
-procureur général près la Cour des comptes et du président de la chambre territoriale des comptes.
-
-Dans les mêmes conditions, le jugement des comptes et l'examen de la gestion de tout ou partie des établissements publics
-nationaux relevant d'une même catégorie et ayant leur siège en Nouvelle-Calédonie peuvent être délégués à la chambre
-territoriale des comptes de la Nouvelle-Calédonie.
+Dans les conditions définies au deuxième alinéa, le jugement des comptes et l'examen de la gestion de tout ou partie des
+établissements publics nationaux relevant d'une même catégorie et ayant leur siège en Polynésie française, en Nouvelle-
+Calédonie, à Mayotte, à Saint-Barthélemy, à Saint-Martin ou à Saint-Pierre-et-Miquelon peuvent être délégués aux chambres
+territoriales des comptes de Polynésie française, de Nouvelle-Calédonie, de Mayotte, de Saint-Barthélemy, de Saint-Martin ou
+de Saint-Pierre-et-Miquelon par arrêté du premier président de la Cour des comptes pris après avis du procureur général près
+la Cour des comptes et du président de la chambre territoriale des comptes.
 
 **Liens relatifs à cet article**
 
@@ -393,7 +391,7 @@ territoriale des comptes de la Nouvelle-Calédonie.
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-728 2004-07-22 art. 1 1° JORF 24 juillet 2004
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
 
 	**Cité par**:
 
@@ -2161,10 +2159,10 @@ la moitié du capital ou des voix dans les organes délibérants, ou exercent un
 
 ###### Article L133-5
 
-Lorsque la Cour des comptes est compétente à l'égard des sociétés, groupements ou organismes exerçant leur activité sur le
-territoire de la Polynésie française, la vérification des comptes peut être confiée à la chambre territoriale des comptes de
-Polynésie française par arrêté du premier président de la Cour des comptes, pris après avis du procureur général près la Cour
-des comptes et du président de la chambre territoriale intéressée.
+Lorsque la Cour des comptes est compétente à l'égard des sociétés, groupements ou organismes exerçant leur activité dans les
+collectivités mentionnées à l'article L. 250-1 ou en Polynésie française, la vérification des comptes peut être confié à la
+chambre territoriale des comptes par arrêté du premier président de la Cour des comptes, pris après avis du procureur général
+près la Cour des comptes et du président de la chambre territoriale intéressée.
 
 **Liens relatifs à cet article**
 
@@ -2176,14 +2174,26 @@ des comptes et du président de la chambre territoriale intéressée.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L111-16 (VD)
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. L143-3 (VD)
 	  - Livre des procédures fiscales - art. L135 K (VD)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L250-1 (V)
 
 
 #### CHAPITRE IV : Contrôle de la sécurité sociale
@@ -3831,10 +3841,9 @@ formes.
 
 ###### Article L212-12
 
-Les chambres régionales des comptes des régions de la Martinique, de la Guadeloupe et de la Guyane sont présidées par un même
-président.
-
-Ces chambres peuvent être dotées des mêmes assesseurs.
+Les chambres régionales des comptes des régions de la Martinique, de la Guadeloupe et de la Guyane ont le même président, les
+mêmes assesseurs et le ou les mêmes commissaires du Gouvernement. Le siège de chacune des chambres régionales des comptes,
+qui peut être le même, est fixé par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -3842,9 +3851,9 @@ Ces chambres peuvent être dotées des mêmes assesseurs.
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
 
 	**Cité par**:
 
@@ -3855,7 +3864,7 @@ Ces chambres peuvent être dotées des mêmes assesseurs.
 
 	**Anciens textes**:
 
-	  - Loi n°82-595 1983-07-10, art 20bis issu de loi 82-8 1983-01-07, art 116-I
+	  - Loi n°82-595 1983-07-10, art. 20 bis issu de loi 82-8 1983-01-07, art. 116-I
 
 
 ###### Article L212-13
@@ -3909,12 +3918,28 @@ fin à cet intérim par décision du procureur général qui en tient informé l
 	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 
-##### Sous-section 3 : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.
-
 ###### Article L212-15
 
-La chambre régionale des comptes compétente pour la collectivité territoriale, les communes et leurs établissements publics
-de Saint-Pierre-et-Miquelon est la chambre régionale des comptes d'Ile-de-France.
+Lorsque des magistrats sont simultanément affectés dans plusieurs chambres territoriales des comptes ou dans au moins une
+chambre territoriale des comptes et au moins une chambre régionale des comptes mentionnée à l'article L. 212-12 et que leur
+venue à l'audience n'est pas matériellement possible dans les délais prescrits par les dispositions en vigueur ou exigés par
+la nature de l'affaire, le ou les membres concernés peuvent siéger et, le cas échéant, le commissaire du Gouvernement
+prononcer ses conclusions dans une autre chambre dont ils sont membres, reliés en direct à la salle d'audience par un moyen
+de communication audiovisuelle. 
+
+Le premier alinéa est également applicable si la ou les chambres régionales des comptes et la ou les chambres territoriales
+des comptes ont le même siège en application de l'article L. 212-12 et du dernier alinéa de l'article L. 252-13. Dans cette
+hypothèse, le ou les membres concernés peuvent siéger et, le cas échéant, le commissaire du Gouvernement prononcer ses
+conclusions, reliés en direct à la salle d'audience par un moyen de communication audiovisuelle. 
+
+Lorsque des personnes ayant demandé à être auditionnées en application des articles L. 231-3, 
+L. 231-12 ou L. 241-14 ou ayant l'obligation de répondre à une convocation en application de l'article L. 241-4 ne peuvent
+matériellement se rendre à l'audience d'une chambre régionale des comptes mentionnée à l'article L. 212-12 dans les délais
+prescrits par les dispositions en vigueur ou exigés par la nature de l'affaire, elles peuvent, sur décision du président de
+la chambre, présenter leurs observations, reliées en direct à la salle d'audience par un moyen de communication
+audiovisuelle. 
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -3927,9 +3952,18 @@ de Saint-Pierre-et-Miquelon est la chambre régionale des comptes d'Ile-de-Franc
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L212-12 (V)
+	  - Code des juridictions financières - art. L231-12 (V)
+	  - Code des juridictions financières - art. L231-3 (V)
+	  - Code des juridictions financières - art. L241-14 (V)
+	  - Code des juridictions financières - art. L241-4 (V)
+	  - Code des juridictions financières - art. L252-13 (V)
 
 
 ##### Section 2 : Le Conseil supérieur des chambres régionales des comptes
@@ -7208,29 +7242,14 @@ contrôlées ou toute autre personne nominativement ou explicitement mise en cau
 	  - Code des juridictions financières - art. L245-4 (VD)
 
 
-#### TITRE V : Dispositions particulières applicables à Mayotte.
+### DEUXIEME PARTIE : Les chambres territoriales des comptes
+
+#### TITRE V : Dispositions applicables à Mayotte, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon
 
 ###### Article L250-1
 
-La chambre régionale des comptes de la Réunion juge l'ensemble des comptes des comptables publics de la collectivité
-territoriale de Mayotte, des communes de Mayotte et de leurs établissements publics, ainsi que les comptes des personnes
-qu'elle a déclarées comptables de fait ; la Cour des comptes statue en appel.
-
-**Nota:**
-
-NOTA : Loi 2001-616 2001-07-11 art. 22 III :
-
-A compter du renouvellement du conseil général prévu en 2007, le titre V du livre II de la première partie du même code est
-constitué de l'article L. 250-1 ainsi rédigé :
-
-Le présent code est applicable à Mayotte et ses modifications ultérieures sont applicables de plein droit sans mention
-d'applicabilité.
-
-La chambre régionale des comptes compétente pour les collectivités territoriales et les établissements publics locaux de
-Mayotte est la chambre régionale des comptes de la Réunion.
-
-Pour l'application du présent code à Mayotte, il y a lieu de lire : "collectivité départementale" au lieu de : "département"
-et "de la collectivité départementale" au lieu de : "départemental" ou "départementaux".
+Les dispositions du présent titre sont applicables aux collectivités d'outre-mer de Mayotte, de Saint-Barthélemy, de Saint-
+Martin et de Saint-Pierre-et-Miquelon ainsi qu'à leurs établissements publics.
 
 **Liens relatifs à cet article**
 
@@ -7244,8 +7263,7 @@ et "de la collectivité départementale" au lieu de : "départemental" ou "dépa
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 2001-07-11 art. 22, 77 jorf 13 juillet 2001
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 22 ()
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
 
 	**Cité par**:
 
@@ -7262,16 +7280,8 @@ et "de la collectivité départementale" au lieu de : "départemental" ou "dépa
 
 ###### Article L250-2
 
-Les observations, les suggestions d'amélioration ou de réforme portant sur la gestion de la collectivité territoriale, des
-communes et de leurs établissements publics font l'objet de communications de la chambre régionale des comptes au
-représentant du Gouvernement à Mayotte. Elles peuvent être précédées d'un entretien préalable entre le magistrat rapporteur
-ou le président de la chambre et le représentant du Gouvernement. Elles doivent être transmises par celui-ci aux
-collectivités et organismes qu'elles concernent.
-
-**Nota:**
-
-NOTA : Loi 2001-616 du 11 juillet 2001 77 III : Les dispositions de cet article sont abrogées à compter de la date mentionnée
-au II de l'article 2 de la loi 2001-616 du 11 juillet 2001 date du renouvellement du Conseil général.
+Le présent titre est applicable aux communes de Mayotte et de Saint-Pierre-et-Miquelon ainsi qu'à leurs établissements
+publics.
 
 **Liens relatifs à cet article**
 
@@ -7283,50 +7293,22 @@ au II de l'article 2 de la loi 2001-616 du 11 juillet 2001 date du renouvellemen
 
 	  - Loi n°94-1040 1994-12-02
 
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 22 ()
-
-	**Abrogé par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 77 (V)
-
-
-###### Article L250-11
-
-Sont applicables à Mayotte les articles L. 111-9, L. 131-1, L. 233-1, L. 233-2, le chapitre Ier du titre III du présent
-livre, à l'exception de l'article L. 231-6, de la section 2 et de l'article L. 231-13, le chapitre VI de ce même titre et les
-chapitres Ier et III du titre IV de ce même livre, à l'exclusion des articles L. 241-7 à L. 241-11 et L. 241-14.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 35 ()
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
 
-	**Cite**:
 
-	  - Code des juridictions financières - art. L111-9 (V)
-	  - Code des juridictions financières - art. L131-1 (V)
-	  - Code des juridictions financières - art. L231-13 (V)
-	  - Code des juridictions financières - art. L233-1 (V)
-	  - Code des juridictions financières - art. L233-2 (V)
-	  - Code des juridictions financières - art. L241-14 (V)
-	  - Code des juridictions financières - art. L241-7 (V)
+##### CHAPITRE Ier : Du rapport public de la Cour des comptes
 
+###### Article L251-1
 
-###### Article L250-12
+Les dispositions des articles L. 136-2 à L. 136-4 sont applicables dans les conditions suivantes : 
 
-Sont applicables à Mayotte, à compter du transfert de l'exécutif de la collectivité départementale au président du conseil
-général, les articles L. 211-3 à L. 211-6, L. 211-8 et L. 211-9, L. 241-7 à L. 241-11 et L. 241-14.
+1° Les références aux chambres régionales des comptes sont remplacées par les références aux chambres territoriales des
+comptes et les références aux départements et aux régions sont remplacées par les références aux collectivités ; 
+
+2° Pour l'application de l'article L. 136-2, la référence au livre II est remplacée par la référence au chapitre II du
+présent titre.
 
 **Liens relatifs à cet article**
 
@@ -7336,21 +7318,1416 @@ général, les articles L. 211-3 à L. 211-6, L. 211-8 et L. 211-9, L. 241-7 à 
 
 	**Créé par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 22 ()
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
 
-	**Abrogé par**:
+	**Cite**:
+
+	  - Code des juridictions financières - art. L136-2 (V)
+
+
+##### CHAPITRE II : Des chambres territoriales des comptes
+
+##### Section préliminaire : Création
+
+###### Article L252-1
+
+Il est institué une chambre territoriale des comptes de Mayotte, une chambre territoriale des comptes de Saint-Barthélemy,
+une chambre territoriale des comptes de Saint-Martin et une chambre territoriale des comptes de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L252-21 (V)
+	  - Code des juridictions financières - art. L256-1 (T)
+
+
+##### Section 1 : Missions
+
+###### Article L252-3
+
+La chambre territoriale des comptes juge l'ensemble des comptes des comptables publics des communes et de leurs
+établissements publics ainsi que les comptes des personnes qu'elle a déclarées comptables de fait.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L252-12 (V)
+	  - Code des juridictions financières - art. L252-6 (M)
+
+
+###### Article L252-4
+
+Sous réserve des dispositions des articles L. 231-8 et L. 231-9, font l'objet d'un apurement administratif par les comptables
+supérieurs du Trésor : 
+
+1° Les comptes des communes ou groupements de communes dont la population n'excède pas 3 500 habitants et dont le montant des
+recettes ordinaires figurant au dernier compte administratif est inférieur à 750 000 Euros ainsi que ceux de leurs
+établissements publics ; 
+
+2° Les comptes des établissements publics de coopération intercommunale regroupant une population inférieure à 3 500
+habitants ; 
+
+3° Les comptes des associations syndicales autorisées et des associations de remembrement. 
+
+A compter de l'année suivant celle de l'entrée en vigueur de la loi n° 2007-224 du 21 février 2007 portant dispositions
+statutaires et institutionnelles relatives à l'outre-mer, le montant des recettes ordinaires fixé au 1° du présent article
+est réévalué tous les cinq ans en fonction de l'évolution de l'indice des prix à la consommation hors tabac.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
 
 	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L211-3 (V)
-	  - Code des juridictions financières - art. L211-8 (V)
+	  - Code des juridictions financières - art. L231-8 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L252-12 (V)
+	  - Code des juridictions financières - art. L253-5 (M)
+
+
+###### Article L252-6
+
+Pour assurer le jugement effectif des comptes du comptable des communes et de leurs établissements publics en application de
+l'article L. 252-3, la chambre territoriale des comptes vérifie sur pièces et sur place la régularité des recettes et
+dépenses décrites dans leurs comptabilités respectives. Elle s'assure de l'emploi régulier des crédits, fonds et valeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L252-12 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L252-3 (V)
+
+
+###### Article L252-7
+
+Les dispositions des articles L. 133-3 à L. 133-5 et L. 211-4 à L. 211-6 sont applicables, sous réserve du remplacement des
+références à la chambre régionale des comptes par celles à la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L133-3 (V)
+	  - Code des juridictions financières - art. L211-4 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L252-12 (V)
+
+
+###### Article L252-9
+
+La chambre territoriale des comptes examine la gestion des communes et de leurs établissements publics. 
+
+Elle examine en outre celle des établissements, sociétés, groupements et organismes mentionnés aux articles L. 211-4 à L.
+211-6, ainsi qu'aux articles L. 133-3 à L. 133-5, lorsque la vérification lui en est confiée par arrêté du premier président
+de la Cour des comptes. 
+
+Elle peut également assurer ces vérifications sur demande motivée soit du représentant de l'Etat, soit de l'exécutif des
+communes ou des établissements publics mentionnés au premier alinéa. 
+
+Elle peut aussi, dans le cadre du contrôle des comptes des autorités délégantes, vérifier auprès des délégataires de service
+public les comptes qu'ils ont produits aux autorités délégantes. 
+
+L'examen de la gestion porte sur la régularité des actes de gestion, sur l'économie des moyens mis en oeuvre et sur
+l'évaluation des résultats atteints par rapport aux objectifs fixés par l'organe délibérant. L'opportunité de ces objectifs
+ne peut faire l'objet d'observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 33
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L133-3 (V)
+	  - Code des juridictions financières - art. L211-4 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L252-12 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L252-7 (V)
+	  - Code des juridictions financières - art. L252-9-6 (V)
+
+
+###### Article L252-11
+
+La chambre territoriale des comptes concourt au contrôle budgétaire des communes et de leurs établissements publics dans les
+conditions définies au chapitre III du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+
+###### Article L252-12
+
+Les groupements d'intérêt public dotés d'un comptable public sont soumis au contrôle de la chambre territoriale des comptes
+dans les conditions prévues par les articles L. 252-3, L. 252-4, L. 252-6, L. 252-7, L. 252-9 et L. 252-11, dès lors que les
+collectivités et organismes soumis au contrôle de la chambre territoriale des comptes y détiennent séparément ou ensemble
+plus de la moitié des voix dans les organes délibérants ou du capital ou y exercent un pouvoir prépondérant de décision ou de
+gestion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 33
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L252-11 (V)
+	  - Code des juridictions financières - art. L252-3 (V)
+	  - Code des juridictions financières - art. L252-4 (V)
+	  - Code des juridictions financières - art. L252-6 (V)
+	  - Code des juridictions financières - art. L252-7 (V)
+	  - Code des juridictions financières - art. L252-9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L252-9 (VD)
+
+
+###### Article LO252-2
+
+La chambre territoriale des comptes juge l'ensemble des comptes des comptables publics de la collectivité d'outre-mer sur
+laquelle elle a compétence et de ses établissements publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+
+###### Article LO252-5
+
+La chambre territoriale des comptes vérifie sur pièces et sur place la régularité des recettes et dépenses décrites dans les
+comptabilités respectives de la collectivité d'outre-mer sur laquelle elle a compétence et de ses établissements publics.
+Elle s'assure de l'emploi régulier des crédits, fonds et valeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+
+###### Article LO252-8
+
+La chambre territoriale des comptes examine la gestion de la collectivité d'outre-mer sur laquelle elle a compétence et de
+ses établissements publics.
+
+Elle peut également, dans le cadre du contrôle des comptes de l'autorité délégante, vérifier auprès de délégataires de
+services publics les comptes qu'ils ont produits aux autorités délégantes.
+
+L'examen de la gestion porte sur la régularité des actes de gestion, sur l'économie des moyens mis en oeuvre et sur
+l'évaluation des résultats atteints par rapport aux objectifs fixés par l'organe délibérant. L'opportunité de ces objectifs
+ne peut faire l'objet d'observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+
+###### Article LO252-10
+
+La chambre territoriale des comptes concourt au contrôle budgétaire de la collectivité d'outre-mer sur laquelle elle a
+compétence et de ses établissements publics dans les conditions définies au chapitre III.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+
+##### Section 2 : Organisation
+
+##### Sous-section 1 : Organisation de la juridiction
+
+###### Article L252-13
+
+La chambre territoriale des comptes de Mayotte a le même président, les mêmes assesseurs, le ou les mêmes commissaires du
+Gouvernement et le même siège que la chambre régionale des comptes de La Réunion.
+
+La chambre territoriale des comptes de Saint-Pierre-et-Miquelon a le même président, les mêmes assesseurs, le ou les mêmes
+commissaires du Gouvernement et le même siège que la chambre régionale des comptes d'Ile-de-France.
+
+La chambre territoriale des comptes de Saint-Barthélemy et la chambre territoriale des comptes de Saint-Martin ont le même
+président, les mêmes assesseurs, le ou les mêmes commissaires du Gouvernement et le même siège que la chambre régionale des
+comptes de la Guadeloupe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L212-15 (VD)
+	  - Code des juridictions financières - art. L254-7 (VD)
+	  - Code des juridictions financières - art. L256-1 (T)
+
+
+###### Article L252-14
+
+Les articles L. 212-1 à L. 212-4 sont applicables. Pour leur application, les références aux chambres régionales des comptes
+ou à la chambre régionale des comptes sont respectivement remplacées par les références aux chambres territoriales des
+comptes ou à la chambre territoriale des comptes et la référence au conseil régional est remplacée par la référence à la
+collectivité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L212-1 (V)
+
+
+###### Article L252-15
+
+Les effectifs de la chambre territoriale des comptes peuvent être complétés par des magistrats de l'ordre judiciaire dans les
+conditions fixées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 33
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L252-18 (V)
+
+
+###### Article L252-16
+
+Les articles L. 212-6 à L. 212-11 sont applicables. Pour leur application, les références aux chambres régionales des comptes
+ou à la chambre régionale des comptes sont respectivement remplacées par les références aux chambres territoriales des
+comptes ou à la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+
+###### Article L252-17
+
+L'intérim du ministère public auprès de la chambre territoriale des comptes peut être exercé, pour une période n'excédant pas
+six mois, par un magistrat d'une chambre régionale ou territoriale des comptes remplissant les conditions réglementaires pour
+être délégué dans les fonctions de commissaire du Gouvernement, désigné sur proposition du président de la chambre
+territoriale par décision conjointe du premier président de la Cour des comptes et du procureur général près la Cour des
+comptes. Il est mis fin à cet intérim par décision du procureur général qui en tient informé le premier président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L212-12 (VD)
+	  - Code des juridictions financières - art. R252-2 (V)
+
+
+###### Article L252-18
+
+Un décret en Conseil d'Etat fixe les modalités d'organisation et de fonctionnement de la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 33
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L252-20 (V)
+
+
+##### Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes
+
+###### Article L252-19
+
+Les magistrats de la chambre territoriale des comptes participent à l'élection des représentants des chambres régionales et
+territoriales des comptes au Conseil supérieur des chambres régionales des comptes dans des conditions fixées par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 33
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L252-21 (V)
+
+
+###### Article L252-20
+
+Le Conseil supérieur des chambres régionales des comptes exerce à l'égard de la chambre territoriale et de ses membres les
+compétences qui sont les siennes à l'égard des chambres régionales des comptes et de leurs membres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 33
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L252-22 (V)
+
+
+##### Section 3 : Dispositions statutaires
+
+###### Article L252-21
+
+Les dispositions du présent code relatives aux présidents des chambres régionales des comptes et au statut des magistrats
+composant ces juridictions sont applicables aux chambres territoriales des comptes mentionnées à l'article L. 252-1.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L252-19 (V)
+	  - Code des juridictions financières - art. L252-23 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 33
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L252-1 (V)
+
+
+##### CHAPITRE III : Compétences et attributions
+
+##### Section 1 : Compétences juridictionnelles
+
+##### Sous-section 1 : Jugement des comptes
+
+###### Article L253-2
+
+Le comptable d'une commune ou d'un établissement public communal ou intercommunal est tenu de produire ses comptes devant la
+chambre territoriale des comptes dans les délais prescrits par les règlements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+
+###### Article L253-3
+
+La chambre territoriale des comptes statue en premier ressort, à titre provisoire ou définitif, sur les comptes des
+comptables publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+
+###### Article L253-4
+
+La chambre territoriale juge, dans les mêmes formes et sous les mêmes sanctions, les comptes que lui rendent les personnes
+qu'elle a déclarées comptables de fait d'une collectivité ou d'un établissement public relevant de sa compétence.
+
+L'action en déclaration de gestion de fait est prescrite pour les actes constitutifs de gestion de fait commis plus de dix
+ans avant la date à laquelle la chambre territoriale des comptes en est saisie ou s'en saisit d'office.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+
+###### Article LO253-1
+
+Les comptables des collectivités d'outre-mer et de leurs établissements publics sont tenus de produire leurs comptes devant
+la chambre territoriale des comptes compétente dans les délais prescrits par les règlements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+
+##### Sous-section 2 : Contrôle de l'apurement administratif des comptes
+
+###### Article L253-5
+
+Les décisions d'apurement en application de l'article L. 252-4, assorties le cas échéant de toute observation pouvant
+entraîner la mise en débet du comptable, sont transmises par le comptable supérieur du Trésor à la chambre territoriale des
+comptes. La mise en débet du comptable ne peut être prononcée que par la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L252-4 (V)
+
+
+###### Article L253-6
+
+Les articles L. 231-8 et L. 231-9 sont applicables. Pour leur application, les références à la chambre régionale des comptes
+sont remplacées par les références à la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L231-8 (V)
+	  - Code des juridictions financières - art. L231-9 (V)
+
+
+##### Sous-section 3 : Condamnation des comptables à l'amende
+
+###### Article L253-7
+
+Les articles L. 231-10 à L. 231-13 sont applicables. Pour leur application, les références à la chambre régionale des comptes
+sont remplacées par les références à la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières L231-10 à L231-13
+
+
+##### Section 2 : Contrôle des actes budgétaires et de l'exécution du budget
+
+##### Sous-section 1 : Dispositions applicables à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon et à leurs établissements publics
+
+###### Article LO253-8
+
+Le contrôle des actes budgétaires et de l'exécution des budgets de la collectivité départementale de Mayotte, de ses
+établissements publics administratifs et des établissements publics locaux d'enseignement en relevant s'exerce dans les
+conditions prévues aux articles LO 6171-9 à LO 6171-27 du code général des collectivités territoriales.
+
+Le présent article est applicable à compter du prochain renouvellement du conseil général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+	**Abrogé par**:
+
+	  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 4
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L253-14 (M)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6171-27
+	  - Code général des collectivités territoriales - art. LO6171-9
+
+
+###### Article LO253-9
+
+Le contrôle des actes budgétaires et de l'exécution des budgets de la collectivité de Saint-Barthélemy, de ses établissements
+publics administratifs et des établissements publics locaux d'enseignement en relevant s'exerce dans les conditions prévues
+aux articles LO 6262-1 à LO 6262-19 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L253-14 (VD)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales LO6262-1 à LO6262-19
+
+
+###### Article LO253-10
+
+Le contrôle des actes budgétaires et de l'exécution des budgets de la collectivité de Saint-Martin, de ses établissements
+publics administratifs et des établissements publics locaux d'enseignement en relevant s'exerce dans les conditions prévues
+aux articles LO 6362-1 à LO 6362-19 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales LO6362-1 à LO6362-19
+
+
+###### Article LO253-11
+
+Le contrôle des actes budgétaires et de l'exécution des budgets de la collectivité de Saint-Pierre-et-Miquelon, de ses
+établissements publics administratifs et des établissements publics locaux d'enseignement en relevant s'exerce dans les
+conditions prévues aux articles LO 6471-4 à LO 6471-22 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6471-22 (V)
+	  - Code général des collectivités territoriales - art. LO6471-4 (V)
+
+
+###### Article LO253-12
+
+Lorsqu'elle est saisie en application des articles LO 253-8 à LO 253-11, la chambre territoriale des comptes dispose, pour
+l'instruction de ces affaires, des pouvoirs définis aux articles LO 254-1 et LO 254-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. LO254-1 (V)
+	  - Code des juridictions financières - art. LO254-2 (V)
+	  - Code des juridictions financières LO253-8 à LO253-11, LO254-1, LO254-2
+
+
+##### Sous-section 2 : Dispositions applicables aux communes et à leurs établissements publics
+
+###### Article L253-13
+
+Le contrôle des actes budgétaires et de l'exécution des budgets des communes des collectivités de Mayotte et de Saint-Pierre-
+et-Miquelon et de leurs établissements publics s'exerce dans les conditions prévues par le chapitre II du titre Ier du livre
+VI de la première partie du code général des collectivités territoriales.
+
+Pour l'application des dispositions précitées du code général des collectivités territoriales dans les collectivités de
+Mayotte et de Saint-Pierre-et-Miquelon, la référence au représentant de l'Etat dans le département est remplacée par la
+référence au représentant de l'Etat, et la référence à la chambre régionale des comptes est remplacée par la référence à la
+chambre territoriale des comptes.
+
+Les dispositions du présent article sont applicables aux communes de Mayotte et à leurs établissements publics à compter du
+renouvellement des conseils municipaux en 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L253-15 (V)
+	  - Code des juridictions financières - art. L254-8 (VD)
+	  - Code des juridictions financières - art. R253-13 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. LO254-1 (V)
+	  - Code des juridictions financières - art. LO254-2 (V)
+	  - Code des juridictions financières LO253-8 à LO253-11, LO254-1, LO254-2
+
+
+###### Article L253-14
+
+Lorsqu'elle est saisie en application des articles LO 253-8 à LO 253-11, la chambre territoriale des comptes dispose, pour
+l'instruction de ces affaires, des pouvoirs définis aux articles L. 241-3 et L. 241-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L241-3 (V)
+	  - Code des juridictions financières - art. LO253-8 (V)
+
+
+###### Article L253-15
+
+Lorsqu'elle est saisie en application de l'article L. 253-13, la chambre territoriale des comptes dispose, pour l'instruction
+de ces affaires, des pouvoirs définis aux articles L. 241-1 ou L. 241-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L241-1 (V)
+	  - Code des juridictions financières - art. L253-13 (V)
+
+
+##### Sous-section 3 : Dispositions particulières aux syndicats de communes
+
+###### Article L253-16
+
+La chambre territoriale des comptes, saisie par le représentant de l'Etat, donne un avis sur les modifications susceptibles
+d'être apportées aux règles modifiant les modalités de répartition des contributions des communes au budget d'un syndicat
+dont elles sont membres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R253-15 (V)
+
+
+##### Sous-section 4 : Dispositions applicables aux établissements publics locaux d'enseignement
+
+###### Article L253-17
+
+Le contrôle des actes budgétaires des établissements publics locaux d'enseignement relevant des communes s'exerce dans les
+conditions définies aux articles L. 421-11 à L. 421-13 du code de l'éducation. 
+
+Pour l'application des articles L. 421-11, L. 722-6 et L. 722-11 du même code, la référence à la chambre régionale des
+comptes est remplacée par la référence à la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R253-16 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L421-11 (V)
+	  - Code de l'éducation - art. L722-11 (V)
+	  - Code de l'éducation - art. L722-6 (V)
+
+
+##### Section 3 : Ordres de réquisition
+
+###### Article L253-21
+
+Les ordres de réquisition des comptables des communes des collectivités de Mayotte et de Saint-Pierre-et-Miquelon sont régis
+par les dispositions des articles L. 1617-1 à L. 1617-4 du code général des collectivités territoriales. Pour l'application
+de ces articles, les références à la chambre régionale des comptes sont remplacées par les références à la chambre
+territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1617-1 (V)
+
+
+###### Article LO253-18
+
+Le comptable d'une collectivité d'outre-mer ne peut subordonner ses actes de paiement à une appréciation de l'opportunité des
+décisions prises par l'ordonnateur. Il ne peut soumettre les mêmes actes qu'au contrôle de légalité qu'impose l'exercice de
+sa responsabilité personnelle et pécuniaire. Il est tenu de motiver la suspension du paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. LO253-20 (V)
+
+
+###### Article LO253-19
+
+Lorsque le comptable d'une collectivité d'outre-mer notifie sa décision de suspendre le paiement d'une dépense, l'ordonnateur
+peut lui adresser un ordre de réquisition. Il s'y conforme aussitôt, sauf en cas d'insuffisance de fonds territoriaux
+disponibles, de dépense ordonnancée sur des crédits irrégulièrement ouverts ou insuffisants ou sur des crédits autres que
+ceux sur lesquels elle devrait être imputée, d'absence totale de justification du service fait ou de défaut de caractère
+libératoire du règlement. L'ordre de réquisition est notifié au représentant de l'Etat qui en informe la chambre territoriale
+des comptes.
+
+En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L312-2 (V)
+
+
+###### Article LO253-20
+
+Les articles LO 253-18 et LO 253-19 sont applicables aux établissements publics communs à des collectivités d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. LO253-18 (V)
+	  - Code des juridictions financières LO253-18, L253-19
+
+
+##### Section 4 : Du contrôle de certaines conventions
+
+###### Article L253-22
+
+Les conventions relatives aux marchés et aux délégations de service public conclues par les collectivités mentionnées à
+l'article L. 250-1 et leurs établissements publics peuvent être transmises par le représentant de l'Etat à la chambre
+territoriale des comptes. Le représentant de l'Etat en informe l'autorité signataire de la convention. 
+
+La chambre territoriale des comptes formule ses observations dans un délai d'un mois à compter de sa saisine. L'avis de la
+chambre territoriale des comptes est transmis à l'exécutif des collectivités mentionnées au premier alinéa ou à
+l'établissement public intéressé ainsi qu'au représentant de l'Etat. 
+
+L'ordonnateur ou son représentant peut, à sa demande, présenter oralement ses observations et être assisté par une personne
+de son choix. L'organe délibérant est informé de l'avis de la chambre territoriale des comptes dès sa plus prochaine réunion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 33
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 35
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L250-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L252-14 (V)
+	  - Code des juridictions financières - art. L254-8, v. 0.2 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R253-17 (T)
+	  - Code des juridictions financières - art. R253-18 (T)
+
+
+###### Article L253-23
+
+Le contrôle des conventions relatives aux marchés et aux délégations de service public conclues par les communes et leurs
+établissements publics est régi par les dispositions de l'article L. 1411-18 du code général des collectivités territoriales.
+Pour l'application de cet article, les références à la chambre régionale des comptes sont remplacées par les références à la
+chambre territoriale des comptes et la référence au représentant de l'Etat dans le département est remplacée par la référence
+au représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 33
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L252-13 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R253-18 (T)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1411-18 (VD)
+
+
+##### Section 5 : Contrôle des actes des sociétés d'économie mixte
+
+###### Article L253-24
+
+Si le représentant de l'Etat estime qu'une délibération du conseil d'administration, du conseil de surveillance ou des
+assemblées générales d'une société d'économie mixte créée par une ou plusieurs collectivités mentionnées à l'article L. 250-1
+ou par leurs groupements est de nature à augmenter gravement la charge financière d'une ou plusieurs de ces collectivités ou
+de leurs groupements actionnaires ou le risque encouru par la ou les collectivités ou leurs groupements qui ont apporté leur
+garantie à un emprunt contracté par la société, il saisit, dans le délai d'un mois suivant la date de réception de la
+délibération, la chambre territoriale des comptes, à charge pour lui d'en informer simultanément la société et l'exécutif de
+la collectivité. La saisine de la chambre territoriale des comptes entraîne une seconde lecture par le conseil
+d'administration ou de surveillance ou par les assemblées générales de la délibération contestée.
+
+La chambre territoriale des comptes dispose d'un délai d'un mois à compter de la saisine pour faire connaître son avis au
+représentant de l'Etat, à la société, à l'exécutif et à l'assemblée délibérante de la collectivité, aux groupements et aux
+actionnaires ou garants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 33
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L250-1
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L252-15 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R253-19 (T)
+
+
+###### Article L253-25
+
+Le contrôle des actes des sociétés d'économie mixte locales créées par une ou plusieurs communes ou par leurs groupements est
+régi par les dispositions de l'article L. 1524-2 du code général des collectivités territoriales. 
+
+Pour l'application de ces dispositions, la référence à la chambre régionale des comptes est remplacée par la référence à la
+chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 33
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L252-16 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R253-20 (T)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1524-2
+
+
+##### Section 6 : Prestation de serment des comptables
+
+###### Article L253-26
+
+Les comptables des collectivités mentionnées à l'article L. 250-1, des communes et de leurs établissements publics prêtent
+serment devant la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 34
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 36
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L250-1
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L255-2, v. 0.1 (V)
+
+
+##### CHAPITRE IV : Procédure
+
+##### Section 1 : Règles générales de procédure
+
+###### Article L254-4
+
+Les articles L. 241-1 à L. 241-15 sont applicables. Pour leur application, les références à la chambre régionale des comptes
+et aux chambres régionales des comptes sont remplacées respectivement par les références à la chambre territoriale des
+comptes et aux chambres territoriales des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières L241-1 à L241-15
+
+
+###### Article LO254-1
+
+La chambre territoriale des comptes est habilitée à se faire communiquer tous documents, de quelque nature que ce soit,
+relatifs à la gestion de la collectivité d'outre-mer, de ses établissements publics et des autres organismes soumis à son
+contrôle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L253-13 (V)
+	  - Code des juridictions financières - art. LO253-12 (V)
+
+
+###### Article LO254-2
+
+Les magistrats de la chambre territoriale des comptes disposent à l'égard de la collectivité d'outre-mer, pour l'exercice des
+contrôles qu'ils effectuent, de l'ensemble des droits et pouvoirs attribués à la Cour des comptes par le titre IV du livre
+Ier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L253-13 (V)
+	  - Code des juridictions financières - art. L254-4 (VD)
+	  - Code des juridictions financières - art. LO253-12 (V)
+
+
+###### Article LO254-3
+
+Lorsqu'à l'occasion de ses contrôles, la chambre territoriale des comptes relève des faits de nature à justifier une
+amélioration des règles de droit dont l'édiction entre dans la compétence de la collectivité d'outre-mer, elle peut demander
+à son président d'adresser une communication à l'exécutif et à l'assemblée délibérante de ladite collectivité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+
+##### Section 2 : Voies de recours
+
+###### Article L254-5
+
+Les articles L. 243-1 à L. 243-4 sont applicables. Pour leur application, les références à la chambre régionale des comptes
+et aux chambres régionales des comptes sont respectivement remplacées par les références à la chambre territoriale des
+comptes et aux chambres territoriales des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L243-1 (V)
+
+
+##### CHAPITRE V : Des comptables des collectivités de Mayotte, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
+
+###### Article L255-1
+
+Le ministre chargé du budget nomme, après que l'exécutif de la collectivité en a été informé, le comptable de la collectivité
+mentionnée à l'article L. 250-1. Celui-ci est un comptable direct du Trésor ayant la qualité de comptable principal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L250-1 (M)
+
+
+##### CHAPITRE VI : Dispositions diverses
+
+###### Article L256-1
+
+Lorsque des magistrats sont simultanément affectés dans plusieurs chambres territoriales des comptes ou dans au moins une
+chambre territoriale des comptes et au moins une chambre régionale des comptes mentionnée à l'article L. 212-12 et que leur
+venue à l'audience n'est pas matériellement possible dans les délais prescrits par les dispositions en vigueur ou exigés par
+la nature de l'affaire, le ou les membres concernés peuvent siéger et, le cas échéant, le commissaire du Gouvernement
+prononcer ses conclusions, dans une autre chambre dont ils sont membres, reliés en direct à la salle d'audience par un moyen
+de communication audiovisuelle. 
+
+Le premier alinéa est également applicable si la ou les chambres régionales des comptes et la ou les chambres territoriales
+des comptes ont le même siège en application de l'article L. 212-12 et du dernier alinéa de l'article L. 252-13. Dans cette
+hypothèse, le ou les membres concernés peuvent siéger et, le cas échéant, le commissaire du Gouvernement prononcer ses
+conclusions, reliés en direct à la salle d'audience par un moyen de communication audiovisuelle. 
+
+Lorsque des personnes ayant demandé à être auditionnées en application des articles L. 231-3, L. 231-12 ou L. 241-14 ou ayant
+l'obligation de répondre à une convocation en application de l'article L. 241-4 ne peuvent matériellement se rendre à
+l'audience d'une chambre territoriale des comptes mentionnée à l'article L. 252-1 dans les délais prescrits par les
+dispositions en vigueur ou exigés par la nature de l'affaire, elles peuvent présenter leurs observations, reliées en direct à
+la salle d'audience par un moyen de communication audiovisuelle. 
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L212-12 (V)
+	  - Code des juridictions financières - art. L231-12 (V)
+	  - Code des juridictions financières - art. L231-3 (V)
 	  - Code des juridictions financières - art. L241-14 (V)
-	  - Code des juridictions financières - art. L241-7 (V)
+	  - Code des juridictions financières - art. L252-1 (V)
+	  - Code des juridictions financières - art. L252-13 (V)
 
-
-### DEUXIEME PARTIE : Les chambres territoriales des comptes
 
 #### TITRE VI : Dispositions applicables en Nouvelle-Calédonie
 
@@ -12794,46 +14171,67 @@ Le secrétariat de la Cour est assuré par les services de la Cour des comptes.
 
 ###### Article L312-1
 
-I. - Est justiciable de la Cour :
+I.-Est justiciable de la Cour : 
 
-a) Toute personne appartenant au cabinet d'un membre du Gouvernement ;
+a) Toute personne appartenant au cabinet d'un membre du Gouvernement ; 
 
 b) Tout fonctionnaire ou agent civil ou militaire de l'Etat, des collectivités territoriales, de leurs établissements publics
-ainsi que des groupements des collectivités territoriales ;
+ainsi que des groupements des collectivités territoriales ; 
 
 c) Tout représentant, administrateur ou agent des autres organismes qui sont soumis soit au contrôle de la Cour des comptes,
-soit au contrôle d'une chambre régionale des comptes.
+soit au contrôle d'une chambre régionale des comptes. 
 
-Sont également justiciables de la Cour tous ceux qui exercent, en fait, les fonctions des personnes désignées ci-dessus.
+Sont également justiciables de la Cour tous ceux qui exercent, en fait, les fonctions des personnes désignées ci-dessus. 
 
-II. - Toutefois, ne sont pas justiciables de la Cour à raison des actes accomplis dans l'exercice de leurs fonctions :
+II.-Toutefois, ne sont pas justiciables de la Cour à raison des actes accomplis dans l'exercice de leurs fonctions : 
 
-a) Les membres du Gouvernement ;
+a) Les membres du Gouvernement ; 
 
 b) Les présidents de conseil régional et, quand ils agissent dans le cadre des dispositions des articles L. 4132-3 à L.
-4132-10, L. 4132-13, L. 4132-15, L. 4132-21, L. 4132-22, L. 4132-25, L. 4133-1, L. 4133-2, L. 4133-4 à  L. 4133-8, L. 4231-1
-à L. 4231-5 du code général des collectivités territoriales, les vice-présidents et autres membres du conseil régional ;
+4132-10, L. 4132-13, L. 4132-15, L. 4132-21, L. 4132-22, L. 4132-25, L. 4133-1, L. 4133-2, L. 4133-4 à L. 4133-8, L. 4231-1 à
+L. 4231-5 du code général des collectivités territoriales, les vice-présidents et autres membres du conseil régional ; 
 
 c) Le président du conseil exécutif de Corse et, quand ils agissent dans le cadre des dispositions du dernier alinéa de
-l'article L. 4424-4 du code général des collectivités territoriales, les conseillers exécutifs ;
+l'article L. 4424-4 du code général des collectivités territoriales, les conseillers exécutifs ; 
 
 d) Les présidents de conseil général et, quand ils agissent dans le cadre des dispositions des articles L. 3221-3 et L.
-3221-7 du code général des collectivités territoriales, les vice-présidents et autres membres du conseil général ;
+3221-7 du code général des collectivités territoriales, les vice-présidents et autres membres du conseil général ; 
 
 e) Les maires et, quand ils agissent dans le cadre des dispositions des articles L. 2122-17 à L. 2122-20 et L. 2122-25 du
-code général des collectivités territoriales, les adjoints et autres membres du conseil municipal ;
+code général des collectivités territoriales, les adjoints et autres membres du conseil municipal ; 
 
 f) Les présidents élus de groupements de collectivités territoriales et, quand ils agissent par délégation du président, les
-vice-présidents et autres membres de l'organe délibérant du groupement ;
+vice-présidents et autres membres de l'organe délibérant du groupement ; 
 
-g) S'ils ne sont pas rémunérés et s'ils n'exercent pas, directement ou par délégation, les fonctions de président, les
+g) Le président du gouvernement de la Nouvelle-Calédonie et, quand il agit dans le cadre des dispositions de l'article 70 de
+la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, le vice-président ; le président de l'assemblée
+de province et, quand ils agissent dans le cadre des dispositions de l'article 173 de la même loi organique, les vice-
+présidents ; 
+
+h) Le président de la Polynésie française et, quand ils agissent dans le cadre des dispositions de l'article 67 de la loi
+organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française, le vice-président et les
+ministres ; 
+
+i) Le président du conseil général de Mayotte et, quand ils agissent dans le cadre des dispositions de l'article LO 6162-9 du
+code général des collectivités territoriales, les vice-présidents et autres membres du conseil général ; 
+
+j) Le président du conseil territorial de Saint-Barthélemy et, quand ils agissent dans le cadre des dispositions de l'article
+LO 6252-3 du même code, les vice-présidents et autres membres du conseil exécutif ; 
+
+k) Le président du conseil territorial de Saint-Martin et, quand ils agissent dans le cadre des dispositions de l'article LO
+6352-3 du même code, les vice-présidents et autres membres du conseil exécutif ; 
+
+l) Le président du conseil territorial de Saint-Pierre-et-Miquelon et, quand ils agissent dans le cadre des dispositions de
+l'article LO 6462-8 du même code, les vice-présidents et autres membres du conseil territorial ; 
+
+m) S'ils ne sont pas rémunérés et s'ils n'exercent pas, directement ou par délégation, les fonctions de président, les
 administrateurs élus des organismes de protection sociale relevant du contrôle de la Cour des comptes et agissant dans le
-cadre des dispositions législatives ou réglementaires ;
+cadre des dispositions législatives ou réglementaires ; 
 
-h) S'ils ne sont pas rémunérés et s'ils n'exercent pas les fonctions de président, les administrateurs ou agents des
-associations de bienfaisance assujetties au contrôle de la Cour des comptes ou d'une chambre régionale des comptes.
+n) S'ils ne sont pas rémunérés et s'ils n'exercent pas les fonctions de président, les administrateurs ou agents des
+associations de bienfaisance assujetties au contrôle de la Cour des comptes ou d'une chambre régionale des comptes. 
 
-Les personnes mentionnées aux a à f ne sont pas non plus justiciables de la Cour lorsqu'elles ont agi dans des fonctions qui,
+Les personnes mentionnées aux a à l ne sont pas non plus justiciables de la Cour lorsqu'elles ont agi dans des fonctions qui,
 en raison de dispositions législatives ou réglementaires, sont l'accessoire obligé de leur fonction principale.
 
 **Liens relatifs à cet article**
@@ -12842,9 +14240,26 @@ en raison de dispositions législatives ou réglementaires, sont l'accessoire ob
 
 	  - Loi n°95-851 1995-07-24
 
+	**Cite**:
+
+	  - Loi n°2004-192 du 27 février 2004 - art. 67 (V)
+	  - Code général des collectivités territoriales - art. L2122-17 (V)
+	  - Code général des collectivités territoriales - art. L2122-25 (V)
+	  - Code général des collectivités territoriales - art. L4132-13 (V)
+	  - Code général des collectivités territoriales - art. L4132-15 (V)
+	  - Code général des collectivités territoriales - art. L4132-21 (V)
+	  - Code général des collectivités territoriales - art. L4132-22 (V)
+	  - Code général des collectivités territoriales - art. L4132-25 (V)
+	  - Code général des collectivités territoriales - art. L4132-3 (V)
+	  - Code général des collectivités territoriales - art. L4133-2 (V)
+	  - Code général des collectivités territoriales - art. L4133-4 (V)
+	  - Code général des collectivités territoriales - art. L4231-1 (V)
+	  - Code général des collectivités territoriales - art. LO6162-9 (V)
+	  - Code général des collectivités territoriales - art. LO6252-3 (V)
+
 	**Modifié par**:
 
-	  - Loi n°96-142 du 21 février 1996 - art. 11 (V) JORF 24 février 1996
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
 
 	**Cité par**:
 
@@ -12866,28 +14281,14 @@ en raison de dispositions législatives ou réglementaires, sont l'accessoire ob
 	  - Code monétaire et financier - art. L612-34-1 (V)
 	  - Code monétaire et financier - art. L613-51 (V)
 
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2122-25 (V)
-	  - Code général des collectivités territoriales - art. L3221-3 (M)
-	  - Code général des collectivités territoriales - art. L3221-7 (V)
-	  - Code général des collectivités territoriales - art. L4132-13 (M)
-	  - Code général des collectivités territoriales - art. L4132-15 (V)
-	  - Code général des collectivités territoriales - art. L4132-21 (M)
-	  - Code général des collectivités territoriales - art. L4132-22 (V)
-	  - Code général des collectivités territoriales - art. L4132-25 (V)
-	  - Code général des collectivités territoriales - art. L4133-1 (M)
-	  - Code général des collectivités territoriales - art. L4133-2 (V)
-	  - Code général des collectivités territoriales - art. L4424-4 (T)
-	  - Code général des collectivités territoriales L4132-3 à L4132-10, L4132-13, L4132-15, L4132-21, L4132-22, L4132-25, L4133-1, L4133-2, L4133-4 à L4133-8, L4231-1 à L4231-5, L4424-4, L3221-3, L3221-7, L2122-17 à L2122-20, L2122-25
-
 
 ###### Article L312-2
 
-Par dérogation à l'article L. 312-1, les personnes mentionnées aux b à f de cet article sont justiciables de la Cour, à
+Par dérogation à l'article L. 312-1, les personnes mentionnées aux b à l de cet article sont justiciables de la Cour, à
 raison des actes accomplis dans l'exercice de leurs fonctions, lorsqu'elles ont commis les infractions définies par les
 articles L. 313-7 ou L. 313-12 ou lorsqu'elles ont engagé leur responsabilité propre à l'occasion d'un ordre de réquisition,
-conformément à l'article L. 233-1 et enfreint les dispositions de l'article L. 313-6.
+conformément à l'article L. 233-1, à l'article LO 253-19, à l'article LO 264-5 ou à l'article LO 274-5 et enfreint les
+dispositions de l'article L. 313-6.
 
 **Liens relatifs à cet article**
 
@@ -12895,17 +14296,19 @@ conformément à l'article L. 233-1 et enfreint les dispositions de l'article L.
 
 	  - Loi n°95-851 1995-07-24
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L233-1 (M)
-	  - Code des juridictions financières - art. L312-1 (M)
-	  - Code des juridictions financières - art. L313-12 (V)
-	  - Code des juridictions financières - art. L313-6 (M)
-	  - Code des juridictions financières - art. L313-7 (M)
+	  - Code des juridictions financières - art. L233-1 (V)
+	  - Code des juridictions financières - art. L312-1 (V)
+	  - Code des juridictions financières - art. L313-6 (V)
+	  - Code des juridictions financières - art. L313-7 (V)
+	  - Code des juridictions financières - art. LO253-19 (V)
+	  - Code des juridictions financières - art. LO264-5 (V)
+	  - Code des juridictions financières - art. LO274-5 (V)
 
 	**Cité par**:
 
@@ -13380,9 +14783,9 @@ autorité ;
 
 - la Cour des comptes ;
 
-- les chambres régionales des comptes ;
+- les chambres régionales et territoriales des comptes ;
 
-- les créanciers pour les faits visés à l'article L. 313-12.
+- les créanciers pour les faits visés à l'article L. 313-12. 
 
 Le procureur général près la Cour des comptes peut également saisir la Cour de sa propre initiative.
 
@@ -13392,13 +14795,13 @@ Le procureur général près la Cour des comptes peut également saisir la Cour 
 
 	  - Loi n°95-851 1995-07-24
 
-	**Créé par**:
-
-	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
-
 	**Anciens textes**:
 
 	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
 
 	**Cite**:
 

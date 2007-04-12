@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2007-02-22
+Version Consolidée au 2007-04-13
 
 # Partie législative
 
@@ -15962,6 +15962,30 @@ au fonctionnement de la Cour des comptes, ainsi qu'aux procédures qui lui sont 
 	  - Code des juridictions financières - art. R*112-1 (V)
 
 
+###### Article R*112-6
+
+Le premier président est assisté par un secrétaire général et des secrétaires généraux adjoints désignés par décret, sur sa
+proposition. Le secrétaire général et les secrétaires généraux adjoints sont choisis parmi les conseillers maîtres ou les
+conseillers référendaires.
+
+Le premier président peut aussi désigner parmi les magistrats de la Cour un ou plusieurs chargés de mission.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-199 1985-02-11, art 3, 2ème alinéa
+	  - Décret n°85-199 du 11 février 1985 - art. 3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-337 2000-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2007-542 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+
 ###### Article R*112-10
 
 Les avocats généraux sont désignés par décret parmi les conseillers maîtres ou les conseillers référendaires, après avis du
@@ -15999,7 +16023,8 @@ Le premier avocat général est nommé par décret parmi les avocats généraux,
 
 ###### Article R112-2
 
-Le procureur général, qui exerce le ministère public, est assisté d'un premier avocat général et d'avocats généraux.
+Le procureur général, qui exerce le ministère public, est assisté d'un premier avocat général, d'avocats généraux et de
+chargés de mission.
 
 **Liens relatifs à cet article**
 
@@ -16011,9 +16036,9 @@ Le procureur général, qui exerce le ministère public, est assisté d'un premi
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
 
 	**Cité par**:
 
@@ -16028,7 +16053,8 @@ l'organisation générale des travaux de la Cour, il répartit les attributions 
 programme annuel des travaux au vu des propositions des présidents de chambre.
 
 Il préside les audiences solennelles, la chambre du conseil, les chambres réunies, la conférence des présidents et le comité
-du rapport public et des programmes. Il peut présider les séances de chambre.
+du rapport public et des programmes. Il peut présider les séances de chambre, les formations interchambres et les chambres
+réunies statuant en formation restreinte.
 
 Il signe les arrêts et décisions rendus sous sa présidence.
 
@@ -16046,7 +16072,7 @@ Il fait connaître aux ministres compétents, par voie de référé, les observa
 
 	**Modifié par**:
 
-	  - Décret n°2006-1262 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+	  - Décret n°2007-543 du 12 avril 2007 - art. 2 () JORF 13 avril 2007
 
 	**Cité par**:
 
@@ -16062,7 +16088,9 @@ Il fait connaître aux ministres compétents, par voie de référé, les observa
 Le premier président administre les services de la Cour et assure la gestion des magistrats et des personnels affectés à
 cette juridiction.
 
-Il ordonnance les dépenses de la Cour des comptes.
+Le premier président est ordonnateur principal des dépenses et des recettes de la Cour des comptes.
+
+Il conclut les marchés ainsi que les contrats relatifs à la gestion de la Cour des comptes.
 
 Dans le cadre de ces attributions, il peut déléguer sa signature, par arrêté, dans les conditions définies à l'article R.
 112-7 ainsi qu'à des fonctionnaires appartenant à un corps de catégorie A et à des agents publics non titulaires, de même
@@ -16080,7 +16108,7 @@ niveau de recrutement, affectés à des services relevant du secrétariat géné
 
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 2 ()
+	  - Décret n°2007-543 du 12 avril 2007 - art. 3 () JORF 13 avril 2007
 
 	**Cité par**:
 
@@ -16096,7 +16124,9 @@ niveau de recrutement, affectés à des services relevant du secrétariat géné
 
 ###### Article R112-5
 
-En cas d'absence ou d'empêchement, le premier président est remplacé par le plus ancien des présidents de chambre.
+En cas d'absence, d'empêchement ou de vacance, le premier président est remplacé par le magistrat le plus ancien dans le
+grade de président de chambre, à l'exception des magistrats mentionnés à l'article 1er de la loi n° 86-1304 du 23 décembre
+1986 relative à la limite d'âge et aux modalités de recrutement de certains fonctionnaires civils de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -16105,37 +16135,17 @@ En cas d'absence ou d'empêchement, le premier président est remplacé par le p
 	  - Décret n°85-199 1985-02-11, art 15, 1ère proposition
 	  - Décret n°85-199 du 11 février 1985 - art. 15 (Ab)
 
+	**Cite**:
+
+	  - Loi n°86-1304 du 23 décembre 1986 - art. 1 (V)
+
 	**Codifié par**:
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article R112-6
-
-Le premier président est assisté par un secrétaire général et des secrétaires généraux adjoints désignés par décret, sur sa
-proposition. Le secrétaire général est choisi parmi les conseillers maîtres ou les conseillers référendaires. Les secrétaires
-généraux adjoints sont choisis parmi les conseillers référendaires.
-
-Le premier président peut aussi désigner parmi les magistrats de la Cour un ou plusieurs chargés de mission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°85-199 1985-02-11, art 3, 2ème alinéa
-	  - Décret n°85-199 du 11 février 1985 - art. 3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-337 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-337 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2007-543 du 12 avril 2007 - art. 4 () JORF 13 avril 2007
 
 
 ###### Article R112-7
@@ -16179,23 +16189,25 @@ des présidents.
 
 Le procureur général exerce le ministère public par voie de réquisitions ou de conclusions.
 
+Il requiert l'installation des magistrats dans leurs fonctions en audience solennelle.
+
 Il veille à la production des comptes dans les délais réglementaires et, en cas de retard, requiert l'application de l'amende
 prévue par la loi.
 
 Il défère à la Cour des comptes les opérations qu'il présume constitutives de gestion de fait, à son initiative ou à la
 demande du ministre chargé des finances, des ministres intéressés, des représentants de l'Etat dans les régions ou les
-départements, des procureurs de la République, des trésoriers-payeurs généraux et des comptables principaux du Trésor à
-l'étranger, ou au vu des constatations faites lors de la vérification des comptes, sans préjudice du droit de la Cour de s'en
-saisir d'office dans ce dernier cas. Il requiert en cas de besoin l'application de l'amende pour immixtion dans les fonctions
-de comptable public.
+départements, des procureurs de la République, des trésoriers-payeurs généraux et des autres comptables principaux, ou au vu
+des constatations faites lors de la vérification des comptes, sans préjudice du droit de la Cour de s'en saisir d'office dans
+ce dernier cas. Il requiert en cas de besoin l'application de l'amende pour immixtion dans les fonctions de comptable public.
 
-Il adresse à la Cour des comptes les appels formés contre les jugements des chambres régionales des comptes, sur transmission
-du ministère public près lesdites chambres.
+Il adresse à la Cour des comptes les appels formés contre les jugements des chambres régionales et territoriales des comptes,
+sur transmission du ministère public près lesdites chambres.
 
 Il présente ses conclusions écrites sur les rapports qui lui sont communiqués avec pièces à l'appui. Lui sont obligatoirement
 communiqués les rapports concernant les quitus, les débets, les amendes, les décisions sur la compétence, les comptabilités
-de fait, les pourvois et les révisions ainsi que les appels des jugements rendus par les chambres régionales des comptes. Les
-autres rapports lui sont communiqués soit sur sa demande, soit sur décision des présidents de chambre.
+de fait, les pourvois et les révisions ainsi que les appels des jugements rendus par les chambres régionales et territoriales
+des comptes. Les autres rapports lui sont communiqués soit sur sa demande, soit sur décision des présidents de chambre, de
+formations interchambres ou de formations communes aux juridictions.
 
 Il peut assister aux séances des chambres et des sections et y présenter des observations orales. Il ne prend pas part au
 délibéré.
@@ -16212,7 +16224,7 @@ délibéré.
 
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 4 ()
+	  - Décret n°2007-543 du 12 avril 2007 - art. 5 () JORF 13 avril 2007
 
 	**Cité par**:
 
@@ -16225,11 +16237,13 @@ Le procureur général surveille l'exécution des travaux de la Cour.
 
 Il est présent ou représenté dans les commissions ou comités constitués au sein de la Cour.
 
-Il peut informer les autorités compétentes des observations qui lui sont renvoyées par la Cour. Il communique avec les
-administrations.
+Il communique avec les administrations.
 
-Il oriente et harmonise, s'il y a lieu par recommandations écrites, l'action du ministère public près les chambres régionales
-des comptes.
+Il assure les échanges d'informations entre la Cour des comptes et les autorités judiciaires et autres autorités chargées
+d'un pouvoir de sanction.
+
+Il oriente et coordonne, s'il y a lieu par recommandations écrites, l'action des commissaires du Gouvernement près les
+chambres régionales et territoriales des comptes.
 
 **Liens relatifs à cet article**
 
@@ -16241,13 +16255,29 @@ des comptes.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2007-543 du 12 avril 2007 - art. 6 () JORF 13 avril 2007
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R112-10-1 (T)
+
+
+###### Article R112-10-1
+
+Les chargés de mission sont désignés parmi les magistrats des juridictions financières et parmi les rapporteurs extérieurs en
+fonction à la Cour ainsi que les magistrats de l'ordre judiciaire, sur proposition du procureur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-337 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2007-543 du 12 avril 2007 - art. 7 () JORF 13 avril 2007
 
 
 ###### Article R112-11
@@ -16274,8 +16304,8 @@ Ils peuvent également le représenter dans les commissions ou comités constitu
 
 ###### Article R112-12
 
-En cas d'absence ou d'empêchement, le procureur général est remplacé par le premier avocat général ou à défaut par un avocat
-général.
+En cas d'absence, d'empêchement ou de vacance, le procureur général est remplacé par le premier avocat général ou, à défaut,
+par l'avocat général le plus ancien présent à la Cour des comptes.
 
 **Liens relatifs à cet article**
 
@@ -16288,9 +16318,17 @@ général.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2007-543 du 12 avril 2007 - art. 8 () JORF 13 avril 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 9
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R112-14-2 (V)
 
 
 ###### Article R112-12-1
@@ -16447,8 +16485,9 @@ Les rapporteurs extérieurs, autres que les magistrats, prêtent serment devant 
 
 ###### Article R112-15
 
-La Cour des comptes se réunit soit en audience solennelle, soit en chambre du conseil, soit toutes chambres réunies, soit par
-chambre ou section de chambre, soit en formation interchambres dans les conditions prévues à l'article R. 112-21.
+La Cour des comptes se réunit soit en audience solennelle, soit en chambre du conseil, soit toutes chambres réunies statuant
+en formation plénière ou en formation restreinte, soit par chambre ou section de chambre, soit en formation interchambres
+dans les conditions prévues à l'article R. 112-21.
 
 **Liens relatifs à cet article**
 
@@ -16460,9 +16499,9 @@ chambre ou section de chambre, soit en formation interchambres dans les conditio
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2007-543 du 12 avril 2007 - art. 9 () JORF 13 avril 2007
 
 	**Cite**:
 
@@ -16516,15 +16555,16 @@ extraordinaire assistent à la séance avec voix délibérative.
 
 Le procureur général assiste aux séances de la chambre du conseil et participe aux débats.
 
-La chambre du conseil est saisie des projets de rapports publics, de rapport sur le projet de loi de règlement du budget, de
-déclaration générale de conformité, de rapport sur l'application des lois de financement de la sécurité sociale et en arrête
-le texte.
+La chambre du conseil est saisie des projets de rapports publics, de rapports prévus aux articles LO. 132-2-1 et LO. 132-3
+ainsi qu'aux 3°, 4° et 5° de l'article 58 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances et
+en arrête le texte.
 
 Elle délibère également sur toutes affaires ou questions qui lui sont soumises par le premier président, soit de son propre
 chef, soit sur proposition du procureur général.
 
-Le conseiller maître rapporteur peut être assisté de conseillers référendaires ou auditeurs, qui participent aux débats avec
-voix consultative.
+Le rapporteur est soit le rapporteur général du comité du rapport public et des programmes, soit un conseiller maître désigné
+par le premier président. Le rapporteur peut être assisté de conseillers référendaires, d'auditeurs ou de rapporteurs
+extérieurs à temps plein qui participent aux débats avec voix consultative.
 
 Le secrétariat de la chambre du conseil est assuré par le secrétaire général de la Cour des comptes.
 
@@ -16538,9 +16578,16 @@ Le secrétariat de la chambre du conseil est assuré par le secrétaire généra
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Loi n°2001-692 du 1 août 2001 - art. 58 (M)
+	  - Code des juridictions financières - art. L132-3 (Ab)
+	  - Code des juridictions financières - art. LO132-2-1 (V)
+	  - Code des juridictions financières L111-2 à L111-8, LO132-2-1, LO132-3
+
+	**Modifié par**:
+
+	  - Décret n°2007-543 du 12 avril 2007 - art. 10 () JORF 13 avril 2007
 
 	**Cité par**:
 
@@ -16550,34 +16597,46 @@ Le secrétariat de la chambre du conseil est assuré par le secrétaire généra
 	  - Code des juridictions financières - art. R120-5 (V)
 	  - Code des juridictions financières - art. R136-1 (T)
 
-	**Cite**:
-
-	  - Code des juridictions financières L111-2 à L111-8
-
 
 ###### Article R112-18
 
-La Cour des comptes, toutes chambres réunies, se compose du premier président, des présidents de chambre et de deux
-conseillers maîtres par chambre, élus par le président et les conseillers maîtres de chaque chambre. Chaque chambre élit, en
-outre, un suppléant. La Cour, toutes chambres réunies, est constituée, au début de chaque année judiciaire, par arrêté du
+I. - La Cour des comptes, statuant toutes chambres réunies, comporte une formation plénière et une formation restreinte.
+Elles sont constituées, au début de chaque année, par arrêté du premier président.
+
+Un président de chambre ou le procureur général peuvent saisir le premier président en vue de la réunion de chambres réunies
+en formation plénière ou en formation restreinte sans que le premier président soit tenu d'y procéder.
+
+Les chambres réunies de la Cour des comptes statuant en formation plénière se composent du premier président, des magistrats
+exerçant la présidence d'une chambre de la cour et d'un conseiller maître par chambre élu par le président et les conseillers
+maîtres de chaque chambre. Chaque chambre élit deux suppléants.
+
+Les chambres réunies statuant en formation plénière ne peuvent valablement délibérer que si huit au moins de leurs membres
+sont présents.
+
+En cas de partage des voix, celle du président est prépondérante.
+
+Les chambres réunies de la Cour des comptes statuant en formation restreinte se composent d'un magistrat exerçant la
+présidence d'une chambre de la cour qui les préside et est désigné par le premier président ainsi que des conseillers maîtres
+membres, titulaires ou suppléants, de la formation plénière. En cas d'absence ou d'empêchement, le président de la formation
+restreinte est suppléé par un magistrat exerçant ou ayant exercé la présidence d'une chambre de la cour désigné par le
 premier président.
 
-Elle juge les comptes et délibère sur les autres affaires qui lui sont renvoyées par le premier président sur proposition
-d'une chambre ou sur réquisitoire du procureur général.
+Les chambres réunies en formation restreinte ne peuvent valablement délibérer que si cinq au moins de leurs membres sont
+présents.
 
-Elle statue sur les affaires renvoyées devant la Cour après cassation.
+En cas de partage des voix, celle du président est prépondérante.
 
-Elle formule un avis sur les questions de procédure ou de jurisprudence dont elle est saisie par le premier président de sa
-propre initiative ou dans les conditions prévues au deuxième alinéa ci-dessus.
+Le premier président désigne le rapporteur parmi les magistrats de la Cour des comptes et le contre-rapporteur parmi les
+membres des chambres réunies. Il désigne le greffier des chambres réunies.
 
-La Cour, siégeant toutes chambres réunies, ne peut statuer qu'à douze membres au moins.
+II. - Les chambres réunies statuant en formation plénière formulent un avis sur les questions de droit dont elles sont
+saisies par le premier président.
 
-Sous réserve des dispositions du quatrième alinéa de l'article R. 141-8, le magistrat rapporteur devant les chambres réunies
-a voix délibérative.
+Les chambres réunies statuant en formation restreinte jugent les affaires dont elles sont saisies par le premier président
+sur proposition d'une chambre ou sur réquisitoire du procureur général. Elles statuent sur les affaires renvoyées devant la
+cour après cassation.
 
-En cas de partage des voix, la voix du premier président est prépondérante.
-
-Le procureur général assiste aux séances et présente ses conclusions.
+Le premier président peut renvoyer des affaires relevant de la formation restreinte à la formation plénière qui les juge.
 
 **Liens relatifs à cet article**
 
@@ -16591,7 +16650,7 @@ Le procureur général assiste aux séances et présente ses conclusions.
 
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 6 ()
+	  - Décret n°2007-543 du 12 avril 2007 - art. 11 () JORF 13 avril 2007
 
 	**Cité par**:
 
@@ -16599,10 +16658,6 @@ Le procureur général assiste aux séances et présente ses conclusions.
 	  - Code des juridictions financières - art. R112-11 (M)
 	  - Code des juridictions financières - art. R141-13 (M)
 	  - Code des juridictions financières - art. R141-15 (T)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R141-8 (M)
 
 
 ###### Article R112-19
@@ -16690,15 +16745,13 @@ Les greffiers de chambre prêtent le serment professionnel devant le premier pr�
 
 ###### Article R112-21
 
-Lorsqu'un contrôle soulève des questions relevant des attributions de plusieurs chambres, le premier président peut, par
-arrêté pris après avis du procureur général, l'attribuer à un groupe de magistrats et de rapporteurs appartenant aux chambres
-concernées. Cet arrêté désigne le magistrat chargé de diriger les travaux du groupe. Le rapport est présenté soit devant la
-chambre à laquelle appartient ce magistrat, soit devant une formation interchambres composée comme il est dit ci-après.
-
-Pour l'examen de rapports traitant de questions relevant des attributions de plusieurs chambres, le premier président peut
-constituer, à son initiative ou sur proposition du procureur général ou des présidents des chambres intéressées, une
-formation interchambres comprenant au moins deux conseillers maîtres de chacune de ces chambres, désignés par les présidents
-de chambre. L'arrêté désigne le président de la formation parmi les présidents de chambres intéressés, ainsi que le greffier.
+Lorsqu'une enquête ou un contrôle ressortit à la compétence de deux ou plusieurs chambres, le premier président, après avis
+du procureur général, constitue par arrêté, à son initiative ou sur proposition du procureur général ou des présidents de
+chambre intéressés, une formation interchambres comprenant au moins un conseiller maître ou un conseiller maître en service
+extraordinaire de chacune d'entre elles. Cet arrêté définit la compétence de la formation, fixe sa composition et nomme son
+président ainsi que son greffier. Les présidents de chambre concernés désignent les membres de la formation ainsi que les
+rapporteurs auxquels elle fait appel. Le président de la formation interchambres choisit parmi ces derniers le rapporteur
+général.
 
 **Liens relatifs à cet article**
 
@@ -16710,9 +16763,9 @@ de chambre. L'arrêté désigne le président de la formation parmi les préside
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2007-543 du 12 avril 2007 - art. 12 () JORF 13 avril 2007
 
 	**Cité par**:
 
@@ -17389,6 +17442,28 @@ preuve d'une valeur exceptionnelle.
 	  - Décret n°2006-1261 du 11 octobre 2006 - art. 8 () JORF 17 octobre 2006
 
 
+###### Article R122-8
+
+L'attribution d'un emploi de conseiller maître à un magistrat de chambre régionale des comptes, en application du deuxième
+alinéa de l'article L. 122-2, est effectuée, dès lors que dix-sept emplois ont été pourvus au titre des promotions de
+conseillers référendaires prévues au premier alinéa du même article et des nominations au tour extérieur prévues au dernier
+alinéa du même article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-337 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2007-543 du 12 avril 2007 - art. 13 () JORF 13 avril 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L122-2 (M)
+
+
 #### CHAPITRE III : Mobilité
 
 ###### Article R*123-1
@@ -17579,6 +17654,250 @@ leur indice de rémunération.
 	  - Décret n°2002-1151 du 9 septembre 2002 - art. 3 (V)
 
 
+#### CHAPITRE VI : Discipline
+
+###### Article R126-1
+
+Le conseil supérieur de la Cour des comptes est saisi des faits motivant la poursuite disciplinaire par un rapport émanant du
+président de la chambre d'affectation du magistrat intéressé.
+
+Si la procédure concerne un président de chambre ou un magistrat qui n'est pas affecté dans une chambre, le rapport émane du
+premier président.
+
+Si la procédure concerne un magistrat du ministère public, le rapport émane du premier président.
+
+Ce rapport doit indiquer les faits motivant la poursuite disciplinaire et les circonstances dans lesquelles ils ont été
+commis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 31
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R127-1, v. 0.2 (V)
+
+
+###### Article R126-2
+
+Le magistrat est convoqué par le président du conseil supérieur de la Cour des comptes quinze jours au moins avant la date de
+la réunion, par lettre recommandée avec demande d'avis de réception.
+
+Ce conseil peut décider, à la majorité de ses membres, de renvoyer, à la demande du magistrat ou de son ou de ses défenseurs,
+l'examen de l'affaire à une nouvelle réunion. Un tel report n'est possible qu'une fois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 31
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R127-2, v. 0.1 (V)
+
+
+###### Article R126-3
+
+Lorsque le conseil supérieur de la Cour des comptes examine l'affaire au fond, son président informe les membres du conseil
+des conditions dans lesquelles le magistrat poursuivi et, le cas échéant, l'un de ses pairs et son ou ses défenseurs ont été
+mis en mesure d'exercer leur droit à communication intégrale du dossier individuel et des documents annexes.
+
+Le rapport établi par le rapporteur désigné par le président du conseil supérieur de la Cour des comptes ainsi que les
+observations écrites que peut présenter le magistrat en cause sont lus en séance.
+
+Le magistrat poursuivi peut citer des témoins. Le droit de citer des témoins appartient aussi à l'administration. Le conseil
+supérieur entend séparément les témoins cités par l'administration et ceux désignés par le magistrat en cause.
+
+Une confrontation des témoins ou une nouvelle audition d'un témoin peut être décidée par le président du conseil supérieur à
+la demande de l'un des membres du conseil ou du magistrat en cause ou de son ou ses défenseurs.
+
+Le magistrat en cause et, le cas échéant, son ou ses défenseurs peuvent, à tout moment de la procédure, demander au président
+du conseil supérieur d'intervenir afin de présenter des observations orales. Ils sont invités à présenter leurs dernières
+observations avant que le conseil supérieur commence à délibérer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 31
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R127-3 (V)
+
+
+###### Article R126-4
+
+Le président du conseil supérieur met aux voix la proposition de sanction la plus sévère parmi celles qui ont été exprimées
+soit par le rapporteur, soit au cours du délibéré. Si cette proposition ne recueille pas l'accord de la majorité des membres
+présents, le président met aux voix les autres sanctions par ordre décroissant de sévérité jusqu'à ce que l'une d'entre elles
+recueille la majorité des membres présents ; à défaut, aucune sanction n'est proposée.
+
+La proposition ayant recueilli l'accord de la majorité des membres présents est motivée et transmise par le président du
+conseil supérieur à l'autorité investie du pouvoir disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 31
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R127-4 (V)
+
+
+###### Article R126-5
+
+Lorsque le magistrat fait l'objet de poursuites devant un tribunal répressif, le conseil supérieur de la Cour des comptes
+peut, à la majorité des membres appelés à délibérer, proposer de suspendre la procédure disciplinaire jusqu'à l'intervention
+de la décision du tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Créé par**:
+
+	  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 31
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R127-5 (V)
+
+
+###### Article R126-6
+
+Les frais de déplacement et de séjour des témoins cités par le magistrat en cause, ainsi que les frais de déplacement et de
+séjour de son ou de ses défenseurs ne sont pas pris en charge par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 31
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R127-6 (V)
+
+
+###### Article R126-7
+
+Toute mention au dossier du blâme infligé à un magistrat est effacée au bout de trois ans si aucune autre sanction n'est
+intervenue pendant cette période.
+
+Le magistrat frappé d'une sanction disciplinaire autre que l'avertissement ou le blâme, mais qui n'a pas été exclu du corps
+des magistrats de la Cour des comptes peut, après dix années de services effectifs à compter de la date de sanction
+disciplinaire, introduire auprès de l'autorité de nomination une demande tendant à ce qu'aucune trace de la sanction
+prononcée ne subsiste à son dossier.
+
+Si, par son comportement général, le magistrat a donné toute satisfaction depuis la sanction dont il a fait l'objet, il peut
+être fait droit à sa demande. Celle-ci est examinée comme en matière de sanction disciplinaire.
+
+Le dossier du magistrat doit alors être reconstitué dans sa nouvelle composition sous le contrôle du conseil supérieur.
+
+L'autorité investie du pouvoir de nomination statue sur proposition du conseil supérieur de la Cour des comptes, lequel se
+prononce notamment au vu du comportement général du magistrat depuis la sanction dont il a fait l'objet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 31
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R127-7 (V)
+
+
+###### Article R126-8
+
+Le décret n° 84-961 du 25 octobre 1984 relatif à la procédure disciplinaire concernant les fonctionnaires de l'Etat et le
+décret n° 82-451 du 28 mai 1982 relatif aux commissions administratives paritaires ne s'appliquent pas aux magistrats de la
+Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°82-451 du 28 mai 1982
+	  - Décret n°84-961 du 25 octobre 1984
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2007-543 du 12 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 31
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R127-8 (V)
+
+
 ### TITRE III : Compétences et attributions
 
 #### CHAPITRE Ier : Compétences juridictionnelles
@@ -17764,9 +18083,8 @@ est, dans ce cas, signé par le greffier.
 Les arrêts de débet, de déclaration définitive de gestion de fait et de condamnation définitive à l'amende sont revêtus de la
 formule exécutoire.
 
-Les arrêts sont notifiés aux comptables par les soins du secrétaire général. Le procureur général procède à leur notification
-aux administrations, collectivités ou organismes intéressés. Les conditions dans lesquelles sont effectuées ces notifications
-sont fixées aux articles D. 144-1 à D. 144-6.
+Le secrétaire général ou, en cas d'absence, d'empêchement ou de vacance, un des secrétaires généraux adjoints, notifie les
+arrêts aux comptables et aux administrations, collectivités ou organismes intéressés.
 
 **Liens relatifs à cet article**
 
@@ -17780,17 +18098,21 @@ sont fixées aux articles D. 144-1 à D. 144-6.
 
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 11 ()
+	  - Décret n°2007-543 du 12 avril 2007 - art. 15 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1397 du 19 décembre 2008 - art. 107
+
+	**Cite**:
+
+	  - Code des juridictions financières
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R131-12 (Ab)
 	  - Code des juridictions financières - art. R141-13 (M)
 	  - Code monétaire et financier - art. R518-28 (V)
-
-	**Cite**:
-
-	  - Code des juridictions financières D144-1 à D144-6
 
 
 ##### Paragraphe 2 : Dispositions concernant les receveurs des administrations financières.
@@ -20257,8 +20579,8 @@ Par référés du premier président aux ministres.
 Les observations de la Cour peuvent également être transmises par des communications du procureur général aux autorités
 compétentes.
 
-Certaines observations de la Cour des comptes peuvent faire l'objet de lettres d'un président de chambre aux autorités
-compétentes.
+Certaines observations de la Cour des comptes peuvent faire l'objet de lettres d'un président de chambre ou de formation
+interchambres aux autorités compétentes.
 
 Les rapports particuliers mentionnés ci-dessus sont transmis par le premier président au Premier ministre, aux ministres
 concernés ainsi qu'aux dirigeants de l'organisme contrôlé.
@@ -20280,9 +20602,9 @@ locaux concernés.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2007-543 du 12 avril 2007 - art. 16 () JORF 13 avril 2007
 
 	**Cite**:
 
@@ -20487,7 +20809,7 @@ comptes.
 
 Un membre du corps des magistrats des chambres régionales des comptes apporte en qualité de chargé de mission son concours à
 l'accomplissement des travaux du comité. Il est mis, avec son accord, à disposition de la Cour des comptes par arrêté du
-ministre chargé des finances, sur proposition du premier président de la Cour des comptes.
+Premier ministre, sur proposition du premier président de la Cour des comptes.
 
 **Liens relatifs à cet article**
 
@@ -20497,11 +20819,15 @@ ministre chargé des finances, sur proposition du premier président de la Cour 
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 13 ()
+	  - Décret n°2007-543 du 12 avril 2007 - art. 17 () JORF 13 avril 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 24
 
 	**Cité par**:
 
@@ -20509,6 +20835,10 @@ ministre chargé des finances, sur proposition du premier président de la Cour 
 	  - Code des juridictions financières - art. R241-26 (T)
 	  - Code des juridictions financières - art. R261-1 (V)
 	  - Code des juridictions financières - art. R271-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R143-7 (V)
 
 
 ### TITRE IV : Procédure
@@ -20819,6 +21149,8 @@ d'une chambre régionale ou territoriale des comptes intervenu en matière de ge
 
 ###### Article R141-10
 
+L'ordre du jour des audiences publiques est fixé par le président de la formation après consultation du ministère public.
+
 Toute partie est avertie par une notification faite par lettre recommandée du jour où l'affaire sera appelée à l'audience.
 
 Cette notification est faite sept jours au moins avant l'audience.
@@ -20837,7 +21169,7 @@ L'ordre du jour de l'audience est affiché à l'entrée de la Cour.
 
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 16 ()
+	  - Décret n°2007-543 du 12 avril 2007 - art. 18 () JORF 13 avril 2007
 
 	**Cité par**:
 
@@ -20848,9 +21180,10 @@ L'ordre du jour de l'audience est affiché à l'entrée de la Cour.
 
 ###### Article R141-11
 
-Après l'exposé du rapporteur et les conclusions du procureur général, la ou les parties présentes peuvent formuler, soit en
-personne, soit par un avocat au Conseil d'Etat et à la Cour de cassation ou un avocat, des observations complétant et
-précisant celles fournies par écrit sur l'affaire qui la concerne.
+Après l'exposé du rapporteur et les conclusions du procureur général, du premier avocat général, d'un avocat général ou d'un
+chargé de mission, la ou les parties présentes peuvent formuler, soit en personne, soit par un avocat au Conseil d'Etat et à
+la Cour de cassation ou un avocat, des observations complétant et précisant celles fournies par écrit sur l'affaire qui la
+concerne.
 
 **Liens relatifs à cet article**
 
@@ -20864,7 +21197,7 @@ précisant celles fournies par écrit sur l'affaire qui la concerne.
 
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 16 ()
+	  - Décret n°2007-543 du 12 avril 2007 - art. 19 () JORF 13 avril 2007
 
 	**Cité par**:
 
@@ -21121,9 +21454,10 @@ Cour procède, s'il y a lieu, à la révision de l'arrêt.
 
 ###### Article R143-3
 
-Les comptables, le ministre chargé des finances, les autres ministres pour ce qui concerne leur département et les
-représentants des établissements publics et des collectivités intéressés peuvent demander au Conseil d'Etat la cassation pour
-vice de forme, incompétence ou violation de la loi des arrêts définitifs rendus par la Cour des comptes.
+Les comptables, le ministre chargé du budget, les autres ministres pour ce qui concerne leur département, les représentants
+des établissements publics et des collectivités intéressées et le procureur général près la Cour des comptes peuvent demander
+au Conseil d'Etat la cassation pour vice de forme, incompétence ou violation de la loi des arrêts définitifs rendus par la
+Cour des comptes.
 
 Le pourvoi doit être introduit dans un délai de deux mois à compter de la notification des arrêts.
 
@@ -21139,9 +21473,9 @@ Après cassation d'un arrêt, l'affaire est renvoyée devant la Cour siégeant t
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2007-543 du 12 avril 2007 - art. 20 () JORF 13 avril 2007
 
 
 #### Chapitre IV : Notification des arrêts.
@@ -21675,7 +22009,9 @@ Les chambres régionales des comptes sont désignées sous le nom de la région 
 
 Le premier président de la Cour des comptes, président du Conseil supérieur des chambres régionales des comptes, assure la
 gestion des magistrats et des personnels des chambres régionales des comptes ainsi que celle des moyens matériels de ces
-juridictions. Il ordonnance les dépenses des chambres régionales des comptes.
+juridictions. Il est l'ordonnateur principal des dépenses et des recettes des chambres régionales des comptes.
+
+Le premier président conclut les marchés ainsi que les contrats relatifs à la gestion des chambres régionales des comptes.
 
 Il peut déléguer sa signature au secrétaire général et aux secrétaires généraux adjoints de la Cour des comptes. Délégation
 peut également être donnée aux fonctionnaires appartenant à un corps de catégorie A et aux agents publics non titulaires de
@@ -21697,7 +22033,7 @@ par arrêté du Premier ministre, sur proposition du premier président de la Co
 
 	**Modifié par**:
 
-	  - Décret n°2006-1262 du 16 octobre 2006 - art. 9 () JORF 17 octobre 2006
+	  - Décret n°2007-543 du 12 avril 2007 - art. 21 () JORF 13 avril 2007
 
 	**Cité par**:
 
@@ -21823,8 +22159,9 @@ Martinique : une section.
 
 ###### Article R*212-7-1
 
-Le président de la chambre régionale des comptes est ordonnateur secondaire des dépenses de la juridiction qu'il préside. En
-cas d'absence ou d'empêchement, il peut déléguer sa signature à un magistrat ou au secrétaire général de cette juridiction.
+Le président de la chambre régionale des comptes est ordonnateur secondaire des dépenses et des recettes de la juridiction
+qu'il préside. En cas d'absence ou d'empêchement, il peut déléguer sa signature à un magistrat ou au secrétaire général de
+cette juridiction.
 
 **Liens relatifs à cet article**
 
@@ -21832,9 +22169,9 @@ cas d'absence ou d'empêchement, il peut déléguer sa signature à un magistrat
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1098 du 31 août 2006 - art. 1 () JORF 1er septembre 2006
+	  - Décret n°2007-542 du 12 avril 2007 - art. 2 () JORF 13 avril 2007
 
 
 ###### Article R212-7
@@ -23293,8 +23630,8 @@ calcul des nominations à prononcer au cours de cette année en application de l
 
 ###### Article R221-5
 
-La commission consultative de la Cour des comptes désigne, parmi ses membres, le représentant de la Cour des comptes à la
-commission instituée par l'article L. 221-7 et son suppléant.
+Le conseil supérieur de la Cour des comptes désigne, parmi ses membres, le représentant de la Cour des comptes à la
+commission instituée par l'article L. 221-7 et son suppléant. 
 
 Le Conseil supérieur des chambres régionales des comptes désigne, parmi ses membres, les représentants des magistrats des
 chambres régionales des comptes à la commission instituée par l'article L. 221-7 et leurs suppléants.
@@ -23311,11 +23648,11 @@ chambres régionales des comptes à la commission instituée par l'article L. 22
 
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 35 ()
+	  - Décret n°2007-543 du 12 avril 2007 - art. 22 () JORF 13 avril 2007
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L221-7 (M)
+	  - Code des juridictions financières - art. L221-7 (V)
 
 
 ###### Article R221-6
@@ -32763,6 +33100,30 @@ Il est lu publiquement par le président ou par un membre de la cour qu'il dési
 	**Cite**:
 
 	  - Code des juridictions financières - art. L314-7 (V)
+
+
+###### Article R314-4
+
+La publication au Journal officiel mentionnée à l'article L. 314-20 du code des juridictions financières est effectuée à la
+fois sur support papier et sous forme électronique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Créé par**:
+
+	  - Décret n°2007-543 du 12 avril 2007 - art. 23 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1717 du 22 décembre 2015 - art. 6
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L314-20
 
 
 ### TITRE II : Le comité d'enquête sur le coût et le rendement des services publics

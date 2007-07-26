@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2007-04-13
+Version Consolidée au 2007-07-27
 
 # Partie législative
 
@@ -10943,14 +10943,22 @@ avant le vote du budget.
 En outre, jusqu'à l'adoption du budget ou jusqu'au 31 mars, en l'absence d'adoption du budget avant cette date, le maire
 peut, sur autorisation du conseil municipal, engager, liquider et mandater des dépenses d'investissement, dans la limite du
 quart des crédits ouverts au budget de l'exercice précédent, non compris les crédits afférents au remboursement de la dette.
-Les crédits correspondants sont inscrits au budget lors de son adoption. L'autorisation mentionnée au présent alinéa précise
-le montant et l'affectation des crédits.
+
+L'autorisation mentionnée à l'alinéa précédent précise le montant et l'affectation des crédits.
+
+Pour les dépenses à caractère pluriannuel incluses dans une autorisation de programme ou d'engagement votée sur des exercices
+antérieurs, l'exécutif peut les liquider et les mandater dans la limite des crédits de paiement prévus au titre de l'exercice
+par la délibération d'ouverture de l'autorisation de programme ou d'engagement.
+
+Les crédits correspondants, visés aux alinéas ci-dessus, sont inscrits au budget lors de son adoption. Le comptable est en
+droit de payer les mandats et recouvrer les titres de recettes émis dans les conditions ci-dessus.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°90-1247 1990-12-29, art 1er Loi 82-213 1982-03-02 modifiée, art 7 al 1
+	  - Loi n°82-213 1982-03-02 modifiée, art 7 al 1
+	  - Loi n°90-1247 1990-12-29, art 1er
 
 	**Codifié par**:
 
@@ -10958,7 +10966,7 @@ le montant et l'affectation des crédits.
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 42 () JORF 27 juillet 2007
 
 	**Cité par**:
 
@@ -11115,8 +11123,9 @@ motivation explicite.
 ###### Article L263-13
 
 Toutefois, pour l'application de l'article L. 263-12, n'est pas considéré comme étant en déséquilibre le budget dont la
-section de fonctionnement comporte ou reprend un excédent et dont la section d'investissement est en équilibre réel, après
-reprise pour chacune des sections des résultats apparaissant au compte administratif de l'exercice précédent.
+section de fonctionnement comporte ou reprend un excédent reporté par décision du conseil municipal ou dont la section
+d'investissement comporte un excédent, notamment après inscriptions des dotations aux amortissements et aux provisions
+exigées.
 
 **Liens relatifs à cet article**
 
@@ -11130,7 +11139,7 @@ reprise pour chacune des sections des résultats apparaissant au compte administ
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 43 () JORF 27 juillet 2007
 
 	**Cite**:
 
@@ -11355,10 +11364,11 @@ du plus proche budget voté par la commune.
 
 ###### Article L263-20
 
-Lorsque l'arrêté des comptes communaux fait apparaître dans l'exécution du budget communal un déficit égal ou supérieur à 10
-p. 100 des recettes de la section de fonctionnement s'il s'agit d'une commune de moins de 20 000 habitants et à 5 p. 100 dans
-les autres cas, la chambre territoriale des comptes, saisie par le haut-commissaire, propose à la commune les mesures
-nécessaires au rétablissement de l'équilibre budgétaire, dans le délai d'un mois à compter de cette saisine.
+Lorsque l'arrêté des comptes communaux fait apparaître dans l'exécution du budget communal après vérification de la sincérité
+des inscriptions de recettes et de dépenses un déficit égal ou supérieur à 10 % des recettes de la section de fonctionnement
+s'il s'agit d'une commune de moins de 20 000 habitants et à 5 % dans les autres cas, la chambre territoriale des comptes,
+saisie par le haut-commissaire, propose à la commune les mesures nécessaires au rétablissement de l'équilibre budgétaire,
+dans le délai d'un mois à compter de cette saisine.
 
 Lorsque le budget d'une commune a fait l'objet des mesures de redressement prévues à l'alinéa précédent, le haut-commissaire
 transmet à la chambre territoriale des comptes le budget primitif afférent à l'exercice suivant.
@@ -11376,8 +11386,9 @@ applicable.
 
 	**Anciens textes**:
 
-	  - Loi n°90-1247 1990-12-29, art 1er Loi 82-213 1982-03-02 modifiée, art 9 al 3 à 6
-	  - modifié par loi 96-609 1996-07-05, art 25-III-8°
+	  - Loi n°82-213 1982-03-02 modifiée, art 9 al 3 à 6
+	  - Loi n°90-1247 1990-12-29, art 1er
+	  - modifiée par loi 96-609 1996-07-05, art 25-III-8°
 
 	**Codifié par**:
 
@@ -11385,7 +11396,7 @@ applicable.
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 44 () JORF 27 juillet 2007
 
 	**Cite**:
 
@@ -11772,7 +11783,8 @@ paiement d'une dépense, le maire ou le président de l'établissement public pe
 
 Il s'y conforme aussitôt, sauf en cas d'insuffisance de fonds de la commune ou de l'établissement public disponibles, de
 dépense ordonnancée sur des crédits irrégulièrement ouverts ou insuffisants ou sur des crédits autres que ceux sur lesquels
-elle devrait être imputée, d'absence de justification du service fait ou de défaut de caractère libératoire du règlement.
+elle devrait être imputée, d'absence de justification du service fait ou de défaut de caractère libératoire du règlement
+ainsi qu'en cas d'absence de caractère exécutoire des actes pris par les autorités communales.
 
 L'ordre de réquisition est notifié à la chambre territoriale des comptes.
 
@@ -11795,7 +11807,7 @@ En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 45 () JORF 27 juillet 2007
 
 
 #### TITRE VII : Dispositions applicables en Polynésie française

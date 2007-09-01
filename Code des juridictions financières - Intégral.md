@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2007-07-27
+Version Consolidée au 2007-09-02
 
 # Partie législative
 
@@ -16100,6 +16100,11 @@ Il fait connaître aux ministres compétents, par voie de référé, les observa
 Le premier président administre les services de la Cour et assure la gestion des magistrats et des personnels affectés à
 cette juridiction.
 
+Il prend, sur proposition du secrétaire général, les actes relatifs à la gestion et à l'administration des fonctionnaires
+relevant des corps des juridictions financières, à l'exclusion des nominations dans un corps, des titularisations, des
+décisions entraînant la cessation définitive de fonctions, des mises en position hors cadres et des sanctions disciplinaires
+des troisième et quatrième groupes définies à l'article 66 de la loi n° 84-16 du 11 janvier 1984.
+
 Le premier président est ordonnateur principal des dépenses et des recettes de la Cour des comptes.
 
 Il conclut les marchés ainsi que les contrats relatifs à la gestion de la Cour des comptes.
@@ -16109,6 +16114,11 @@ Dans le cadre de ces attributions, il peut déléguer sa signature, par arrêté
 niveau de recrutement, affectés à des services relevant du secrétariat général.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°84-16 1984-01-11 art. 66
+	  - Code des juridictions financières - art. R112-7 (M)
 
 	**Anciens textes**:
 
@@ -16120,7 +16130,7 @@ niveau de recrutement, affectés à des services relevant du secrétariat géné
 
 	**Modifié par**:
 
-	  - Décret n°2007-543 du 12 avril 2007 - art. 3 () JORF 13 avril 2007
+	  - Décret n°2007-1299 du 31 août 2007 - art. 1 () JORF 2 septembre 2007
 
 	**Cité par**:
 
@@ -16128,10 +16138,6 @@ niveau de recrutement, affectés à des services relevant du secrétariat géné
 	  - Décret n°2008-94 du 30 janvier 2008 - art. 4 (Ab)
 	  - Décret n°2011-1317 du 17 octobre 2011 - art. (VD)
 	  - Arrêté du 29 juin 2016 - art. Annexe 1 (V)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R112-7 (M)
 
 
 ###### Article R112-5
@@ -16167,8 +16173,8 @@ du greffe central et des services administratifs. Le premier président peut, sa
 112-3 ci-dessus, leur déléguer par arrêté sa signature.
 
 Le secrétaire général ou, en cas d'absence ou d'empêchement, un des secrétaires généraux adjoints certifie les expéditions
-des arrêts et en assure la notification aux comptables. Il délivre et certifie extraits et copies des actes intéressant le
-fonctionnement de la juridiction. Il peut déléguer à cet effet sa signature au chef de service responsable du greffe central.
+des arrêts et en assure la notification. Il délivre et certifie extraits et copies des actes intéressant le fonctionnement de
+la juridiction. Il peut déléguer à cet effet sa signature au chef de service responsable du greffe central.
 
 Le secrétaire général, ou, en cas d'absence ou d'empêchement, un des secrétaires généraux adjoints, assiste à la conférence
 des présidents.
@@ -16186,7 +16192,7 @@ des présidents.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1262 du 16 octobre 2006 - art. 1 () JORF 17 octobre 2006
+	  - Décret n°2007-1298 du 31 août 2007 - art. 1 () JORF 2 septembre 2007
 
 	**Cite**:
 
@@ -16294,10 +16300,12 @@ fonction à la Cour ainsi que les magistrats de l'ordre judiciaire, sur proposit
 
 ###### Article R112-11
 
-Le premier avocat général ou les avocats généraux peuvent représenter le procureur général aux séances des chambres et des
-sections et y présenter des observations orales.
+Le premier avocat général, les avocats généraux ou les chargés de mission peuvent assister ou représenter le procureur
+général aux séances des formations prévues aux articles R. 112-18, R. 112-19, R. 112-21 et R. 112-21-1 et y présenter des
+observations orales.
 
-Ils peuvent également le représenter dans les commissions ou comités constitués au sein de la Cour.
+Ils peuvent également le représenter dans les conseils, commissions, comités ou groupes de travail constitués au sein de la
+Cour.
 
 **Liens relatifs à cet article**
 
@@ -16309,9 +16317,16 @@ Ils peuvent également le représenter dans les commissions ou comités constitu
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2007-1298 du 31 août 2007 - art. 2 () JORF 2 septembre 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R112-18 (M)
+	  - Code des juridictions financières - art. R112-19 (V)
+	  - Code des juridictions financières - art. R112-21 (M)
+	  - Code des juridictions financières - art. R112-21-1 (V)
 
 
 ###### Article R112-12
@@ -16561,15 +16576,17 @@ Les conseillers référendaires et les auditeurs portent la robe de soie noire.
 
 ###### Article R112-17
 
-La chambre du conseil est composée du premier président, des présidents de chambre et des conseillers maîtres. Lorsqu'elle
-est appelée à connaître des affaires mentionnées aux articles L. 111-2 à L. 111-8, les conseillers maîtres en service
-extraordinaire assistent à la séance avec voix délibérative.
+La chambre du conseil est composée du premier président, des présidents de chambre, des conseillers maîtres, des conseillers
+maîtres en service extraordinaire et, le cas échéant, de présidents de chambre régionale ou territoriale des comptes ayant le
+grade de conseiller maître.
 
-Le procureur général assiste aux séances de la chambre du conseil et participe aux débats.
+Le procureur général assiste aux séances de la chambre du conseil et participe aux débats. Il peut être accompagné d'un
+avocat général ou d'un chargé de mission.
 
 La chambre du conseil est saisie des projets de rapports publics, de rapports prévus aux articles LO. 132-2-1 et LO. 132-3
 ainsi qu'aux 3°, 4° et 5° de l'article 58 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances et
-en arrête le texte.
+en arrête le texte. Elle adopte les rapports, après avoir pris connaissance des réponses des ministres et des représentants
+des organismes intéressés.
 
 Elle délibère également sur toutes affaires ou questions qui lui sont soumises par le premier président, soit de son propre
 chef, soit sur proposition du procureur général.
@@ -16595,11 +16612,10 @@ Le secrétariat de la chambre du conseil est assuré par le secrétaire généra
 	  - Loi n°2001-692 du 1 août 2001 - art. 58 (M)
 	  - Code des juridictions financières - art. L132-3 (Ab)
 	  - Code des juridictions financières - art. LO132-2-1 (V)
-	  - Code des juridictions financières L111-2 à L111-8, LO132-2-1, LO132-3
 
 	**Modifié par**:
 
-	  - Décret n°2007-543 du 12 avril 2007 - art. 10 () JORF 13 avril 2007
+	  - Décret n°2007-1298 du 31 août 2007 - art. 3 () JORF 2 septembre 2007
 
 	**Cité par**:
 
@@ -20580,9 +20596,10 @@ au vu de l'avis motivé émis sur les comptes et des observations formulées sur
 
 La Cour des comptes fait connaître ses observations :
 
-Par le rapport public annuel établi en application de l'article L. 136-1 ;
+Par le rapport public annuel et les rapports publics thématiques établis en application de l'article L. 136-1 ;
 
-Par les rapports établis et les avis formulés en exécution des articles LO 132-1, LO 132-3, L. 132-4 et L. 135-5 ;
+Par les rapports établis et les avis formulés en application des dispositions prévues aux 2°, 3°, 4°, 5° et 6° de l'article
+58 de la loi organique n° 2001-692 du 1er août 2001 et aux articles LO 132-2-1, LO 132-3, L. 132-4 du présent code ;
 
 Par les rapports particuliers établis en application du deuxième alinéa de l'article L. 135-3 ;
 
@@ -20614,22 +20631,32 @@ locaux concernés.
 
 	  - Décret n°2000-338 2000-04-14
 
-	**Modifié par**:
-
-	  - Décret n°2007-543 du 12 avril 2007 - art. 16 () JORF 13 avril 2007
-
 	**Cite**:
 
-	  - Code des juridictions financières - art. L135-1 (V)
-	  - Code des juridictions financières - art. L135-3 (V)
-	  - Code des juridictions financières - art. L136-1 (M)
-	  - Code des juridictions financières - art. R241-24 (V)
-	  - Code des juridictions financières - art. R262-79 (V)
+	  - Loi organique n°2001-692 du 1er août 2001 - art. 58
+	  - Code des juridictions financières
+	  - Code des juridictions financières - art. L135-1
+	  - Code des juridictions financières - art. L135-3
+	  - Code des juridictions financières - art. L136-1
+	  - Code des juridictions financières - art. R241-24 (T)
+	  - Code des juridictions financières - art. R262-79
+
+	**Modifié par**:
+
+	  - Décret n°2007-1298 du 31 août 2007 - art. 4 () JORF 2 septembre 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 23
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R131-25 (V)
 	  - Code des juridictions financières - art. R141-8 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R143-1 (V)
 
 
 ###### Article R135-2
@@ -22021,7 +22048,11 @@ Les chambres régionales des comptes sont désignées sous le nom de la région 
 
 Le premier président de la Cour des comptes, président du Conseil supérieur des chambres régionales des comptes, assure la
 gestion des magistrats et des personnels des chambres régionales des comptes ainsi que celle des moyens matériels de ces
-juridictions. Il est l'ordonnateur principal des dépenses et des recettes des chambres régionales des comptes.
+juridictions. Il prend, sur proposition du secrétaire général, les actes relatifs à la gestion et à l'administration des
+fonctionnaires relevant des corps des juridictions financières, à l'exclusion des nominations dans un corps, des
+titularisations, des décisions entraînant la cessation définitive de fonctions, des mises en position hors cadres et des
+sanctions disciplinaires des troisième et quatrième groupes définies à l'article 66 de la loi n° 84-16 du 11 janvier 1984. Il
+est l'ordonnateur principal des dépenses et des recettes des chambres régionales des comptes.
 
 Le premier président conclut les marchés ainsi que les contrats relatifs à la gestion des chambres régionales des comptes.
 
@@ -22035,6 +22066,10 @@ par arrêté du Premier ministre, sur proposition du premier président de la Co
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°84-16 1984-01-11 art. 66
+
 	**Anciens textes**:
 
 	  - Décret n°95-945 1995-08-23, art 135
@@ -22045,7 +22080,7 @@ par arrêté du Premier ministre, sur proposition du premier président de la Co
 
 	**Modifié par**:
 
-	  - Décret n°2007-543 du 12 avril 2007 - art. 21 () JORF 13 avril 2007
+	  - Décret n°2007-1299 du 31 août 2007 - art. 1 () JORF 2 septembre 2007
 
 	**Cité par**:
 

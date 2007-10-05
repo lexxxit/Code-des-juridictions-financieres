@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2007-10-06
+Version Consolidée au 2007-10-06 00:00:01 +0200
 
 # Partie législative
 
@@ -13797,23 +13797,24 @@ Si l'assemblée territoriale n'a pas voté le budget avant le 31 mars, et sous r
 recueilli les avis du haut-commissaire et de la chambre territoriale des comptes, un budget pour l'année en cours. La
 décision doit être motivée si elle s'écarte de l'un au moins de ces avis.
 
+**Nota:**
+
+Loi organique n° 2007-1719 du 7 décembre 2007 article 36 IV : Les articles 1er,5,6,18,24 à 32 et 34 de la présente loi
+entrent en vigueur à compter du renouvellement de l'assemblée de la Polynésie française prévu au I de l'article 36. Le décret
+n° 2007-1728 du 8 décembre 2007 publié au Journal officiel du 9 décembre 2007 a fixé au 27 janvier 2008 la date de l'élection
+des représentants à l'assemblée de la Polynésie française. 
+
+Le deuxième tour de ces élections a eu lieu le 10 février 2008.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-820 1984-09-06, art 76, modifié par loi 96-312 1996-04-12, art 119
-
-	**Codifié par**:
-
-	  - Loi n°94-1132 1994-12-27
 
 	**Cité par**:
 
 	  - Loi n°2004-192 du 27 février 2004 - art. 144 (V)
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2007-1434 du 5 octobre 2007 - art. 4 () JORF 6 octobre 2007
+	  - Loi organique n°2007-1719 du 7 décembre 2007 - art. 34
 
 
 ###### Article LO273-2

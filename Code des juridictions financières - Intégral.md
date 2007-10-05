@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2007-10-01
+Version Consolidée au 2007-10-06
 
 # Partie législative
 
@@ -13778,6 +13778,8 @@ La chambre territoriale des comptes peut exercer son droit d'évocation et de r�
 
 ##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution du budget du territoire, des communes et des établissements publics
 
+##### Section 1 : Contrôle des actes budgétaires et de l'exécution du budget de la Polynésie française
+
 ###### Article LO273-1
 
 Le président du gouvernement du territoire dépose le projet de budget du territoire sur le bureau de l'assemblée
@@ -13805,13 +13807,13 @@ décision doit être motivée si elle s'écarte de l'un au moins de ces avis.
 
 	  - Loi n°94-1132 1994-12-27
 
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
-
 	**Cité par**:
 
 	  - Loi n°2004-192 du 27 février 2004 - art. 144 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1434 du 5 octobre 2007 - art. 4 () JORF 6 octobre 2007
 
 
 ###### Article LO273-2
@@ -13831,23 +13833,36 @@ jours à compter de la transmission de la nouvelle délibération, le budget est
 commissaire. Si celui-ci s'écarte des propositions formulées par la chambre territoriale des comptes, il assortit sa décision
 d'une motivation explicite.
 
+**Nota:**
+
+Loi organique n° 2007-1719 du 7 décembre 2007 article 36 IV : Les articles 1er,5,6,18,24 à 32 et 34 de la présente loi
+entrent en vigueur à compter du renouvellement de l'assemblée de la Polynésie française prévu au I de l'article 36. Le décret
+n° 2007-1728 du 8 décembre 2007 publié au Journal officiel du 9 décembre 2007 a fixé au 27 janvier 2008 la date de l'élection
+des représentants à l'assemblée de la Polynésie française. 
+
+Le deuxième tour de ces élections a eu lieu le 10 février 2008.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-820 du 6 septembre 1984 - art. 77 (M)
+	  - Loi n°84-820 du 6 septembre 1984 - art. 77 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°94-1132 1994-12-27
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi organique n°94-1132 du 27 décembre 1994 (V)
 
 	**Cité par**:
 
 	  - Loi n°2004-192 du 27 février 2004 - art. 144 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1434 du 5 octobre 2007 - art. 4
+
+	**Abrogé par**:
+
+	  - Loi organique n°2007-1719 du 7 décembre 2007 - art. 34
 
 
 ###### Article LO273-3
@@ -13870,23 +13885,36 @@ assortit sa décision d'une motivation explicite.
 A défaut de mandatement d'une dépense obligatoire par le président du gouvernement du territoire, dans le mois suivant la
 mise en demeure qui lui a été faite par le haut-commissaire, celui-ci y procède d'office.
 
+**Nota:**
+
+Loi organique n° 2007-1719 du 7 décembre 2007 article 36 IV : Les articles 1er,5,6,18,24 à 32 et 34 de la présente loi
+entrent en vigueur à compter du renouvellement de l'assemblée de la Polynésie française prévu au I de l'article 36. Le décret
+n° 2007-1728 du 8 décembre 2007 publié au Journal officiel du 9 décembre 2007 a fixé au 27 janvier 2008 la date de l'élection
+des représentants à l'assemblée de la Polynésie française. 
+
+Le deuxième tour de ces élections a eu lieu le 10 février 2008.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-820 du 6 septembre 1984 - art. 78 (M)
+	  - Loi n°84-820 du 6 septembre 1984 - art. 78 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°94-1132 1994-12-27
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi organique n°94-1132 du 27 décembre 1994 (V)
 
 	**Cité par**:
 
 	  - Loi n°2004-192 du 27 février 2004 - art. 144 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1434 du 5 octobre 2007 - art. 4
+
+	**Abrogé par**:
+
+	  - Loi organique n°2007-1719 du 7 décembre 2007 - art. 34
 
 
 ###### Article LO273-4
@@ -13908,7 +13936,7 @@ La chambre territoriale des comptes prend toutes dispositions pour garantir le s
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Ordonnance n°2007-1434 du 5 octobre 2007 - art. 4 () JORF 6 octobre 2007
 
 
 ##### CHAPITRE IV : Des comptables
@@ -20872,6 +20900,160 @@ Premier ministre, sur proposition du premier président de la Cour des comptes.
 	**Nouveaux textes**:
 
 	  - Code des juridictions financières - art. R143-7 (V)
+
+
+#### CHAPITRE VII : Travaux de certification des comptes de l'Etat et de la sécurité sociale
+
+###### Article R137-1
+
+Pour la mise en oeuvre des dispositions du 5° de l'article 58 de la loi organique n° 2001-692 du 1er août 2001 et de
+l'article LO 132-2-1, les résultats provisoires des vérifications peuvent, à tout moment des travaux préparatoires à la
+certification, être transmis aux autorités administratives concernées, à fin de validation de ces résultats ou d'information
+de ces autorités. Cette transmission est effectuée, préalablement à l'examen de ces travaux par la formation compétente de la
+Cour des comptes, par des magistrats, des conseillers maîtres en service extraordinaire ou des rapporteurs extérieurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Cite**:
+
+	  - Loi organique n°2001-692 du 1er août 2001 - art. 58
+	  - Code des juridictions financières - art. LO132-2-1
+
+	**Créé par**:
+
+	  - Décret n°2007-1431 du 4 octobre 2007 - art. 1 () JORF 6 octobre 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 25
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R137-6 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R143-8 (V)
+
+
+###### Article R137-2
+
+Le président de la formation compétente peut, après délibération de celle-ci, communiquer aux autorités administratives
+concernées ceux des résultats provisoires qui, en l'état de la préparation des comptes et des vérifications déjà opérées,
+paraissent devoir donner lieu à un examen particulier ou à une action de ces autorités en vue de permettre la certification
+des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Créé par**:
+
+	  - Décret n°2007-1431 du 4 octobre 2007 - art. 1 () JORF 6 octobre 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 25
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R137-6 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R143-9 (T)
+
+
+###### Article R137-3
+
+I. - Le projet de rapport établi en vue de la certification prévue par le 5° de l'article 58 de la loi organique n° 2001-692
+du 1er août 2001 et le compte rendu des vérifications sont examinés par la formation compétente.
+
+Ils sont ensuite adressés aux secrétaires généraux, aux directeurs généraux et directeurs d'administration centrale
+compétents et aux autres autorités administratives compétentes. Sans préjudice du droit d'être entendu prévu à l'article L.
+135-4, le délai de réponse qui leur est imparti est fixé à dix jours au plus. Ces autorités administratives adressent
+directement copie de leurs réponses aux directeurs chargés du budget et de la comptabilité publique.
+
+II. - La procédure prévue au I s'applique au projet de rapport de certification de la régularité, de la sincérité et de la
+fidélité des comptes des organismes nationaux du régime général et des comptes combinés de chaque branche et de l'activité de
+recouvrement du régime général prévu par l'article LO 132-2-1. Le projet est adressé aux directeurs compétents auprès des
+ministres chargés de la sécurité sociale, des comptes publics et du budget ainsi que, chacun pour ce qui le concerne, aux
+directeurs des caisses nationales du régime général. Ces directeurs adressent copie de leurs réponses au directeur chargé de
+la sécurité sociale.
+
+III. - Les projets éventuellement modifiés sont ensuite transmis au comité du rapport public et des programmes conformément à
+l'article R. 136-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Cite**:
+
+	  - Loi organique n°2001-692 du 1er août 2001 - art. 58
+	  - Code des juridictions financières - art. L135-4
+	  - Code des juridictions financières - art. LO132-2-1
+	  - Code des juridictions financières - art. R136-1
+
+	**Créé par**:
+
+	  - Décret n°2007-1431 du 4 octobre 2007 - art. 1 () JORF 6 octobre 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 25
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R143-10 (V)
+
+
+###### Article R137-4
+
+I. - Après leur examen par le comité du rapport public et des programmes et avant la transmission à la chambre du conseil, le
+projet de rapport établi en vue de la certification prévue par le 5° de l'article 58 de la loi organique n° 2001-692 du 1er
+août 2001 et le compte rendu des vérifications sont adressés au ministre chargé du budget.
+
+II. - La même procédure s'applique au projet de rapport de certification prévu par l'article LO 132-2-1. Ce projet est
+adressé au ministre chargé de la sécurité sociale, au ministre chargé du budget et, chacun pour la partie qui le concerne,
+aux directeurs des caisses nationales du régime général de sécurité sociale. Ces derniers adressent copie de leur réponse au
+ministre chargé de la sécurité sociale.
+
+III. - Sans préjudice du droit d'être entendu prévu à l'article L. 135-4, le délai de réponse prévu à l'article R. 136-1 peut
+être ramené à dix jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Cite**:
+
+	  - Loi organique n°2001-692 du 1er août 2001 - art. 58
+	  - Code des juridictions financières - art. L135-4
+	  - Code des juridictions financières - art. LO132-2-1
+	  - Code des juridictions financières - art. R136-1
+
+	**Créé par**:
+
+	  - Décret n°2007-1431 du 4 octobre 2007 - art. 1 () JORF 6 octobre 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 25
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R143-11 (V)
 
 
 ### TITRE IV : Procédure

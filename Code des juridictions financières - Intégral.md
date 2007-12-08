@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2007-10-06 00:00:01 +0200
+Version Consolidée au 2007-12-09
 
 # Partie législative
 
@@ -14220,7 +14220,7 @@ b) Tout fonctionnaire ou agent civil ou militaire de l'Etat, des collectivités 
 ainsi que des groupements des collectivités territoriales ; 
 
 c) Tout représentant, administrateur ou agent des autres organismes qui sont soumis soit au contrôle de la Cour des comptes,
-soit au contrôle d'une chambre régionale des comptes. 
+soit au contrôle d'une chambre régionale des comptes ou d'une chambre territoriale des comptes. 
 
 Sont également justiciables de la Cour tous ceux qui exercent, en fait, les fonctions des personnes désignées ci-dessus. 
 
@@ -14277,30 +14277,24 @@ en raison de dispositions législatives ou réglementaires, sont l'accessoire ob
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°95-851 1995-07-24
-
 	**Cite**:
 
-	  - Loi n°2004-192 du 27 février 2004 - art. 67 (V)
+	  - Loi n°99-209 du 19 mars 1999 (V)
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 67
 	  - Code général des collectivités territoriales - art. L2122-17 (V)
-	  - Code général des collectivités territoriales - art. L2122-25 (V)
+	  - Code général des collectivités territoriales - art. L3221-3 (V)
 	  - Code général des collectivités territoriales - art. L4132-13 (V)
-	  - Code général des collectivités territoriales - art. L4132-15 (V)
 	  - Code général des collectivités territoriales - art. L4132-21 (V)
-	  - Code général des collectivités territoriales - art. L4132-22 (V)
-	  - Code général des collectivités territoriales - art. L4132-25 (V)
 	  - Code général des collectivités territoriales - art. L4132-3 (V)
-	  - Code général des collectivités territoriales - art. L4133-2 (V)
-	  - Code général des collectivités territoriales - art. L4133-4 (V)
+	  - Code général des collectivités territoriales - art. L4133-1 (V)
 	  - Code général des collectivités territoriales - art. L4231-1 (V)
-	  - Code général des collectivités territoriales - art. LO6162-9 (V)
-	  - Code général des collectivités territoriales - art. LO6252-3 (V)
+	  - Code général des collectivités territoriales - art. LO6162-9
+	  - Code général des collectivités territoriales - art. LO6252-3
+	  - Code général des collectivités territoriales - art. LO6462-8
 
 	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+	  - Loi n°2007-1720 du 7 décembre 2007 - art. 4
 
 	**Cité par**:
 

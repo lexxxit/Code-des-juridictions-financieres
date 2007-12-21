@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2007-12-09
+Version Consolidée au 2007-12-22
 
 # Partie législative
 
@@ -2507,10 +2507,11 @@ nominativement ou explicitement mise en cause.
 ###### Article L135-5
 
 Les communications de la Cour des comptes aux ministres, autres que celles visées aux articles L. 135-2 et L. 135-3, et les
-réponses qui leur sont apportées sont transmises aux commissions des finances de chacune des assemblées parlementaires à
-l'expiration d'un délai de réponse de trois mois. Elles sont également communiquées, à leur demande, aux commissions
-d'enquête de chacune des assemblées parlementaires. En outre, le premier président peut communiquer à ces mêmes destinataires
-les autres constatations et observations de la Cour des comptes, ainsi que les réponses qui leur ont été apportées.
+réponses qui leur sont apportées sont transmises   aux commissions des finances et, dans leur domaine de compétence, aux
+commissions chargées des affaires sociales de chacune des assemblées parlementaires à l'expiration d'un délai de réponse de
+trois mois. Elles sont également communiquées, à leur demande, aux commissions d'enquête de chacune des assemblées
+parlementaires. En outre, le premier président peut communiquer à ces mêmes destinataires les autres constatations et
+observations de la Cour des comptes, ainsi que les réponses qui leur ont été apportées.
 
 **Liens relatifs à cet article**
 
@@ -2519,23 +2520,9 @@ les autres constatations et observations de la Cour des comptes, ainsi que les r
 	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 (V)
 	  - Code des juridictions financières - art. L314-19 (V)
 
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 10 al 2
-	  - loi 76-539 1976-06-22, art 7-XII modifié par loi 95-1347 1995-12-30, art 41
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi - art. 93 ()
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L135-2 (M)
-	  - Code des juridictions financières - art. L135-3 (V)
+	  - Loi n°2007-1786 du 19 décembre 2007 - art. 99
 
 
 #### CHAPITRE VI : Rapports publics

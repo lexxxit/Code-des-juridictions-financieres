@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2008-01-06
+Version Consolidée au 2008-02-10
 
 # Partie législative
 
@@ -12169,14 +12169,27 @@ crédits, fonds et valeurs.
 
 ###### Article LO272-12
 
-La chambre territoriale des comptes examine la gestion du territoire et de ses établissements publics.
+La chambre territoriale des comptes examine la gestion de la Polynésie française et de ses établissements publics. 
 
-Elle peut également, dans le cadre du contrôle des comptes de l'autorité délégante, vérifier auprès de délégataires de
-services publics les comptes qu'ils ont produits aux autorités délégantes.
+Elle examine en outre celle des établissements, sociétés, groupements et organismes, quel que soit leur statut juridique,
+auxquels la Polynésie française et ses établissements publics apportent un concours financier supérieur à 179 000 F CFP (1
+500 euros) ou dans lesquels ils détiennent, séparément ou ensemble, plus de la moitié du capital ou des voix dans les organes
+délibérants, ou exercent un pouvoir prépondérant de décision ou de gestion, lorsque la vérification lui en est confiée par un
+arrêté du premier président de la Cour des comptes. 
 
-L'examen de la gestion porte sur la régularité des actes de gestion, sur l'économie des moyens mis en oeuvre et sur
-l'évaluation des résultats atteints par rapport aux objectifs fixés par l'organe délibérant. L'opportunité de ces objectifs
-ne peut faire l'objet d'observations.
+Elle peut également assurer les vérifications prévues au deuxième alinéa sur demande motivée du haut-commissaire, de
+l'assemblée de la Polynésie française, du gouvernement de la Polynésie française ou de l'établissement public. 
+
+Elle peut assurer la vérification des comptes des filiales des établissements, sociétés, groupements et organismes mentionnés
+au deuxième alinéa, lorsque ces derniers détiennent dans lesdites filiales, séparément ou ensemble, plus de la moitié du
+capital ou des voix dans les organismes délibérants, ou exercent un pouvoir prépondérant de décision ou de gestion. 
+
+Elle peut aussi, dans le cadre du contrôle des comptes de l'autorité délégante, vérifier auprès des délégataires de service
+public les comptes qu'ils ont produits aux autorités délégantes. 
+
+L'examen de gestion porte sur la régularité des actes de gestion, sur l'économie des moyens mis en oeuvre et sur l'évaluation
+des résultats atteints par rapport aux objectifs fixés par l'organe délibérant. L'opportunité de ces objectifs ne peut faire
+l'objet d'observations.
 
 **Nota:**
 
@@ -12189,18 +12202,9 @@ Le deuxième tour de ces élections a eu lieu le 10 février 2008.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 art. 87 al. 13
-	  - Loi n°84-820 1984-09-06 art. 97 al. 3
-
-	**Codifié par**:
-
-	  - Loi n°94-1132 1994-12-27
-
 	**Modifié par**:
 
-	  - Loi n°2004-192 du 27 février 2004 - art. 186 () JORF 2 mars 2004
+	  - Loi organique n°2007-1719 du 7 décembre 2007 - art. 34
 
 	**Cité par**:
 
@@ -13700,164 +13704,38 @@ La chambre territoriale des comptes peut exercer son droit d'évocation et de r�
 
 ##### Section 1 : Contrôle des actes budgétaires et de l'exécution du budget de la Polynésie française
 
-###### Article LO273-1
-
-Le président du gouvernement du territoire dépose le projet de budget du territoire sur le bureau de l'assemblée
-territoriale, au plus tard le 15 novembre.
-
-Si le budget n'est pas exécutoire avant le 1er janvier de l'exercice auquel il s'applique, le président du territoire peut
-mettre en recouvrement les recettes et engager, liquider et mandater les dépenses de la section de fonctionnement dans la
-limite de celles inscrites au budget de l'année précédente.
-
-Dans les mêmes conditions, il peut mandater les dépenses de remboursement de la dette publique en capital venant à échéance
-avant que le budget ne devienne exécutoire. "
-
-Si l'assemblée territoriale n'a pas voté le budget avant le 31 mars, et sous réserve des dispositions de l'article L.O.
-273-2, le conseil des ministres du territoire établit, sur la base des recettes de l'exercice précédent et après avoir
-recueilli les avis du haut-commissaire et de la chambre territoriale des comptes, un budget pour l'année en cours. La
-décision doit être motivée si elle s'écarte de l'un au moins de ces avis.
-
-**Nota:**
-
-Loi organique n° 2007-1719 du 7 décembre 2007 article 36 IV : Les articles 1er,5,6,18,24 à 32 et 34 de la présente loi
-entrent en vigueur à compter du renouvellement de l'assemblée de la Polynésie française prévu au I de l'article 36. Le décret
-n° 2007-1728 du 8 décembre 2007 publié au Journal officiel du 9 décembre 2007 a fixé au 27 janvier 2008 la date de l'élection
-des représentants à l'assemblée de la Polynésie française. 
-
-Le deuxième tour de ces élections a eu lieu le 10 février 2008.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°2004-192 du 27 février 2004 - art. 144 (V)
-
-	**Abrogé par**:
-
-	  - Loi organique n°2007-1719 du 7 décembre 2007 - art. 34
-
-
-###### Article LO273-2
-
-Lorsque le budget du territoire n'est pas voté en équilibre réel, la chambre territoriale des comptes, saisie par le haut-
-commissaire dans le délai de trente jours à compter de la notification qui lui est faite de la délibération de l'assemblée
-territoriale, le constate et propose à l'assemblée territoriale, dans un délai de trente jours à compter de sa saisine, les
-mesures nécessaires au rétablissement de l'équilibre budgétaire. La chambre territoriale des comptes demande à l'assemblée
-territoriale une nouvelle délibération.
-
-La nouvelle délibération rectifiant le budget initial doit intervenir dans un délai d'un mois à compter de la communication
-des propositions de la chambre territoriale des comptes.
-
-Si l'assemblée territoriale n'a pas délibéré dans le délai prescrit ou si la délibération prise ne comporte pas de mesures de
-redressement jugées suffisantes par la chambre territoriale des comptes, qui se prononce sur ce point dans un délai de quinze
-jours à compter de la transmission de la nouvelle délibération, le budget est réglé et rendu exécutoire par le haut-
-commissaire. Si celui-ci s'écarte des propositions formulées par la chambre territoriale des comptes, il assortit sa décision
-d'une motivation explicite.
-
-**Nota:**
-
-Loi organique n° 2007-1719 du 7 décembre 2007 article 36 IV : Les articles 1er,5,6,18,24 à 32 et 34 de la présente loi
-entrent en vigueur à compter du renouvellement de l'assemblée de la Polynésie française prévu au I de l'article 36. Le décret
-n° 2007-1728 du 8 décembre 2007 publié au Journal officiel du 9 décembre 2007 a fixé au 27 janvier 2008 la date de l'élection
-des représentants à l'assemblée de la Polynésie française. 
-
-Le deuxième tour de ces élections a eu lieu le 10 février 2008.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-820 du 6 septembre 1984 - art. 77 (Ab)
-
-	**Codifié par**:
-
-	  - Loi organique n°94-1132 du 27 décembre 1994 (V)
-
-	**Cité par**:
-
-	  - Loi n°2004-192 du 27 février 2004 - art. 144 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2007-1434 du 5 octobre 2007 - art. 4
-
-	**Abrogé par**:
-
-	  - Loi organique n°2007-1719 du 7 décembre 2007 - art. 34
-
-
-###### Article LO273-3
-
-Si une dépense obligatoire a été omise ou si le crédit correspondant à cette dépense a été insuffisamment doté au budget du
-territoire, le haut-commissaire demande une seconde lecture à l'assemblée du territoire. Si, dans les quinze jours de la
-demande de seconde lecture, l'assemblée territoriale n'a pas rétabli les inscriptions de crédits nécessaires, le haut-
-commissaire saisit la chambre territoriale des comptes.
-
-Si la chambre territoriale des comptes constate, dans le mois de sa saisine, que la dépense obligatoire n'a pas été inscrite
-au budget territorial ou l'a été pour une somme insuffisante, elle adresse une mise en demeure au président de l'assemblée
-territoriale.
-
-Si, dans un délai d'un mois, cette mise en demeure n'est pas suivie d'effet, la chambre territoriale des comptes demande au
-haut-commissaire d'inscrire cette dépense au budget du territoire et propose, s'il y a lieu, la création de ressources ou la
-diminution de dépenses facultatives destinée à couvrir la dépense obligatoire. Le haut-commissaire règle et rend exécutoire
-le budget rectifié en conséquence. S'il s'écarte des propositions formulées par la chambre territoriale des comptes, il
-assortit sa décision d'une motivation explicite.
-
-A défaut de mandatement d'une dépense obligatoire par le président du gouvernement du territoire, dans le mois suivant la
-mise en demeure qui lui a été faite par le haut-commissaire, celui-ci y procède d'office.
-
-**Nota:**
-
-Loi organique n° 2007-1719 du 7 décembre 2007 article 36 IV : Les articles 1er,5,6,18,24 à 32 et 34 de la présente loi
-entrent en vigueur à compter du renouvellement de l'assemblée de la Polynésie française prévu au I de l'article 36. Le décret
-n° 2007-1728 du 8 décembre 2007 publié au Journal officiel du 9 décembre 2007 a fixé au 27 janvier 2008 la date de l'élection
-des représentants à l'assemblée de la Polynésie française. 
-
-Le deuxième tour de ces élections a eu lieu le 10 février 2008.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-820 du 6 septembre 1984 - art. 78 (Ab)
-
-	**Codifié par**:
-
-	  - Loi organique n°94-1132 du 27 décembre 1994 (V)
-
-	**Cité par**:
-
-	  - Loi n°2004-192 du 27 février 2004 - art. 144 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2007-1434 du 5 octobre 2007 - art. 4
-
-	**Abrogé par**:
-
-	  - Loi organique n°2007-1719 du 7 décembre 2007 - art. 34
-
-
 ###### Article LO273-4
 
-Lorsqu'elle est saisie en application des articles L.O. 273-1 à L.O. 273-3, la chambre territoriale des comptes dispose, pour
-l'instruction de ces affaires, des pouvoirs définis aux articles L.O. 272-40, L.O. 272-41, L. 272-44 et L. 272-50.
+Lorsqu'elle est saisie en application des articles 185-1,185-3 et 185-4 de la loi organique n° 2004-192 du 27 février 2004
+portant statut d'autonomie de la Polynésie française, la chambre territoriale des comptes dispose, pour l'instruction de ces
+affaires, des pouvoirs définis aux articles L. O. 272-40, L. O. 272-41, L. 272-44 et L. 272-50. 
 
 La chambre territoriale des comptes prend toutes dispositions pour garantir le secret de ses investigations.
 
+**Nota:**
+
+Loi organique n° 2007-1719 du 7 décembre 2007 article 36 IV : Les articles 1er,5,6,18,24 à 32 et 34 de la présente loi
+entrent en vigueur à compter du renouvellement de l'assemblée de la Polynésie française prévu au I de l'article 36. Le décret
+n° 2007-1728 du 8 décembre 2007 publié au Journal officiel du 9 décembre 2007 a fixé au 27 janvier 2008 la date de l'élection
+des représentants à l'assemblée de la Polynésie française. 
+
+Le deuxième tour de ces élections a eu lieu le 10 février 2008.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°82-594 1982-07-10, art 9 Loi 82-594 1982-07-10, art 5 al 6
-
-	**Codifié par**:
-
-	  - Loi n°94-1132 1994-12-27
+	  - Loi n°2004-192 du 27 février 2004 - art. 185-1 (V)
+	  - Loi n°2004-192 du 27 février 2004 - art. 185-3 (V)
+	  - Loi n°2004-192 du 27 février 2004 - art. 185-4 (V)
+	  - Code des juridictions financières - art. L272-44
+	  - Code des juridictions financières - art. L272-50
+	  - Code des juridictions financières - art. LO272-40
+	  - Code des juridictions financières - art. LO272-41
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1434 du 5 octobre 2007 - art. 4 () JORF 6 octobre 2007
+	  - Loi organique n°2007-1719 du 7 décembre 2007 - art. 34
 
 
 ##### CHAPITRE IV : Des comptables

@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2008-05-25
+Version Consolidée au 2008-06-14
 
 # Partie législative
 
@@ -19345,18 +19345,15 @@ contrôle porte sur l'ensemble des comptes et de la gestion.
 
 ###### Article D134-6
 
-Au comité prévu à l'article R. 134-5, dénommé comité de pilotage, le représentant du ministre chargé du budget est le
-directeur général de la comptabilité publique, le représentant du ministre chargé de la sécurité sociale est le directeur de
-la sécurité sociale et le représentant du ministre chargé de la protection sociale agricole est le directeur des
-exploitations, de la politique sociale et de l'emploi.
+Chacun des ministres mentionnés à l'article R. 134-5 désigne par arrêté un directeur d'administration centrale pour le
+représenter au comité de pilotage institué par ce même article. 
 
 Le président du comité de pilotage et les directeurs d'administration centrale qui en sont membres ont voix délibérative. Les
 décisions sont prises à la majorité des membres présents. En cas de partage égal des voix, celle du président est
-prépondérante.
+prépondérante. 
 
-Le comité de pilotage comprend également, avec voix consultative, un trésorier-payeur général, président d'un comité d'examen
-des comptes, un directeur régional des affaires sanitaires et sociales et un chef de service régional de l'inspection du
-travail, de l'emploi et de la politique sociale agricoles, ou leur représentant.
+Le comité de pilotage comprend également avec voix consultative un représentant de chacune des administrations de tutelle ou
+de chacun des corps de contrôle mentionnés à l'article R. 134-4, désigné par le ou les ministres compétents. 
 
 Le comité associe à ses travaux, à la demande de son président, toute personnalité qualifiée compétente pour l'un des points
 inscrits à l'ordre du jour. En outre, un avocat général représentant le procureur général près la Cour des comptes,
@@ -19364,61 +19361,55 @@ destinataire de l'ordre du jour, peut assister aux travaux de ce comité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°99-1155 du 29 décembre 1999 - art. 1 (Ab)
+	  - Décret n°2008-549 du 11 juin 2008 - art. 1
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2017-671 du 28 avril 2017 - art. 181
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Code des juridictions financières - art. R134-4
+	  - Code des juridictions financières - art. R134-5
 
 
 ###### Article D134-7
 
 Le comité de pilotage se réunit au moins une fois par an ou à la demande de l'un de ses membres. Il est convoqué par son
-président.
+président. 
 
-Un magistrat de la Cour des comptes, désigné par le président du comité de pilotage, en assure le secrétariat.
+Un magistrat ou un rapporteur extérieur à la Cour des comptes, désigné par le président du comité de pilotage, en assure le
+secrétariat. 
 
-Le comité de pilotage arrête, à l'unanimité des membres ayant voix délibérative, les thèmes de vérification traités par les
-comités d'examen des comptes à l'occasion des contrôles mentionnés à l'article D. 134-18.
-
-Il émet un avis en vue de la détermination des points particuliers sur lesquels la Cour des comptes demande, chaque année,
-aux comités d'examen des comptes, par l'intermédiaire des ministres de tutelle, de faire porter spécialement les contrôles.
-
-Il est informé des transmissions faites par les comités d'examen des comptes à la Cour des comptes à sa demande en
-application de l'article LO 132-3.
-
-Chaque année, le comité de pilotage adresse aux comités d'examen des comptes un rapport sur leur activité, les contrôles
-qu'ils ont effectués au cours de l'année et les suites réservées à ces derniers, ainsi que les orientations de contrôle
-arrêtées par le comité de pilotage.
+Le comité de pilotage établit chaque année un rapport d'activité. 
 
 Pour l'accomplissement de ses missions, le comité de pilotage peut créer des groupes de travail. Chacun d'eux comprend des
-représentants de la Cour des comptes, de la direction générale de la comptabilité publique, de la direction de la sécurité
-sociale, de la direction des exploitations, de la politique sociale et de l'emploi et des vérificateurs des services
-déconcentrés de chaque direction mentionnés à l'article R. 134-8.
+représentants de la Cour des comptes et des ministres mentionnés à l'article R. 134-5.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°99-1155 du 29 décembre 1999 - art. 2 (Ab)
+	  - Décret n°2008-549 du 11 juin 2008 - art. 2
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 43
 
 	**Cité par**:
 
+	  - Code des juridictions financières - art. D134-15 (Ab)
 	  - Code des juridictions financières - art. R134-14 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D134-5 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R134-5
 
 
 ###### Article R134-1
@@ -19627,197 +19618,7 @@ Ses modalités d'organisation et de fonctionnement sont fixées par décret.
 
 ##### Section 2 : Composition et compétence des comités d'examen des comptes.
 
-###### Article D134-9
-
-I. - Un comité régional d'examen des comptes chargé des contrôles prévus à l'article L. 134-2 est créé dans chaque région
-administrative métropolitaine.
-
-Sous réserve des dispositions mentionnées au II du présent article, ce comité est composé du trésorier-payeur général de
-région, ou de son représentant, choisi parmi les trésoriers-payeurs généraux des départements de la région, président, du
-directeur régional des affaires sanitaires et sociales, ou de son représentant, et du directeur du travail, chef du service
-régional de l'inspection du travail, de l'emploi et de la politique sociale agricoles, ou de son représentant.
-
-II. - En Corse, le comité régional d'examen des comptes est composé du trésorier-payeur général de région, ou du trésorier-
-payeur général de la Haute-Corse, son représentant, président, du directeur de la solidarité et de la santé de la Corse et de
-la Haute-Corse ou de son représentant et du chef du service régional de l'inspection du travail, de l'emploi et de la
-politique sociale agricoles ou de son représentant.
-
-III. - 1° Le comité d'examen des comptes compétent pour les régions de Guadeloupe, Martinique et Guyane est composé du
-trésorier-payeur général de la Martinique ou de son représentant choisi parmi les trésoriers-payeurs généraux des deux autres
-régions, président, du directeur interrégional de la sécurité sociale, ou de son représentant, et d'un représentant du
-ministère chargé de l'agriculture.
-
-2° A la Réunion, le comité régional d'examen des comptes est composé du trésorier-payeur général ou de son représentant,
-président, du directeur régional des affaires sanitaires et sociales, ou de son représentant, et d'un représentant du
-ministère chargé de l'agriculture.
-
-3° Dans les collectivités territoriales de Saint-Pierre-et-Miquelon et de Mayotte, le comité d'examen des comptes est composé
-du trésorier-payeur général ou de son représentant, président, du directeur des affaires sanitaires et sociales ou de son
-représentant, et d'un représentant du ministère chargé de l'agriculture.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-1155 du 29 décembre 1999 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2008-549 du 11 juin 2008 - art. 3 (V)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. D134-10 (Ab)
-	  - Code des juridictions financières - art. D134-16 (Ab)
-	  - Code des juridictions financières - art. D134-17 (Ab)
-	  - Code des juridictions financières - art. R134-8 (V)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L134-2
-
-
-###### Article D134-10
-
-Le président et les membres des comités mentionnés à l'article D. 134-9 ont voix délibérative. En cas de partage égal des
-voix, celle du président est prépondérante.
-
-Les trésoriers-payeurs généraux des départements entrant dans le champ territorial des comités mentionnés aux I, II et III
-(1°) de l'article D. 134-9 ou leur représentant assistent aux séances du comité avec voix consultative.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-1155 du 29 décembre 1999 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2008-549 du 11 juin 2008 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. D134-9
-
-
-###### Article D134-11
-
-Le président du comité d'examen des comptes en assure le secrétariat. Il est chargé des relations, d'une part, entre la Cour
-des comptes et le comité, d'autre part, entre les différents membres du comité d'examen des comptes.
-
-Au moins une fois par an, les vérificateurs mentionnés à l'article R. 134-8 sont associés aux travaux du comité d'examen des
-comptes qui les a désignés.
-
-Le comité d'examen des comptes peut s'adjoindre toute personnalité qualifiée compétente pour l'un des points inscrits à
-l'ordre du jour et, notamment lorsqu'il examine les comptes d'un organisme ne relevant ni du régime général ni du régime
-agricole, un représentant du ministre chargé du contrôle administratif ou de la tutelle dudit organisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-1155 du 29 décembre 1999 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2008-549 du 11 juin 2008 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R134-8
-
-
-###### Article D134-12
-
-Les vérificateurs mentionnés à l'article R. 134-8 qui rapportent devant le comité d'examen des comptes sont :
-
-- dans les régions métropolitaines, à l'exception de la Corse, des agents des services déconcentrés du Trésor public, de la
-direction régionale des affaires sanitaires et sociales et du service régional de l'inspection du travail, de l'emploi et de
-la politique sociale agricoles ;
-
-- en Corse, des agents des services déconcentrés du Trésor public, de la direction de la solidarité et de la santé et du
-service régional de l'inspection du travail, de l'emploi et de la politique sociale agricoles ;
-
-- en Guadeloupe, en Martinique, en Guyane, des agents des services déconcentrés du Trésor public, de la direction
-interrégionale de la sécurité sociale et un agent du ministère chargé de l'agriculture ;
-
-- à la Réunion, des agents des services déconcentrés du Trésor public, de la direction régionale des affaires sanitaires et
-sociales et un agent du ministère chargé de l'agriculture ;
-
-- à Saint-Pierre-et-Miquelon et à Mayotte, des agents des services déconcentrés du Trésor public, de la direction des
-affaires sanitaires et sociales et un agent du ministère chargé de l'agriculture.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-1155 du 29 décembre 1999 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2008-549 du 11 juin 2008 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R134-8
-
-
-###### Article D134-13
-
-Le comité d'examen des comptes compétent est celui de la région, du département, de la collectivité ou du territoire dans
-lequel les organismes de sécurité sociale ont leur siège, quelle que soit l'étendue de leur circonscription territoriale,
-sauf décision particulière des ministres chargés du budget, des affaires sociales et de l'agriculture.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-1155 du 29 décembre 1999 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2008-549 du 11 juin 2008 - art. 3 (V)
-
+##### Section 2 : Procédure et suivi des contrôles
 
 ###### Article R134-8
 
@@ -19906,373 +19707,6 @@ compétentes, ainsi que de la décision adoptée dans le mois de cette décision
 	**Nouveaux textes**:
 
 	  - Code des juridictions financières - art. R134-8 (V)
-
-
-##### Section 3 : Les attributions des comités d'examen des comptes.
-
-###### Article D134-15
-
-Les comités d'examen des comptes assurent la mise en oeuvre des orientations annuelles ou pluriannuelles des contrôles
-mentionnées à l'article R. 134-5.
-
-A ce titre, ils sont notamment chargés :
-
-- d'organiser la programmation annuelle et pluriannuelle des contrôles ;
-
-- de définir la politique de contrôle au niveau local ;
-
-- de contribuer, par des suggestions motivées adressées à la Cour des comptes, au choix des thèmes de vérification et des
-points particuliers mentionnés aux articles R. 134-14 et D. 134-7 ;
-
-- de répartir les organismes à vérifier entre les vérificateurs mentionnés à l'article R. 134-8, en privilégiant les
-contrôles conjoints ;
-
-- de veiller au déroulement des contrôles et au respect de la procédure contradictoire mentionnée à l'article D. 134-19 ;
-
-- d'émettre des avis sur les comptes prévus à l'article R. 134-8.
-
-Par ailleurs, conformément aux dispositions de l'article R. 134-14, les comités ont la charge :
-
-- d'établir un rapport d'ensemble récapitulant les observations émises à l'issue des contrôles ;
-
-- de transmettre, à la suite de la procédure contradictoire mentionnée à l'article D. 134-19, à la Cour des comptes, les
-avis, observations, informations et rapports mentionnés à l'article R. 134-14.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-1155 du 29 décembre 1999 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2008-549 du 11 juin 2008 - art. 3 (V)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. D134-17 (Ab)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. D134-19
-	  - Code des juridictions financières - art. D134-7 (T)
-	  - Code des juridictions financières - art. R134-14
-	  - Code des juridictions financières - art. R134-5
-	  - Code des juridictions financières - art. R134-8
-
-
-###### Article D134-16
-
-Dans le cadre des orientations définies par le comité de pilotage prévu à l'article R. 134-5, les comités d'examen des
-comptes animent et coordonnent l'activité de contrôle des directions et services mentionnés à l'article D. 134-9.
-
-Ils sont notamment chargés :
-
-- d'assurer la communication des informations utiles entre les différents services de contrôle régionaux ou départementaux,
-entre ces derniers et la Cour des comptes, et entre ces derniers et le comité de pilotage ;
-
-- de participer à l'élaboration des guides méthodologiques de contrôle définis par le comité de pilotage ;
-
-- d'organiser la formation des vérificateurs mentionnés à l'article R. 134-8.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-1155 du 29 décembre 1999 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2008-549 du 11 juin 2008 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. D134-9
-	  - Code des juridictions financières - art. R134-5
-	  - Code des juridictions financières - art. R134-8
-
-
-##### Section 4 : Les contrôles des comptes et de la gestion.
-
-###### Article D134-17
-
-Après avoir été régulièrement arrêtés, les comptes annuels des organismes de sécurité sociale, tels que définis à l'article
-D. 253-56 du code de la sécurité sociale et à l'article 66 du décret n° 63-379 du décret du 6 avril 1963 relatif aux
-opérations comptables et financières exécutées par les directeurs et les agents comptables de la mutualité sociale agricole,
-sont adressés par ces organismes, avant la date fixée respectivement par les articles D. 253-58, D. 613-41 du code de la
-sécurité sociale et 68 du décret du 6 avril 1963 susmentionné, au secrétariat du comité d'examen des comptes compétent en
-application des articles D. 134-9 et D. 134-15.
-
-Ces comptes doivent être accompagnés des rapports des commissions de contrôle des organismes concernés et des rapports de
-contrôles externes auxquels ces organismes ont été, le cas échéant, soumis.
-
-Les organismes de sécurité sociale sont, en outre, tenus de fournir au comité d'examen des comptes, sur demande de ce
-dernier, tous les documents, justifications et compléments d'information nécessaires à l'accomplissement de sa mission.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°63-379 du 6 avril 1963
-	  - Code des juridictions financières - art. D134-15
-	  - Code des juridictions financières - art. D134-9
-	  - Code de la sécurité sociale. - art. D253-56
-	  - Code de la sécurité sociale. - art. D253-58
-	  - Code de la sécurité sociale. - art. D613-41
-
-	**Anciens textes**:
-
-	  - Décret n°99-1155 du 29 décembre 1999 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2008-549 du 11 juin 2008 - art. 3 (V)
-
-
-###### Article D134-18
-
-Chaque organisme visé à l'article L. 134-1 fait l'objet d'un contrôle sur place par le comité d'examen des comptes compétent
-au moins tous les deux ans.
-
-Au moins une fois tous les cinq ans, un contrôle approfondi porte sur l'ensemble des comptes et de la gestion desdits
-organismes.
-
-Entre deux contrôles approfondis, les organismes font l'objet d'au moins un contrôle intermédiaire qui porte sur les comptes
-des exercices comptables non vérifiés, le suivi des observations précédemment formulées, l'examen de tout ou partie de la
-gestion.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-1155 du 29 décembre 1999 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2008-549 du 11 juin 2008 - art. 3 (V)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. D134-20 (Ab)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L134-1
-
-
-###### Article D134-19
-
-Sauf cas de force majeure, la procédure contradictoire à l'égard des organismes contrôlés relève de la responsabilité des
-vérificateurs qui ont effectué le contrôle.
-
-A l'issue de chaque contrôle, les organismes disposent d'un délai de quinze jours à compter de la réception du rapport de
-vérification pour présenter leurs remarques sur les constatations et observations formulées par les vérificateurs.
-
-Les réponses de l'organisme assorties, le cas échéant, des observations des vérificateurs sur ces dernières sont annexées au
-rapport de vérification définitif, qui est remis au président du comité d'examen des comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-1155 du 29 décembre 1999 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2008-549 du 11 juin 2008 - art. 3 (V)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. D134-15 (Ab)
-	  - Code des juridictions financières - art. D134-20 (Ab)
-
-
-###### Article D134-20
-
-A la suite des contrôles prévus à l'article D. 134-18, les vérificateurs mentionnés à l'article R. 134-8 ayant été entendus,
-les comités d'examen des comptes formulent un avis motivé présentant leurs propositions au sujet de l'approbation des comptes
-ainsi que leurs observations sur la gestion de l'organisme, prenant en considération les remarques faites par ce dernier,
-dans les conditions prévues à l'article D. 134-19.
-
-Cet avis est transmis aux autorités de tutelle compétentes pour approuver les comptes. Il est, en même temps, communiqué à la
-Cour des comptes, au président du conseil d'administration de l'organisme, au directeur dudit organisme ainsi qu'à l'agent
-comptable, lorsque sa responsabilité peut être mise en cause.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-1155 du 29 décembre 1999 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2008-549 du 11 juin 2008 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. D134-18
-	  - Code des juridictions financières - art. D134-19
-	  - Code des juridictions financières - art. R134-8
-
-
-##### Section 5 : Les suites données aux contrôles par la Cour des comptes.
-
-###### Article D134-24
-
-La décision de la Cour des comptes de procéder d'office à une seconde vérification doit intervenir dans les trois mois
-suivant la réception par la Cour de l'avis du comité d'examen des comptes.
-
-Les demandes de seconde vérification des comptes prévues à l'article R. 134-23 doivent être formées par requêtes adressées au
-procureur général près la Cour des comptes, par l'intermédiaire du ministre de tutelle, dans un délai de trois mois suivant
-la réception de l'avis émis par le comité d'examen des comptes.
-
-La décision de la Cour des comptes de procéder ou non à une seconde vérification doit intervenir dans les trois mois suivant
-la date du réquisitoire du procureur général.
-
-La Cour des comptes avise le requérant, ainsi que le président du conseil d'administration et les autorités de tutelle
-concernées de sa décision.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-1155 du 29 décembre 1999 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2008-549 du 11 juin 2008 - art. 3 (V)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. D134-25 (Ab)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R134-23
-
-
-###### Article D134-25
-
-Lorsqu'une seconde vérification des comptes n'a pas été demandée ou décidée dans le délai prévu à l'article D. 134-24,
-l'autorité qualifiée pour approuver les comptes peut, au vu de l'avis du comité d'examen des comptes, prononcer ou refuser
-l'approbation des comptes, et, éventuellement, provoquer la mise en cause de la responsabilité de l'agent comptable.
-
-La décision prise en vertu de l'alinéa précédent est portée à la connaissance de la Cour, en mentionnant, s'il y a lieu, les
-raisons pour lesquelles les réserves formulées par le comité d'examen des comptes ont été levées ou pour lesquelles son avis
-n'a pas été suivi. Cette décision doit être accompagnée d'une copie de l'avis du comité d'examen des comptes mentionnant la
-date à laquelle ledit avis a été transmis à l'autorité compétente.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-1155 du 29 décembre 1999 - art. 15 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2008-549 du 11 juin 2008 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. D134-24
-
-
-###### Article D134-26
-
-L'avis formulé par la Cour des comptes en cas de seconde vérification est adressé par le procureur général près la Cour des
-comptes aux ministres de tutelle ainsi qu'au ministre chargé du budget. Il est notifié en même temps au président du conseil
-d'administration de l'organisme.
-
-Quand la demande de seconde vérification a été présentée par le directeur ou par l'agent comptable de l'organisme, l'avis est
-également notifié à l'intéressé.
-
-Les ministres de tutelle, seuls compétents pour statuer, au vu de cet avis, sur l'approbation des comptes, doivent porter
-leur décision à la connaissance de la Cour des comptes par l'intermédiaire du procureur général.
-
-Cette décision mentionne, s'il y a lieu, les raisons pour lesquelles les réserves formulées par la Cour des comptes ont été
-levées ou pour lesquelles son avis n'a pas été suivi.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-1155 du 29 décembre 1999 - art. 16 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2008-549 du 11 juin 2008 - art. 3 (V)
 
 
 #### CHAPITRE V : Communication des observations

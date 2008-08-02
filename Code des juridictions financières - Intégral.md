@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2008-06-14
+Version Consolidée au 2008-08-03
 
 # Partie législative
 
@@ -2440,11 +2440,11 @@ nominativement ou explicitement mise en cause.
 ###### Article L135-5
 
 Les communications de la Cour des comptes aux ministres, autres que celles visées aux articles L. 135-2 et L. 135-3, et les
-réponses qui leur sont apportées sont transmises   aux commissions des finances et, dans leur domaine de compétence, aux
+réponses qui leur sont apportées sont transmises aux commissions des finances et, dans leur domaine de compétence, aux
 commissions chargées des affaires sociales de chacune des assemblées parlementaires à l'expiration d'un délai de réponse de
-trois mois. Elles sont également communiquées, à leur demande, aux commissions d'enquête de chacune des assemblées
-parlementaires. En outre, le premier président peut communiquer à ces mêmes destinataires les autres constatations et
-observations de la Cour des comptes, ainsi que les réponses qui leur ont été apportées.
+deux mois. Elles sont également communiquées, à leur demande, aux commissions d'enquête de chacune des assemblées
+parlementaires. En outre, le premier président communique à ces mêmes destinataires, à leur demande, les autres constatations
+et observations définitives de la Cour des comptes, ainsi que les réponses qui leur ont été apportées.
 
 **Liens relatifs à cet article**
 
@@ -2455,7 +2455,20 @@ observations de la Cour des comptes, ainsi que les réponses qui leur ont été 
 
 	**Modifié par**:
 
-	  - Loi n°2007-1786 du 19 décembre 2007 - art. 99
+	  - Loi n°2008-759 du 1er août 2008 - art. 11
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 44
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L135-2
+	  - Code des juridictions financières - art. L135-3
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L143-5 (V)
 
 
 #### CHAPITRE VI : Rapports publics
@@ -19615,8 +19628,6 @@ Ses modalités d'organisation et de fonctionnement sont fixées par décret.
 
 	  - Code des juridictions financières - art. R134-4 (V)
 
-
-##### Section 2 : Composition et compétence des comités d'examen des comptes.
 
 ##### Section 2 : Procédure et suivi des contrôles
 

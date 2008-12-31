@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2008-12-27
+Version Consolidée au 2009-01-01
 
 # Partie législative
 
@@ -14,23 +14,14 @@ Version Consolidée au 2008-12-27
 La Cour des comptes juge les comptes des comptables publics, sous réserve de la compétence que les dispositions du présent
 code attribuent, en premier ressort, aux chambres régionales et territoriales des comptes.
 
-Elle statue sur les appels formés contre les jugements prononcés à titre définitif par les chambres régionales et
-territoriales des comptes.
+Elle statue sur les appels formés contre les décisions juridictionnelles rendues par les chambres régionales et territoriales
+des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°67-483 1967-06-22, art 1er al 1, modifié par la Loi 82-594 du 1982-07-10, art 10-I
-	  - Loi n°67-483 du 22 juin 1967 - art. 1, v. init.
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 2
 
 
 ###### Article L111-2
@@ -494,27 +485,20 @@ référendaires et d'auditeurs.
 
 Le procureur général exerce le ministère public près la Cour des comptes et les formations communes aux juridictions
 mentionnées à l'article L. 111-9-1. Toutefois, lorsqu'une formation commune ne comporte que des membres des chambres
-régionales des comptes, le procureur général peut confier l'exercice du ministère public à un commissaire du Gouvernement.
+régionales des comptes, le procureur général peut confier l'exercice du ministère public à un représentant du ministère
+public près une chambre régionale des comptes. 
 
 Il veille au bon exercice du ministère public près les chambres régionales et territoriales des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°67-483 du 22 juin 1967 - art. 3 (M)
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-647 du 6 juin 2005 - art. 1 () JORF 7 juin 2005
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L111-9-1 (V)
+	  - Code des juridictions financières - art. L111-9-1
 
 	**Cité par**:
 
@@ -1283,23 +1267,14 @@ La suspension ne peut être rendue publique.
 
 ###### Article L131-1
 
-Les comptables publics autres que ceux qui relèvent de la juridiction des chambres régionales et territoriales des comptes
-sont tenus de produire leurs comptes à la Cour des comptes.
+Les comptables publics qui relèvent de la juridiction de la Cour des comptes sont tenus de lui produire leurs comptes dans
+les délais fixés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 5 al 1 et 2, modifié par Loi 82-594 1982-07-10, art 13
-	  - Loi n°67-483 du 22 juin 1967 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 35 ()
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 3
 
 	**Cité par**:
 
@@ -1318,28 +1293,17 @@ sont tenus de produire leurs comptes à la Cour des comptes.
 La Cour des comptes juge les comptes que lui rendent les personnes qu'elle a déclarées comptables de fait. Elle n'a pas
 juridiction sur les ordonnateurs, sauf sur ceux qu'elle a déclarés comptables de fait.
 
-Les dispositions définitives des arrêts portant sur des gestions de fait sont délibérées après l'audition, à leur demande,
-des personnes déclarées comptables de fait. Les arrêts statuant sur les appels formés contre les dispositions définitives des
-jugements des chambres régionales des comptes portant sur des gestions de fait sont délibérés après l'audition, à leur
-demande, des requérants et des autres parties intéressées.
+Les personnes que la Cour des comptes a déclarées comptables de fait sont tenues de lui produire leurs comptes dans le délai
+qu'elle impartit. 
 
 L'action en déclaration de gestion de fait est prescrite pour les actes constitutifs de gestion de fait commis plus de dix
-ans avant la date à laquelle la Cour des comptes en est saisie ou s'en saisit d'office.
+ans avant la date à laquelle la Cour des comptes en est saisie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 5 dernier alinéa, modifié par Loi 82-594 1982-07-10, art 13, loi 67-483 1967-06-22, art 9 al 9, issu de Loi 93-122 1993-01-29, art 80-I et par Loi 96-314 1996-04-12, art 72-III
-	  - Loi n°67-483 du 22 juin 1967 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 38 ()
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 4
 
 	**Cité par**:
 
@@ -1382,53 +1346,38 @@ consignations sont fixées par un décret en Conseil d'Etat, compte tenu du stat
 ###### Article L131-5
 
 Un décret organise un apurement administratif par les comptables supérieurs du Trésor des comptes de certaines catégories de
-collectivités, d'établissements publics, de sociétés, groupements et organismes des territoires d'outre-mer.
+collectivités, d'établissements publics, de sociétés, groupements et organismes des collectivités d'outre-mer.
 
 Il en va de même des comptes de certains établissements ou organismes de diffusion culturelle à l'étranger.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°67-483 1967-06-22, art 5bis, issu de Loi 82-594 1982-07-10, art 1
-	  - Loi n°67-483 du 22 juin 1967 - art. 1, v. init.
-	  - Loi n°67-483 du 22 juin 1967 - art. 5 (M)
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 5
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 7
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. D131-26 (V)
 	  - Code des juridictions financières - art. L231-4 (Ab)
 
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L131-4 (VD)
+
 
 ##### Section 4 : Condamnation des comptables à l'amende
 
 ###### Article L131-6
 
-La Cour des comptes peut condamner les comptables à l'amende pour retard dans la production de leurs comptes et dans les
-réponses aux injonctions qui ont été formulées à leur encontre.
+La Cour des comptes peut condamner les comptables publics et les personnes qu'elle a déclarées comptables de fait à l'amende
+pour retard dans la production de leurs comptes.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 6 al 1, modifié par Loi 82-594 1982-07-10, art 15
-	  - Loi n°67-483 du 22 juin 1967 - art. 15, v. init.
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 	**Cité par**:
 
@@ -1437,6 +1386,18 @@ réponses aux injonctions qui ont été formulées à leur encontre.
 	  - Code des juridictions financières - art. L231-8 (VD)
 	  - Code des juridictions financières - art. L262-39 (VD)
 	  - Code des juridictions financières - art. L272-37 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 6
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L131-5 (VD)
 
 
 ###### Article L131-6-1
@@ -1478,19 +1439,10 @@ réglementaire de production des comptes.
 ###### Article L131-7
 
 Le taux maximum de l'amende pouvant être infligée à un comptable qui n'a pas produit ses comptes dans le délai réglementaire
-ainsi que le taux maximum de l'amende pouvant être infligée à un comptable pour retard dans les réponses aux injonctions
-formulées lors d'un jugement sur ses comptes sont fixés par voie réglementaire dans la limite, pour les comptes d'un même
-exercice, du montant mensuel du traitement brut afférent à l'indice nouveau majoré 250 de la fonction publique.
+ou dans le délai imparti par la Cour des comptes est fixé par voie réglementaire dans la limite, pour les comptes d'un même
+exercice, du montant mensuel du traitement brut afférent à l'indice nouveau majoré 500 de la fonction publique.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 	**Liens**:
 
@@ -1518,9 +1470,9 @@ exercice, du montant mensuel du traitement brut afférent à l'indice nouveau ma
 	  - Code des juridictions financières - art. L131-8 (VD)
 	  - Code des juridictions financières - art. L231-10 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°54-1036 1954-12-31 art 4, al 1, et 5, al 1
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 7
 
 
 ###### Article L131-8
@@ -1530,19 +1482,7 @@ les délais prescrits par voie réglementaire peuvent être condamnés par la Co
 payeur général, à une amende dont le montant maximum est fixé par voie réglementaire dans la limite prévue à l'article L.
 131-7.
 
-Lorsque ces mêmes comptables n'auront pas répondu aux injonctions prononcées sur leurs comptes dans le délai imparti par le
-comptable supérieur du Trésor, ils pourront être condamnés par la Cour des comptes sur la demande du trésorier-payeur général
-à l'amende prévue dans ce cas à l'article L. 131-7.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 	**Liens**:
 
@@ -1553,6 +1493,10 @@ comptable supérieur du Trésor, ils pourront être condamnés par la Cour des c
 	  - TXT_SOURCE: Décret n°96-755 du 21 août 1996 - art. 4 (Ab)
 	  - TXT_SOURCE: Décret n°96-755 du 21 août 1996 - art. 5 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 8
+
 	**Cité par**:
 
 	  - Code des juridictions financières - art. L131-10 (VD)
@@ -1561,11 +1505,7 @@ comptable supérieur du Trésor, ils pourront être condamnés par la Cour des c
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L131-7 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°54-1036 1954-12-31 art 4, al 2, et 5, al 2
+	  - Code des juridictions financières - art. L131-7
 
 
 ###### Article L131-9
@@ -1589,21 +1529,18 @@ L'évocation par la Cour des comptes est sans effet sur le taux des amendes.
 
 ###### Article L131-10
 
-Les amendes prévues aux articles L. 131-7 et L. 131-8 sont applicables aux héritiers du comptable, au commis d'office chargé
-aux lieu et place d'un comptable ou de ses héritiers de présenter un compte ou de satisfaire à des injonctions.
+Les amendes prévues aux articles L. 131-7 et L. 131-8 sont applicables, au commis d'office chargé aux lieu et place d'un
+comptable ou de ses héritiers de présenter un compte. 
 
-En ce qui concerne le commis d'office, l'amende est calculée à partir de l'expiration du délai imparti par la mise en demeure
-du procureur général près la Cour des comptes.
+Le commis d'office produit ses comptes dans un délai fixé par décret en Conseil d'Etat. A défaut de production dans ce délai,
+le ministère public met en demeure le commis d'office d'y procéder.
+
+**Nota:**
+
+Loi n° 2008-1091 du 28 octobre 2008 article 34 : Les dispositions de la présente loi entrent en vigueur le 1er janvier 2009,
+à l'exception du 1° de son article 9 qui modifie le premier alinéa du présent article et entre en vigueur le 30 octobre 2008.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
 
 	**Cité par**:
 
@@ -1623,33 +1560,40 @@ du procureur général près la Cour des comptes.
 	  - Code des juridictions financières - art. R272-38 (V)
 	  - Code des juridictions financières - art. R272-40 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 9
+
+	**Transféré par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L131-2-1 (VD)
+
 	**Cite**:
 
-	  - Code des juridictions financières - art. L131-7 (V)
-	  - Code des juridictions financières - art. L131-8 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°54-1036 1954-12-31 art 7
+	  - Code des juridictions financières - art. L131-7
+	  - Code des juridictions financières - art. L131-8
 
 
 ###### Article L131-11
 
-Les comptables de fait peuvent, dans le cas où ils n'ont pas fait l'objet des poursuites prévues à l'article 433-12 du code
-pénal, être condamnés à l'amende par la Cour des comptes en raison de leur immixtion dans les fonctions de comptable public.
+Les comptables de fait peuvent, dans le cas où ils n'ont pas fait l'objet pour les mêmes opérations des poursuites prévues à
+l'article 433-12 du code pénal, être condamnés à l'amende par la Cour des comptes en raison de leur immixtion dans les
+fonctions de comptable public. 
 
-Cette amende est calculée suivant l'importance et la durée de la détention ou du maniement des deniers. Son montant ne pourra
-dépasser le total des sommes indûment détenues ou maniées.
+Le montant de l'amende tient compte de l'importance et de la durée de la détention ou du maniement des deniers, des
+circonstances dans lesquelles l'immixtion dans les fonctions de comptable public s'est produite, ainsi que du comportement et
+de la situation matérielle du comptable de fait. Son montant ne pourra dépasser le total des sommes indûment détenues ou
+maniées.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 10
 
 	**Cité par**:
 
@@ -1658,23 +1602,23 @@ dépasser le total des sommes indûment détenues ou maniées.
 
 	**Cite**:
 
-	  - Code pénal - art. 433-12 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°54-1036 1954-12-31 art 9
+	  - Code pénal - art. 433-12
 
 
 ###### Article L131-12
 
-Les amendes prévues par le présent code sont attribuées à la collectivité ou à l'établissement intéressé. Les amendes
-attribuées à l'Etat sont versées en recettes au budget général. Toutefois, les amendes infligées à des comptables rendant des
-comptes sur la gestion de services dotés d'un budget annexe sont versées en recettes à ce budget annexe.
+Les amendes prévues par le présent code sont attribuées à l'Etat, à la collectivité territoriale, au groupement d'intérêt
+public ou à l'établissement intéressé. Les amendes attribuées à l'Etat sont versées en recettes au budget général. Toutefois,
+les amendes infligées à des comptables rendant des comptes sur la gestion de services dotés d'un budget annexe sont versées
+en recettes à ce budget annexe.
 
-Toutes ces amendes sont assimilées aux débets des comptables des collectivités ou établissements, en ce qui concerne les
-modes de recouvrement, de poursuites et de remises.
+Les amendes sont assimilées aux débets des comptables publics en ce qui concerne les modes de recouvrement et de poursuite.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 11
 
 	**Cité par**:
 
@@ -1683,50 +1627,6 @@ modes de recouvrement, de poursuites et de remises.
 	  - Code des juridictions financières - art. L231-8 (VD)
 	  - Code des juridictions financières - art. L262-39 (VD)
 	  - Code des juridictions financières - art. L272-37 (VD)
-
-	**Cite**:
-
-	  - Code des juridictions financières annexe
-
-	**Anciens textes**:
-
-	  - Loi n°54-1036 1954-12-31 art 10
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-
-###### Article L131-13
-
-Les arrêts prononçant une condamnation définitive à l'amende ou statuant en appel sur un jugement d'une chambre régionale des
-comptes prononçant une telle condamnation sont délibérés après l'audition, à leur demande, des personnes concernées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 9 al 10 issu de Loi 93-122 1993-01-29, art 80-I
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 31
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R141-6-1 (Ab)
 
 
 #### CHAPITRE II : Relations avec le Parlement
@@ -2631,7 +2531,9 @@ d'Etat.
 
 ### TITRE IV : Procédure
 
-###### Article L140-1
+#### CHAPITRE Ier : Dispositions communes aux activités juridictionnelles et administratives
+
+###### Article L141-1
 
 La Cour des comptes est habilitée à se faire communiquer tous documents, de quelque nature que ce soit, relatifs à la gestion
 des services et organismes soumis à son contrôle.
@@ -2643,28 +2545,16 @@ déclencher l'action publique.
 
 **Liens relatifs à cet article**
 
+	**Créé par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
+
 	**Anciens textes**:
 
-	  - Loi n°67-483 1967-06-22, art 9 al 1, modifié par loi 76-539 1976-06-22 art 7-V, et par loi 82-594 1982-07-10, art 18
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 12
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L141-1 (VD)
+	  - Code des juridictions financières - art. L140-1 (VT)
 
 
-###### Article L140-1-1
+###### Article L141-2
 
 Le procureur de la République peut transmettre au procureur général près la Cour des comptes, d'office ou à la demande de ce
 dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de nature à constituer des irrégularités
@@ -2673,24 +2563,29 @@ Cour des comptes.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Créé par**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 12 ()
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
 
 	**Liens**:
 
-	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 12
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 11
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L140-1-1 (VT)
 
 	**Nouveaux textes**:
 
-	  - Code des juridictions financières - art. L141-2 (VD)
+	  - Code des juridictions financières - art. L141-8 (VD)
+	  - Code des juridictions financières - art. L141-8 (VT)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R143-23 (V)
 
 
-###### Article L140-2
+###### Article L141-3
 
 Les magistrats, conseillers maîtres en service extraordinaire et rapporteurs de la Cour des comptes peuvent demander aux
 commissaires aux comptes, y compris les commissaires aux apports et les commissaires à la fusion, tous renseignements sur les
@@ -2700,32 +2595,23 @@ sociétés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Loi n°67-483 1967-06-22, art 9 al 4, modifié par loi 82-594 1982-07-10, art 18, et par loi 96-314 1996-04-12, art 79-I
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi n°96-314 du 12 avril 1996 - art. 72 ()
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 12
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
 
 	**Cité par**:
 
+	  - Arrêté du 21 juin 2011 (V)
 	  - Code de la sécurité sociale. - art. L114-8 (V)
+	  - Code des juridictions financières - art. R137-5 (T)
+	  - Code des juridictions financières - art. R137-6 (T)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des juridictions financières - art. L141-3 (VD)
+	  - Code des juridictions financières - art. L140-2 (VT)
 
 
-###### Article L140-3
+###### Article L141-4
 
 La Cour des comptes peut recourir, pour des enquêtes de caractère technique, à l'assistance d'experts désignés par son
 premier président. S'il s'agit d'agents publics, elle informe leur chef de service. Les experts remplissent leur mission en
@@ -2736,24 +2622,21 @@ mission. Les experts sont tenus à l'obligation du secret professionnel.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
 
-	**Modifié par**:
+	**Cité par**:
 
-	  - Ordonnance n°2005-647 du 6 juin 2005 - art. 1 () JORF 7 juin 2005
+	  - Code des juridictions financières - art. L120-4 (V)
+	  - Code des juridictions financières - art. R112-27-1 (Ab)
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 12
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L141-4 (VD)
+	  - Code des juridictions financières - art. L140-3 (VT)
 
 
-###### Article L140-4
+###### Article L141-5
 
 Les agents des services financiers, ainsi que les commissaires aux comptes des organismes contrôlés, sont déliés du secret
 professionnel à l'égard des magistrats, conseillers maîtres en service extraordinaire et rapporteurs de la Cour des comptes,
@@ -2764,158 +2647,102 @@ rapporteurs peuvent exercer directement le droit de communication que les agents
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Ordonnance n°2005-647 du 6 juin 2005 - art. 1 () JORF 7 juin 2005
+	  - Code des juridictions financières - art. L140-4 (VT)
 
-	**Liens**:
+	**Cité par**:
 
-	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 12
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L141-5 (VD)
+	  - Livre des procédures fiscales - art. L140 (V)
 
 
-###### Article L140-4-1
+###### Article L141-6
 
-Pour la vérification des conditions d'exécution des conventions visées à l'article L. 111-4 et passées par les services et
-organismes soumis au contrôle de la Cour des comptes, les magistrats, conseillers maîtres en service extraordinaire et
+Pour la vérification des conditions d'exécution des conventions de délégation de service public et passées par les services
+et organismes soumis au contrôle de la Cour des comptes, les magistrats, conseillers maîtres en service extraordinaire et
 rapporteurs de celle-ci peuvent prendre connaissance, auprès des cocontractants de ces services et organismes, des factures,
 livres et registres pouvant se rapporter aux opérations visées par lesdites conventions. Ils peuvent demander par écrit toute
-justification complémentaire et obtenir copie de ceux des documents présentés qu'ils estiment utiles. 
+justification complémentaire et obtenir copie de ceux des documents présentés qu'ils estiment utiles.
 
-Un avis d'enquête doit être établi préalablement par le premier président de la Cour des comptes. 
+Un avis d'enquête doit être établi préalablement par le premier président de la Cour des comptes.
 
 Les observations et, le cas échéant, les autres suites définitivement retenues par la Cour sont communiquées à l'intéressé.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Ordonnance n°2005-647 du 6 juin 2005 - art. 1 () JORF 7 juin 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 12
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L111-4 (V)
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L141-6 (VD)
+	  - Code des juridictions financières - art. L140-4-1 (VT)
 
 	**Cité par**:
 
-	  - Code des juridictions financières - art. L262-45 (V)
-	  - Code des juridictions financières - art. L272-41-1 (V)
-	  - Code des juridictions financières - art. L272-43 (V)
+	  - Code des juridictions financières - art. L262-45 (VT)
+	  - Code des juridictions financières - art. L272-41-1 (Ab)
+	  - Code des juridictions financières - art. L272-43 (M)
+	  - Code des juridictions financières - art. R141-2 (V)
 
 
-###### Article L140-5
+###### Article L141-7
 
 La Cour des comptes prend toutes dispositions pour garantir le secret de ses investigations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 9 al 8, modifié par loi 82-594 1982-07-10, art 18
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Créé par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 12
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L141-7 (VD)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R133-3 (V)
-
-
-###### Article L140-6
-
-Pour l'exercice des compétences qui leur sont reconnues par l'article L. 112-5, les conseillers maîtres en service
-extraordinaire et les rapporteurs sont tenus de respecter l'obligation du secret professionnel des magistrats.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 9 al 5, modifié par loi 82-594 1982-07-10, art 18
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 12
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L112-5 (V)
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L141-8 (VD)
-
-
-###### Article L140-7
-
-Les comptables sont tenus de produire leurs comptes à la Cour des comptes dans des délais fixés par voie réglementaire.
-
-La procédure est écrite et présente un caractère contradictoire.
-
-La Cour statue sur ces comptes par arrêts successivement provisoires et définitifs.
-
-Lorsque la Cour des comptes statue en matière de gestion de fait et d'amende, elle délibère hors la présence du rapporteur.
-L'arrêt est rendu en audience publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-199 1985-02-11, art 26 al 2 première et deuxième phrases
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 43 ()
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 11
 
-	**Abrogé par**:
+	**Liens**:
 
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 31
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 11
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L140-5 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L141-2 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R133-3 (Ab)
+	  - Code des juridictions financières - art. R137-5 (T)
 
 
-###### Article L140-8
+###### Article L141-8
+
+Pour l'exercice des compétences qui leur sont reconnues par les articles L. 112-5 et L. 112-7, les conseillers maîtres en
+service extraordinaire et les rapporteurs sont tenus de respecter l'obligation du secret professionnel des magistrats.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L112-5
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L140-6 (VT)
+
+
+###### Article L141-9
 
 Tout représentant, administrateur, fonctionnaire ou agent des services, établissements et organismes contrôlés, ainsi que,
 pour les besoins du contrôle, tout représentant ou agent de l'Etat, tout gestionnaire de fonds publics, tout dirigeant
@@ -2924,33 +2751,30 @@ obligation de répondre à la convocation de la Cour des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 9 al 7, modifié par loi 82-594 1982-07-10, art 18
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Créé par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
 
 	**Liens**:
 
-	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 12
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 13
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L140-8 (VT)
 
 	**Nouveaux textes**:
 
-	  - Code des juridictions financières - art. L141-9 (VD)
+	  - Code des juridictions financières - art. L141-0-1, v. 0.1 (VD)
 
 	**Cité par**:
 
-	  - Code des juridictions financières - art. R141-6 (V)
-	  - Code des juridictions financières - art. R141-8 (V)
+	  - Code des juridictions financières - art. R141-6 (M)
+	  - Code des juridictions financières - art. R141-8 (M)
+	  - Livre des procédures fiscales - art. L140 (VD)
 
 
-###### Article L140-9
+###### Article L141-10
 
 Les dispositions du titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations
 entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal ne sont pas applicables
@@ -2961,33 +2785,73 @@ départementaux d'examen des comptes des organismes de sécurité sociale visés
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 9 al 10, issu de loi 88-13 1988-01-05, art 25
-
 	**Cite**:
 
-	  - Loi n°78-753 du 17 juillet 1978 -  Titre Ier : De la liberté d'accès aux documents... (V)
+	  - Loi n°78-753 du 17 juillet 1978
+	  - Code des juridictions financières - art. L134-2
 
 	**Cité par**:
 
-	  - Loi n°78-753 du 17 juillet 1978 - art. 1 (V)
+	  - Loi n°78-753 du 17 juillet 1978 - art. 6 (VT)
+	  - Loi n°78-753 du 17 juillet 1978 - art. 1 (VD)
+	  - Code de la sécurité sociale. - art. L114-8 (VD)
+	  - Code des juridictions financières - art. R143-23 (V)
+	  - Code des relations entre le public et l'adminis... - art. L311-5 (VD)
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 8 ()
+	  - Code des juridictions financières - art. L140-9 (VT)
 
-	**Liens**:
 
-	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 12
+#### CHAPITRE II : Dispositions relatives aux activités juridictionnelles
 
-	**Nouveaux textes**:
+###### Article L142-1
 
-	  - Code des juridictions financières - art. L141-10 (VD)
+I. - Les rapports d'examen des comptes à fin de jugement ou ceux contenant des faits soit susceptibles de conduire à une
+condamnation à l'amende, soit présomptifs de gestion de fait sont communiqués au représentant du ministère public près la
+Cour des comptes. 
+
+II. - Lorsque le ministère public ne relève aucune charge à l'égard d'un comptable public, il transmet ses conclusions au
+président de la formation de jugement ou à son délégué. Celui-ci peut demander un rapport complémentaire. Lorsque le
+ministère public ne relève aucune charge après communication de ce dernier, le président de la formation de jugement ou son
+délégué rend une ordonnance déchargeant le comptable de sa gestion. 
+
+Si aucune charge ne subsiste à l'encontre du comptable public au titre de ses gestions successives et s'il a cessé ses
+fonctions, quitus lui est donné dans les mêmes conditions. 
+
+III. - Lorsque le ministère public relève, dans les rapports mentionnés au I ou au vu des autres informations dont il
+dispose, un élément susceptible de conduire à la mise en jeu de la responsabilité personnelle et pécuniaire du comptable, ou
+présomptif de gestion de fait, il saisit la formation de jugement. 
+
+La procédure est contradictoire.A leur demande, le comptable et l'ordonnateur ont accès au dossier. 
+
+Les débats ont lieu en audience publique. Toutefois, le président de la formation de jugement peut, à titre exceptionnel et
+après avis du ministère public, décider que l'audience aura lieu ou se poursuivra hors la présence du public si la sauvegarde
+de l'ordre public ou le respect de l'intimité des personnes ou de secrets protégés par la loi l'exige. 
+
+Le délibéré des juges est secret. Le magistrat chargé de l'instruction et le représentant du ministère public n'y assistent
+pas. 
+
+La cour statue par un arrêt rendu en formation collégiale. 
+
+IV. - Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 13
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L142-1-3 (VD)
+	  - Code des juridictions financières - art. R141-11 (T)
+	  - Code des juridictions financières - art. R141-12 (T)
+	  - Code des juridictions financières - art. R141-15 (T)
 
 
 ## LIVRE II : Les chambres régionales et territoriales des comptes
@@ -3717,23 +3581,23 @@ serment.
 
 ###### Article L212-10
 
-Chaque chambre régionale des comptes comporte un ou plusieurs commissaires du Gouvernement, choisis parmi les magistrats
+Chaque chambre régionale des comptes comporte un ou plusieurs représentants du ministère public, choisis parmi les magistrats
 membres du corps des chambres régionales des comptes, qui exercent les fonctions du ministère public et sont les
 correspondants du procureur général près la Cour des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 85 al 4
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 13 ()
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 15
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L212-5 (VD)
 
 	**Cité par**:
 
@@ -3775,18 +3639,14 @@ formes.
 ###### Article L212-12
 
 Les chambres régionales des comptes des régions de la Martinique, de la Guadeloupe et de la Guyane ont le même président, les
-mêmes assesseurs et le ou les mêmes commissaires du Gouvernement. Le siège de chacune des chambres régionales des comptes,
-qui peut être le même, est fixé par un décret en Conseil d'Etat.
+mêmes assesseurs et le ou les mêmes représentants du ministère public. Le siège de chacune des chambres régionales des
+comptes, qui peut être le même, est fixé par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
 
 	**Cité par**:
 
@@ -3794,10 +3654,6 @@ qui peut être le même, est fixé par un décret en Conseil d'Etat.
 	  - Code des juridictions financières - art. L212-15 (VT)
 	  - Code des juridictions financières - art. L254-7 (VD)
 	  - Code des juridictions financières - art. L256-1 (T)
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1983-07-10, art. 20 bis issu de loi 82-8 1983-01-07, art. 116-I
 
 
 ###### Article L212-13
@@ -3832,23 +3688,23 @@ l'ordre judiciaire dans les conditions fixées par voie réglementaire.
 
 Dans les régions d'outre-mer, l'intérim du ministère public auprès d'une chambre régionale des comptes peut être exercé, pour
 une période n'excédant pas six mois, par un magistrat de la chambre remplissant les conditions réglementaires exigées pour
-être délégué dans les fonctions de commissaire du Gouvernement, désigné sur proposition du président de la chambre par
-décision conjointe du premier président de la Cour des comptes et du procureur général près la Cour des comptes. Il est mis
-fin à cet intérim par décision du procureur général qui en tient informé le premier président.
+être délégué dans les fonctions du ministère public, désigné sur proposition du président de la chambre par décision
+conjointe du premier président de la Cour des comptes et du procureur général près la Cour des comptes. Il est mis fin à cet
+intérim par décision du procureur général qui en tient informé le premier président.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-595 1983-07-10, art 4 dernier alinéa, issu de loi 88-13 1988-01-05, art 26-II
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 15
 
-	**Créé par**:
+	**Nouveaux textes**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Code des juridictions financières - art. L212-11 (VD)
 
 
 ###### Article L212-15
@@ -3856,47 +3712,35 @@ fin à cet intérim par décision du procureur général qui en tient informé l
 Lorsque des magistrats sont simultanément affectés dans plusieurs chambres territoriales des comptes ou dans au moins une
 chambre territoriale des comptes et au moins une chambre régionale des comptes mentionnée à l'article L. 212-12 et que leur
 venue à l'audience n'est pas matériellement possible dans les délais prescrits par les dispositions en vigueur ou exigés par
-la nature de l'affaire, le ou les membres concernés peuvent siéger et, le cas échéant, le commissaire du Gouvernement
+la nature de l'affaire, le ou les membres concernés peuvent siéger et, le cas échéant, le représentant du ministère public
 prononcer ses conclusions dans une autre chambre dont ils sont membres, reliés en direct à la salle d'audience par un moyen
 de communication audiovisuelle. 
 
 Le premier alinéa est également applicable si la ou les chambres régionales des comptes et la ou les chambres territoriales
 des comptes ont le même siège en application de l'article L. 212-12 et du dernier alinéa de l'article L. 252-13. Dans cette
-hypothèse, le ou les membres concernés peuvent siéger et, le cas échéant, le commissaire du Gouvernement prononcer ses
+hypothèse, le ou les membres concernés peuvent siéger et, le cas échéant, le représentant du ministère public prononcer ses
 conclusions, reliés en direct à la salle d'audience par un moyen de communication audiovisuelle. 
 
-Lorsque des personnes ayant demandé à être auditionnées en application des articles L. 231-3, 
-L. 231-12 ou L. 241-14 ou ayant l'obligation de répondre à une convocation en application de l'article L. 241-4 ne peuvent
-matériellement se rendre à l'audience d'une chambre régionale des comptes mentionnée à l'article L. 212-12 dans les délais
-prescrits par les dispositions en vigueur ou exigés par la nature de l'affaire, elles peuvent, sur décision du président de
-la chambre, présenter leurs observations, reliées en direct à la salle d'audience par un moyen de communication
-audiovisuelle. 
+Lorsque des personnes avisées d'une audience publique, entendues en application de l'article L. 243-6 ou ayant l'obligation
+de répondre à une convocation en application de l'article L. 241-4 ne peuvent matériellement se rendre à l'audience d'une
+chambre régionale des comptes mentionnée à l'article L. 212-12 dans les délais prescrits par les dispositions en vigueur ou
+exigés par la nature de l'affaire, elles peuvent, sur décision du président de la chambre, présenter leurs observations,
+reliées en direct à la salle d'audience par un moyen de communication audiovisuelle. 
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 18, complété par 83-663 1983-07-22, art 116, et modifié par loi 85-595 1985-06-11, art 37
-	  - Loi n°82-213 du 2 mars 1982 - art. 37 (M)
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 14
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L212-12 (V)
-	  - Code des juridictions financières - art. L231-12 (V)
-	  - Code des juridictions financières - art. L231-3 (V)
-	  - Code des juridictions financières - art. L241-14 (V)
-	  - Code des juridictions financières - art. L241-4 (V)
-	  - Code des juridictions financières - art. L252-13 (V)
+	  - Code des juridictions financières - art. L212-12
+	  - Code des juridictions financières - art. L241-4
+	  - Code des juridictions financières - art. L252-13
 
 
 ##### Section 2 : Le Conseil supérieur des chambres régionales des comptes
@@ -4546,12 +4390,12 @@ Toutefois, l'interdiction prévue à l'alinéa précédent prend fin dès que l'
 ###### Article L222-6
 
 Nul ne peut être nommé président d'une chambre régionale des comptes, vice-président de la chambre régionale des comptes
-d'Ile-de-France ou magistrat dans une chambre régionale des comptes s'il a été déclaré comptable de fait à titre définitif et
-s'il ne lui a pas été donné quitus.
+d'Ile-de-France ou magistrat dans une chambre régionale des comptes s'il a été déclaré comptable de fait et s'il ne lui a pas
+été donné quitus. 
 
 Si la déclaration concerne un président de chambre régionale des comptes ou le vice-président de la chambre régionale des
 comptes d'Ile-de-France et qu'elle intervient postérieurement à sa nomination dans cet emploi, ce magistrat est suspendu de
-ses fonctions par le premier président de la Cour des comptes, jusqu'à ce que quitus lui soit donné.
+ses fonctions par le premier président de la Cour des comptes, jusqu'à ce que quitus lui soit donné. 
 
 Si la déclaration concerne un magistrat de chambre régionale des comptes et qu'elle intervient postérieurement à sa
 nomination, ce magistrat est suspendu de ses fonctions dans les conditions prévues au deuxième alinéa de l'article L. 223-11,
@@ -4559,21 +4403,13 @@ jusqu'à ce que quitus lui soit donné.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-595 1983-07-10, art 10
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 26 ()
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 15
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L223-11 (V)
+	  - Code des juridictions financières - art. L223-11
 
 
 ###### Article L222-7
@@ -4946,70 +4782,44 @@ Le Conseil supérieur est saisi d'office et sans délai d'une procédure discipl
 
 ###### Article L231-1
 
-Les comptables sont tenus de produire leurs comptes devant la chambre régionale des comptes, dans les délais prescrits par
-les règlements.
+Les comptables qui relèvent de la juridiction d'une chambre régionale des comptes sont tenus de lui produire leurs comptes
+dans les délais fixés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-594 1982-07-10, art 3 al 1
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 16
 
 
 ###### Article L231-2
 
-Sous réserve des dispositions des articles L. 211-2 et L. 231-6, la chambre régionale des comptes statue en premier ressort,
-à titre provisoire ou définitif, sur les comptes des comptables publics des collectivités territoriales et leurs
-établissements publics situés dans son ressort.
+Sous réserve des dispositions de l'article L. 211-2, la chambre régionale des comptes statue en premier ressort sur les
+comptes des comptables publics des collectivités territoriales et leurs établissements publics situés dans son ressort.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-594 1982-07-10, art 2 al 1, modifié par loi 88-13 1988-01-05, art 23-V
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 17
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L211-2 (M)
-	  - Code des juridictions financières - art. L231-6 (V)
+	  - Code des juridictions financières - art. L211-2 (V)
 
 
 ###### Article L231-3
 
-La chambre régionale des comptes juge, dans les mêmes formes et sous les mêmes sanctions, les comptes que lui rendent les
-personnes qu'elle a déclarées comptables de fait d'une collectivité ou d'un établissement public relevant de sa compétence.
+La chambre régionale des comptes juge les comptes que lui rendent les personnes qu'elle a déclarées comptables de fait. Elle
+n'a pas juridiction sur les ordonnateurs, sauf ceux qu'elle a déclarés comptables de fait.
 
-Les dispositions définitives des jugements portant sur des gestions de fait sont délibérées après l'audition, à leur demande,
-des personnes déclarées comptables de fait.
+Les personnes que la chambre régionale des comptes a déclarées comptables de fait sont tenues de lui produire leurs comptes
+dans le délai qu'elle leur impartit. 
 
 L'action en déclaration de gestion de fait est prescrite pour les actes constitutifs de gestion de fait commis plus de dix
-ans avant la date à laquelle la chambre régionale des comptes en est saisie ou s'en saisit d'office.
+ans avant la date à laquelle la chambre régionale des comptes en est saisie.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 2 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
 
 	**Cité par**:
 
@@ -5023,69 +4833,7 @@ ans avant la date à laquelle la chambre régionale des comptes en est saisie ou
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 38 ()
-
-
-###### Article L231-5
-
-La chambre régionale des comptes n'a pas juridiction sur les ordonnateurs, sauf sur ceux qu'elle a déclarés comptables de
-fait.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 2 al 3
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 31
-
-
-###### Article L231-6
-
-Par dérogation aux dispositions de l'article L. 211-1, l'apurement et le contrôle des crédits mis à la disposition du Conseil
-de Paris pour son fonctionnement sont assurés par une commission de vérification désignée par le Conseil de Paris en son sein
-de manière que chacun des groupes politiques soit représenté. Le questeur ne peut faire partie de cette commission. Le
-pouvoir de la commission s'exerce sous le contrôle de la Cour des comptes et sous réserve de ses droits d'évocation et de
-réformation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1331 1975-12-31, art 23 al 2, rétabli par loi 86-1308 1986-12-29, art 3
-	  - Loi n°75-1331 du 31 décembre 1975 - art. 3 (V)
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 31
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L211-1
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L231-2 (V)
-	  - Code des juridictions financières - art. L231-7 (VD)
-	  - Code des juridictions financières - art. L250-11 (M)
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 18
 
 
 ##### Section 2 : Contrôle de l'apurement administratif des comptes
@@ -5151,24 +4899,16 @@ Trésor emportent décharge définitive du comptable.
 
 ###### Article L231-9
 
-Le comptable supérieur du Trésor adresse à la chambre régionale des comptes tous les arrêtés de décharge qu'il a pris.
+Le comptable supérieur du Trésor adresse à la chambre régionale des comptes tous les arrêtés de décharge qu'il a pris. 
 
-La chambre régionale des comptes peut exercer son droit d'évocation et de réformation sur les arrêtés visés à l'article L.
-231-8 dans le délai de six mois à dater de leur notification au comptable.
+La chambre régionale des comptes peut exercer son droit d'évocation et, sur réquisition du ministère public, de réformation
+sur les arrêtés visés à l'article L. 231-8 dans le délai de six mois à dater de leur notification au comptable.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 5
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 19
 
 	**Cité par**:
 
@@ -5178,26 +4918,18 @@ La chambre régionale des comptes peut exercer son droit d'évocation et de réf
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L231-8 (V)
+	  - Code des juridictions financières - art. L231-8
 
 
 ##### Section 3 : Condamnation des comptables à l'amende
 
 ###### Article L231-10
 
-La chambre régionale des comptes peut condamner les comptables à l'amende pour retard dans la production de leurs comptes et
-dans les réponses aux injonctions qui ont été formulées à leur encontre dans les conditions fixées, pour la Cour des comptes,
-par les articles L. 131-6, L. 131-6-1, L. 131-7, L. 131-10 et L. 131-12.
+La chambre régionale des comptes peut condamner les comptables publics et les personnes qu'elle a déclarées comptables de
+fait à l'amende pour retard dans la production de leurs comptes dans les conditions fixées, pour la Cour des comptes, par les
+articles L. 131-6-1, L. 131-7, L. 131-10 et L. 131-12.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 3 al 2, modifié par loi 96-314 1996-04-12 art 69-IV
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
 
 	**Cité par**:
 
@@ -5209,15 +4941,19 @@ par les articles L. 131-6, L. 131-6-1, L. 131-7, L. 131-10 et L. 131-12.
 
 	**Modifié par**:
 
-	  - Loi n°96-314 du 12 avril 1996 - art. 69 ()
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 20
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 21
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L131-10 (V)
-	  - Code des juridictions financières - art. L131-12 (V)
-	  - Code des juridictions financières - art. L131-6 (V)
-	  - Code des juridictions financières - art. L131-6-1 (V)
-	  - Code des juridictions financières - art. L131-7 (V)
+	  - Code des juridictions financières - art. L131-6-1
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L231-8 (VD)
 
 
 ###### Article L231-11
@@ -5255,40 +4991,6 @@ fonctions de comptable public dans les conditions fixées à l'article L. 131-11
 	**Nouveaux textes**:
 
 	  - Code des juridictions financières - art. L231-9 (VD)
-
-
-###### Article L231-12
-
-Les jugements prononçant une condamnation définitive à l'amende sont délibérés après l'audition, à leur demande, des
-personnes concernées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 6 al 1, modifié par loi 93-122 1993-01-29 art 80-II
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Cité par**:
-
-	  - Décret n°95-945 du 23 août 1995 - art. 38 (Ab)
-	  - Décret n°95-945 du 23 août 1995 - art. 49 (Ab)
-	  - Code des juridictions financières - art. L212-15 (V)
-	  - Code des juridictions financières - art. L256-1 (T)
-	  - Code des juridictions financières - art. R231-6 (V)
-	  - Code des juridictions financières - art. R241-28 (M)
-	  - Code des juridictions financières - art. R241-30 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 31
 
 
 ###### Article L231-13
@@ -6157,26 +5859,30 @@ Les conventions relatives aux marchés peuvent être transmises par le représen
 régionale des comptes. Il en informe l'autorité territoriale concernée. La chambre régionale des comptes examine cette
 convention. Elle formule ses observations dans un délai d'un mois à compter de sa saisine. L'avis de la chambre régionale des
 comptes est transmis à la collectivité territoriale ou à l'établissement public intéressé et au représentant de l'Etat. Les
-dispositions de l'article L. 242-2 sont applicables. L'assemblée délibérante est informée de l'avis de la chambre régionale
+dispositions de l'article L. 244-2 sont applicables. L'assemblée délibérante est informée de l'avis de la chambre régionale
 des comptes dès sa plus proche réunion.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 25
 
-	**Anciens textes**:
+	**Transféré par**:
 
-	  - Loi n°96-142 1996-02-21, art 4-XVII
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 14
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°96-142 du 21 février 1996 - art. 4 ()
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L211-13 (VD)
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L242-2 (V)
+	  - Code des juridictions financières - art. L244-2
 
 	**Cité par**:
 
@@ -6416,20 +6122,24 @@ comptes.
 
 ###### Article L241-2-1
 
-Le procureur de la République peut transmettre au commissaire du Gouvernement d'une chambre régionale des comptes, d'office
-ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de nature à constituer
-des irrégularités dans les comptes ou dans la gestion des collectivités ou organismes relevant de la compétence de cette
-chambre.
+Le procureur de la République peut transmettre au représentant du ministère public près une chambre régionale des comptes,
+d'office ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de nature à
+constituer des irrégularités dans les comptes ou dans la gestion des collectivités ou organismes relevant de la compétence de
+cette chambre.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 12 ()
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 26
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L241-10 (VD)
 
 
 ###### Article L241-3
@@ -6585,28 +6295,23 @@ confidentiel est menée avec, en particulier, l'ordonnateur dont la gestion est 
 
 ###### Article L241-7
 
-Lorsque la chambre régionale des comptes examine la gestion des collectivités territoriales et des établissements publics
-locaux, les observations qu'elle présente ne peuvent être formulées sans un entretien préalable entre le magistrat rapporteur
-ou le président de la chambre et l'ordonnateur de la collectivité territoriale ou de l'établissement public concernés, ainsi
-que l'ordonnateur qui était en fonctions au cours de l'exercice examiné.
+Les parties peuvent se faire assister ou représenter par un avocat.
+
+L'ordonnateur ou le dirigeant qui était en fonctions au cours d'un exercice examiné peut se faire assister ou représenter par
+la personne de son choix, désignée à sa demande par le président de la chambre régionale des comptes. S'il s'agit d'un agent
+public, son chef de service en est informé. Cette personne peut être désignée pour une affaire qu'elle a eu à connaître dans
+le cadre de ses fonctions. Elle est habilitée à se faire communiquer par la collectivité territoriale ou l'établissement
+public tout document, de quelque nature qu'il soit, relatif à la gestion de l'exercice examiné.
+
+Lorsque l'ordonnateur ou le dirigeant n'est plus en fonctions au moment où l'exercice est examiné par la chambre régionale
+des comptes, les honoraires de l'avocat demeurent à la charge de la collectivité territoriale ou de l'établissement public
+concerné dans la limite d'un plafond fixé par décret.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 12 deuxième phrase, modifié par loi 88-13 1988-01-05, art 23-IV et complété par loi 92-125 1992-02-06, art 47-II
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Transféré par**:
-
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 24
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 21
 
 	**Cité par**:
 
@@ -6619,46 +6324,35 @@ que l'ordonnateur qui était en fonctions au cours de l'exercice examiné.
 	  - Code des juridictions financières - art. R212-16 (V)
 	  - Code des juridictions financières - art. R243-7 (V)
 
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 26
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L241-12 (VT)
+
 	**Nouveaux textes**:
 
+	  - Code des juridictions financières - art. L241-8 (VD)
 	  - Code des juridictions financières - art. L243-1 (VD)
 
 
 ###### Article L241-8
 
-Lorsque la chambre régionale des comptes examine la gestion des établissements, sociétés, groupements et organismes
-mentionnés aux articles L. 133-3, 
-L. 133-4 et L. 211-4 à L. 211-6, les observations qu'elle présente peuvent être précédées d'un entretien préalable entre le
-magistrat rapporteur ou le président de la chambre et un dirigeant de la personne morale contrôlée, mandaté à cet effet par
-celle-ci.
+Les jugements, avis, propositions, rapports d'instruction et observations de la chambre régionale des comptes sont délibérés
+et adoptés collégialement selon une procédure contradictoire.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 21
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 22
+
 	**Anciens textes**:
 
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 12 quatrième phrase, modifié par loi 88-13 1988-01-05, art 23-IV
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Transféré par**:
-
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 24
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L133-3 (V)
-	  - Code des juridictions financières - art. L133-4 (V)
-	  - Code des juridictions financières - art. L211-4 (V)
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L243-2 (VD)
+	  - Code des juridictions financières - art. L241-13 (VT)
 
 	**Cité par**:
 
@@ -6668,32 +6362,26 @@ celle-ci.
 
 ###### Article L241-9
 
-Lorsque des observations sont formulées, le dirigeant ou l'ordonnateur concerné, y compris, le cas échéant, celui qui était
-en fonctions au cours de l'exercice examiné, disposent d'un délai de deux mois pour remettre au greffe de la chambre
-régionale des comptes une réponse écrite. Les observations ne peuvent être arrêtées définitivement qu'après réception de
-cette réponse, ou, à défaut, à l'expiration du délai précité.
+Les règles relatives à la procédure devant les chambres régionales des comptes et à la communication de leurs observations
+aux collectivités, établissements, sociétés, groupements et organismes concernés sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 12 cinquième phrase, modifié par loi 92-125 1992-02-06, art 47-II
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 41 ()
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 21
 
-	**Transféré par**:
+	**Liens**:
 
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 24
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 26
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L241-15 (VT)
 
 	**Nouveaux textes**:
 
-	  - Code des juridictions financières - art. L243-3 (VD)
+	  - Code des juridictions financières - art. L241-3 (VD)
 
 	**Cité par**:
 
@@ -6702,7 +6390,145 @@ cette réponse, ou, à défaut, à l'expiration du délai précité.
 	  - Code des juridictions financières - art. R241-16 (V)
 
 
-###### Article L241-10
+##### CHAPITRE II : Dispositions relatives aux activités juridictionnelles
+
+###### Article L242-1
+
+I. - Les rapports d'examen des comptes à fin de jugement ou ceux contenant des faits soit susceptibles de conduire à une
+condamnation à l'amende, soit présomptifs de gestion de fait sont communiqués au représentant du ministère public près la
+chambre régionale des comptes. 
+
+II. - Lorsque le ministère public ne relève aucune charge à l'égard d'un comptable public, il transmet ses conclusions au
+président de la formation de jugement ou à son délégué. Celui-ci peut demander un rapport complémentaire. Lorsque le
+ministère public ne relève aucune charge après communication de ce dernier, le président de la formation de jugement ou son
+délégué rend une ordonnance déchargeant le comptable de sa gestion. 
+
+Si aucune charge ne subsiste à l'encontre du comptable public au titre de ses gestions successives et s'il a cessé ses
+fonctions, quitus lui est donné dans les mêmes conditions. 
+
+III. - Lorsque le ministère public relève, dans les rapports mentionnés au I ou au vu des autres informations dont il
+dispose, un élément susceptible de conduire à la mise en jeu de la responsabilité personnelle et pécuniaire du comptable, ou
+présomptif de gestion de fait, il saisit la formation de jugement. 
+
+La procédure est contradictoire.A leur demande, le comptable et l'ordonnateur ont accès au dossier. 
+
+Les débats ont lieu en audience publique. Toutefois, le président de la formation de jugement peut, à titre exceptionnel et
+après avis du ministère public, décider que l'audience aura lieu ou se poursuivra hors la présence du public si la sauvegarde
+de l'ordre public ou le respect de l'intimité des personnes ou de secrets protégés par la loi l'exige. 
+
+Le délibéré des juges est secret. Le magistrat chargé de l'instruction et le représentant du ministère public n'y assistent
+pas. 
+
+IV. - Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 23
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L254-4 (VD)
+	  - Code des juridictions financières - art. L254-5 (VD)
+	  - Code des juridictions financières - art. R241-33 (T)
+	  - Code des juridictions financières - art. R241-34 (T)
+	  - Code des juridictions financières - art. R241-37 (T)
+
+
+##### CHAPITRE III : Dispositions relatives à l'examen de la gestion
+
+###### Article L243-1
+
+Lorsque la chambre régionale des comptes examine la gestion des collectivités territoriales et des établissements publics
+locaux, les observations qu'elle présente ne peuvent être formulées sans un entretien préalable entre le magistrat rapporteur
+ou le président de la chambre et l'ordonnateur de la collectivité territoriale ou de l'établissement public concernés, ainsi
+que l'ordonnateur qui était en fonctions au cours de l'exercice examiné.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 24
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L241-7 (VT)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L254-4 (VD)
+	  - Code des juridictions financières - art. L254-5 (VD)
+
+
+###### Article L243-2
+
+Lorsque la chambre régionale des comptes examine la gestion des établissements, sociétés, groupements et organismes
+mentionnés aux articles L. 133-3, L. 133-4 et L. 211-4 à L. 211-6, les observations qu'elle présente peuvent être précédées
+d'un entretien préalable entre le magistrat rapporteur ou le président de la chambre et un dirigeant de la personne morale
+contrôlée, mandaté à cet effet par celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 24
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L241-8 (VT)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R243-5 (V)
+
+
+###### Article L243-3
+
+Lorsque des observations sont formulées, le dirigeant ou l'ordonnateur concerné, y compris, le cas échéant, celui qui était
+en fonctions au cours de l'exercice examiné, disposent d'un délai de deux mois pour remettre au greffe de la chambre
+régionale des comptes une réponse écrite. Les observations ne peuvent être arrêtées définitivement qu'après réception de
+cette réponse, ou, à défaut, à l'expiration du délai précité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 24
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 28
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L212-12 (VD)
+	  - Code des juridictions financières - art. L243-10 (VD)
+	  - Code des juridictions financières - art. L254-7 (VD)
+	  - Code des juridictions financières - art. R241-16 (T)
+	  - Code des juridictions financières - art. R243-10 (V)
+	  - Code des juridictions financières - art. R243-5 (V)
+	  - Code des juridictions financières - art. R243-8 (V)
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L241-9 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L243-2 (VD)
+	  - Code des juridictions financières - art. L245-3 (VT)
+
+
+###### Article L243-4
 
 Lorsque les vérifications visées à l'article L. 211-8 sont assurées sur demande du représentant de l'Etat ou de l'autorité
 territoriale, les observations que la chambre régionale des comptes présente sont communiquées à l'autorité territoriale
@@ -6711,32 +6537,37 @@ l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°92-125 1992-02-06, art 47-I, sauf première phrase
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 42 ()
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 24
 
 	**Liens**:
 
-	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 24
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 28
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. L211-8 (V)
 
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L241-10 (VT)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L243-3 (VD)
+	  - Code des juridictions financières - art. R241-31 (V)
+	  - Code des juridictions financières - art. R243-10 (V)
+	  - Code des juridictions financières - art. R243-12 (V)
+	  - Code des juridictions financières - art. R243-15 (V)
+
 	**Nouveaux textes**:
 
-	  - Code des juridictions financières - art. L243-4 (VD)
+	  - Code des juridictions financières - art. L243-7 (VD)
+	  - Code des juridictions financières - art. L245-4 (VT)
 
 
-###### Article L241-11
+###### Article L243-5
 
 Les chambres régionales des comptes arrêtent leurs observations définitives sous la forme d'un rapport d'observations. 
 
@@ -6744,10 +6575,9 @@ Ce rapport d'observations est communiqué :
 
 - soit à l'exécutif de la collectivité locale ou au dirigeant de l'établissement public concerné ;
 
-- soit aux représentants des établissements, sociétés, groupements et organismes mentionnés aux articles L. 133-3, 
-L. 133-4 et L. 211-4 à L. 211-6 ; dans ce cas, il est également transmis à l'exécutif de la collectivité territoriale qui
-leur a apporté un concours financier ou qui détient une partie du capital ou une partie des voix dans leurs instances de
-décision. 
+- soit aux représentants des établissements, sociétés, groupements et organismes mentionnés aux articles L. 133-3, L. 133-4
+et L. 211-4 à L. 211-6 ; dans ce cas, il est également transmis à l'exécutif de la collectivité territoriale qui leur a
+apporté un concours financier ou qui détient une partie du capital ou une partie des voix dans leurs instances de décision. 
 
 Il est communiqué à l'exécutif de la collectivité territoriale ou de l'établissement public et, le cas échéant, pour ce qui
 le concerne, à l'ordonnateur ou au dirigeant qui était en fonctions au cours de l'exercice examiné. 
@@ -6766,17 +6596,13 @@ jusqu'au lendemain du tour de scrutin où l'élection est acquise.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 13 et 14, issu de loi 90-55 1990-01-15, art 16-II
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 24
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 42 ()
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 28
 
 	**Cite**:
 
@@ -6784,215 +6610,89 @@ jusqu'au lendemain du tour de scrutin où l'élection est acquise.
 	  - Code des juridictions financières - art. L133-4 (V)
 	  - Code des juridictions financières - art. L211-4 (V)
 
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L241-10 (M)
-	  - Code des juridictions financières - art. L241-14 (VT)
-	  - Code des juridictions financières - art. R241-17 (V)
-	  - Code des juridictions financières - art. R241-31 (V)
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L243-5 (VD)
-
-
-###### Article L241-12
-
-Les parties peuvent se faire assister ou représenter par un avocat.
-
-L'ordonnateur ou le dirigeant qui était en fonctions au cours d'un exercice examiné peut se faire assister ou représenter par
-la personne de son choix, désignée à sa demande par le président de la chambre régionale des comptes. S'il s'agit d'un agent
-public, son chef de service en est informé. Cette personne peut être désignée pour une affaire qu'elle a eu à connaître dans
-le cadre de ses fonctions. Elle est habilitée à se faire communiquer par la collectivité territoriale ou l'établissement
-public tout document, de quelque nature qu'il soit, relatif à la gestion de l'exercice examiné.
-
-Lorsque l'ordonnateur ou le dirigeant n'est plus en fonctions au moment où l'exercice est examiné par la chambre régionale
-des comptes, les honoraires de l'avocat demeurent à la charge de la collectivité territoriale ou de l'établissement public
-concerné dans la limite d'un plafond fixé par décret.
-
-**Liens relatifs à cet article**
-
 	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 5 dernier alinéa, issu de loi 90-1259 1990-01-15, art 16-II
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi n°2007-209 du 19 février 2007 - art. 64 () JORF 21 février 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 21
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L241-7 (VD)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L262-45 (VD)
-	  - Code des juridictions financières - art. L272-43 (VD)
-
-
-###### Article L241-13
-
-Les jugements, avis, propositions, rapports d'instruction et observations de la chambre régionale des comptes sont délibérés
-et adoptés collégialement selon une procédure contradictoire.
-
-Lorsque la chambre régionale des comptes statue en matière de gestion de fait et d'amende, elle délibère hors la présence du
-rapporteur. Le jugement est rendu en audience publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 84 al 2, modifié par loi 90-55 1990-01-15, art 15
-	  - Loi n°82-213 du 2 mars 1982 - art. 15 (M)
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi n°2001-1248 2001-12-21 art. 39, 43 II jorf 26 décembre 2001
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 39 ()
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 21
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L241-8 (VD)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L243-4 (VT)
-
-
-###### Article L241-14
-
-Les observations définitives sur la gestion prévues par l'article L. 241-11 sont arrêtées par la chambre régionale des
-comptes après l'audition, à leur demande, des dirigeants des personnes morales contrôlées, et de toute autre personne
-nominativement ou explicitement mise en cause.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 6 al 1, modifié par loi 93-122 1993-01-22, art 80-II
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Cité par**:
-
-	  - Décret n°95-945 du 23 août 1995 - art. 116 (Ab)
-	  - Décret n°95-945 du 23 août 1995 - art. 38 (Ab)
-	  - Code des juridictions financières - art. L212-15 (V)
-	  - Code des juridictions financières - art. L250-11 (Ab)
-	  - Code des juridictions financières - art. L250-12 (Ab)
-	  - Code des juridictions financières - art. L256-1 (T)
-	  - Code des juridictions financières - art. R241-12 (V)
-	  - Code des juridictions financières - art. R241-13 (T)
-	  - Code des juridictions financières - art. R241-16 (V)
-	  - Code des juridictions financières - art. R241-28 (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 24
-
-	**Cite**:
 
 	  - Code des juridictions financières - art. L241-11 (VT)
 
 	**Nouveaux textes**:
 
+	  - Code des juridictions financières - art. L243-4 (VD)
 	  - Code des juridictions financières - art. L243-6 (VD)
 
+	**Cité par**:
 
-###### Article L241-15
+	  - Code des juridictions financières - art. R241-17 (T)
+	  - Code des juridictions financières - art. R241-31 (T)
+	  - Code des juridictions financières - art. R243-13 (V)
 
-Les règles relatives à la procédure devant les chambres régionales des comptes et à la communication de leurs observations
-aux collectivités, établissements, sociétés, groupements et organismes concernés sont fixées par décret en Conseil d'Etat.
+
+###### Article L243-6
+
+Les observations définitives sur la gestion prévues par l'article L. 243-5 sont arrêtées par la chambre régionale des comptes
+après l'audition, à leur demande, des dirigeants des personnes morales contrôlées, et de toute autre personne nominativement
+ou explicitement mise en cause.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 26
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
 
 	**Créé par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 24
 
 	**Liens**:
 
-	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 21
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 28
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code des juridictions financières - art. L241-9 (VD)
-
-
-##### CHAPITRE II : Contrôle budgétaire.
-
-###### Article L242-1
-
-Lorsqu'elle est saisie en application des dispositions de la section 1 du chapitre II du titre III de la première partie du
-présent livre, la chambre régionale des comptes dispose, pour l'instruction de ces affaires, des pouvoirs définis aux
-articles L. 241-1 à L. 241-5..
-
-**Liens relatifs à cet article**
+	  - Code des juridictions financières - art. L212-15 (VT)
+	  - Code des juridictions financières - art. L245-4 (VT)
+	  - Code des juridictions financières - art. L256-1 (T)
+	  - Code des juridictions financières - art. R241-16 (T)
+	  - Code des juridictions financières - art. R241-28 (T)
+	  - Code des juridictions financières - art. R243-13 (V)
 
 	**Anciens textes**:
 
-	  - Loi n°82-594 1982-07-10, art 9, modifié par loi 96-142 1996-02-21, art 4-XXI
+	  - Code des juridictions financières - art. L241-14 (VT)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Code des juridictions financières - art. L243-3 (VD)
 
-	**Modifié par**:
 
-	  - Loi n°96-142 du 21 février 1996 - art. 4 ()
+##### CHAPITRE IV : Contrôle budgétaire
 
-	**Transféré par**:
+###### Article L244-1
+
+Lorsqu'elle est saisie en application des dispositions de la section 1 du chapitre II du titre III de la première partie du
+présent livre, la chambre régionale des comptes dispose, pour l'instruction de ces affaires, des pouvoirs définis aux
+articles L. 241-1 à L. 241-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
 
 	  - Loi n°2008-1091 du 28 octobre 2008 - art. 25
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. L241-1 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des juridictions financières - art. L244-1 (VD)
+	  - Code des juridictions financières - art. L242-1 (VT)
 
 	**Cité par**:
 
-	  - Code des juridictions financières - art. L254-4 (VD)
-	  - Code des juridictions financières - art. L254-5 (VD)
-	  - Code des juridictions financières - art. R241-33 (T)
-	  - Code des juridictions financières - art. R241-34 (T)
-	  - Code des juridictions financières - art. R241-37 (T)
+	  - Code des juridictions financières - art. R244-1 (V)
+	  - Code général des collectivités territoriales - art. L1411-18 (VD)
 
 
-###### Article L242-2
+###### Article L244-2
 
 Lorsque la chambre régionale des comptes est saisie en application des dispositions du chapitre II du titre III relatif au
 contrôle des actes budgétaires et de l'exécution du budget, l'ordonnateur ou son représentant peut, à sa demande, présenter
@@ -7000,179 +6700,156 @@ oralement ses observations. Il peut être assisté par une personne de son choix
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 13
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Créé par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Cité par**:
-
-	  - Décret n°95-945 du 23 août 1995 - art. 101 (Ab)
-	  - Code des juridictions financières - art. L232-33 (T)
-	  - Code des juridictions financières - art. L234-1 (V)
-	  - Code des juridictions financières - art. L234-2 (V)
-	  - Code des juridictions financières - art. L242-4 (VD)
-	  - Code des juridictions financières - art. R242-1 (V)
-	  - Code général des collectivités territoriales - art. L1411-18 (V)
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 25
 
 	**Liens**:
 
-	  - TRANSFERE: Loi n°2008-1091 du 28 octobre 2008 - art. 25
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L244-2 (VD)
-
-
-##### CHAPITRE III : Voies de recours.
-
-###### Article L243-1
-
-Le comptable, la collectivité locale ou l'établissement public, le commissaire du Gouvernement près la chambre régionale des
-comptes, le procureur général près la Cour des comptes peuvent faire appel devant la Cour des comptes de tout jugement
-prononcé à titre définitif par la chambre régionale des comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 8
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Transféré par**:
-
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 26
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L245-1 (VD)
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 29
 
 	**Cité par**:
 
-	  - Code des juridictions financières - art. L254-4 (VD)
+	  - Code des juridictions financières - art. L234-2 (VD)
+	  - Code général des collectivités territoriales - art. L1411-18 (VD)
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L242-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L244-1 (VD)
+
+
+##### CHAPITRE V : Voies de recours
+
+###### Article L245-1
+
+Le comptable, la collectivité locale ou l'établissement public, le représentant du ministère public près la chambre régionale
+des comptes, le procureur général près la Cour des comptes peuvent faire appel devant la Cour des comptes de toute décision
+juridictionnelle rendue par la chambre régionale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 26
+
+	**Modifié par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 27
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 27
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L242-6 (VD)
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L243-1 (VT)
+
+	**Cité par**:
+
 	  - Code des juridictions financières - art. L254-5 (VD)
 
 
-###### Article L243-2
+###### Article L245-2
 
-Un jugement prononcé à titre définitif peut être révisé par la chambre régionale des comptes qui l'a rendu, soit à la demande
-du comptable appuyée des justifications recouvrées depuis le jugement, soit d'office ou sur réquisition du ministère public,
+Une décision juridictionnelle peut être révisée par la chambre régionale des comptes qui l'a rendue, soit à la demande du
+comptable appuyée des justifications recouvrées depuis le jugement, soit d'office ou sur réquisition du ministère public,
 pour cause d'erreur, omission, faux ou double emploi.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 7
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Transféré par**:
 
 	  - Loi n°2008-1091 du 28 octobre 2008 - art. 26
 
+	**Modifié par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 28
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 27
+
 	**Nouveaux textes**:
 
-	  - Code des juridictions financières - art. L245-2 (VD)
+	  - Code des juridictions financières - art. L242-7 (VD)
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Code des juridictions financières - art. R243-5 (V)
+	  - Code des juridictions financières - art. L243-2 (VT)
 
 
-###### Article L243-3
+###### Article L245-3
 
-Les règles relatives à l'appel et à la révision des jugements des chambres régionales des comptes sont fixées par décret en
-Conseil d'Etat.
+Les règles relatives à l'appel et à la révision des décisions juridictionnelles des chambres régionales des comptes sont
+fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 26
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Transféré par**:
 
 	  - Loi n°2008-1091 du 28 octobre 2008 - art. 26
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Code des juridictions financières - art. L212-12 (VD)
-	  - Code des juridictions financières - art. L243-10 (VD)
-	  - Code des juridictions financières - art. L254-7 (VD)
-	  - Code des juridictions financières - art. R241-16 (T)
-	  - Code des juridictions financières - art. R243-10 (V)
-	  - Code des juridictions financières - art. R243-5 (V)
-	  - Code des juridictions financières - art. R243-8 (V)
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 29
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 27
 
 	**Nouveaux textes**:
 
-	  - Code des juridictions financières - art. L245-3 (VD)
+	  - Code des juridictions financières - art. L242-8 (VD)
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L243-3 (VT)
 
 
-###### Article L243-4
+###### Article L245-4
 
-La chambre régionale des comptes statue dans les formes prévues aux articles L. 241-13 et L. 241-14 sur toute demande en
+La chambre régionale des comptes statue dans les formes prévues aux articles L. 241-8 et L. 243-6 sur toute demande en
 rectification d'observations définitives sur la gestion qui peut lui être présentée par les dirigeants des personnes morales
 contrôlées ou toute autre personne nominativement ou explicitement mise en cause.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 44 ()
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2008-1091 du 28 octobre 2008 - art. 26
 
+	**Créé par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 26
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 28
+
 	**Cite**:
 
-	  - Code des juridictions financières - art. L241-13 (VT)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L243-3 (VD)
-	  - Code des juridictions financières - art. R241-31 (V)
-	  - Code des juridictions financières - art. R243-10 (V)
-	  - Code des juridictions financières - art. R243-12 (V)
-	  - Code des juridictions financières - art. R243-15 (V)
+	  - Code des juridictions financières - art. L241-8
+	  - Code des juridictions financières - art. L243-6
 
 	**Nouveaux textes**:
 
-	  - Code des juridictions financières - art. L245-4 (VD)
+	  - Code des juridictions financières - art. L243-10 (VD)
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L243-4 (VT)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R241-31 (T)
 
 
 ### DEUXIEME PARTIE : Les chambres territoriales des comptes
@@ -7575,25 +7252,21 @@ compétence et de ses établissements publics dans les conditions définies au c
 
 ###### Article L252-13
 
-La chambre territoriale des comptes de Mayotte a le même président, les mêmes assesseurs, le ou les mêmes commissaires du
-Gouvernement et le même siège que la chambre régionale des comptes de La Réunion.
+La chambre territoriale des comptes de Mayotte a le même président, les mêmes assesseurs, le ou les mêmes représentants du
+ministère public près une chambre et le même siège que la chambre régionale des comptes de La Réunion.
 
 La chambre territoriale des comptes de Saint-Pierre-et-Miquelon a le même président, les mêmes assesseurs, le ou les mêmes
-commissaires du Gouvernement et le même siège que la chambre régionale des comptes d'Ile-de-France.
+représentants du ministère public près une chambre et le même siège que la chambre régionale des comptes d'Ile-de-France.
 
 La chambre territoriale des comptes de Saint-Barthélemy et la chambre territoriale des comptes de Saint-Martin ont le même
-président, les mêmes assesseurs, le ou les mêmes commissaires du Gouvernement et le même siège que la chambre régionale des
-comptes de la Guadeloupe.
+président, les mêmes assesseurs, le ou les mêmes représentants du ministère public près une chambre et le même siège que la
+chambre régionale des comptes de la Guadeloupe.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
 
 	**Cité par**:
 
@@ -7677,24 +7350,28 @@ comptes ou à la chambre territoriale des comptes.
 
 L'intérim du ministère public auprès de la chambre territoriale des comptes peut être exercé, pour une période n'excédant pas
 six mois, par un magistrat d'une chambre régionale ou territoriale des comptes remplissant les conditions réglementaires pour
-être délégué dans les fonctions de commissaire du Gouvernement, désigné sur proposition du président de la chambre
-territoriale par décision conjointe du premier président de la Cour des comptes et du procureur général près la Cour des
-comptes. Il est mis fin à cet intérim par décision du procureur général qui en tient informé le premier président.
+être délégué dans les fonctions du ministère public, désigné sur proposition du président de la chambre territoriale par
+décision conjointe du premier président de la Cour des comptes et du procureur général près la Cour des comptes. Il est mis
+fin à cet intérim par décision du procureur général qui en tient informé le premier président.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 33
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. L212-12 (VD)
 	  - Code des juridictions financières - art. R252-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L252-19 (V)
 
 
 ###### Article L252-18
@@ -7811,52 +7488,42 @@ composant ces juridictions sont applicables aux chambres territoriales des compt
 ###### Article L253-2
 
 Le comptable d'une commune ou d'un établissement public communal ou intercommunal est tenu de produire ses comptes devant la
-chambre territoriale des comptes dans les délais prescrits par les règlements.
+chambre territoriale des comptes dans les délais fixés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
 
 
 ###### Article L253-3
 
-La chambre territoriale des comptes statue en premier ressort, à titre provisoire ou définitif, sur les comptes des
-comptables publics.
+La chambre territoriale des comptes statue en premier ressort sur les comptes des comptables publics.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
 
 
 ###### Article L253-4
 
-La chambre territoriale juge, dans les mêmes formes et sous les mêmes sanctions, les comptes que lui rendent les personnes
-qu'elle a déclarées comptables de fait d'une collectivité ou d'un établissement public relevant de sa compétence.
+La chambre territoriale des comptes juge les comptes que lui rendent les personnes qu'elle a déclarées comptables de fait.
+Elle n'a pas juridiction sur les ordonnateurs, sauf ceux qu'elle a déclarés comptables de fait. 
+
+Les personnes que la chambre territoriale des comptes a déclarées comptables de fait sont tenues de lui produire leurs
+comptes dans le délai qu'elle leur impartit. 
 
 L'action en déclaration de gestion de fait est prescrite pour les actes constitutifs de gestion de fait commis plus de dix
-ans avant la date à laquelle la chambre territoriale des comptes en est saisie ou s'en saisit d'office.
+ans avant la date à laquelle la chambre territoriale des comptes en est saisie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
 
 
 ###### Article LO253-1
@@ -8492,23 +8159,21 @@ serment devant la chambre territoriale des comptes.
 
 ###### Article L254-4
 
-Les articles L. 241-1 à L. 241-15 sont applicables. Pour leur application, les références à la chambre régionale des comptes
-et aux chambres régionales des comptes sont remplacées respectivement par les références à la chambre territoriale des
-comptes et aux chambres territoriales des comptes.
+Les articles L. 241-1 à L. 241-9, L. 242-1 et L. 243-1 à L. 243-6 sont applicables. Pour leur application, les références à
+la chambre régionale des comptes et aux chambres régionales des comptes sont remplacées respectivement par les références à
+la chambre territoriale des comptes et aux chambres territoriales des comptes.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
 
 	**Cite**:
 
-	  - Code des juridictions financières L241-1 à L241-15
+	  - Code des juridictions financières - art. L241-1
+	  - Code des juridictions financières - art. L242-1
+	  - Code des juridictions financières - art. L243-1
 
 
 ###### Article LO254-1
@@ -8577,23 +8242,24 @@ amélioration des règles de droit dont l'édiction entre dans la compétence de
 
 ###### Article L254-5
 
-Les articles L. 243-1 à L. 243-4 sont applicables. Pour leur application, les références à la chambre régionale des comptes
+Les articles L. 245-1 à L. 245-4 sont applicables. Pour leur application, les références à la chambre régionale des comptes
 et aux chambres régionales des comptes sont respectivement remplacées par les références à la chambre territoriale des
 comptes et aux chambres territoriales des comptes.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L243-1 (V)
+	  - Code des juridictions financières - art. L243-1
+	  - Code des juridictions financières - art. L245-1
 
 
 ##### CHAPITRE V : Des comptables des collectivités de Mayotte, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
@@ -8625,41 +8291,48 @@ mentionnée à l'article L. 250-1. Celui-ci est un comptable direct du Trésor a
 Lorsque des magistrats sont simultanément affectés dans plusieurs chambres territoriales des comptes ou dans au moins une
 chambre territoriale des comptes et au moins une chambre régionale des comptes mentionnée à l'article L. 212-12 et que leur
 venue à l'audience n'est pas matériellement possible dans les délais prescrits par les dispositions en vigueur ou exigés par
-la nature de l'affaire, le ou les membres concernés peuvent siéger et, le cas échéant, le commissaire du Gouvernement
+la nature de l'affaire, le ou les membres concernés peuvent siéger et, le cas échéant, le représentant du ministère public
 prononcer ses conclusions, dans une autre chambre dont ils sont membres, reliés en direct à la salle d'audience par un moyen
 de communication audiovisuelle. 
 
 Le premier alinéa est également applicable si la ou les chambres régionales des comptes et la ou les chambres territoriales
 des comptes ont le même siège en application de l'article L. 212-12 et du dernier alinéa de l'article L. 252-13. Dans cette
-hypothèse, le ou les membres concernés peuvent siéger et, le cas échéant, le commissaire du Gouvernement prononcer ses
+hypothèse, le ou les membres concernés peuvent siéger et, le cas échéant, le représentant du ministère public prononcer ses
 conclusions, reliés en direct à la salle d'audience par un moyen de communication audiovisuelle. 
 
-Lorsque des personnes ayant demandé à être auditionnées en application des articles L. 231-3, L. 231-12 ou L. 241-14 ou ayant
-l'obligation de répondre à une convocation en application de l'article L. 241-4 ne peuvent matériellement se rendre à
-l'audience d'une chambre territoriale des comptes mentionnée à l'article L. 252-1 dans les délais prescrits par les
-dispositions en vigueur ou exigés par la nature de l'affaire, elles peuvent présenter leurs observations, reliées en direct à
-la salle d'audience par un moyen de communication audiovisuelle. 
+Lorsque des personnes avisées d'une audience publique, entendues en application de l'article L. 243-6 ou ayant l'obligation
+de répondre à une convocation en application de l'article L. 241-4 ne peuvent matériellement se rendre à l'audience d'une
+chambre territoriale des comptes mentionnée à l'article L. 252-1 dans les délais prescrits par les dispositions en vigueur ou
+exigés par la nature de l'affaire, elles peuvent, sur décision du président de la chambre, présenter leurs observations,
+reliées en direct à la salle d'audience par un moyen de communication audiovisuelle. 
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 35
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L212-12 (V)
-	  - Code des juridictions financières - art. L231-12 (V)
-	  - Code des juridictions financières - art. L231-3 (V)
-	  - Code des juridictions financières - art. L241-14 (V)
-	  - Code des juridictions financières - art. L252-1 (V)
-	  - Code des juridictions financières - art. L252-13 (V)
+	  - Code des juridictions financières - art. L212-12
+	  - Code des juridictions financières - art. L231-12
+	  - Code des juridictions financières - art. L231-3
+	  - Code des juridictions financières - art. L241-14
+	  - Code des juridictions financières - art. L241-4
+	  - Code des juridictions financières - art. L243-6
+	  - Code des juridictions financières - art. L252-1
+	  - Code des juridictions financières - art. L252-13
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L254-7 (V)
 
 
 #### TITRE VI : Dispositions applicables en Nouvelle-Calédonie
@@ -9421,23 +9094,23 @@ serment.
 
 ###### Article L262-24
 
-La chambre territoriale des comptes comporte un ou plusieurs commissaires du Gouvernement, choisis parmi les magistrats d'une
-chambre territoriale, qui exercent les fonctions du ministère public et sont les correspondants du procureur général près la
-Cour des comptes.
+La chambre territoriale des comptes comporte un ou plusieurs représentants du ministère public, choisis parmi les magistrats
+d'une chambre territoriale, qui exercent les fonctions du ministère public et sont les correspondants du procureur général
+près la Cour des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 85 al 4
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 20 jorf 29 décembre 1999
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-19 (VD)
 
 	**Cité par**:
 
@@ -9572,68 +9245,47 @@ composant ces juridictions sont applicables à la chambre territoriale des compt
 ###### Article L262-32
 
 Le comptable d'une commune ou d'un établissement public communal ou intercommunal est tenu de produire ses comptes devant la
-chambre territoriale des comptes, dans les délais prescrits par les règlements.
+chambre territoriale des comptes, dans les délais fixés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 3 al 1
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
 
 
 ###### Article L262-33
 
-La chambre territoriale des comptes statue en premier ressort, à titre provisoire ou définitif, sur les comptes des
-comptables publics, sous réserve de l'article L. 262-4.
+La chambre territoriale des comptes statue en premier ressort sur les comptes des comptables publics, sous réserve de
+l'article L. 262-4.
 
 L'action en déclaration de gestion de fait est prescrite pour les actes constitutifs de gestion de fait commis plus de dix
-ans avant la date à laquelle la chambre territoriale des comptes en est saisie ou s'en saisit d'office.
+ans avant la date à laquelle la chambre territoriale des comptes en est saisie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 2 al 1
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 38 ()
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L262-4 (M)
+	  - Code des juridictions financières - art. L262-4
 
 
 ###### Article L262-34
 
-La chambre territoriale juge, dans les mêmes formes et sous les mêmes sanctions, les comptes que lui rendent les personnes
-qu'elle a déclarées comptables de fait d'une collectivité ou d'un établissement public relevant de sa compétence.
+La chambre territoriale des comptes juge les comptes que lui rendent les personnes qu'elle a déclarées comptables de fait.
+Elle n'a pas juridiction sur les ordonnateurs, sauf ceux qu'elle a déclarés comptables de fait. 
+
+Les personnes que la chambre territoriale des comptes a déclarées comptables de fait sont tenues de lui produire leurs
+comptes dans le délai qu'elle leur impartit.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 2 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
 
 
 ###### Article LO262-31
@@ -9727,28 +9379,28 @@ Trésor emportent décharge définitive du comptable.
 
 ###### Article L262-37
 
-Le comptable supérieur du Trésor adresse à la chambre territoriale des comptes tous les arrêtés de décharge qu'il a pris.
+Le comptable supérieur du Trésor adresse à la chambre territoriale des comptes tous les arrêtés de décharge qu'il a pris. 
 
-La chambre territoriale des comptes peut exercer son droit d'évocation et de réformation sur les arrêtés visés à l'article L.
-262-36 dans le délai de six mois à dater de leur notification au comptable.
+La chambre territoriale des comptes peut exercer son droit d'évocation et, sur réquisition du ministère public, de
+réformation sur les arrêtés visés à l'article L. 262-36 dans le délai de six mois à dater de leur notification au comptable.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 5
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L262-36 (M)
+	  - Code des juridictions financières - art. L262-36 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-38 (VD)
 
 	**Cité par**:
 
@@ -9759,23 +9411,11 @@ La chambre territoriale des comptes peut exercer son droit d'évocation et de r�
 
 ###### Article L262-38
 
-La chambre territoriale des comptes peut condamner les comptables à l'amende pour retard dans la production de leurs comptes
-et dans les réponses aux injonctions qui ont été formulées à leur encontre dans les conditions applicables au prononcé des
-amendes par la Cour des comptes pour un manquement analogue.
+La chambre territoriale des comptes peut condamner les comptables publics et les personnes qu'elle a déclarées comptables de
+fait à l'amende pour retard dans la production de leurs comptes dans les conditions applicables au prononcé des amendes par
+la Cour des comptes pour un manquement analogue.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 3 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
@@ -9783,6 +9423,18 @@ amendes par la Cour des comptes pour un manquement analogue.
 	  - Code des juridictions financières - art. D262-99 (V)
 	  - Code des juridictions financières - art. R262-53 (V)
 	  - Code des juridictions financières - art. R262-54 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-39 (VD)
 
 
 ###### Article L262-39
@@ -9927,20 +9579,16 @@ haut-commissaire, à la société et aux assemblées délibérantes des communes
 
 ###### Article L262-43-1
 
-Le procureur de la République peut transmettre au commissaire du Gouvernement de la chambre territoriale des comptes,
-d'office ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de nature à
-constituer des irrégularités dans les comptes ou la gestion de la Nouvelle-Calédonie, des provinces ou de leurs
+Le procureur de la République peut transmettre au représentant du ministère public près de la chambre territoriale des
+comptes, d'office ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de
+nature à constituer des irrégularités dans les comptes ou la gestion de la Nouvelle-Calédonie, des provinces ou de leurs
 établissements publics.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27
-
-	**Créé par**:
-
-	  - Ordonnance 2004-728 2004-07-22 art. 1 4° JORF 24 juillet 2004
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
 
 
 ###### Article LO262-42
@@ -10023,26 +9671,18 @@ Les magistrats de la chambre territoriale des comptes disposent à l'égard des 
 des organismes visés à l'article L. 262-44, pour l'exercice des contrôles qu'ils effectuent, de l'ensemble des droits et
 pouvoirs attribués à la Cour des comptes par le titre IV du livre Ier du présent code.
 
-L'avis d'enquête mentionné à l'article L. 140-4-1 est établi par le président de la chambre territoriale des comptes..
+L'avis d'enquête mentionné à l'article L. 141-6 est établi par le président de la chambre territoriale des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 5 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Ordonnance 2004-728 2004-07-22 art. 1 5° JORF 24 juillet 2004
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L140-4-1 (M)
-	  - Code des juridictions financières - art. L262-44 (M)
+	  - Code des juridictions financières - art. L141-6
+	  - Code des juridictions financières - art. L262-44
 
 	**Cité par**:
 
@@ -10051,24 +9691,24 @@ L'avis d'enquête mentionné à l'article L. 140-4-1 est établi par le préside
 
 ###### Article L262-45-1
 
-Le procureur de la République peut transmettre au commissaire du Gouvernement de la chambre territoriale des comptes,
-d'office ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de nature à
-constituer des irrégularités dans les comptes ou dans la gestion des collectivités ou organismes mentionnés à l'article L.
-262-44.
+Le procureur de la République peut transmettre au représentant du ministère public près de la chambre territoriale des
+comptes, d'office ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de
+nature à constituer des irrégularités dans les comptes ou dans la gestion des collectivités ou organismes mentionnés à
+l'article L. 262-44.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 13 ()
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L262-44 (M)
+	  - Code des juridictions financières - art. L262-44
 
 
 ##### Sous-section 3 : Dispositions communes
@@ -10432,26 +10072,76 @@ secret professionnel que les experts sont tenus de respecter en application de l
 Les jugements, avis, propositions, rapports d'instruction et observations de la chambre territoriale des comptes sont
 délibérés et adoptés collégialement selon une procédure contradictoire.
 
-Lorsque la chambre territoriale statue en matière de gestion de fait et d'amende, elle délibère hors la présence du
-rapporteur. Le jugement est rendu en audience publique.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 84 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-728 2004-07-22 art. 1 9° JORF 24 juillet 2004
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-46 (VD)
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. L262-58-1 (VT)
+
+
+###### Article L262-54-1
+
+I. - Les rapports d'examen des comptes à fin de jugement ou ceux contenant des faits soit susceptibles de conduire à une
+condamnation à l'amende, soit présomptifs de gestion de fait sont communiqués au représentant du ministère public près la
+chambre territoriale des comptes. 
+
+II. - Lorsque le ministère public ne relève aucune charge à l'égard d'un comptable public, il transmet ses conclusions au
+président de la formation de jugement ou à son délégué. Celui-ci peut demander un rapport complémentaire. Lorsque le
+ministère public ne relève aucune charge après communication de ce dernier, le président de la formation de jugement ou son
+délégué rend une ordonnance déchargeant le comptable de sa gestion. 
+
+Si aucune charge ne subsiste à l'encontre du comptable public au titre de ses gestions successives et s'il a cessé ses
+fonctions, quitus lui est donné dans les mêmes conditions. 
+
+III. - Lorsque le ministère public relève, dans les rapports mentionnés au I ou au vu des autres informations dont il
+dispose, un élément susceptible de conduire à la mise en jeu de la responsabilité personnelle et pécuniaire du comptable, ou
+présomptif de gestion de fait, il saisit la formation de jugement. 
+
+La procédure est contradictoire.A leur demande, le comptable et l'ordonnateur ont accès au dossier. 
+
+Les débats ont lieu en audience publique. Toutefois, le président de la formation de jugement peut, à titre exceptionnel et
+après avis du ministère public, décider que l'audience aura lieu ou se poursuivra hors la présence du public si la sauvegarde
+de l'ordre public ou le respect de l'intimité des personnes ou de secrets protégés par la loi l'exige. 
+
+Le délibéré des juges est secret. Le magistrat chargé de l'instruction et le représentant du ministère public n'y assistent
+pas. 
+
+IV. - Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-55 (VD)
+	  - Code des juridictions financières - art. L262-56 (VD)
+	  - Code des juridictions financières - art. L262-57 (VD)
+	  - Code des juridictions financières - art. L262-58 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R262-82-2 (T)
+	  - Code des juridictions financières - art. R262-82-3 (T)
+	  - Code des juridictions financières - art. R262-82-6 (T)
 
 
 ###### Article L262-55
@@ -10490,23 +10180,24 @@ collectivités, établissements, sociétés, groupements et organismes concerné
 
 ###### Article L262-56
 
-Le comptable, la collectivité locale ou l'établissement public, le commissaire du Gouvernement près la chambre territoriale
-des comptes, le procureur général près la Cour des comptes peuvent faire appel devant la Cour des comptes de tout jugement
-prononcé à titre définitif par la chambre territoriale des comptes.
+Le comptable, la collectivité locale ou l'établissement public, le représentant du ministère public près la chambre
+territoriale des comptes, le procureur général près la Cour des comptes peuvent faire appel devant la Cour des comptes de
+toute décision juridictionnelle rendue par la chambre territoriale des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 8
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-59 (VD)
 
 	**Cité par**:
 
@@ -10515,23 +10206,23 @@ prononcé à titre définitif par la chambre territoriale des comptes.
 
 ###### Article L262-57
 
-Un jugement prononcé à titre définitif peut être révisé par la chambre territoriale des comptes soit à la demande du
+Une décision juridictionnelle peut être révisée par la chambre territoriale des comptes qui l'a rendue soit à la demande du
 comptable appuyée des justifications recouvrées depuis le jugement, soit d'office ou sur réquisition du ministère public,
 pour cause d'erreur, omission, faux ou double emploi.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 7
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-60 (VD)
 
 	**Cité par**:
 
@@ -10540,22 +10231,22 @@ pour cause d'erreur, omission, faux ou double emploi.
 
 ###### Article L262-58
 
-Les règles relatives à l'appel et à la révision des jugements de la chambre territoriale des comptes sont fixées par décret
-en Conseil d'Etat.
+Les règles relatives à l'appel et à la révision des décisions juridictionnelles de la chambre territoriale des comptes sont
+fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 26
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-61 (VD)
 
 
 ###### Article L262-58-1
@@ -12476,23 +12167,23 @@ serment.
 
 ###### Article L272-24
 
-La chambre territoriale des comptes comporte un ou plusieurs commissaires du Gouvernement, choisis parmi les magistrats d'une
-chambre territoriale, qui exercent les fonctions du ministère public et sont les correspondants du procureur général près la
-Cour des comptes.
+La chambre territoriale des comptes comporte un ou plusieurs représentants du ministère public, choisis parmi les magistrats
+d'une chambre territoriale, qui exercent les fonctions du ministère public et sont les correspondants du procureur général
+près la Cour des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02, art 85 al 4
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi n°99-1121 1999-12-28 art. 20 jorf 29 décembre 1999
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-21 (V)
 
 
 ###### Article L272-25
@@ -12670,68 +12361,47 @@ composant ces juridictions sont applicables à la chambre territoriale des compt
 ###### Article L272-33
 
 Le comptable d'une commune ou d'un établissement public communal ou intercommunal est tenu de produire ses comptes devant la
-chambre territoriale des comptes, dans les délais prescrits par les règlements.
+chambre territoriale des comptes, dans les délais fixés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 3 al 1
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
 
 
 ###### Article L272-34
 
-La chambre territoriale des comptes statue en premier ressort, à titre provisoire ou définitif, sur les comptes des
-comptables publics, sous réserve de l'article L. 272-57.
+La chambre territoriale des comptes statue en premier ressort sur les comptes des comptables publics, sous réserve de
+l'article L. 272-57.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 2 al 1
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L272-57 (M)
+	  - Code des juridictions financières - art. L272-57
 
 
 ###### Article L272-35
 
-La chambre territoriale juge, dans les mêmes formes et sous les mêmes sanctions, les comptes que lui rendent les personnes
-qu'elle a déclarées comptables de fait d'une collectivité ou d'un établissement public relevant de sa compétence.
+La chambre territoriale des comptes juge les comptes que lui rendent les personnes qu'elle a déclarées comptables de fait.
+Elle n'a pas juridiction sur les ordonnateurs, sauf ceux qu'elle a déclarés comptables de fait. 
+
+Les personnes que la chambre territoriale des comptes a déclarées comptables de fait sont tenues de lui produire leurs
+comptes dans le délai qu'elle leur impartit. 
 
 L'action en déclaration de gestion de fait est prescrite pour les actes constitutifs de gestion de fait commis plus de dix
-ans avant la date à laquelle la chambre territoriale des comptes en est saisie ou s'en saisit d'office.
+ans avant la date à laquelle la chambre territoriale des comptes en est saisie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 2 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 38 ()
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
 
 
 ###### Article LO272-32
@@ -12758,28 +12428,28 @@ territoriale des comptes, dans les délais prescrits par les règlements.
 
 ###### Article L272-36
 
-La chambre territoriale des comptes peut condamner les comptables à l'amende pour retard dans la production de leurs comptes
-et dans les réponses aux injonctions qui ont été formulées à leur encontre dans les conditions applicables au prononcé des
-amendes par la Cour des comptes pour un manquement analogue.
+La chambre territoriale des comptes peut condamner les comptables publics et les personnes qu'elle a déclarées comptables de
+fait à l'amende pour retard dans la production de leurs comptes dans les conditions applicables au prononcé des amendes par
+la Cour des comptes pour un manquement analogue.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 3 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
 
 	**Cité par**:
 
 	  - Décret n°2007-1277 du 27 août 2007 - art. 3 (V)
 	  - Code des juridictions financières - art. R272-38 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-37 (V)
 
 
 ###### Article L272-37
@@ -12951,25 +12621,23 @@ haut-commissaire, à la société et au président du gouvernement du territoire
 
 ###### Article L272-41-1
 
-L'avis d'enquête mentionné à l'article L. 140-4-1 est établi par le président de la chambre territoriale des comptes.
+L'avis d'enquête mentionné à l'article L. 141-6 est établi par le président de la chambre territoriale des comptes. 
 
-Le procureur de la République peut transmettre au commissaire du Gouvernement de la chambre territoriale des comptes,
-d'office ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de nature à
-constituer des irrégularités dans les comptes ou la gestion de la Polynésie française ou de ses établissements publics.
+Le procureur de la République peut transmettre au représentant du ministère public près de la chambre territoriale des
+comptes, d'office ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de
+nature à constituer des irrégularités dans les comptes ou la gestion de la Polynésie française ou de ses établissements
+publics.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°94-1132 1994-12-27
-
-	**Créé par**:
-
-	  - Loi n°2004-193 2004-02-27 art. 21 5° JORF 2 mars 2004
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L140-4-1 (M)
+	  - Code des juridictions financières - art. L141-6
 
 
 ###### Article LO272-40
@@ -13074,26 +12742,18 @@ Les magistrats de la chambre territoriale des comptes disposent à l'égard des 
 des organismes visés à l'article L. 272-42, pour l'exercice des contrôles qu'ils effectuent, de l'ensemble des droits et
 pouvoirs attribués à la Cour des comptes par le titre IV du livre Ier du présent code.
 
-L'avis d'enquête visé à l'article L. 140-4-1 est établi par le président de la chambre territoriale des comptes.
+L'avis d'enquête visé à l'article L. 141-6 est établi par le président de la chambre territoriale des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 5 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi n°2004-193 2004-02-27 art. 21 6° JORF 2 mars 2004
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L140-4-1 (M)
-	  - Code des juridictions financières - art. L272-42 (M)
+	  - Code des juridictions financières - art. L141-6
+	  - Code des juridictions financières - art. L272-42
 
 	**Cité par**:
 
@@ -13102,24 +12762,28 @@ L'avis d'enquête visé à l'article L. 140-4-1 est établi par le président de
 
 ###### Article L272-43-1
 
-Le procureur de la République peut transmettre au commissaire du Gouvernement de la chambre territoriale des comptes,
-d'office ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de nature à
-constituer des irrégularités dans les comptes ou dans la gestion des collectivités ou organismes mentionnés à l'article L.
-272-42.
+Le procureur de la République peut transmettre au représentant du ministère public près de la chambre territoriale des
+comptes, d'office ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de
+nature à constituer des irrégularités dans les comptes ou dans la gestion des collectivités ou organismes mentionnés à
+l'article L. 272-42.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 13 ()
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L272-42 (M)
+	  - Code des juridictions financières - art. L272-42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-49 (V)
 
 
 ##### Sous-section 3 : Dispositions communes
@@ -13434,26 +13098,76 @@ secret professionnel que les experts sont tenus de respecter en application de l
 Les jugements, avis, propositions, rapports d'instruction et observations de la chambre territoriale des comptes sont
 délibérés et adoptés collégialement selon une procédure contradictoire.
 
-Lorsque la chambre territoriale des comptes statue en matière de gestion de fait et d'amende, elle délibère hors la présence
-du rapporteur. Le jugement est rendu en audience publique.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 84 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
 
 	**Modifié par**:
 
-	  - Loi n°2004-193 2004-02-27 art. 21 10° JORF 2 mars 2004
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-45 (V)
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. L272-56-1 (T)
+
+
+###### Article L272-52-1
+
+I. - Les rapports d'examen des comptes à fin de jugement ou ceux contenant des faits soit susceptibles de conduire à une
+condamnation à l'amende, soit présomptifs de gestion de fait sont communiqués au représentant du ministère public près la
+chambre territoriale des comptes. 
+
+II. - Lorsque le ministère public ne relève aucune charge à l'égard d'un comptable public, il transmet ses conclusions au
+président de la formation de jugement ou à son délégué. Celui-ci peut demander un rapport complémentaire. Lorsque le
+ministère public ne relève aucune charge après communication de ce dernier, le président de la formation de jugement ou son
+délégué rend une ordonnance déchargeant le comptable de sa gestion. 
+
+Si aucune charge ne subsiste à l'encontre du comptable public au titre de ses gestions successives et s'il a cessé ses
+fonctions, quitus lui est donné dans les mêmes conditions. 
+
+III. - Lorsque le ministère public relève, dans les rapports mentionnés au I ou au vu des autres informations dont il
+dispose, un élément susceptible de conduire à la mise en jeu de la responsabilité personnelle et pécuniaire du comptable, ou
+présomptif de gestion de fait, il saisit la formation de jugement. 
+
+La procédure est contradictoire.A leur demande, le comptable et l'ordonnateur ont accès au dossier. 
+
+Les débats ont lieu en audience publique. Toutefois, le président de la formation de jugement peut, à titre exceptionnel et
+après avis du ministère public, décider que l'audience aura lieu ou se poursuivra hors la présence du public si la sauvegarde
+de l'ordre public ou le respect de l'intimité des personnes ou de secrets protégés par la loi l'exige. 
+
+Le délibéré des juges est secret. Le magistrat chargé de l'instruction et le représentant du ministère public n'y assistent
+pas. 
+
+IV. - Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-53 (V)
+	  - Code des juridictions financières - art. L272-54 (V)
+	  - Code des juridictions financières - art. L272-55 (V)
+	  - Code des juridictions financières - art. L272-56 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R272-72 (V)
+	  - Code des juridictions financières - art. R272-73 (V)
+	  - Code des juridictions financières - art. R272-76 (V)
 
 
 ###### Article L272-53
@@ -13493,23 +13207,24 @@ collectivités, établissements, sociétés, groupements et organismes concerné
 
 ###### Article L272-54
 
-Le comptable, la collectivité locale ou l'établissement public, le commissaire du Gouvernement près la chambre territoriale
-des comptes, le procureur général près la Cour des comptes peuvent faire appel devant la Cour des comptes de tout jugement
-prononcé à titre définitif par la chambre territoriale des comptes.
+Le comptable, la collectivité locale ou l'établissement public, le représentant du ministère public près la chambre
+territoriale des comptes, le procureur général près la Cour des comptes peuvent faire appel devant la Cour des comptes de
+toute décision juridictionnelle rendue par la chambre territoriale des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 8
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-57 (V)
 
 	**Cité par**:
 
@@ -13518,43 +13233,43 @@ prononcé à titre définitif par la chambre territoriale des comptes.
 
 ###### Article L272-55
 
-Un jugement prononcé à titre définitif peut être révisé par la chambre territoriale des comptes, soit à la demande du
+Une décision juridictionnelle peut être révisée par la chambre territoriale des comptes qui l'a rendue, soit à la demande du
 comptable appuyée des justifications recouvrées depuis le jugement, soit d'office ou sur réquisition du ministère public,
 pour cause d'erreur, omission, faux ou double emploi.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 7
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-58 (V)
 
 
 ###### Article L272-56
 
-Les règles relatives à l'appel et à la révision des jugements de la chambre territoriale des comptes sont fixées par décret
-en Conseil d'Etat.
+Les règles relatives à l'appel et à la révision des décisions juridictionnelles de la chambre territoriale des comptes sont
+fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 26
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-59 (V)
 
 
 ###### Article L272-56-1
@@ -13689,28 +13404,24 @@ Trésor emportent décharge définitive du comptable.
 
 ###### Article L272-60
 
-Le comptable supérieur du Trésor adresse à la chambre territoriale des comptes tous les arrêtés de décharge qu'il a pris.
+Le comptable supérieur du Trésor adresse à la chambre territoriale des comptes tous les arrêtés de décharge qu'il a pris. 
 
-La chambre territoriale des comptes peut exercer son droit d'évocation et de réformation sur les arrêtés visés à l'article L.
-272-59 dans le délai de six mois à dater de leur notification au comptable.
+La chambre territoriale des comptes peut exercer son droit d'évocation et, sur réquisition du ministère public, de
+réformation sur les arrêtés visés à l'article L. 272-59 dans le délai de six mois à dater de leur notification au comptable.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 5
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2008-1091 du 28 octobre 2008 - art. 30
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L272-59 (M)
+	  - Code des juridictions financières - art. L272-59
 
 
 ##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution du budget du territoire, des communes et des établissements publics
@@ -19756,8 +19467,6 @@ III. - Sans préjudice du droit d'être entendu prévu à l'article L. 135-4, le
 
 #### CHAPITRE Ier : Règles générales de procédure
 
-##### Section 1 : Règles générales de procédure.
-
 ##### Section 1 : Dispositions communes aux activités juridictionnelles et administratives
 
 ###### Article R141-1
@@ -20604,8 +20313,6 @@ ou de l'ordonnance.
 
 	  - Décret n°2008-1397 du 19 décembre 2008 - art. 30
 
-
-#### Chapitre IV : Notification des arrêts.
 
 #### CHAPITRE IV : Notification des arrêts et des ordonnances
 
@@ -26539,8 +26246,6 @@ publique, sur la recevabilité du recours et, s'il y a lieu, sur le fond du liti
 
 	  - Code des juridictions financières - art. D242-31 (V)
 
-
-##### CHAPITRE VI : Notification des jugements.
 
 ##### CHAPITRE VI : Notification des jugements et des ordonnances
 

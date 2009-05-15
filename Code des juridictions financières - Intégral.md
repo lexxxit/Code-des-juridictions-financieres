@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2009-05-01
+Version Consolidée au 2009-05-16
 
 # Partie législative
 
@@ -10573,20 +10573,18 @@ par la délibération d'ouverture de l'autorisation de programme ou d'engagement
 Les crédits correspondants, visés aux alinéas ci-dessus, sont inscrits au budget lors de son adoption. Le comptable est en
 droit de payer les mandats et recouvrer les titres de recettes émis dans les conditions ci-dessus.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 7 al 1
-	  - Loi n°90-1247 1990-12-29, art 1er
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 42 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 42
 
 	**Cité par**:
 
@@ -10747,23 +10745,22 @@ section de fonctionnement comporte ou reprend un excédent reporté par décisio
 d'investissement comporte un excédent, notamment après inscriptions des dotations aux amortissements et aux provisions
 exigées.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°90-1247 1990-12-29, art 1er Loi 82-213 1982-03-02 modifiée, art 8, dernier alinéa
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 43 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 43
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L263-12 (M)
+	  - Code des juridictions financières - art. L263-12
 
 
 ###### Article L263-14
@@ -11002,26 +10999,23 @@ formulées par la chambre territoriale des comptes, il assortit sa décision d'u
 En cas de mise en oeuvre des dispositions des alinéas précédents, la procédure prévue à l'article L. 263-12 n'est pas
 applicable.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 9 al 3 à 6
-	  - Loi n°90-1247 1990-12-29, art 1er
-	  - modifiée par loi 96-609 1996-07-05, art 25-III-8°
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 44 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 44
 
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. L235-5 (Ab)
-	  - Code des juridictions financières - art. L263-12 (M)
+	  - Code des communes - art. L235-5
+	  - Code des juridictions financières - art. L263-12
 
 	**Cité par**:
 
@@ -11410,15 +11404,14 @@ L'ordre de réquisition est notifié à la chambre territoriale des comptes.
 
 En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°90-1247 1990-12-29, art 1er Loi 82-213 1982-03-02 modifiée, art 15 al 2 à 4
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
 
 	**Cité par**:
 
@@ -11427,7 +11420,7 @@ En cas de réquisition, l'ordonnateur engage sa responsabilité propre.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 45 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 45
 
 
 #### TITRE VII : Dispositions applicables en Polynésie française

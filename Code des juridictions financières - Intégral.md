@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2009-05-25
+Version Consolidée au 2009-08-07
 
 # Partie législative
 
@@ -8740,6 +8740,20 @@ capital ou des voix dans les organes délibérants, ou exercent un pouvoir prép
 	  - Code des juridictions financières - art. L262-64 (VD)
 
 
+###### Article L262-11-1
+
+Lorsque la Cour des comptes est compétente à l'égard des sociétés, groupements ou organismes exerçant leur activité sur le
+territoire de la Nouvelle-Calédonie, la vérification des comptes peut être confiée à la chambre territoriale des comptes par
+arrêté du premier président de la Cour des comptes, pris après avis du procureur général près la Cour des comptes et du
+président de la chambre territoriale intéressée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-970 du 3 août 2009 - art. 7
+
+
 ###### Article L262-13
 
 La chambre territoriale des comptes concourt au contrôle budgétaire des communes et de leurs établissements publics dans les
@@ -9590,21 +9604,14 @@ nature à constituer des irrégularités dans les comptes ou la gestion de la No
 ###### Article LO262-42
 
 La chambre territoriale des comptes est habilitée à se faire communiquer tous documents, de quelque nature que ce soit,
-relatifs à la gestion des provinces, du territoire ou de leurs établissements publics.
+relatifs à la gestion des provinces, du territoire, de leurs établissements publics et des autres organismes soumis à son
+contrôle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 5 al 1
-
-	**Codifié par**:
-
-	  - Loi n°94-1132 1994-12-27
-
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi organique n°2009-969 du 3 août 2009 - art. 29
 
 	**Cité par**:
 
@@ -9630,6 +9637,19 @@ Cour des comptes par le titre IV du livre Ier du présent code.
 	**Modifié par**:
 
 	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+
+
+###### Article LO262-43-2
+
+Lorsqu'à l'occasion de ses contrôles la chambre territoriale des comptes relève des faits de nature à justifier une
+amélioration des règles de droit dont l'édiction entre dans la compétence de la Nouvelle-Calédonie, elle peut demander à son
+président d'adresser une communication au président du congrès à ce sujet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2009-969 du 3 août 2009 - art. 29
 
 
 ##### Sous-section 2 : A l'égard des autres collectivités et organismes.
@@ -10529,24 +10549,22 @@ applicables à compter de l'exercice 2011.
 
 ###### Article LO263-7
 
-Lorsqu'elle est saisie en application des articles L.O. 263-2 à L.O. 263-6, la chambre territoriale dispose, pour
-l'instruction de ces affaires, des pouvoirs définis aux articles L.O. 262-42, L.O. 262-43, L.O. 262-46, L. 262-52.
+Lorsqu'elle est saisie en application des articles 84-1, 183-1, 208-2 et 208-3 de la loi organique n° 99-209 du 19 mars 1999
+relative à la Nouvelle-Calédonie, la chambre territoriale dispose, pour l'instruction de ces affaires, des pouvoirs définis
+aux articles L.O. 262-42, L.O. 262-43, L.O. 262-46, L. 262-52.
 
 La chambre territoriale des comptes prend toutes dispositions pour garantir le secret de ses investigations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°82-594 1982-07-10, art 9 Loi 82-594 1982-07-10, art 5 al 6
-
-	**Codifié par**:
-
-	  - Loi n°94-1132 1994-12-27
+	  - Loi n°99-209 du 19 mars 1999
+	  - Code des juridictions financières - art. LO262-42
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi organique n°2009-969 du 3 août 2009 - art. 29
 
 
 ##### Section 2 : Des communes et des établissements publics communaux et intercommunaux
@@ -26469,7 +26487,7 @@ comptes.
 	  - Code des juridictions financières - art. D272-98 (T)
 
 
-### DEUXIÈME PARTIE : Dispositions applicables aux territoires d'outre-mer et à la Nouvelle-Calédonie
+### DEUXIÈME PARTIE : Dispositions applicables dans les collectivités d'outre-mer et en Nouvelle-Calédonie.
 
 #### TITRE VI : Dispositions applicables en Nouvelle-Calédonie
 
@@ -30415,10 +30433,6 @@ par la collectivité ou l'établissement public concerné.
 	  - Code des juridictions financières - art. R263-20 (V)
 	  - Code des juridictions financières - art. R263-3 (V)
 
-
-### DEUXIÈME PARTIE : Dispositions applicables dans les collectivités d'outre-mer et en Nouvelle-Calédonie.
-
-#### TITRE VI : Dispositions applicables en Nouvelle-Calédonie
 
 #### TITRE VII : Dispositions applicables en Polynésie française.
 

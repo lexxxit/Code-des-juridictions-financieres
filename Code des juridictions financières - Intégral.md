@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2009-08-07
+Version Consolidée au 2009-12-28
 
 # Partie législative
 
@@ -1661,21 +1661,18 @@ comptes sur le projet de loi de règlement du budget de l'Etat.
 Dans le cadre de sa mission de contrôle de l'application des lois de financement de la sécurité sociale, la Cour des comptes,
 sans préjudice des dispositions des articles L. 211-1 et L. 211-8, est habilitée à recueillir, en liaison avec les chambres
 régionales des comptes, des informations auprès des établissements mentionnés à l'article L. 6141-2 du code de la santé
-publique.
+publique. 
 
 Elle établit, en liaison avec les chambres régionales des comptes, un programme trisannuel des travaux à mener notamment sur
-l'évaluation comparative des coûts et des modes de gestion des établissements financés par l'assurance maladie. Elle en rend
-compte dans le rapport mentionné à l'article LO 132-3.
+l'évaluation comparative des coûts et des modes de gestion des établissements sanitaires et médico-sociaux financés par
+l'assurance maladie, quel que soit leur statut public ou privé. Elle en rend compte dans le rapport mentionné à l'article LO
+132-3.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Loi n°2004-1370 du 20 décembre 2004 - art. 2 () JORF 21 décembre 2004
+	  - Loi n°2009-1646 du 24 décembre 2009 - art. 49
 
 	**Cité par**:
 
@@ -1684,10 +1681,9 @@ compte dans le rapport mentionné à l'article LO 132-3.
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L132-3 (Ab)
-	  - Code des juridictions financières - art. L211-1 (V)
-	  - Code des juridictions financières - art. L211-8 (M)
-	  - Code de la santé publique - art. L6141-2 (V)
+	  - Code des juridictions financières - art. L132-3
+	  - Code des juridictions financières - art. L211-1
+	  - Code de la santé publique - art. L6141-2
 
 
 ###### Article L132-4

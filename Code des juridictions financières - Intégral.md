@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2009-12-28
+Version Consolidée au 2010-01-01
 
 # Partie législative
 
@@ -236,30 +236,32 @@ d'emploi des ressources collectées auprès du public, dans le cadre de campagne
 organismes visés à l'article 3 de la loi n° 91-772 du 7 août 1991 relative au congé de représentation en faveur des
 associations et des mutuelles et au contrôle des comptes des organismes faisant appel à la générosité publique, afin de
 vérifier la conformité des dépenses engagées par ces organismes aux objectifs poursuivis par l'appel à la générosité
-publique.
+publique. 
 
 Ce contrôle peut comporter des vérifications auprès d'autres organismes qui reçoivent des organismes mentionnés au premier
-alinéa, sous quelque forme que ce soit, des ressources collectées dans le cadre de ces campagnes.
+alinéa, sous quelque forme que ce soit, des ressources collectées dans le cadre de ces campagnes. 
 
-La Cour des comptes peut contrôler, dans des conditions prévues par un décret en Conseil d'Etat, la conformité entre les
-objectifs des organismes visés à l'article 4-1 de la loi n° 87-571 du 23 juillet 1987 sur le développement du mécénat et les
-dépenses financées par les dons ouvrant droit, au bénéfice des donateurs, à un avantage fiscal au titre de l'impôt sur le
-revenu ou de l'impôt sur les sociétés.
+La Cour des comptes peut contrôler, dans des conditions fixées par un décret en Conseil d'Etat, la conformité entre les
+objectifs des organismes bénéficiant de dons ouvrant droit à un avantage fiscal et les dépenses financées par ces dons,
+lorsque le montant annuel de ceux-ci excède un seuil fixé par un décret en Conseil d'Etat. 
+
+Lorsque la Cour des comptes atteste, à l'issue du contrôle d'un organisme visé au présent article, de la non-conformité des
+dépenses engagées aux objectifs poursuivis par l'appel à la générosité publique ou de la non-conformité des dépenses
+financées par les dons ouvrant droit à un avantage fiscal aux objectifs de l'organisme, elle assortit son rapport d'une
+déclaration explicite en ce sens. Cette déclaration est transmise au ministre chargé du budget et aux présidents des
+commissions des finances de l'Assemblée nationale et du Sénat. Elle est rendue publique. 
+
+Les formes que prend la déclaration visée à l'alinéa précédent et les conditions de sa publicité sont précisées par décret.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°87-571 du 23 juillet 1987 - art. 4-1 (M)
-	  - Loi n°91-772 1991-08-07 art. 3
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°91-772 du 7 août 1991 - art. 3 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2003-709 du 1 août 2003 - art. 15 () JORF 2 août 2003
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 20
 
 	**Cité par**:
 
@@ -5058,7 +5060,7 @@ par la délibération d'ouverture de l'autorisation de programme ou d'engagement
 Les crédits correspondants, visés aux alinéas ci-dessus, sont inscrits au budget lors de son adoption. Le comptable est en
 droit de payer les mandats et recouvrer les titres de recettes émis dans les conditions ci-dessus. 
 
-Le présent article s'applique aux régions, sous réserve des dispositions du dernier alinéa du I de l'article L. 4311-3.
+Le présent article s'applique aux régions, sous réserve des dispositions de l'article L. 4312-6.
 
 Art.L. 1612-2.-Si le budget n'est pas adopté avant le 31 mars de l'exercice auquel il s'applique, ou avant le 15 avril de
 l'année du renouvellement des organes délibérants, le représentant de l'Etat dans le département saisit sans délai la chambre
@@ -5275,7 +5277,7 @@ aux établissements publics régionaux et interrégionaux.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1027 du 26 août 2005 - art. 2
+	  - Ordonnance n°2009-1400 du 17 novembre 2009 - art. 3
 
 	**Cité par**:
 

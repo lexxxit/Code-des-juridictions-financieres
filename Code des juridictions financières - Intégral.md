@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-02-26
 
 # Partie législative
 
@@ -5487,28 +5487,9 @@ du présent code.
 ###### Article L232-5
 
 Les chambres régionales des comptes exercent le contrôle des actes budgétaires et de l'exécution des budgets des
-établissements publics de santé régis par le livre Ier de la sixième partie du code de la santé publique conformément aux
-dispositions de l'article L. 6143-3 de ce code reproduit ci-après : 
-
-" Art.L. 6143-3 : I.-Lorsqu'un établissement public de santé présente une situation de déséquilibre financier répondant à des
-critères définis par décret, le directeur de l'agence régionale de l'hospitalisation demande au conseil d'administration de
-présenter un plan de redressement. Les modalités de retour à l'équilibre prévues par ce plan donnent lieu à la signature d'un
-avenant au contrat pluriannuel d'objectifs et de moyens prévu à l'article L. 6114-1.
-
-A défaut d'adoption par le conseil d'administration d'un plan de redressement adapté à la situation ou en cas de refus de
-l'établissement de signer l'avenant susmentionné, le directeur de l'agence régionale de l'hospitalisation prend les mesures
-appropriées en application de l'article L. 6145-1 et des II et III de l'article L. 6145-4. 
-
-II.-Si la dégradation financière répond à des critères définis par décret, le directeur de l'agence régionale de
-l'hospitalisation saisit la chambre régionale des comptes. Dans le délai de deux mois suivant sa saisine, celle-ci évalue la
-situation financière de l'établissement et propose, le cas échéant, des mesures de redressement. Le directeur de l'agence
-régionale de l'hospitalisation met en demeure l'établissement de prendre les mesures de redressement appropriées".
+établissements publics de santé conformément à l'article L. 6143-3-1 du code de la santé publique.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
 
 	**Cité par**:
 
@@ -5528,51 +5509,11 @@ régionale de l'hospitalisation met en demeure l'établissement de prendre les m
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. L232-29 (T)
-	  - Code des juridictions financières - art. L232-7 (M)
-
-
-###### Article L232-6
-
-Les dispositions de l'article L. 232-5 sont applicables aux syndicats interhospitaliers sous réserve des dispositions des
-articles L. 713-5 à L. 713-7 du code de la santé publique concernant les modalités de création, d'organisation et d'activité
-de ces établissements.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières l232-30 : loi 83-663 1983-07-22, art 15-11, modifié par loi 85-97 1985-01-25, art 9
-	  - Code des juridictions financières l232-8
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Rapport - art. 4 ()
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-177 du 23 février 2010 - art. 6
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. L421-13 (V)
+	  - Ordonnance n°2010-177 du 23 février 2010 - art. 5
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L232-5
-	  - Code de la santé publique
+	  - Code de la santé publique - art. L6143-3-1
 
 
 ##### Section 5 : Des offices publics de l'habitat soumis aux règles applicables aux entreprises de commerce
@@ -5673,47 +5614,14 @@ général des collectivités territoriales.
 
 ###### Article L233-1
 
-Les ordres de réquisition des comptables sont régis par les dispositions des articles L. 1617-2 à L. 1617-4 du code général
-des collectivités territoriales ci-après reproduits : 
-
-Art.L. 1617-2.-Le comptable d'une commune, d'un département ou d'une région ne peut subordonner ses actes de paiement à une
-appréciation de l'opportunité des décisions prises par l'ordonnateur. Il ne peut soumettre les mêmes actes qu'au contrôle de
-légalité qu'impose l'exercice de sa responsabilité personnelle et pécuniaire. Il est tenu de motiver la suspension du
-paiement. 
-
-Art.L. 1617-3.-Lorsque le comptable de la commune, du département ou de la région notifie sa décision de suspendre le
-paiement d'une dépense, le maire, le président du conseil général ou le président du conseil régional peut lui adresser un
-ordre de réquisition. Il s'y conforme aussitôt, sauf en cas d'insuffisance de fonds disponibles, de dépense ordonnancée sur
-des crédits irrégulièrement ouverts ou insuffisants ou sur des crédits autres que ceux sur lesquels elle devrait être
-imputée, d'absence totale de justification du service fait et de défaut de caractère libératoire du règlement ainsi qu'en cas
-d'absence de caractère exécutoire des actes pris selon les cas par les autorités communales, les autorités départementales ou
-les autorités régionales.
-
-L'ordre de réquisition est notifié à la chambre régionale des comptes. 
-
-En cas de réquisition, l'ordonnateur engage sa responsabilité propre. 
-
-La liste des pièces justificatives que le comptable peut exiger avant de procéder au paiement est fixée par décret. 
-
-Art.L. 1617-4-Les dispositions du présent chapitre sont applicables aux établissements publics communaux et intercommunaux,
-aux établissements publics départementaux, aux établissements publics interdépartementaux, aux établissements publics communs
-aux communes et aux départements ainsi qu'aux établissements publics communs à des collectivités locales ou groupements de
-ces collectivités. Toutefois, elles ne sont pas applicables aux établissements publics de santé, sauf disposition
-particulière du code de la santé publique.
+Les ordres de réquisition des comptables sont régis par les articles L. 1617-2 à L. 1617-4 du code général des collectivités
+territoriales.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 15 Loi 82-213 1982-03-02 modifiée, art 55 Loi 72-619 1972-07-05, art 21-3-II, issu de loi 82-213 1982-03-02 modifiée, art 82 Loi 94-504 1994-06-22, art 8-IV, 8-V, 8-VI Modifié par loi 96-142 1996-02-21, art 4-XII
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-406 du 2 mai 2005 - art. 11 () JORF 3 mai 2005
+	  - Ordonnance n°2010-177 du 23 février 2010 - art. 5
 
 	**Cité par**:
 
@@ -5724,46 +5632,30 @@ particulière du code de la santé publique.
 	  - Code des juridictions financières - art. L250-11 (Ab)
 	  - Code des juridictions financières - art. L312-2 (V)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1617-2 (V)
+
 
 ###### Article L233-2
 
-Par dérogation aux dispositions des articles L. 1617-2 et L. 1617-3 du code général des collectivités territoriales, les
-chambres régionales des comptes sont destinataires des ordres de réquisition notifiés au comptable de l'établissement par
-l'ordonnateur d'un établissement public de santé ou d'un syndicat interhospitalier, régis par le livre VII du code de la
-santé publique, conformément aux dispositions de l'article L. 6145-8, deuxième à septième alinéas, de ce code reproduit ci-
-après : 
-
-" Art.L. 6145-8, deuxième à septième alinéas. 
-
-Lorsque le comptable de l'établissement notifie à l'ordonnateur sa décision de suspendre une dépense, celui-ci peut lui
-adresser un ordre de réquisition. Le comptable est tenu de s'y conformer, sauf en cas : 
-
-1° D'insuffisance de fonds disponibles ; 
-
-2° De mauvaise imputation comptable des dépenses ; 
-
-3° D'absence de justification de service fait ou de défaut de caractère libératoire du règlement ; 
-
-4° De dépenses mandatées sur des crédits irrégulièrement ouverts ou insuffisants lorsque ces crédits ont un caractère
-limitatif.
-
-L'ordre de réquisition est porté à la connaissance du conseil d'administration de l'établissement et notifié au trésorier-
-payeur général du département qui le transmet à la chambre régionale des comptes. "
+Les chambres régionales des comptes sont destinataires des ordres de réquisition notifiés au comptable d'un établissement
+public de santé ou d'une structure de coopération sanitaire dotée de la personnalité morale publique par l'ordonnateur,
+conformément au septième alinéa de l'article L. 6145-8 du code de la santé publique.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-406 du 2 mai 2005 - art. 10 () JORF 3 mai 2005
+	  - Ordonnance n°2010-177 du 23 février 2010 - art. 5
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 	**Anciens textes**:
 
 	  - Code des juridictions financières - art. L233-4 (T)
-	  - Code des juridictions financières L233-4 Code de la santé publique L714-15, issu de loi 91-748 1991-07-31, art 8
 
 	**Cité par**:
 
@@ -5771,7 +5663,7 @@ payeur général du département qui le transmet à la chambre régionale des co
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L6145-8 (M)
+	  - Code de la santé publique - art. L6145-8
 
 
 ###### Article L233-3
@@ -5906,8 +5798,7 @@ actionnaires ou garants.
 
 Lorsqu'il s'agit de sociétés d'économie mixte locales mentionnées à l'article L. 1522-6, le représentant de l'Etat et la
 chambre régionale des comptes sont tenus d'informer la société, les conseils d'administration des établissements ou
-groupements actionnaires concernés ainsi que le directeur de l'agence régionale de l'hospitalisation de leurs décisions et
-avis."
+groupements actionnaires concernés ainsi que le directeur général de l'agence régionale de santé de leurs décisions et avis."
 
 **Liens relatifs à cet article**
 
@@ -5917,7 +5808,15 @@ avis."
 
 	**Modifié par**:
 
-	  - Loi n°2004-806 du 9 août 2004 - art. 27
+	  - Ordonnance n°2010-177 du 23 février 2010 - art. 10
+
+	**Transféré par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 14
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L211-14 (VD)
 
 	**Cite**:
 

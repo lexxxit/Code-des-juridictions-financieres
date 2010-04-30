@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2010-03-01
+Version Consolidée au 2010-05-01
 
 # Partie législative
 
@@ -15241,56 +15241,58 @@ impôts, auquel le Conseil des prélèvements obligatoires se substitue, sont pr
 
 ###### Article R111-1
 
-I. - Les établissements publics nationaux dont le jugement des comptes et l'examen de la gestion peuvent être délégués par
+I.-Les établissements publics nationaux dont le jugement des comptes et l'examen de la gestion peuvent être délégués par
 arrêté du premier président de la Cour des comptes dans les conditions fixées au deuxième alinéa de l'article L. 111-9
-appartiennent aux catégories suivantes :
+appartiennent aux catégories suivantes : 
 
 1° Les établissements publics à caractère scientifique, culturel et professionnel mentionnés à l'article L. 711-2 du code de
-l'éducation ;
+l'éducation ; 
 
 2° Les établissements d'enseignement supérieur à caractère administratif placés sous la tutelle du ministre chargé de
-l'enseignement supérieur mentionnés à l'article L. 741-1 du code de l'éducation ;
+l'enseignement supérieur mentionnés à l'article L. 741-1 du code de l'éducation ; 
 
-3° Les écoles d'architecture mentionnées à l'article L. 752-1 du code de l'éducation ;
+3° Les écoles d'architecture mentionnées à l'article L. 752-1 du code de l'éducation ; 
 
 4° Les établissements d'enseignement supérieur agricole et vétérinaire mentionnés à l'article L. 751-1 du code de l'éducation
-et à l'article L. 812-2 du code rural ;
+et à l'article L. 812-2 du code rural ; 
 
-5° Les instituts universitaires de formation des maîtres ;
+5° Les instituts universitaires de formation des maîtres ; 
 
-6° Les centres régionaux des oeuvres universitaires ;
+6° Les centres régionaux des oeuvres universitaires ; 
 
-7° Les centres régionaux d'éducation populaire et de sports ;
+7° Les centres régionaux d'éducation populaire et de sports ; 
 
-8° Les centres régionaux de documentation pédagogique ;
+8° Les centres régionaux de documentation pédagogique ; 
 
 9° Les établissements d'enseignement mentionnés à l'article L. 211-4 et L. 162-3 du code de l'éducation et le lycée Comte de
-Foix, à Andorre, assimilé à cette catégorie ;
+Foix, à Andorre, assimilé à cette catégorie ; 
 
-10° Les établissements créés en application de l'article L. 321-1 du code de l'urbanisme ;
+10° Les établissements créés en application de l'article L. 321-1 du code de l'urbanisme ; 
 
-11° Les chambres de commerce et d'industrie et leurs groupements ;
+11° Les chambres de commerce et d'industrie et leurs groupements ; 
 
-12° Les chambres de métiers et de l'artisanat et leurs groupements ;
+12° Les chambres de métiers et de l'artisanat et leurs groupements ; 
 
-13° Les chambres d'agriculture et leurs groupements.
+13° Les chambres d'agriculture et leurs groupements ; 
 
-II. - La délégation peut être limitée aux établissements d'une même catégorie situés dans une ou plusieurs régions. Elle est
-donnée pour une période minimale de trois ans et maximale de cinq ans.
+14° Les établissements publics de santé. 
 
-III. - En cas de délégation, sont applicables les dispositions du présent code relatives au jugement des comptes et à
-l'examen de la gestion des établissements publics relevant de la compétence directe des chambres régionales des comptes.
+II.-La délégation peut être limitée aux établissements d'une même catégorie situés dans une ou plusieurs régions. Elle est
+donnée pour une période minimale de trois ans et maximale de cinq ans. 
 
-IV. - Les établissements publics nationaux ayant leur siège en Polynésie française dont le jugement des comptes et l'examen
-de la gestion peuvent être délégués par arrêté du premier président de la Cour des comptes dans les conditions fixées au
-troisième alinéa de l'article L. 111-9 appartiennent aux catégories suivantes :
+III.-En cas de délégation, sont applicables les dispositions du présent code relatives au jugement des comptes et à l'examen
+de la gestion des établissements publics relevant de la compétence directe des chambres régionales des comptes. 
+
+IV.-Les établissements publics nationaux ayant leur siège en Polynésie française dont le jugement des comptes et l'examen de
+la gestion peuvent être délégués par arrêté du premier président de la Cour des comptes dans les conditions fixées au
+troisième alinéa de l'article L. 111-9 appartiennent aux catégories suivantes : 
 
 1° Les établissements publics à caractère scientifique, culturel et professionnel mentionnés à l'article L. 711-2 du code de
-l'éducation ;
+l'éducation ; 
 
-2° Les instituts universitaires de formation des maîtres.
+2° Les instituts universitaires de formation des maîtres. 
 
-La délégation est donnée pour une période minimale de trois ans et maximale de cinq ans.
+La délégation est donnée pour une période minimale de trois ans et maximale de cinq ans. 
 
 En cas de délégation, sont applicables les dispositions du présent code et des règlements en vigueur relatives au jugement
 des comptes et à l'examen de la gestion des établissements publics relevant de la compétence directe de la chambre
@@ -15298,28 +15300,25 @@ territoriale des comptes de la Polynésie française.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2010-425 du 29 avril 2010 - art. 9
+
 	**Cite**:
 
-	  - Code des juridictions financières - art. L111-9 (M)
-	  - Code des juridictions financières - art. L211-4 (M)
-	  - Code de l'éducation - art. L711-2 (V)
-	  - Code de l'éducation - art. L741-1 (V)
-	  - Code de l'éducation - art. L751-1 (V)
-	  - Code de l'éducation - art. L752-1 (V)
-	  - Code de l'urbanisme - art. L321-1 (M)
-	  - Code rural L812-2
+	  - Code des juridictions financières - art. L111-9
+	  - Code de l'éducation - art. L711-2
+	  - Code de l'éducation - art. L741-1
+	  - Code de l'éducation - art. L751-1
+	  - Code de l'éducation - art. L752-1
+	  - Code rural - art. L162-3
+	  - Code rural - art. L211-4
+	  - Code rural - art. L812-2
+	  - Code de l'urbanisme - art. L321-1
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R111-2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2000-337 2000-04-14
-
-	**Modifié par**:
-
-	  - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
 
 
 ###### Article R111-2

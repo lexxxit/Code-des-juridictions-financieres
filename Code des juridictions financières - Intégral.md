@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2010-05-01
+Version Consolidée au 2010-05-08
 
 # Partie législative
 
@@ -15254,7 +15254,7 @@ l'enseignement supérieur mentionnés à l'article L. 741-1 du code de l'éducat
 3° Les écoles d'architecture mentionnées à l'article L. 752-1 du code de l'éducation ; 
 
 4° Les établissements d'enseignement supérieur agricole et vétérinaire mentionnés à l'article L. 751-1 du code de l'éducation
-et à l'article L. 812-2 du code rural ; 
+et à l'article L. 812-2 du code rural et de la pêche maritime ; 
 
 5° Les instituts universitaires de formation des maîtres ; 
 
@@ -15302,7 +15302,7 @@ territoriale des comptes de la Polynésie française.
 
 	**Modifié par**:
 
-	  - Décret n°2010-425 du 29 avril 2010 - art. 9
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 

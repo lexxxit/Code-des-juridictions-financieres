@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-05-22
 
 # Partie législative
 
@@ -16790,10 +16790,9 @@ emplois qu'il a occupés et sur sa compétence.
 La commission mentionnée à l'article précédent est présidée par le premier président de la Cour des comptes ou son
 représentant. Elle comprend :
 
-a) Le procureur général près la Cour des comptes ou son représentant, le directeur général de l'administration et de la
-fonction publique ou son représentant, le directeur du personnel et de la modernisation de l'administration du ministère
-chargé des finances ou son représentant, le secrétaire général ou l'un des secrétaires généraux adjoints de la Cour des
-comptes, qui assure par ailleurs le secrétariat de la commission.
+a) Le procureur général près la Cour des comptes ou son représentant, le secrétaire général du Gouvernement ou son
+représentant, le directeur général de l'administration et de la fonction publique ou son représentant, le secrétaire général
+ou l'un des secrétaires généraux adjoints de la Cour des comptes, qui assure par ailleurs le secrétariat de la commission.
 
 b) Un président de chambre, un conseiller maître et un conseiller référendaire à la Cour des comptes, en activité, élus par
 leurs pairs pour une durée de trois ans. Le collège élisant, au scrutin à un tour, le représentant de chaque grade et son
@@ -16803,17 +16802,9 @@ La liste des membres de la commission est publiée au Journal officiel.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°94-877 du 13 octobre 1994 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-337 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-337 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2010-519 du 20 mai 2010 - art. 1
 
 
 ###### Article R*122-4
@@ -21879,25 +21870,26 @@ ou d'une exclusion temporaire de fonctions relevant du troisième groupe des san
 ###### Article R212-45
 
 Les contestations sur la validité des opérations électorales sont portées, dans un délai de cinq jours à compter de la
-proclamation des résultats, devant le ministre chargé des finances, sauf recours devant la juridiction administrative.
+proclamation des résultats, devant le premier président de la Cour des comptes, sauf recours devant la juridiction
+administrative.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°82-970 du 16 novembre 1982 - art. 39 (Ab)
+	  - Décret n°2010-519 du 20 mai 2010 - art. 2
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 88
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R212-47 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R220-7 (V)
 
 
 ###### Article R212-46
@@ -22129,8 +22121,8 @@ moins quatre des membres élus titulaires et, dans ce cas, dans le délai de deu
 
 Le secrétariat permanent du Conseil supérieur des chambres régionales des comptes est assuré par un membre du corps des
 chambres régionales des comptes n'appartenant pas à ce conseil, affecté à ces fonctions avec son accord, par arrêté du
-ministre chargé des finances, sur proposition du conseil supérieur. La durée de cette affectation ne peut excéder cinq ans.
-Il ne peut y être mis fin que sur proposition du conseil supérieur.
+premier président de la Cour des comptes, sur proposition du conseil supérieur. La durée de cette affectation ne peut excéder
+cinq ans. Il ne peut y être mis fin que sur proposition du conseil supérieur.
 
 Le conseil supérieur établit son règlement intérieur, qui détermine notamment les modalités de fixation de l'ordre du jour,
 l'organisation de ses travaux ainsi que les conditions dans lesquelles il prend les décisions et rend les avis prévus par le
@@ -22142,17 +22134,9 @@ secrétaire de ce conseil. Il est signé par le président, contresigné par le 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 49 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 31 ()
+	  - Décret n°2010-519 du 20 mai 2010 - art. 3
 
 
 #### TITRE II : Dispositions statutaires
@@ -22704,21 +22688,13 @@ président de la chambre intéressée et, pour les présidents de chambre, à ce
 régionales des comptes.
 
 La participation d'un membre du corps des chambres régionales des comptes délégué dans les fonctions du ministère public doit
-recueillir l'agrément préalable du ministre chargé des finances.
+recueillir l'agrément préalable du procureur général près la Cour des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°82-970 du 16 novembre 1982 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2010-519 du 20 mai 2010 - art. 4
 
 	**Cité par**:
 
@@ -33846,11 +33822,11 @@ fois sur support papier et sous forme électronique.
 
 ###### Article D320-1
 
-Le comité d'enquête sur le coût et le rendement des services publics est placé auprès du Premier ministre. Il recherche et
-propose les mesures propres à réduire le coût et à améliorer la qualité et le rendement des services des ministères, des
-établissements publics, des collectivités locales et des organismes de toute nature chargés d'assurer un service public. Sa
-compétence s'étend également aux sociétés ou organismes dans lesquels l'Etat possède une participation financière supérieure
-à 20 % du capital social ou qui ont bénéficié de subventions, d'avances ou de garanties du Trésor.
+Le comité d'enquête sur le coût et le rendement des services publics est placé auprès du premier président de la Cour des
+comptes. Il recherche et propose les mesures propres à réduire le coût et à améliorer la qualité et le rendement des services
+des ministères, des établissements publics, des collectivités locales et des organismes de toute nature chargés d'assurer un
+service public. Sa compétence s'étend également aux sociétés ou organismes dans lesquels l'Etat possède une participation
+financière supérieure à 20 % du capital social ou qui ont bénéficié de subventions, d'avances ou de garanties du Trésor.
 
 Le comité procède notamment à des enquêtes périodiques sur les attributions, la structure et les conditions de fonctionnement
 des départements ministériels.
@@ -33860,17 +33836,17 @@ mesures de rationalisation ou projets de réforme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°75-223 du 8 avril 1975 - art. 1 (Ab)
+	  - Décret n°2010-519 du 20 mai 2010 - art. 5
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2017-671 du 28 avril 2017 - art. 180
 
-	**Créé par**:
+	**Cité par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Code des juridictions financières - art. D320-3 (Ab)
 
 
 ###### Article D320-2
@@ -33988,47 +33964,20 @@ Elles possèdent les droits d'investigation les plus larges tant sur pièces que
 
 ###### Article D320-4
 
-Le Premier ministre désigne, parmi les membres du comité central d'enquête, un secrétaire général. Le secrétaire général est
-assisté d'un ou de deux secrétaires généraux adjoints également désignés par arrêté du Premier ministre. Il assure, sous
-l'autorité du premier président de la Cour des comptes, président du comité, le fonctionnement du comité et la direction du
-personnel du secrétariat.
+Le premier président de la Cour des comptes désigne, parmi les membres du comité central d'enquête, un secrétaire général. Le
+secrétaire général est assisté d'un ou de deux secrétaires généraux adjoints également désignés par arrêté du premier
+président de la Cour des comptes. Il assure, sous l'autorité du premier président de la Cour des comptes, président du
+comité, le fonctionnement du comité et la direction du personnel du secrétariat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°75-223 du 8 avril 1975 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article D320-5
-
-Les crédits nécessaires au fonctionnement du comité sont inscrits au budget du Premier ministre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-223 du 8 avril 1975 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2010-519 du 20 mai 2010 - art. 6
 
 	**Abrogé par**:
 
-	  - Décret n°2010-519 du 20 mai 2010 - art. 7
+	  - Décret n°2017-671 du 28 avril 2017 - art. 180
 
 
 ###### Article D320-6
@@ -34264,30 +34213,34 @@ préparation de leur rapport.
 
 ###### Article D350-11
 
-Un arrêté conjoint du ministre de l'économie, des finances et de l'industrie et du ministre de la fonction publique détermine
+Un arrêté conjoint du Premier ministre, du ministre chargé du budget et du ministre chargé de la fonction publique détermine
 les montants moyens et maximums des indemnités prévues à l'article D. 350-10, ainsi que les montants des indemnités prévues
 aux articles R. 350-7 (1), D. 350-8 et D. 350-9.
 
 **Nota:**
 
-(1) Lire D. 350-7.
+(1) lire D. 350-7
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2010-519 du 20 mai 2010 - art. 8
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2006-311 du 16 mars 2006 - art. 1 () JORF 18 mars 2006
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 180
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D330-11 (V)
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. D350-10 (V)
-	  - Code des juridictions financières - art. D350-8 (V)
-	  - Code des juridictions financières - art. D350-9 (V)
-	  - Code des juridictions financières D350-10, R350-7, D350-8, D350-9
+	  - Code des juridictions financières - art. D350-10 (T)
+	  - Code des juridictions financières - art. D350-7 (T)
+	  - Code des juridictions financières - art. D350-8 (T)
+	  - Code des juridictions financières - art. D350-9 (T)
 
 
 ###### Article D350-12

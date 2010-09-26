@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2010-07-24
+Version Consolidée au 2010-09-27
 
 # Partie législative
 
@@ -18532,6 +18532,29 @@ contrôle porte sur l'ensemble des comptes et de la gestion.
 	  - Code des juridictions financières L211-4 à L211-6, L262-7 à L262-9
 
 
+###### Article R133-5
+
+Le seuil prévu au troisième alinéa de l'article L. 111-8 est fixé à 153 000 €.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1121 du 23 septembre 2010 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 66
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L111-8
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R143-27 (V)
+
+
 #### CHAPITRE IV : Contrôle de la sécurité sociale
 
 ##### Section 1 : Le contrôle de la Cour des comptes et le comité de pilotage
@@ -19116,27 +19139,30 @@ nationale et du Sénat. Il en assure la publication au Journal officiel.
 
 ###### Article R136-2
 
-Les observations formulées par la Cour des comptes à l'occasion du contrôle des comptes d'emploi des organismes faisant appel
-à la générosité publique peuvent, concurremment ou non, faire l'objet d'une publication propre, ou être insérées dans un
-rapport public. Les projets de publication ou d'insertion sont communiqués par le premier président aux représentants légaux
-des organismes considérés ou, dans le cas où l'organisme a son siège à l'étranger, au représentant en France de cet
-organisme. Ces derniers adressent leurs réponses à la Cour dans un délai d'un mois, sauf prorogation accordée par le premier
-président sur demande écrite et motivée de délai supplémentaire par le représentant intéressé. Ces réponses sont annexées aux
-observations publiées par la Cour.
+Les observations formulées par la Cour des comptes à l'occasion des contrôles prévus à l'article L. 111-8 peuvent,
+concurremment ou non, faire l'objet d'une publication propre, ou être insérées dans un rapport public. Les projets de
+publication ou d'insertion sont communiqués par le premier président aux représentants légaux des organismes considérés ou,
+dans le cas où l'organisme a son siège à l'étranger, au représentant en France de cet organisme. Ces derniers adressent leurs
+réponses à la Cour dans un délai d'un mois, sauf prorogation accordée par le premier président sur demande écrite et motivée
+de délai supplémentaire par le représentant intéressé. Ces réponses sont annexées aux observations publiées par la Cour.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-199 du 11 février 1985 - art. 52-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
 	**Modifié par**:
 
-	  - Décret n°2007-1298 du 31 août 2007 - art. 6 () JORF 2 septembre 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2010-1121 du 23 septembre 2010 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 24
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L111-8
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R143-6 (M)
 
 
 ###### Article R136-3
@@ -20009,76 +20035,132 @@ modalités et un barème fixés par arrêté du premier président.
 	  - Code des juridictions financières - art. R142-14 (T)
 
 
-#### CHAPITRE II : Règles particulières concernant le contrôle des comptes d'emploi des organismes faisant appel à la générosité publique
+#### CHAPITRE II : Règles particulières concernant les contrôles prévus à l'article L. 111-8
 
-###### Article R142-1
+###### Article D142-5
 
-Le contrôle par la Cour des comptes du compte d'emploi annuel des ressources collectées auprès du public par un organisme
-faisant appel à la générosité publique dans les conditions prévues à l'article 3 de la loi du 7 août 1991 visée à l'article
-L. 111-8 est décidé, après avis du procureur général, par le premier président, sur proposition du président de la chambre
-ou, le cas échéant, du président de la section compétente. Cette décision précise la période sur laquelle portera le contrôle
-des comptes d'emploi et désigne le ou les rapporteurs chargés de l'enquête. Elle est notifiée au représentant légal de
-l'organisme concerné ou, si cet organisme a son siège à l'étranger, au représentant mentionné au troisième alinéa du I de
-l'article 1er du décret n° 92-1011 du 17 septembre 1992 relatif au contrôle des organismes faisant appel à la générosité
-publique.
+La déclaration mentionnée au quatrième alinéa de l'article L. 111-8 est délibérée par la chambre compétente de la Cour des
+comptes ou, le cas échéant, par la section compétente. Elle précise la raison sociale de l'organisme et la période contrôlée.
+Elle comporte une brève synthèse du rapport et indique expressément que les dépenses engagées ne sont pas conformes aux
+objectifs poursuivis par l'appel à la générosité publique ou que les dépenses financées par les dons ouvrant droit à un
+avantage fiscal ne sont pas conformes aux objectifs de l'organisme. 
+
+Elle est transmise par le premier président aux autorités mentionnées au quatrième alinéa de l'article L. 111-8, ainsi que le
+rapport auquel elle est annexée. 
+
+Elle est alors affichée à la Cour des comptes et mise en ligne sur le site internet des juridictions financières.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Décret n°85-199 du 11 février 1985 - art. 38-5 (Ab)
+	  - Décret n°2010-1122 du 23 septembre 2010 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 34
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D144-5 (T)
 
 	**Cite**:
 
-	  - Décret n°92-1011 1992-09-17 art. 1
-	  - Code des juridictions financières - art. L111-8 (M)
-	  - Loi n°1991-08-07 art. 3
+	  - Code des juridictions financières - art. L111-8
 
-	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+###### Article R142-1
 
-	**Créé par**:
+Les contrôles prévus à l'article L. 111-8 sont décidés, après avis du procureur général, par le premier président, sur
+proposition du président de la chambre compétente. Cette décision précise la période sur laquelle porteront ces contrôles et
+désigne le ou les rapporteurs qui en sont chargés. Elle est notifiée au représentant légal de l'organisme contrôlé ou, si cet
+organisme a son siège à l'étranger, à la personne ayant qualité pour le représenter en France.
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-1121 du 23 septembre 2010 - art. 4
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 34
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. D112-20-1 (Ab)
 	  - Code des juridictions financières - art. D142-2 (M)
 
+	**Cite**:
+
+	  - Code des juridictions financières - art. L111-8
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R144-1, v. 0.1 (Ab)
+
 
 ###### Article R142-3
 
-Pour les besoins de ce contrôle, les agents des services financiers, les commissaires aux comptes, les commissaires aux
+Pour les besoins de ces contrôles, les agents des services financiers, les commissaires aux comptes, les commissaires aux
 apports et les commissaires à la fusion des organismes contrôlés sont déliés du secret professionnel à l'égard des
 magistrats, conseillers maîtres en service extraordinaire et rapporteurs de la Cour des comptes.
 
-Pour les besoins de ce contrôle, les magistrats de la Cour des comptes peuvent également exercer directement le droit de
+Pour les besoins de ces contrôles, les magistrats de la Cour des comptes peuvent également exercer directement le droit de
 communication que les agents des services financiers tiennent de la loi.
-
-Dans le cadre de leur mission de contrôle, les conseillers maîtres en service extraordinaire et les rapporteurs sont tenus de
-respecter l'obligation du secret professionnel des magistrats.
-
-La Cour des comptes prend toutes dispositions pour garantir le secret de ses investigations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-199 du 11 février 1985 - art. 38-7 (Ab)
+	  - Décret n°2010-1121 du 23 septembre 2010 - art. 6
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 34
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. D142-17 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R144-3, v. 0.1 (Ab)
+
+
+###### Article R142-4
+
+Lorsque la Cour des comptes est saisie par le ministre chargé du budget, en application des dispositions du IV de l'article
+1378 octies du code général des impôts, l'avis est rendu par la chambre compétente et transmis au ministre chargé du budget
+par le premier président.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1121 du 23 septembre 2010 - art. 7
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 34
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1378 octies
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. D112-20-1 (Ab)
+	  - Code des juridictions financières - art. D131-32 (T)
+	  - Code des juridictions financières - art. D142-22 (V)
+	  - Code des juridictions financières - art. R131-13 (T)
+	  - Code des juridictions financières - art. R131-41 (T)
+	  - Code des juridictions financières - art. R142-14 (T)
+	  - Code des juridictions financières - art. R231-15 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R144-4, v. 0.1 (T)
 
 
 #### CHAPITRE II :  Dispositions relatives aux activités juridictionnelles
@@ -20087,51 +20169,51 @@ La Cour des comptes prend toutes dispositions pour garantir le secret de ses inv
 
 ###### Article R142-2
 
-Afin d'effectuer le contrôle prévu par l'article L. 111-8, les rapporteurs procèdent à toutes investigations utiles sur
+Afin d'effectuer les contrôles prévus par l'article L. 111-8, les rapporteurs procèdent à toutes investigations utiles sur
 pièces et sur place. Celles-ci comportent, en tant que de besoin, toutes demandes de renseignements, enquêtes ou expertises
-dans les conditions définies ci-après.
+dans les conditions définies ci-après. 
 
 Les dirigeants des organismes faisant l'objet d'un contrôle sont tenus de communiquer aux rapporteurs de la Cour des comptes,
-à leur demande, tous documents utiles au contrôle des comptes d'emploi des ressources collectées auprès du public et de
-fournir tous renseignements relatifs à la collecte et à l'emploi desdites ressources.
+à leur demande, tous documents utiles au contrôle des comptes d'emploi des ressources collectées auprès du public ou à celui
+des dépenses financées par les dons de personnes physiques et morales et de fournir tous renseignements relatifs à la
+collecte et à l'emploi de ces ressources et de ces dons. 
 
 Ces rapporteurs peuvent se rendre dans tous locaux dépendant des organismes faisant l'objet d'un contrôle. Les responsables
 de ces organismes prennent toutes dispositions pour que les rapporteurs aient connaissance des écritures et documents utiles
-au contrôle des comptes d'emploi et, en particulier, des pièces justifiant les opérations de recettes et de dépenses. Les
-rapporteurs se font délivrer copie des pièces qu'ils estiment nécessaires à leur contrôle.
+au contrôle et, en particulier, des pièces justifiant les opérations de recettes et de dépenses. Les rapporteurs se font
+délivrer copie des pièces qu'ils estiment nécessaires à leur contrôle. 
 
 Pour les gestions ou opérations faisant appel à l'informatique, le droit de communication des rapporteurs implique l'accès
 aux logiciels et aux données, ainsi que la faculté d'en demander la transcription par tout traitement approprié dans des
-documents directement utilisables pour le contrôle.
+documents directement utilisables pour le contrôle. 
 
 Les rapporteurs peuvent procéder à toutes vérifications portant sur les fournitures, les matériels, les travaux et les
-constructions inscrits dans les comptes d'emploi des ressources collectées auprès du public.
+constructions inscrits dans les comptes d'emploi des ressources collectées auprès du public ou inclus dans les dépenses
+financées par des dons de personnes physiques et morales. 
 
 Lorsque l'organisme a son siège à l'étranger, les obligations pesant sur les dirigeants ou responsables en vertu du présent
-article s'appliquent au représentant mentionné au troisième alinéa du I de l'article 1er du décret n° 92-1011 du 17 septembre
-1992 relatif au contrôle des organismes faisant appel à la générosité publique.
+article s'appliquent à la personne ayant qualité pour représenter cet organisme en France. 
 
 Dans l'hypothèse où les organismes faisant l'objet du contrôle ne défèrent pas aux demandes des rapporteurs, la Cour en fait
 mention dans ses observations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-199 du 11 février 1985 - art. 38-6 (Ab)
+	  - Décret n°2010-1121 du 23 septembre 2010 - art. 5
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 34
 
 	**Cite**:
 
-	  - Décret n°92-1011 1992-09-17 art. 1
-	  - Code des juridictions financières - art. L111-8 (M)
+	  - Code des juridictions financières - art. L111-8
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Code des juridictions financières - art. R144-2, v. 0.1 (T)
 
 
 #### CHAPITRE III : Voies de recours et révision

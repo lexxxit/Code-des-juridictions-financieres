@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2010-09-27
+Version Consolidée au 2010-11-14
 
 # Partie législative
 
@@ -15311,7 +15311,7 @@ Foix, à Andorre, assimilé à cette catégorie ;
 
 11° Les chambres de commerce et d'industrie et leurs groupements ; 
 
-12° Les chambres de métiers et de l'artisanat et leurs groupements ; 
+12° Les       chambres de métiers et de l'artisanat de région et leurs groupements ; 
 
 13° Les chambres d'agriculture et leurs groupements ; 
 
@@ -15342,7 +15342,7 @@ territoriale des comptes de la Polynésie française.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
 
 	**Cite**:
 

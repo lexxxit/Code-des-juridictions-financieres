@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2010-11-14
+Version Consolidée au 2010-12-09
 
 # Partie législative
 
@@ -7518,37 +7518,7 @@ sont remplacées par les références à la chambre territoriale des comptes.
 
 ##### Sous-section 1 : Dispositions applicables à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon et à leurs établissements publics
 
-###### Article LO253-8
-
-Le contrôle des actes budgétaires et de l'exécution des budgets de la collectivité départementale de Mayotte, de ses
-établissements publics administratifs et des établissements publics locaux d'enseignement en relevant s'exerce dans les
-conditions prévues aux articles LO 6171-9 à LO 6171-27 du code général des collectivités territoriales.
-
-Le présent article est applicable à compter du prochain renouvellement du conseil général.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°2007-223 du 21 février 2007 - art. 11 () JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 4
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L253-14 (M)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. LO6171-27
-	  - Code général des collectivités territoriales - art. LO6171-9
-
+##### Sous-section 1 : Dispositions applicables   à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon et à leurs établissements publics
 
 ###### Article LO253-9
 

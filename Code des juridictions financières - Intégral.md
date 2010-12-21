@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2010-12-09
+Version Consolidée au 2010-12-22
 
 # Partie législative
 
@@ -1796,28 +1796,27 @@ comptes concernés.
 ###### Article LO132-3
 
 Chaque année, la Cour des comptes établit un rapport sur l'application des lois de financement de la sécurité sociale. Ce
-rapport comprend l'avis de la cour sur la cohérence des tableaux d'équilibre relatifs au dernier exercice clos présentés dans
-la partie du projet de loi de financement de la sécurité sociale, comprenant les dispositions relatives au dernier exercice
-clos. Ce rapport présente, en outre, une analyse de l'ensemble des comptes des organismes de sécurité sociale soumis à son
-contrôle et fait une synthèse des rapports et avis émis par les organismes de contrôle placés sous sa surveillance. Ce
-rapport est remis au Parlement et au Gouvernement sitôt son arrêt par la Cour des comptes.
+rapport comprend l'avis de la cour mentionné au 2° du VIII de l'article LO 111-3 du code de la sécurité sociale. Ce rapport
+présente, en outre, une analyse de l'ensemble des comptes des organismes de sécurité sociale soumis à son contrôle et fait
+une synthèse des rapports et avis émis par les organismes de contrôle placés sous sa surveillance. Ce rapport est remis au
+Parlement et au Gouvernement sitôt son arrêt par la Cour des comptes. 
 
 Les réponses faites aux observations de la Cour des comptes sont jointes au rapport.
 
+**Nota:**
+
+Loi organique n° 2010-1380 du 13 novembre 2010, article 5 : Ces dispositions sont applicables à compter de la loi de
+financement de la sécurité sociale pour 2011.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 10 dernier alinéa, issu de Loi 94-637 1994-07-25 art 13
-	  - abrogé par Loi 96-646 1996-07-22, art 2-IV
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°2005-881 du 2 août 2005 - art. 13 () JORF 3 août 2005
+	  - Loi organique n°2010-1380 du 13 novembre 2010 - art. 4
 
 	**Cité par**:
 
@@ -2589,13 +2588,31 @@ Les magistrats, conseillers maîtres en service extraordinaire et rapporteurs de
 commissaires aux comptes, y compris les commissaires aux apports et les commissaires à la fusion, tous renseignements sur les
 sociétés qu'ils contrôlent ; ils peuvent en particulier se faire communiquer les dossiers et documents établis en application
 des dispositions législatives et réglementaires relatives à la profession et au statut des commissaires aux comptes de
-sociétés.
+sociétés. 
+
+Pour l'application de l'article LO 132-2-1 du présent code, les membres et personnels de la Cour des comptes peuvent demander
+aux commissaires aux comptes des organismes et régimes de sécurité sociale visés par l'article L. 114-8 du code de la
+sécurité sociale et de l'organisme visé par l'article L. 135-6 du même code tous renseignements sur les entités dont ces
+derniers assurent la mission de certification des comptes ; ils peuvent en particulier se faire communiquer, pour l'exercice
+comptable sous revue, les dossiers et documents établis en application des dispositions législatives et réglementaires
+relatives à la profession et au statut des commissaires aux comptes. 
+
+Au titre de la mission visée à l'article LO 132-2-1 du présent code, les membres et personnels de la Cour des comptes sont
+habilités à communiquer aux commissaires aux comptes des organismes et régimes de sécurité sociale visés par l'article L.
+114-8 du code de la sécurité sociale tous renseignements sur les opérations effectuées pour le compte de ces derniers par les
+organismes, branches ou activité visés par l'article LO 132-2-1, et sur les vérifications qu'ils ont opérées, en tant qu'ils
+sont utiles à leur mission légale de certification des comptes de l'exercice sous revue et sous réserve des dispositions de
+l'article L. 120-3 du présent code. Ils disposent d'une faculté identique à l'égard des commissaires aux comptes d'autres
+entités dont une partie des opérations est gérée par les organismes, branches ou activité visés par l'article LO 132-2-1 du
+même code. 
+
+Les conditions d'application des deuxième et troisième alinéas sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
+	  - Loi n°2010-1594 du 20 décembre 2010 - art. 46
 
 	**Cité par**:
 
@@ -2604,9 +2621,9 @@ sociétés.
 	  - Code des juridictions financières - art. R137-5 (T)
 	  - Code des juridictions financières - art. R137-6 (T)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code des juridictions financières - art. L140-2 (VT)
+	  - Code des juridictions financières - art. LO132-2-1
 
 
 ###### Article L141-4
@@ -7515,8 +7532,6 @@ sont remplacées par les références à la chambre territoriale des comptes.
 
 
 ##### Section 2 : Contrôle des actes budgétaires et de l'exécution du budget
-
-##### Sous-section 1 : Dispositions applicables à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon et à leurs établissements publics
 
 ##### Sous-section 1 : Dispositions applicables   à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon et à leurs établissements publics
 

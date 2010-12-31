@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2010-12-22
+Version Consolidée au 2011-01-01
 
 # Partie législative
 
@@ -10193,255 +10193,6 @@ toute autre personne nominativement ou explicitement mise en cause.
 
 ##### Section 1 : Des provinces et du territoire
 
-###### Article LO263-1
-
-Le budget de la province prévoit et autorise les recettes et les dépenses de la province pour la période allant du 1er
-janvier au 31 décembre de chaque année.
-
-Il comprend une section de fonctionnement et une section d'investissement.
-
-Le budget de la province est voté en équilibre réel.
-
-Le budget est en équilibre réel lorsque la section de fonctionnement et la section d'investissement sont respectivement
-votées en équilibre, les recettes et les dépenses ayant été évaluées de façon sincère, et lorsque le prélèvement sur les
-recettes de la section de fonctionnement au profit de la section d'investissement, ajouté aux recettes propres de cette
-section, à l'exclusion d'une part, du produit des emprunts, d'autre part, des subventions spécifiques d'équipement et
-éventuellement aux dotations des comptes d'amortissements et de provisions, fournit des ressources suffisantes pour couvrir
-le remboursement en capital des annuités à échoir au cours de l'exercice.
-
-Ne sont obligatoires que les dépenses nécessaires à l'acquittement des dettes exigibles et les dépenses pour lesquelles la
-loi l'a expressément décidé.
-
-Les opérations sont détaillées par nature et par fonction conformément au cadre comptable établi sur la base des principes du
-plan comptable général.
-
-La première délibération budgétaire peut faire l'objet d'une ou plusieurs délibérations modificatives. Celles-ci
-interviennent suivant la procédure retenue pour le vote du budget dans les mêmes formes.
-
-Aucune augmentation de dépenses ou diminution de recettes ne peut être adoptée si elle ne trouve pas sa contrepartie dans les
-recettes prévues ou si elle n'est pas accompagnée d'une proposition d'économie ou de ressources nouvelles de la même
-importance.
-
-**Nota:**
-
-Conformément à l'article 61 de la la loi organique n° 2009-969 du 3 août 2009, les dispositions du 4° de son article 29 sont
-applicables à compter de l'exercice 2011.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°88-1028 1988-11-09, art 38 sauf premier alinéa
-
-	**Codifié par**:
-
-	  - Loi n°94-1132 1994-12-27
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1, 2 jorf 21 mars 1999
-
-	**Abrogé par**:
-
-	  - Loi organique n°2009-969 du 3 août 2009 - art. 29
-
-
-###### Article LO263-2
-
-Le président de l'assemblée de province dépose le projet de budget au plus tard le 15 novembre sur le bureau de l'assemblée.
-
-Si le budget n'est pas exécutoire au 1er janvier de l'exercice auquel il s'applique, le président de l'assemblée de province
-peut mettre en recouvrement les recettes et engager, liquider et mandater par douzièmes les dépenses de la section de
-fonctionnement dans la limite de celles inscrites au budget de l'année précédente.
-
-Il est en droit de mandater les dépenses afférentes au remboursement en capital des annuités de la dette venant à échéance
-avant le vote du budget.
-
-Si le budget n'est pas voté avant le 31 mars, il est arrêté par le haut-commissaire après avis de la chambre territoriale des
-comptes, sur la base des recettes de l'exercice précédent.
-
-La décision doit être motivée si elle s'écarte des propositions de la chambre territoriale des comptes.
-
-**Nota:**
-
-Conformément à l'article 61 de la la loi organique n° 2009-969 du 3 août 2009, les dispositions du 4° de son article 29 sont
-applicables à compter de l'exercice 2011.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°88-1028 du 9 novembre 1988 - art. 39 (M)
-
-	**Codifié par**:
-
-	  - Loi n°94-1132 1994-12-27
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1, 3 jorf 21 mars 1999
-
-	**Abrogé par**:
-
-	  - Loi organique n°2009-969 du 3 août 2009 - art. 29
-
-
-###### Article LO263-3
-
-Le budget du territoire est voté en équilibre réel dans les formes et conditions prévues à l'article L.O. 263-1.
-
-Le gouvernement dépose le projet de budget du territoire sur le bureau du congrès, au plus tard le 15 novembre.
-
-Si le budget n'est pas exécutoire avant le 1er janvier de l'exercice auquel il s'applique, le président du gouvernement peut
-mettre en recouvrement les recettes et engager,liquider et mandater par douzièmes les dépenses de la section de
-fonctionnement dans la limite de celles inscrites au budget de l'année précédente. Il est en droit de mandater les dépenses
-afférentes au remboursement en capital des annuités de la dette venant à échéance avant le vote du budget.
-
-Si le congrès n'a pas voté le budget avant le 31 mars et sous réserve des dispositions de l'article L.O. 263-4, le haut-
-commissaire, après avis de la chambre territoriale des comptes et du gouvernement établit sur la base des recettes de
-l'exercice précédent un budget pour l'année en cours.
-
-La décision doit être motivée si elle s'écarte de l'un au moins de ces avis.
-
-**Nota:**
-
-Conformément à l'article 61 de la la loi organique n° 2009-969 du 3 août 2009, les dispositions du 4° de son article 29 sont
-applicables à compter de l'exercice 2011.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°88-1028 du 9 novembre 1988 - art. 58 (M)
-
-	**Codifié par**:
-
-	  - Loi n°94-1132 1994-12-27
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 4 jorf 21 mars 1999
-
-	**Abrogé par**:
-
-	  - Loi organique n°2009-969 du 3 août 2009 - art. 29
-
-
-###### Article LO263-4
-
-Lorsque le budget du territoire ou d'une province n'est pas voté en équilibre réel, la chambre territoriale des comptes,
-saisie par le haut-commissaire dans le délai de trente jours à compter de la transmission qui lui est faite de la
-délibération du congrès ou de l'assemblée de province, le constate et propose au congrès ou à l'assemblée de province, dans
-le délai de trente jours à compter de sa saisine, les mesures budgétaires nécessaires au rétablissement de l'équilibre. La
-chambre territoriale des comptes demande au congrès ou à l'assemblée de province une nouvelle délibération.
-
-La nouvelle délibération rectifiant le budget initial doit intervenir dans le délai d'un mois à compter de la communication
-des propositions de la chambre territoriale des comptes.
-
-Si le congrès ou l'assemblée de province n'a pas délibéré dans le délai prescrit ou si la délibération prise ne comporte pas
-de mesures de redressement jugées suffisantes par la chambre territoriale des comptes, qui se prononce sur ce point dans le
-délai de quinze jours à compter de la nouvelle délibération, le budget est réglé et rendu exécutoire par le haut-commissaire.
-
-Si celui-ci s'écarte des propositions formulées par la chambre territoriale des comptes, il doit motiver sa décision.
-
-**Nota:**
-
-Conformément à l'article 61 de la la loi organique n° 2009-969 du 3 août 2009, les dispositions du 4° de son article 29 sont
-applicables à compter de l'exercice 2011.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°88-1028 du 9 novembre 1988 - art. 70 (M)
-
-	**Codifié par**:
-
-	  - Loi n°94-1132 1994-12-27
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
-
-	**Abrogé par**:
-
-	  - Loi organique n°2009-969 du 3 août 2009 - art. 29
-
-
-###### Article LO263-5
-
-Si une dépense obligatoire a été omise ou si le crédit correspondant à cette dépense a été insuffisamment doté au budget du
-territoire ou d'une province, le haut-commissaire demande une seconde lecture à l'assemblée intéressée. Si, dans les quinze
-jours de la demande de la seconde lecture, cette assemblée n'a pas rétabli les inscriptions de crédits nécessaires, le haut-
-commissaire saisit la chambre territoriale des comptes.
-
-Si la chambre territoriale des comptes constate dans le mois de sa saisine que la dépense obligatoire n'a pas été inscrite au
-budget du territoire ou d'une province ou l'a été pour un montant insuffisant, le haut-commissaire procède à l'inscription
-d'office des crédits nécessaires selon les propositions de la chambre territoriale des comptes, soit par prélèvement sur le
-crédit ouvert pour les dépenses diverses et imprévues, soit par réduction de dépenses facultatives, soit par majoration de
-taxes, soit par imputation respectivement sur les fonds territoriaux ou provinciaux.
-
-A défaut de mandatement d'une dépense obligatoire par le président d'une assemblée de province dans le mois suivant la mise
-en demeure qui lui a été faite par le haut-commissaire, celui-ci y procède d'office.
-
-**Nota:**
-
-Conformément à l'article 61 de la la loi organique n° 2009-969 du 3 août 2009, les dispositions du 4° de son article 29 sont
-applicables à compter de l'exercice 2011.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°88-1028 du 9 novembre 1988 - art. 71 (M)
-
-	**Codifié par**:
-
-	  - Loi n°94-1132 1994-12-27
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
-
-	**Abrogé par**:
-
-	  - Loi organique n°2009-969 du 3 août 2009 - art. 29
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R262-18 (V)
-
-
-###### Article LO263-6
-
-Les établissements publics à caractère administratif du territoire et des provinces ainsi que les établissements publics
-interprovinciaux sont soumis au contrôle budgétaire prévu pour le territoire et les provinces par les articles L.O. 263-4 et
-L.O. 263-5.
-
-**Nota:**
-
-Conformément à l'article 61 de la la loi organique n° 2009-969 du 3 août 2009, les dispositions du 4° de son article 29 sont
-applicables à compter de l'exercice 2011.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°90-1247 1990-12-29, art 31
-
-	**Codifié par**:
-
-	  - Loi n°94-1132 1994-12-27
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
-
-	**Abrogé par**:
-
-	  - Loi organique n°2009-969 du 3 août 2009 - art. 29
-
-
 ###### Article LO263-7
 
 Lorsqu'elle est saisie en application des articles 84-1, 183-1, 208-2 et 208-3 de la loi organique n° 99-209 du 19 mars 1999
@@ -15294,9 +15045,9 @@ Foix, à Andorre, assimilé à cette catégorie ;
 
 10° Les établissements créés en application de l'article L. 321-1 du code de l'urbanisme ; 
 
-11° Les chambres de commerce et d'industrie et leurs groupements ; 
+11° Les chambres de commerce et d'industrie territoriales et leurs groupements ; 
 
-12° Les       chambres de métiers et de l'artisanat de région et leurs groupements ; 
+12° Les chambres de métiers et de l'artisanat de région et leurs groupements ; 
 
 13° Les chambres d'agriculture et leurs groupements ; 
 
@@ -15327,17 +15078,17 @@ territoriale des comptes de la Polynésie française.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. L111-9
+	  - Code de l'éducation - art. L211-4 (V)
 	  - Code de l'éducation - art. L711-2
 	  - Code de l'éducation - art. L741-1
 	  - Code de l'éducation - art. L751-1
 	  - Code de l'éducation - art. L752-1
 	  - Code rural - art. L162-3
-	  - Code rural - art. L211-4
 	  - Code rural - art. L812-2
 	  - Code de l'urbanisme - art. L321-1
 

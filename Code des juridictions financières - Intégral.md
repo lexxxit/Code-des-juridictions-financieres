@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2011-02-05
+Version Consolidée au 2011-03-31
 
 # Partie législative
 
@@ -385,25 +385,20 @@ fixe, le cas échéant, le montant des recettes ordinaires en deçà duquel le j
 
 Dans les conditions définies au deuxième alinéa, le jugement des comptes et l'examen de la gestion de tout ou partie des
 établissements publics nationaux relevant d'une même catégorie et ayant leur siège en Polynésie française, en Nouvelle-
-Calédonie, à Mayotte, à Saint-Barthélemy, à Saint-Martin ou à Saint-Pierre-et-Miquelon peuvent être délégués aux chambres
-territoriales des comptes de Polynésie française, de Nouvelle-Calédonie, de Mayotte, de Saint-Barthélemy, de Saint-Martin ou
-de Saint-Pierre-et-Miquelon par arrêté du premier président de la Cour des comptes pris après avis du procureur général près
-la Cour des comptes et du président de la chambre territoriale des comptes.
+Calédonie, à Saint-Barthélemy, à Saint-Martin ou à Saint-Pierre-et-Miquelon peuvent être délégués aux chambres territoriales
+des comptes de Polynésie française, de Nouvelle-Calédonie, de Saint-Barthélemy, de Saint-Martin ou de Saint-Pierre-et-
+Miquelon par arrêté du premier président de la Cour des comptes pris après avis du procureur général près la Cour des comptes
+et du président de la chambre territoriale des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 1er al 7, issu du Loi 76-539 1976-06-22, art 7-I
-	  - Loi n°67-483 du 22 juin 1967 - art. 1, v. init.
-
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 15
 
 	**Cité par**:
 
@@ -3751,6 +3746,42 @@ comptes, qui peut être le même, est fixé par un décret en Conseil d'Etat.
 	  - Code des juridictions financières - art. L256-1 (T)
 
 
+###### Article L212-12-1
+
+I. - Les chambres régionales des comptes de La Réunion et de Mayotte ont le même président, les mêmes assesseurs et le ou les
+mêmes représentants du ministère public. Le siège de chacune des chambres régionales des comptes, qui peut être le même, est
+fixé par un décret en Conseil d'Etat.
+
+II. - Pour l'application à Mayotte de la première partie du livre II du présent code :
+
+1° La référence à la région ou au département est remplacée par la référence au Département de Mayotte ;
+
+2° La référence aux conseils régionaux ou aux conseils généraux est remplacée par la référence au conseil général de
+Mayotte ;
+
+3° La référence au président du conseil régional ou au président du conseil général est remplacée par la référence au
+président du conseil général de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 15
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 15
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L212-12 (VD)
+	  - Code des juridictions financières - art. L212-15 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L212-9 (VD)
+
+
 ###### Article L212-13
 
 Dans les régions d'outre-mer, les effectifs des chambres régionales des comptes peuvent être complétés par des magistrats de
@@ -3805,22 +3836,22 @@ intérim par décision du procureur général qui en tient informé le premier p
 ###### Article L212-15
 
 Lorsque des magistrats sont simultanément affectés dans plusieurs chambres territoriales des comptes ou dans au moins une
-chambre territoriale des comptes et au moins une chambre régionale des comptes mentionnée à l'article L. 212-12 et que leur
-venue à l'audience n'est pas matériellement possible dans les délais prescrits par les dispositions en vigueur ou exigés par
-la nature de l'affaire, le ou les membres concernés peuvent siéger et, le cas échéant, le représentant du ministère public
-prononcer ses conclusions dans une autre chambre dont ils sont membres, reliés en direct à la salle d'audience par un moyen
-de communication audiovisuelle. 
+chambre territoriale des comptes et au moins une chambre régionale des comptes mentionnée aux articles L. 212-12 et L.
+212-12-1 et que leur venue à l'audience n'est pas matériellement possible dans les délais prescrits par les dispositions en
+vigueur ou exigés par la nature de l'affaire, le ou les membres concernés peuvent siéger et, le cas échéant, le représentant
+du ministère public prononcer ses conclusions dans une autre chambre dont ils sont membres, reliés en direct à la salle
+d'audience par un moyen de communication audiovisuelle. 
 
 Le premier alinéa est également applicable si la ou les chambres régionales des comptes et la ou les chambres territoriales
-des comptes ont le même siège en application de l'article L. 212-12 et du dernier alinéa de l'article L. 252-13. Dans cette
-hypothèse, le ou les membres concernés peuvent siéger et, le cas échéant, le représentant du ministère public prononcer ses
-conclusions, reliés en direct à la salle d'audience par un moyen de communication audiovisuelle. 
+des comptes ont le même siège en application des articles L. 212-12 et L. 212-12-1 et du dernier alinéa de l'article L.
+252-13. Dans cette hypothèse, le ou les membres concernés peuvent siéger et, le cas échéant, le représentant du ministère
+public prononcer ses conclusions, reliés en direct à la salle d'audience par un moyen de communication audiovisuelle. 
 
 Lorsque des personnes avisées d'une audience publique, entendues en application de l'article L. 243-6 ou ayant l'obligation
 de répondre à une convocation en application de l'article L. 241-4 ne peuvent matériellement se rendre à l'audience d'une
-chambre régionale des comptes mentionnée à l'article L. 212-12 dans les délais prescrits par les dispositions en vigueur ou
-exigés par la nature de l'affaire, elles peuvent, sur décision du président de la chambre, présenter leurs observations,
-reliées en direct à la salle d'audience par un moyen de communication audiovisuelle. 
+chambre régionale des comptes mentionnée aux articles L. 212-12 et L. 212-12-1 dans les délais prescrits par les dispositions
+en vigueur ou exigés par la nature de l'affaire, elles peuvent, sur décision du président de la chambre, présenter leurs
+observations, reliées en direct à la salle d'audience par un moyen de communication audiovisuelle. 
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
@@ -3828,14 +3859,23 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 
 	**Modifié par**:
 
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 14
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 15
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 15
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. L212-12
-	  - Code des juridictions financières - art. L241-4
-	  - Code des juridictions financières - art. L252-13
+	  - Code des juridictions financières - art. L212-12-1 (VT)
+	  - Code des juridictions financières - art. L241-4 (VD)
+	  - Code des juridictions financières - art. L243-6 (VT)
+	  - Code des juridictions financières - art. L252-13 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L212-12 (VD)
 
 
 ##### Section 2 : Le Conseil supérieur des chambres régionales des comptes
@@ -6842,58 +6882,6 @@ contrôlées ou toute autre personne nominativement ou explicitement mise en cau
 
 #### TITRE V : Dispositions applicables à Mayotte, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon
 
-###### Article L250-1
-
-Les dispositions du présent titre sont applicables aux collectivités d'outre-mer de Mayotte, de Saint-Barthélemy, de Saint-
-Martin et de Saint-Pierre-et-Miquelon ainsi qu'à leurs établissements publics.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 91-755 1991-07-22, art 29 al 1 et 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L111-16 (VD)
-	  - Code des juridictions financières - art. L133-5 (V)
-	  - Code des juridictions financières - art. L252-14 (VD)
-	  - Code des juridictions financières - art. L252-15 (VD)
-	  - Code des juridictions financières - art. L253-22 (VT)
-	  - Code des juridictions financières - art. L253-24 (T)
-	  - Code des juridictions financières - art. L253-26 (T)
-	  - Code des juridictions financières - art. L255-1 (V)
-	  - Code des juridictions financières - art. L255-2 (VD)
-
-
-###### Article L250-2
-
-Le présent titre est applicable aux communes de Mayotte et de Saint-Pierre-et-Miquelon ainsi qu'à leurs établissements
-publics.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 91-755 1991-07-22, art 29 dernier alinéa
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
-
-
 ##### CHAPITRE Ier : Du rapport public de la Cour des comptes
 
 ###### Article L251-1
@@ -6927,18 +6915,23 @@ présent titre.
 
 ###### Article L252-1
 
-Il est institué une chambre territoriale des comptes de Mayotte, une chambre territoriale des comptes de Saint-Barthélemy,
-une chambre territoriale des comptes de Saint-Martin et une chambre territoriale des comptes de Saint-Pierre-et-Miquelon.
+Il est institué        une chambre territoriale des comptes de Saint-Barthélemy, une chambre territoriale des comptes de
+Saint-Martin et une chambre territoriale des comptes de Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 33
 
 	**Cité par**:
 
@@ -7238,9 +7231,6 @@ compétence et de ses établissements publics dans les conditions définies au c
 
 ###### Article L252-13
 
-La chambre territoriale des comptes de Mayotte a le même président, les mêmes assesseurs, le ou les mêmes représentants du
-ministère public près une chambre et le même siège que la chambre régionale des comptes de La Réunion.
-
 La chambre territoriale des comptes de Saint-Pierre-et-Miquelon a le même président, les mêmes assesseurs, le ou les mêmes
 représentants du ministère public près une chambre et le même siège que la chambre régionale des comptes d'Ile-de-France.
 
@@ -7252,13 +7242,21 @@ chambre régionale des comptes de la Guadeloupe.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 15
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 33
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. L212-15 (VD)
 	  - Code des juridictions financières - art. L254-7 (VD)
 	  - Code des juridictions financières - art. L256-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L252-17 (V)
 
 
 ###### Article L252-14
@@ -7692,39 +7690,30 @@ l'instruction de ces affaires, des pouvoirs définis aux articles LO 254-1 et LO
 
 ###### Article L253-13
 
-Le contrôle des actes budgétaires et de l'exécution des budgets des communes des collectivités de Mayotte et de Saint-Pierre-
-et-Miquelon et de leurs établissements publics s'exerce dans les conditions prévues par le chapitre II du titre Ier du livre
-VI de la première partie du code général des collectivités territoriales.
+Le contrôle des actes budgétaires et de l'exécution des budgets des communes de la collectivité de Saint-Pierre-et-Miquelon
+et de ses établissements publics s'exerce dans les conditions prévues par le chapitre II du titre Ier du livre VI de la
+première partie du code général des collectivités territoriales.
 
-Pour l'application des dispositions précitées du code général des collectivités territoriales dans les collectivités de
-Mayotte et de Saint-Pierre-et-Miquelon, la référence au représentant de l'Etat dans le département est remplacée par la
-référence au représentant de l'Etat, et la référence à la chambre régionale des comptes est remplacée par la référence à la
-chambre territoriale des comptes.
-
-Les dispositions du présent article sont applicables aux communes de Mayotte et à leurs établissements publics à compter du
-renouvellement des conseils municipaux en 2008.
+Pour l'application des dispositions précitées du code général des collectivités territoriales dans la collectivité de Saint-
+Pierre-et-Miquelon, la référence au représentant de l'Etat dans le département est remplacée par la référence au représentant
+de l'Etat, et la référence à la chambre régionale des comptes est remplacée par la référence à la chambre territoriale des
+comptes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 15
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. L253-15 (V)
 	  - Code des juridictions financières - art. L254-8 (VD)
 	  - Code des juridictions financières - art. R253-13 (V)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. LO254-1 (V)
-	  - Code des juridictions financières - art. LO254-2 (V)
-	  - Code des juridictions financières LO253-8 à LO253-11, LO254-1, LO254-2
 
 
 ###### Article L253-14
@@ -7827,24 +7816,24 @@ comptes est remplacée par la référence à la chambre territoriale des comptes
 
 ###### Article L253-21
 
-Les ordres de réquisition des comptables des communes des collectivités de Mayotte et de Saint-Pierre-et-Miquelon sont régis
-par les dispositions des articles L. 1617-1 à L. 1617-4 du code général des collectivités territoriales. Pour l'application
-de ces articles, les références à la chambre régionale des comptes sont remplacées par les références à la chambre
-territoriale des comptes.
+Les ordres de réquisition des comptables des communes de la collectivité de Saint-Pierre-et-Miquelon sont régis par les
+dispositions des articles L. 1617-1 à L. 1617-4 du code général des collectivités territoriales. Pour l'application de ces
+articles, les références à la chambre régionale des comptes sont remplacées par les références à la chambre territoriale des
+comptes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 15
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1617-1 (V)
+	  - Code général des collectivités territoriales - art. L1617-1
 
 
 ###### Article LO253-18
@@ -8218,26 +8207,6 @@ comptes et aux chambres territoriales des comptes.
 
 ##### CHAPITRE V : Des comptables des collectivités de Mayotte, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
 
-###### Article L255-1
-
-Le ministre chargé du budget nomme, après que l'exécutif de la collectivité en a été informé, le comptable de la collectivité
-mentionnée à l'article L. 250-1. Celui-ci est un comptable direct du Trésor ayant la qualité de comptable principal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L250-1 (M)
-
-
 ##### CHAPITRE VI : Dispositions diverses
 
 ###### Article L256-1
@@ -8288,6 +8257,83 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 
 	  - Code des juridictions financières - art. L254-7 (V)
 
+
+#### TITRE V : Dispositions applicables   à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon
+
+###### Article L250-1
+
+Les dispositions du présent titre sont applicables aux collectivités d'outre-mer   de Saint-Barthélemy, de Saint-Martin et de
+Saint-Pierre-et-Miquelon ainsi qu'à leurs établissements publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 15
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L111-16 (VD)
+	  - Code des juridictions financières - art. L133-5 (V)
+	  - Code des juridictions financières - art. L252-14 (VD)
+	  - Code des juridictions financières - art. L252-15 (VD)
+	  - Code des juridictions financières - art. L253-22 (VT)
+	  - Code des juridictions financières - art. L253-24 (T)
+	  - Code des juridictions financières - art. L253-26 (T)
+	  - Code des juridictions financières - art. L255-1 (V)
+	  - Code des juridictions financières - art. L255-2 (VD)
+
+
+###### Article L250-2
+
+Le présent titre est applicable aux communes   de Saint-Pierre-et-Miquelon ainsi qu'à leurs établissements publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 15
+
+
+##### CHAPITRE Ier : Du rapport public de la Cour des comptes
+
+##### CHAPITRE II : Des chambres territoriales des comptes
+
+##### CHAPITRE III : Compétences et attributions
+
+##### CHAPITRE IV : Procédure
+
+##### CHAPITRE V : Des comptables des collectivités de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
+
+###### Article L255-1
+
+Le ministre chargé du budget nomme, après que l'exécutif de la collectivité en a été informé, le comptable de la collectivité
+mentionnée à l'article L. 250-1. Celui-ci est un comptable direct du Trésor ayant la qualité de comptable principal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L250-1 (M)
+
+
+##### CHAPITRE VI : Dispositions diverses
 
 #### TITRE VI : Dispositions applicables en Nouvelle-Calédonie
 
@@ -13491,8 +13537,8 @@ h) Le président de la Polynésie française et, quand ils agissent dans le cadr
 organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française, le vice-président et les
 ministres ; 
 
-i) Le président du conseil général de Mayotte et, quand ils agissent dans le cadre des dispositions de l'article LO 6162-9 du
-code général des collectivités territoriales, les vice-présidents et autres membres du conseil général ; 
+i) Le président du conseil général de Mayotte et, quand ils agissent dans le cadre des dispositions des articles L. 3221-3 et
+L. 3221-7 du code général des collectivités territoriales, les vice-présidents et autres membres du conseil général ; 
 
 j) Le président du conseil territorial de Saint-Barthélemy et, quand ils agissent dans le cadre des dispositions de l'article
 LO 6252-3 du même code, les vice-présidents et autres membres du conseil exécutif ; 
@@ -13517,22 +13563,21 @@ en raison de dispositions législatives ou réglementaires, sont l'accessoire ob
 
 	**Cite**:
 
-	  - Loi n°99-209 du 19 mars 1999 (V)
+	  - Loi n°99-209 du 19 mars 1999
 	  - Loi organique n°2004-192 du 27 février 2004 - art. 67
-	  - Code général des collectivités territoriales - art. L2122-17 (V)
-	  - Code général des collectivités territoriales - art. L3221-3 (V)
-	  - Code général des collectivités territoriales - art. L4132-13 (V)
-	  - Code général des collectivités territoriales - art. L4132-21 (V)
-	  - Code général des collectivités territoriales - art. L4132-3 (V)
-	  - Code général des collectivités territoriales - art. L4133-1 (V)
-	  - Code général des collectivités territoriales - art. L4231-1 (V)
-	  - Code général des collectivités territoriales - art. LO6162-9
+	  - Code général des collectivités territoriales - art. L2122-17
+	  - Code général des collectivités territoriales - art. L3221-3
+	  - Code général des collectivités territoriales - art. L4132-13
+	  - Code général des collectivités territoriales - art. L4132-21
+	  - Code général des collectivités territoriales - art. L4132-3
+	  - Code général des collectivités territoriales - art. L4133-1
+	  - Code général des collectivités territoriales - art. L4231-1
 	  - Code général des collectivités territoriales - art. LO6252-3
 	  - Code général des collectivités territoriales - art. LO6462-8
 
 	**Modifié par**:
 
-	  - Loi n°2007-1720 du 7 décembre 2007 - art. 4
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 15
 
 	**Cité par**:
 
@@ -21529,19 +21574,26 @@ désigné dans les mêmes conditions.
 Les conseillers désignés en application des deux précédents alinéas sont délégués à la chambre régionale des comptes par
 ordonnance du premier président de la Cour d'appel prise sur requête du président de la chambre régionale des comptes.
 
+Pour l'application à Mayotte de la première partie du livre II du présent code :
+
+1° La référence à la région, à la région d'outre-mer ou au département est remplacée par la référence au Département de
+Mayotte ;
+
+2° La référence aux conseils régionaux ou aux conseils généraux est remplacée par la référence au conseil général de
+Mayotte ;
+
+3° La référence au président du conseil régional ou au président du conseil général est remplacée par la référence au
+président du conseil général de Mayotte.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 19
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2011-330 du 25 mars 2011 - art. 7
 
 	**Cité par**:
 

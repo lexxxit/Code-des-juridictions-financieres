@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2011-03-31
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -351,25 +351,6 @@ L. 135-3.
 	**Cite**:
 
 	  - Code des juridictions financières - art. L135-3 (V)
-
-
-###### Article L111-8-3
-
-La " Fondation pour les études comparatives " est soumise au contrôle de la Cour des comptes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°2002-282 du 28 février 2002 - art. 7 ()
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 144
 
 
 ###### Article L111-9
@@ -6880,7 +6861,50 @@ contrôlées ou toute autre personne nominativement ou explicitement mise en cau
 
 ### DEUXIEME PARTIE : Les chambres territoriales des comptes
 
-#### TITRE V : Dispositions applicables à Mayotte, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon
+#### TITRE V : Dispositions applicables   à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon
+
+###### Article L250-1
+
+Les dispositions du présent titre sont applicables aux collectivités d'outre-mer   de Saint-Barthélemy, de Saint-Martin et de
+Saint-Pierre-et-Miquelon ainsi qu'à leurs établissements publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 15
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L111-16 (VD)
+	  - Code des juridictions financières - art. L133-5 (V)
+	  - Code des juridictions financières - art. L252-14 (VD)
+	  - Code des juridictions financières - art. L252-15 (VD)
+	  - Code des juridictions financières - art. L253-22 (VT)
+	  - Code des juridictions financières - art. L253-24 (T)
+	  - Code des juridictions financières - art. L253-26 (T)
+	  - Code des juridictions financières - art. L255-1 (V)
+	  - Code des juridictions financières - art. L255-2 (VD)
+
+
+###### Article L250-2
+
+Le présent titre est applicable aux communes   de Saint-Pierre-et-Miquelon ainsi qu'à leurs établissements publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 15
+
 
 ##### CHAPITRE Ier : Du rapport public de la Cour des comptes
 
@@ -8205,7 +8229,27 @@ comptes et aux chambres territoriales des comptes.
 	  - Code des juridictions financières - art. L245-1
 
 
-##### CHAPITRE V : Des comptables des collectivités de Mayotte, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
+##### CHAPITRE V : Des comptables des collectivités de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
+
+###### Article L255-1
+
+Le ministre chargé du budget nomme, après que l'exécutif de la collectivité en a été informé, le comptable de la collectivité
+mentionnée à l'article L. 250-1. Celui-ci est un comptable direct du Trésor ayant la qualité de comptable principal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 1994-12-02
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L250-1 (M)
+
 
 ##### CHAPITRE VI : Dispositions diverses
 
@@ -8257,83 +8301,6 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 
 	  - Code des juridictions financières - art. L254-7 (V)
 
-
-#### TITRE V : Dispositions applicables   à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon
-
-###### Article L250-1
-
-Les dispositions du présent titre sont applicables aux collectivités d'outre-mer   de Saint-Barthélemy, de Saint-Martin et de
-Saint-Pierre-et-Miquelon ainsi qu'à leurs établissements publics.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 du 2 décembre 1994
-
-	**Modifié par**:
-
-	  - Loi n°2010-1487 du 7 décembre 2010 - art. 15
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L111-16 (VD)
-	  - Code des juridictions financières - art. L133-5 (V)
-	  - Code des juridictions financières - art. L252-14 (VD)
-	  - Code des juridictions financières - art. L252-15 (VD)
-	  - Code des juridictions financières - art. L253-22 (VT)
-	  - Code des juridictions financières - art. L253-24 (T)
-	  - Code des juridictions financières - art. L253-26 (T)
-	  - Code des juridictions financières - art. L255-1 (V)
-	  - Code des juridictions financières - art. L255-2 (VD)
-
-
-###### Article L250-2
-
-Le présent titre est applicable aux communes   de Saint-Pierre-et-Miquelon ainsi qu'à leurs établissements publics.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 du 2 décembre 1994
-
-	**Modifié par**:
-
-	  - Loi n°2010-1487 du 7 décembre 2010 - art. 15
-
-
-##### CHAPITRE Ier : Du rapport public de la Cour des comptes
-
-##### CHAPITRE II : Des chambres territoriales des comptes
-
-##### CHAPITRE III : Compétences et attributions
-
-##### CHAPITRE IV : Procédure
-
-##### CHAPITRE V : Des comptables des collectivités de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
-
-###### Article L255-1
-
-Le ministre chargé du budget nomme, après que l'exécutif de la collectivité en a été informé, le comptable de la collectivité
-mentionnée à l'article L. 250-1. Celui-ci est un comptable direct du Trésor ayant la qualité de comptable principal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L250-1 (M)
-
-
-##### CHAPITRE VI : Dispositions diverses
 
 #### TITRE VI : Dispositions applicables en Nouvelle-Calédonie
 

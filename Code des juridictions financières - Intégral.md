@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2011-06-24
+Version Consolidée au 2011-06-30
 
 # Partie législative
 
@@ -20603,73 +20603,71 @@ chambres régionales des comptes, aux magistrats et aux personnels ainsi qu'au f
 
 ###### Article R212-1
 
-Les sièges des chambres régionales des comptes sont fixés comme suit (région et siège de la chambre régionale des comptes) :
+Les sièges des chambres régionales des comptes sont fixés comme suit (région et siège de la chambre régionale des comptes) : 
 
-Alsace (Strasbourg) ;
+Alsace (Strasbourg) ; 
 
-Aquitaine (Bordeaux) ;
+Aquitaine (Bordeaux) ; 
 
-Auvergne (Clermont-Ferrand) ;
+Auvergne (Clermont-Ferrand) ; 
 
-Bourgogne (Dijon) ;
+Bourgogne (Dijon) ; 
 
-Bretagne (Rennes) ;
+Bretagne (Rennes) ; 
 
-Centre (Orléans) ;
+Centre (Orléans) ; 
 
-Champagne-Ardenne (Châlons-en-Champagne) ;
+Champagne-Ardenne (Châlons-en-Champagne) ; 
 
-Corse (Bastia) ;
+Corse (Bastia) ; 
 
-Franche-Comté (Besançon) ;
+Franche-Comté (Besançon) ; 
 
-Guadeloupe (Basse-Terre) ;
+Guadeloupe (Basse-Terre) ; 
 
-Guyane (Cayenne) ;
+Guyane (Cayenne) ; 
 
-Ile-de-France (Marne-la-Vallée) ;
+Ile-de-France (Marne-la-Vallée) ; 
 
-Languedoc-Roussillon (Montpellier) ;
+Languedoc-Roussillon (Montpellier) ; 
 
-Limousin (Limoges) ;
+Limousin (Limoges) ; 
 
 Lorraine (Epinal) ;
 
 Martinique (Fort-de-France) ;
 
-Midi-Pyrénées (Toulouse) ;
+Mayotte (Mamoudzou) ; 
 
-Nord - Pas-de-Calais (Arras) ;
+Midi-Pyrénées (Toulouse) ; 
 
-Basse-Normandie (Caen) ;
+Nord-Pas-de-Calais (Arras) ; 
 
-Haute-Normandie (Rouen) ;
+Basse-Normandie (Caen) ; 
 
-Pays de la Loire (Nantes) ;
+Haute-Normandie (Rouen) ; 
 
-Picardie (Amiens) ;
+Pays de la Loire (Nantes) ; 
 
-Poitou-Charentes (Poitiers) ;
+Picardie (Amiens) ; 
 
-Provence-Alpes-Côte d'Azur (Marseille) ;
+Poitou-Charentes (Poitiers) ; 
 
-Réunion (Saint-Denis) ;
+Provence-Alpes-Côte d'Azur (Marseille) ; 
+
+Réunion (Saint-Denis) ; 
 
 Rhône-Alpes (Lyon).
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°83-370 du 4 mai 1983 - art. 1 (M)
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2011-736 du 27 juin 2011 - art. 1
 
 	**Cité par**:
 
@@ -21694,6 +21692,8 @@ président du conseil général de Mayotte.
 
 
 ##### Sous-section 4 : Fonctionnement des chambres
+
+##### Sous-section 3 : Fonctionnement des chambres
 
 ###### Article R212-30
 
@@ -33643,6 +33643,975 @@ l'établissement public concerné.
 
 	  - Décret n°2009-568 du 20 mai 2009 - art. 2
 
+
+### DEUXIÈME PARTIE : les chambres territoriales des comptes
+
+#### TITRE V : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon
+
+##### CHAPITRE Ier : Du rapport public de la Cour des comptes
+
+###### Article R251-1
+
+L'article R. 241-26 est applicable. Pour son application, les références aux chambres régionales des comptes ou aux chambres
+régionales sont respectivement remplacées par des références aux chambres territoriales des comptes ou aux chambres
+territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R241-26
+
+
+##### CHAPITRE II : Des chambres territoriales des comptes
+
+##### Section 1 : Missions
+
+
+
+
+###### Article R252-1
+
+Les articles R. 211-1, R. 211-2 et R. 211-3 sont applicables. Pour leur application, les références aux chambres régionales
+des comptes ou à la chambre régionale des comptes sont respectivement remplacées par des références aux chambres
+territoriales des comptes ou à la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R211-1
+
+
+##### Section 2 : Organisation
+
+
+
+
+
+
+
+##### Sous-section 1 : Organisation et fonctionnement des chambres territoriales
+
+
+
+###### Article R252-2
+
+Pour leur application dans les chambres territoriales des comptes, les articles R. 212-3 à R. 212-15, les deux premiers
+alinéas de l'article R. 212-16, les articles R. 212-17 à R. 212-19, les articles R. 212-21 à R. 212-33 sont applicables dans
+les conditions suivantes : 
+
+1° Les références aux chambres régionales des comptes ou à la chambre régionale des comptes sont respectivement remplacées
+par des références aux chambres territoriales des comptes ou à la chambre territoriale des comptes ; 
+
+2° Pour l'application de l'article R. 212-16, en cas d'absence ou d'empêchement du ou des procureurs financiers, l'intérim du
+ministère public est exercé dans les conditions prévues à l'article L. 252-17 ; 
+
+3° Pour l'application de l'article R. 212-24, le secrétaire général notifie les jugements et ordonnances rendus par la
+chambre territoriale des comptes dans les conditions prévues au chapitre VI du titre IV. Il délivre et certifie les extraits
+et copies des actes intéressant le fonctionnement de la chambre territoriale des comptes. Il peut déléguer à cet effet sa
+signature ; 
+
+4° Pour l'application de l'article R. 212-27, le président de la chambre nomme le greffier parmi les fonctionnaires affectés
+à la chambre. Il peut confier la fonction de greffier au secrétaire général de la chambre ; 
+
+5° Pour l'application de l'article R. 212-29, la référence aux régions d'outre-mer est remplacée par une référence aux
+collectivités d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 143
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L252-17
+	  - Code des juridictions financières - art. R212-16
+	  - Code des juridictions financières - art. R212-17
+	  - Code des juridictions financières - art. R212-21
+	  - Code des juridictions financières - art. R212-24
+	  - Code des juridictions financières - art. R212-27
+	  - Code des juridictions financières - art. R212-29
+	  - Code des juridictions financières - art. R212-3
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R252-1 (V)
+
+
+##### Sous-section 2 : Liens avec le Conseil supérieur des chambres régionales des comptes
+
+
+
+###### Article R252-3
+
+Les articles R. 212-34 à R. 212-54 sont applicables. Pour leur application, les références aux chambres régionales des
+comptes sont remplacées par des références aux chambres territoriales des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 142
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R212-34
+
+
+##### Section 3 : Dispositions statutaires
+
+
+
+
+###### Article R252-4
+
+Les dispositions réglementaires du titre II de la première partie du livre II sont applicables aux magistrats des chambres
+territoriales de Saint-Martin, Saint-Barthélemy et Saint-Pierre-et-Miquelon. Pour leur application, les références aux
+chambres régionales des comptes ou à la chambre régionale des comptes sont respectivement remplacées par des références aux
+chambres territoriales des comptes ou à la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 143
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R252-2 (V)
+
+
+##### CHAPITRE III : Compétences et attributions
+
+##### Section 1 : Compétences juridictionnelles
+
+
+
+
+##### Sous-section 1 : Jugement des comptes, des comptables publics, des collectivités et des établissements publics
+
+
+
+###### Article R253-1
+
+L'article R. 231-1 est applicable dans les conditions suivantes : 
+
+1° Les références à la chambre régionale des comptes sont remplacées par des références à la chambre territoriale des
+comptes ; 
+
+2° Au dernier alinéa, les mots : " des trésoriers-payeurs généraux et des receveurs particuliers des finances " sont
+remplacés par les mots : " du représentant de la direction générale des finances publiques dans ces collectivités ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R231-1
+
+
+##### Paragraphe 1 : Jugement des comptes des comptables patents
+
+
+
+
+###### Article R253-2
+
+L'article R. 231-2 est applicable. Les références à la chambre régionale des comptes sont remplacées par des références à la
+chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R231-2
+
+
+##### Paragraphe 2 : Jugement et apurement des comptes des comptables de fait
+
+
+
+
+###### Article D253-5
+
+Les articles D. 231-18 à D. 231-31 sont applicables. Pour l'application de ces articles aux chambres territoriales des
+comptes, les références aux trésoriers-payeurs généraux, aux receveurs particuliers des finances et aux receveurs des
+finances sont remplacées par des références aux représentants de la direction générale des finances publiques dans ces
+collectivités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. D231-18
+
+
+###### Article R253-3
+
+L'article R. 231-15 est applicable. Les références à la chambre régionale des comptes sont remplacées par des références à la
+chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R231-15
+
+
+###### Article R253-4
+
+Sur décision de la chambre territoriale des comptes, le ministère public adresse au comptable de fait et à l'ordonnateur de
+la collectivité une demande tendant à ce que l'assemblée délibérante de la collectivité se prononce sur le caractère
+d'utilité publique des dépenses ayant donné lieu à déclaration de gestion de fait, dans les conditions prévues,
+respectivement, aux articles LO 6262-18, LO 6362-18 et LO 6471-21 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6262-18
+	  - Code général des collectivités territoriales - art. LO6362-18
+	  - Code général des collectivités territoriales - art. LO6471-21
+
+
+##### Sous-section 2 : Condamnation des comptables à l'amende
+
+
+
+
+
+
+###### Article R253-6
+
+L'article R. 231-32 est applicable. Pour son application, la référence à la chambre régionale des comptes est remplacée par
+une référence à la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 147
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R231-32
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R253-2 (V)
+
+
+##### Section 2 : Contrôle des actes budgétaires et de l'exécution du budget
+
+
+
+
+##### Sous-section 1 : Dispositions applicables aux collectivités de Saint-Barthélemy, de Saint-Martin, de Saint-Pierre-et-Miquelon et à leurs établissements publics
+
+
+
+
+###### Article R253-7
+
+Le contrôle des actes budgétaires et de l'exécution du budget de la collectivité de Saint-Barthélemy et de ses établissements
+publics, prévu par les articles LO 6262-1 à LO 6262-19 du code général des collectivités territoriales, s'effectue selon les
+modalités fixées par les articles D. 6262-9 à D. 6262-29 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 149
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R253-3 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. D6262-9
+	  - Code général des collectivités territoriales - art. LO6262-1
+
+
+###### Article R253-8
+
+Le contrôle des actes budgétaires et de l'exécution du budget de la collectivité de Saint-Martin et de ses établissements
+publics, prévu par les articles LO 6362-1 à LO 6362-29 du code général des collectivités territoriales, s'effectue selon les
+modalités fixées par les articles D. 6362-1 à D. 6362-29 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 149
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R253-15 (V)
+	  - Code des juridictions financières - art. R253-16 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R253-4 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. D6362-1
+	  - Code général des collectivités territoriales - art. LO6362-1
+
+
+###### Article R253-9
+
+Le contrôle des actes budgétaires et de l'exécution du budget de la collectivité de Saint-Pierre-et-Miquelon et de ses
+établissements publics, prévu par les articles LO 6471-4 à LO 6471-22 du code général des collectivités territoriales,
+s'effectue selon les modalités fixées par les articles R. 1612-16 à R. 1612-38 du même code. Pour l'application de ces
+dispositions à la collectivité de Saint-Pierre-et-Miquelon et à ses établissements publics, les références au représentant de
+l'Etat dans le département et à la chambre régionale des comptes sont respectivement remplacées par des références au
+représentant de l'Etat et à la chambre territoriale des comptes et les références au conseil général ou au conseil régional
+sont remplacées par des références au conseil territorial.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6471-4
+	  - Code général des collectivités territoriales - art. R1612-16
+
+
+###### Article R253-10
+
+Les modalités de la procédure de contrôle des actes budgétaires et de l'exécution du budget de la collectivité de Saint-
+Barthélemy et de ses établissements publics sont fixées par les articles D. 6262-1 à D. 6262-29 du code général des
+collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 149
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R253-6 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. D6262-1
+
+
+###### Article R253-11
+
+Les modalités de la procédure de contrôle des actes budgétaires et de l'exécution du budget de la collectivité de Saint-
+Martin et de ses établissements publics sont fixées par les articles D. 6362-1 à D. 6362-29 du code général des collectivités
+territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 149
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R253-7 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. D6362-1
+
+
+###### Article R253-12
+
+Les modalités de la procédure de contrôle des actes budgétaires et de l'exécution du budget de la collectivité de Saint-
+Pierre-et-Miquelon et de ses établissements publics sont fixées par les articles R. 1612-8 à R. 1612-12, R. 1612-14 et R.
+1612-15 du code général des collectivités territoriales. Pour l'application de ces dispositions à la collectivité de Saint-
+Pierre-et-Miquelon et à ses établissements publics, les références au représentant de l'Etat dans le département et à la
+chambre régionale des comptes sont respectivement remplacées par des références au représentant de l'Etat et à la chambre
+territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 149
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R253-8 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. R1612-14
+	  - Code général des collectivités territoriales - art. R1612-8
+
+
+##### Sous-section 2 : Dispositions applicables aux communes et à leurs établissements publics
+
+
+
+
+
+
+###### Article R253-13
+
+Le contrôle des actes budgétaires et de l'exécution du budget des communes de Saint-Pierre-et-Miquelon et de leurs
+établissements publics, prévu par l'article L. 253-13, est régi par les articles R. 1612-16 à R. 1612-38 du code général des
+collectivités territoriales. Pour l'application de ces dispositions aux communes de Saint-Pierre-et-Miquelon et à leurs
+établissements publics, les références au représentant de l'Etat dans le département et à la chambre régionale des comptes
+sont respectivement remplacées par des références au représentant de l'Etat et à la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 150
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L253-13
+	  - Code général des collectivités territoriales - art. R1612-16
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R253-9 (V)
+
+
+###### Article R253-14
+
+Les modalités de la procédure de contrôle des actes budgétaires et de l'exécution du budget des communes de Saint-Pierre-et-
+Miquelon et de leurs établissements publics sont fixées par les articles R. 1612-8 à R. 1612-12, R. 1612-14 et R. 1612-15 du
+code général des collectivités territoriales. Pour l'application de ces dispositions aux communes de Saint-Pierre-et-Miquelon
+et à leurs établissements publics, les références au représentant de l'Etat dans le département et à la chambre régionale des
+comptes sont respectivement remplacées par des références au représentant de l'Etat et à la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 150
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R253-10 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. R1612-14
+	  - Code général des collectivités territoriales - art. R1612-8
+
+
+##### Sous-section 3 : Dispositions particulières aux syndicats de communes
+
+
+
+
+###### Article R253-15
+
+La chambre territoriale des comptes de Saint-Pierre-et-Miquelon, saisie par le représentant de l'Etat en application de
+l'article L. 253-16, donne un avis sur les modifications susceptibles d'être apportées aux règles fixant les modalités de
+répartition des contributions des communes de Saint-Pierre-et-Miquelon au budget d'un syndicat dont elles sont membres dans
+le cadre réglementaire défini à l'article R. 5212-7 du code général des collectivités territoriales. Pour l'application de
+cet article aux communes de Saint-Pierre-et-Miquelon, la référence à la chambre régionale des comptes est remplacée par une
+référence à la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 151
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L253-16
+	  - Code général des collectivités territoriales - art. R5212-7
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R253-11 (V)
+
+
+##### Sous-section 4 : Dispositions applicables aux établissements publics locaux d'enseignement
+
+
+
+
+###### Article R253-16
+
+Le contrôle des actes budgétaires et de l'exécution des budgets des établissements publics locaux d'enseignement, prévu par
+l'article L. 253-17, s'exerce dans les conditions prévues aux articles R. 421-59 à R. 421-61 du code de l'éducation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 152
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L253-17
+	  - Code de l'éducation - art. R421-59
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R253-12 (V)
+
+
+##### Section 3 : Du contrôle de certaines conventions
+
+
+
+
+###### Article R253-17
+
+Le contrôle des conventions relatives à des délégations de service public, prévu par les articles L. 253-22 et L. 253-23, est
+régi par les dispositions de l'article R. 1411-6 du code général des collectivités territoriales. Pour l'application de ces
+dispositions dans les collectivités de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon : 
+
+1° La référence à la chambre régionale des comptes est remplacée par une référence à la chambre territoriale des comptes ; 
+
+2° Les références aux articles R. 1612-8, R. 1612-12 et R. 1612-13 du code général des collectivités territoriales sont
+remplacées, pour la collectivité de Saint-Barthélemy, par des références aux articles D. 6262-2, D. 6262-6 et D. 6262-7 et,
+pour la collectivité de Saint-Martin, par des références aux articles D. 6362-2, D. 6362-6 et D. 6362-7 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 153
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L253-22
+	  - Code général des collectivités territoriales - art. D6262-2
+	  - Code général des collectivités territoriales - art. D6262-6
+	  - Code général des collectivités territoriales - art. D6362-2
+	  - Code général des collectivités territoriales - art. D6362-6
+	  - Code général des collectivités territoriales - art. R1411-6
+	  - Code général des collectivités territoriales - art. R1612-12
+	  - Code général des collectivités territoriales - art. R1612-8
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R253-13 (V)
+
+
+###### Article R253-18
+
+L'article R. 234-2 est applicable dans les conditions suivantes : 
+
+1° La référence à la chambre régionale des comptes est remplacée par une référence à la chambre territoriale des comptes ; 
+
+2° La référence à l'article L. 234-2 est remplacée, pour les collectivités de Saint-Barthélemy, de Saint-Martin et de Saint-
+Pierre-et-Miquelon et leurs établissements publics, par une référence à l'article L. 253-22 et, pour les communes et leurs
+établissements publics, par une référence à l'article L. 253-23 ; 
+
+3° Les références aux articles R. 1612-8, R. 1612-12 et R. 1612-13 du code général des collectivités territoriales sont
+remplacées, pour la collectivité de Saint-Barthélemy, par des références aux articles D. 6262-2, D. 6262-6 et D. 6262-7 et,
+pour la collectivité de Saint-Martin, par des références aux articles D. 6362-2, D. 6362-6 et D. 6362-7 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 153
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L234-2
+	  - Code des juridictions financières - art. L253-22
+	  - Code des juridictions financières - art. L253-23
+	  - Code des juridictions financières - art. R234-2
+	  - Code général des collectivités territoriales - art. D6262-2
+	  - Code général des collectivités territoriales - art. D6262-6
+	  - Code général des collectivités territoriales - art. D6362-2
+	  - Code général des collectivités territoriales - art. D6362-6
+	  - Code général des collectivités territoriales - art. R1612-12
+	  - Code général des collectivités territoriales - art. R1612-8
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R253-14 (V)
+
+
+##### Section 4 : Contrôle des actes des sociétés d'économie mixte
+
+
+
+
+###### Article R253-19
+
+Le contrôle des actes des sociétés d'économie mixte prévu à l'article L. 253-24 s'exerce dans les conditions définies à
+l'article R. 1524-1 du code général des collectivités territoriales. Pour l'application de ces dispositions, la référence à
+la chambre régionale des comptes est remplacée par une référence à la chambre territoriale des comptes et les mots : " en
+application de l'article L. 1524-2 ” sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 154
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L253-24
+	  - Code général des collectivités territoriales - art. R1524-1
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R253-15 (V)
+
+
+###### Article R253-20
+
+Le contrôle des actes des sociétés d'économie mixte prévu par l'article L. 253-25 est régi par les dispositions de l'article
+R. 1524-1 du code général des collectivités territoriales. Pour l'application de ces dispositions aux communes de Saint-
+Pierre-et-Miquelon et à leurs groupements, la référence à la chambre régionale des comptes est remplacée par une référence à
+la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 154
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L253-25
+	  - Code général des collectivités territoriales - art. R1524-1
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R253-16 (V)
+
+
+##### Chapitre IV : Procédure
+
+
+
+
+##### Section 1 : Dispositions communes aux activités 
+juridictionnelles et administratives
+
+
+
+
+###### Article R254-1
+
+Les articles R. 241-1 à R. 241-31 sont applicables dans les conditions suivantes : 
+
+1° Les références aux chambres régionales ou à la chambre régionale des comptes sont respectivement remplacées par des
+références aux chambres territoriales des comptes ou à la chambre territoriale des comptes ; 
+
+2° Pour l'application de l'article R. 241-3, la référence au département ou à la région est remplacée par une référence à la
+collectivité ; 
+
+3° Pour l'application de l'article R. 241-5, la référence aux communes, départements ou régions est remplacée par une
+référence aux collectivités territoriales ; 
+
+4° Pour l'application de l'article R. 241-21, le premier alinéa est remplacé par les dispositions suivantes : 
+
+" Le rapport d'observations définitives est notifié au représentant légal des organismes financés ou contrôlés par les
+collectivités territoriales ou leurs établissements publics dans les conditions prévues à la première phrase de l'article L.
+133-3, ainsi qu'à celui de leurs filiales mentionnées à l'article L. 133-4. Il est également notifié au représentant légal
+des organismes et de leurs filiales financés ou contrôlés, dans les mêmes conditions, par les établissements publics
+nationaux soumis au contrôle de la chambre territoriale des comptes en application de l'article L. 111-9. ” ; 
+
+5° Pour l'application de l'article R. 241-21-1, le second alinéa est remplacé par les dispositions suivantes : 
+
+" La notification des observations rectifiées se substitue à celle prévue au premier alinéa de l'article R. 241-21. ” ; 
+
+6° Pour l'application de l'article R. 241-23, les mots : " trésorier-payeur général ” sont remplacés par les mots : "
+représentant de la direction générale des finances publiques ” ; 
+
+7° Pour l'application de l'article R. 241-24, les mots : " les missions prévues à l'article 7 du décret n° 82-389 du 10 mai
+1982 relatif aux pouvoirs du préfet et à l'action des services et organismes publics de l'Etat dans les départements et à
+l'article 6 du décret n° 82-390 du 10 mai 1982 notamment relatif aux pouvoirs des préfets de région et à l'action des
+services et organismes publics de l'Etat dans sa région ” sont remplacés par les mots : " les missions énumérées à l'article
+33 du décret n° 2004-374 du 29 avril 2004 relatif aux pouvoirs des préfets, à l'organisation et à l'action des services de
+l'Etat dans les régions et départements ”.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2004-374 du 29 avril 2004 - art. 33
+	  - Code des juridictions financières - art. L111-9
+	  - Code des juridictions financières - art. L133-3
+	  - Code des juridictions financières - art. L133-4
+	  - Code des juridictions financières - art. R241-1
+	  - Code des juridictions financières - art. R241-21
+	  - Code des juridictions financières - art. R241-21-1
+	  - Code des juridictions financières - art. R241-24
+	  - Code des juridictions financières - art. R241-3
+	  - Code des juridictions financières - art. R241-5
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+
+##### Section 2 : Dispositions relatives aux activités juridictionnelles
+
+
+
+
+##### Paragraphe 1 : Dispositions relatives au jugement 
+des comptes des comptables patents
+
+
+
+
+###### Article R254-2
+
+Les articles R. 241-32 à R. 241-43 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R241-32
+
+
+##### Paragraphe 2 : Dispositions relatives au jugement des comptes des comptables de fait
+
+
+
+
+
+
+###### Article R254-3
+
+L'article R. 241-44 est applicable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R241-44
+
+
+##### Section 3 : Voies de recours
+
+
+
+
+###### Article R254-4
+
+Les articles R. 243-1 à R. 243-13 sont applicables dans les conditions suivantes : 
+
+1° Les références aux chambres régionales ou à la chambre régionale des comptes sont respectivement remplacées par des
+références aux chambres territoriales des comptes ou à la chambre territoriale des comptes ; 
+
+2° Pour l'application de l'article R. 243-13, la référence au représentant de l'Etat dans le département est remplacée par
+une référence au représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R243-1
+	  - Code des juridictions financières - art. R243-13
+
+
+##### Section 4 : Apurement administratif et voies de recours
+devant les chambres territoriales des comptes
+
+
+
+
+###### Article D254-5
+
+Les articles D. 244-1 à D. 244-5 sont applicables. Pour leur application : 
+
+1° Les références aux chambres régionales des comptes ou à la chambre régionale des comptes sont respectivement remplacées
+par des références aux chambres territoriales des comptes ou à la chambre territoriale des comptes ; 
+
+2° Les références aux trésoriers-payeurs généraux et aux receveurs particuliers des finances sont remplacées par des
+références aux représentants de la direction générale des finances publiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. D244-1
+
+
+##### Section 5 : Notification des jugements et des ordonnances
+
+
+
+
+###### Article D254-6
+
+Les articles D. 246-1 à D. 246-8 sont applicables dans les conditions suivantes : 
+
+1° Les références aux chambres régionales des comptes ou à la chambre régionale des comptes sont respectivement remplacées
+par des références aux chambres territoriales des comptes ou à la chambre territoriale des comptes ; 
+
+2° La référence au représentant de l'Etat dans le département est remplacée par la référence au représentant de l'Etat ; 
+
+3° La référence au trésorier-payeur général est remplacée par la référence au représentant de la direction générale des
+finances publiques dans ces collectivités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. D246-1
+
+
+##### Chapitre VI : Dispositions diverses
+
+
+
+
+###### Article D256-1
+
+Les articles D. 247-1 et D. 247-2 sont applicables. Pour leur application, les références aux chambres régionales des comptes
+ou à la chambre régionale des comptes sont respectivement remplacées par des références aux chambres territoriales des
+comptes ou à la chambre territoriale des comptes. Pour l'application de ces articles, les références aux trésoriers-payeurs
+généraux, aux receveurs particuliers des finances et aux receveurs des finances sont remplacées par des références aux
+représentants de la direction générale des finances publiques dans ces collectivités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. D247-1
+
+
+#### TITRE VI : Dispositions applicables en Nouvelle-Calédonie
+
+#### TITRE VII : Dispositions applicables en Polynésie française.
 
 ## LIVRE III : Les institutions associées à la Cour des comptes
 

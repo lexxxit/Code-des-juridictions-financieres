@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2011-07-31
+Version Consolidée au 2011-08-04
 
 # Partie législative
 
@@ -11681,8 +11681,7 @@ La chambre territoriale des comptes examine la gestion de la Polynésie françai
 Elle examine en outre celle des établissements, sociétés, groupements et organismes, quel que soit leur statut juridique,
 auxquels la Polynésie française et ses établissements publics apportent un concours financier supérieur à 179 000 F CFP (1
 500 euros) ou dans lesquels ils détiennent, séparément ou ensemble, plus de la moitié du capital ou des voix dans les organes
-délibérants, ou exercent un pouvoir prépondérant de décision ou de gestion, lorsque la vérification lui en est confiée par un
-arrêté du premier président de la Cour des comptes. 
+délibérants, ou exercent un pouvoir prépondérant de décision ou de gestion. 
 
 Elle peut également assurer les vérifications prévues au deuxième alinéa sur demande motivée du haut-commissaire, de
 l'assemblée de la Polynésie française, du gouvernement de la Polynésie française ou de l'établissement public. 
@@ -11711,7 +11710,7 @@ Le deuxième tour de ces élections a eu lieu le 10 février 2008.
 
 	**Modifié par**:
 
-	  - Loi organique n°2007-1719 du 7 décembre 2007 - art. 34
+	  - Loi organique n°2011-918 du 1er août 2011 - art. 47
 
 	**Cité par**:
 

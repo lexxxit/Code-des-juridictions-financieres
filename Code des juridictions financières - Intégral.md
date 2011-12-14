@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2011-08-04
+Version Consolidée au 2011-12-15
 
 # Partie législative
 
@@ -350,21 +350,17 @@ La "Fondation du patrimoine" est soumise au contrôle de la Cour des comptes.
 ###### Article L111-8-2
 
 L'Union d'économie sociale du logement est soumise au contrôle de la Cour des comptes dans les conditions prévues à l'article
-L. 135-3.
+L. 143-3.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 7 ()
-
-	**Anciens textes**:
-
-	  - Loi n°96-1237 du 30 décembre 1996 - art. 7 ()
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
 
 	**Cité par**:
 
@@ -372,7 +368,7 @@ L. 135-3.
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L135-3 (V)
+	  - Code des juridictions financières - art. L143-3
 
 
 ###### Article L111-9
@@ -423,18 +419,18 @@ chambres régionales des comptes ou de celles de deux ou plusieurs chambres rég
 dans l'exercice de leurs missions non juridictionnelles, mener leurs travaux dans les conditions suivantes.
 
 Une formation commune aux juridictions est constituée par arrêté du premier président dans des conditions fixées par voie
-réglementaire. Elle statue sur les orientations de ces travaux. Chaque juridiction conduit les travaux qui lui incombent et
-délibère sur leurs résultats. La formation commune en adopte la synthèse et les suites à lui donner.
+réglementaire. Elle statue sur les orientations de ces travaux, les conduit et délibère sur leurs résultats. Elle en adopte
+la synthèse ainsi que les suites à lui donner.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-647 du 6 juin 2005 - art. 1 () JORF 7 juin 2005
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 40
 
 	**Cité par**:
 
@@ -670,63 +666,66 @@ niveau de recrutement.
 
 ###### Article L112-8
 
-Il est institué un conseil supérieur de la Cour des comptes.
+Il est institué un conseil supérieur de la Cour des comptes. 
 
-Ce conseil comprend :
+Ce conseil comprend : 
 
-1° Le premier président de la Cour des comptes, qui le préside ;
+1° Le premier président de la Cour des comptes, qui le préside ; 
 
-2° Le procureur général près la Cour des comptes ;
+2° Le procureur général près la Cour des comptes ; 
 
 3° Trois personnalités qualifiées dans les domaines soumis au contrôle des juridictions financières qui n'exercent pas de
 mandat électif et sont désignées pour une période de trois ans non renouvelable respectivement par décret du Président de la
-République, par le Président de l'Assemblée nationale et par le Président du Sénat ;
+République, par le Président de l'Assemblée nationale et par le Président du Sénat ; 
 
 4° Quatre magistrats les plus anciens dans leur grade de président de chambre, à l'exclusion des présidents de chambre
 maintenus en activité en application de l'article 1er de la loi n° 86-1304 du 23 décembre 1986 relative à la limite d'âge et
-aux modalités de recrutement de certains fonctionnaires civils de l'Etat ;
+aux modalités de recrutement de certains fonctionnaires civils de l'Etat ; 
 
 5° Neuf membres élus représentant les magistrats de la Cour des comptes, les conseillers maîtres en service extraordinaire et
 les rapporteurs extérieurs. Pour chacun d'eux, il est procédé à l'élection d'un suppléant. Leur mandat est de trois ans, il
-est renouvelable une fois. Les modalités de cette élection sont fixées par décret.
+est renouvelable une fois. Les modalités de cette élection sont fixées par décret. 
 
 Le conseil est consulté par le premier président sur toutes les questions relatives à la compétence, à l'organisation et au
 fonctionnement de la Cour des comptes, sur les modifications des dispositions statutaires applicables aux magistrats, ainsi
 que sur toute question déontologique, d'ordre général ou individuel, relative à l'exercice des fonctions des magistrats, des
-conseillers maîtres en service extraordinaire et des rapporteurs extérieurs.
+conseillers maîtres en service extraordinaire et des rapporteurs extérieurs. 
 
 Le conseil donne un avis sur les mesures individuelles concernant la situation et l'avancement des magistrats de la Cour des
 comptes, à l'exception des propositions de nomination des présidents de chambre. De même, il donne un avis sur les
 propositions de nomination aux emplois de président de chambre régionale des comptes et de vice-président de la chambre
 régionale des comptes d'Ile-de-France, ainsi que sur les propositions de nomination des premiers conseillers et des
-présidents de section de chambre régionale des comptes au grade de conseiller référendaire ou de conseiller maître.
+présidents de section de chambre régionale des comptes au grade de conseiller référendaire ou de conseiller maître. 
 
 Sauf en matière disciplinaire, tous les membres du conseil siègent, quel que soit le niveau hiérarchique des magistrats dont
 le cas est examiné. Toutefois, les représentants des conseillers maîtres en service extraordinaire et des rapporteurs
-extérieurs ne siègent pas lorsque le conseil se réunit pour donner l'avis prévu à l'alinéa précédent.
+extérieurs ne siègent pas lorsque le conseil se réunit pour donner l'avis prévu à l'alinéa précédent. 
 
 Lorsque la situation de l'un des membres élus du conseil supérieur est évoquée à l'occasion de l'examen d'une question
 figurant à l'ordre du jour, le magistrat, le conseiller maître en service extraordinaire ou le rapporteur extérieur en cause
-ne siège pas à la réunion. Il est remplacé par son suppléant.
+ne siège pas à la réunion. Il est remplacé par son suppléant. 
+
+Les membres de la Cour des comptes sont tenus de se conformer, dans l'exercice de leurs attributions, aux normes
+professionnelles fixées par le premier président, après avis du Conseil supérieur de la Cour des comptes.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°86-1304 du 23 décembre 1986 - art. 1 (V)
+	  - Loi n°86-1304 du 23 décembre 1986 - art. 1
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi n°2006-769 du 1 juillet 2006 - art. 2 () JORF 2 juillet 2006
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Cité par**:
 
 	  - Loi n°2006-769 du 1 juillet 2006 - art. 19 (V)
 	  - Code des juridictions financières - art. R112-28 (T)
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 38
 
 
 ##### Section 6 : Magistrats honoraires
@@ -1650,6 +1649,8 @@ Les amendes sont assimilées aux débets des comptables publics en ce qui concer
 
 #### CHAPITRE II : Relations avec le Parlement
 
+#### CHAPITRE II : Relations avec le Parlement et avec le Gouvernement
+
 ###### Article L132-2
 
 La liste des communes ayant bénéficié de subventions exceptionnelles en vertu des dispositions de l'article L. 235-5 du code
@@ -1708,8 +1709,8 @@ l'assurance maladie, quel que soit leur statut public ou privé. Elle en rend co
 ###### Article L132-4
 
 La Cour des comptes procède aux enquêtes qui lui sont demandées par les commissions des finances et par les commissions
-d'enquête du Parlement sur la gestion des services ou organismes soumis à son contrôle, ainsi que des organismes et
-entreprises qu'elle contrôle en vertu des articles L. 133-1 et L. 133-2.
+d'enquête du Parlement sur la gestion des services ou organismes soumis à son contrôle ou à celui des chambres régionales ou
+territoriales des comptes.
 
 **Liens relatifs à cet article**
 
@@ -1718,24 +1719,26 @@ entreprises qu'elle contrôle en vertu des articles L. 133-1 et L. 133-2.
 	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 (V)
 	  - Code des juridictions financières - art. L314-19 (V)
 
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 10 al 3
-	  - Loi n°76-539 1976-06-22, art 7-VI loi 77-807 1977-07-19, art 2
-	  - Loi n°76-539 du 22 juin 1976 - art. 2, v. init.
-
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 42
+
+	**Transféré par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L132-5 (VD)
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L133-1 (V)
-	  - Code des juridictions financières - art. L133-2 (V)
+	  - Code des juridictions financières - art. L133-1
+	  - Code des juridictions financières - art. L133-2
 
 
 ###### Article L132-5
@@ -1780,6 +1783,27 @@ d'assistance de la Cour des comptes statue sur la publication du rapport qui lui
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R143-14 (M)
+
+
+###### Article L132-5-1
+
+Le Premier ministre peut demander à la Cour des comptes la réalisation de toute enquête relative à l'exécution des lois de
+finances, à l'application des lois de financement de la sécurité sociale ainsi que de toute enquête sur la gestion des
+services ou organismes soumis à son contrôle ou à celui des chambres régionales ou territoriales des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 42
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L143-14 (Ab)
 
 
 ###### Article L132-6
@@ -2258,410 +2282,59 @@ Les unions et fédérations desdits organismes sont soumises au même contrôle.
 	  - TXT_ASSOCIE: Décret n°99-1155 du 29 décembre 1999 - art. 9 (Ab)
 
 
-#### CHAPITRE V : Communication des observations
-
-###### Article L135-1
-
-Les observations, les suggestions d'amélioration ou de réforme portant sur la gestion des services, organismes et entreprises
-visés aux articles L. 111-3 à L. 111-7 font l'objet de communications de la Cour des comptes aux ministres et aux autorités
-administratives compétentes dans les conditions fixées par voie réglementaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 12 al 1, modifié par loi 82-594 1982-07-10 art 20
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 du 2 décembre 1994
-
-	**Cité par**:
-
-	  - Loi - art. 45 (Ab)
-	  - Code des juridictions financières - art. R135-1 (T)
-	  - Code des juridictions financières - art. R141-8 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
-
-	**Cite**:
-
-	  - Code des juridictions financières
-
-
-###### Article L135-2
-
-Les observations formulées par la Cour des comptes en application de l'article L. 111-8 sont adressées au président des
-organismes mentionnés audit article, qui est tenu de les communiquer au conseil d'administration et à l'assemblée générale
-lors de la première réunion qui suit.
-
-La Cour des comptes communique, pour information, ses observations définitives aux ministres concernés par les objectifs
-poursuivis par l'appel à la générosité publique ainsi qu'aux présidents de la commission des finances de l'Assemblée
-nationale et du Sénat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi n°95-116 du 4 février 1995 - art. 120 ()
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 44
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L111-8
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L135-5 (T)
-	  - Code des juridictions financières - art. R135-4 (T)
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L143-2 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°91-772 1991-06-22, art 6, modifié par loi 95-116 1995-02-04, art 120
-
-
-###### Article L135-3
-
-A la suite du contrôle d'une entreprise publique visée à l'article L. 133-1, la Cour des comptes adresse aux ministres
-intéressés un rapport particulier dans lequel elle expose ses observations sur les comptes, l'activité, la gestion et les
-résultats de l'entreprise. Elle y exprime notamment son avis sur la qualité de la gestion de celle-ci ainsi que sur la
-régularité et la sincérité des comptes et propose, le cas échéant, les redressements qu'elle estime devoir leur être
-apportés. Elle établit et communique dans les mêmes conditions un rapport particulier à chaque fois qu'elle décide de
-vérifier les comptes et la gestion d'un des organismes ou d'une des entreprises, soumis à son contrôle, qui relèvent de
-l'article L. 133-2.
-
-Ces rapports particuliers sont portés à la connaissance des membres du Parlement désignés pour suivre et apprécier la gestion
-des entreprises nationales et des sociétés d'économies mixte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 12 al 2, modifié par loi 82-594 1982-07-10 art 20
-	  - ordonnance 58-1374 1958-09-30, art 164-IV, dernier alinéa, modifié par loi 76-539 1976-06-22, art 7-XII
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 44
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L111-8-2 (V)
-	  - Code des juridictions financières - art. L135-5 (T)
-	  - Code des juridictions financières - art. R133-3 (Ab)
-	  - Code des juridictions financières - art. R135-1 (T)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L133-1
-	  - Code des juridictions financières - art. L133-2
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L143-3 (VT)
-
-
-###### Article L135-4
-
-Les observations qui font l'objet d'une publication par la Cour des comptes ou d'une communication au Parlement sont arrêtées
-après l'audition, à leur demande, des dirigeants des services ou organismes contrôlés, et de toute autre personne
-nominativement ou explicitement mise en cause.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 9 dernier alinéa, issu de 93-22 1993-01-29 art 80-I
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 44
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L143-4 (V)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R137-3 (T)
-	  - Code des juridictions financières - art. R137-4 (T)
-	  - Code des juridictions financières - art. R141-8 (V)
-
-
-###### Article L135-5
-
-Les communications de la Cour des comptes aux ministres, autres que celles visées aux articles L. 135-2 et L. 135-3, et les
-réponses qui leur sont apportées sont transmises aux commissions des finances et, dans leur domaine de compétence, aux
-commissions chargées des affaires sociales de chacune des assemblées parlementaires à l'expiration d'un délai de réponse de
-deux mois. Elles sont également communiquées, à leur demande, aux commissions d'enquête de chacune des assemblées
-parlementaires. En outre, le premier président communique à ces mêmes destinataires, à leur demande, les autres constatations
-et observations définitives de la Cour des comptes, ainsi que les réponses qui leur ont été apportées.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 (V)
-	  - Code des juridictions financières - art. L314-19 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2008-759 du 1er août 2008 - art. 11
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 44
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L135-2
-	  - Code des juridictions financières - art. L135-3
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L143-5 (V)
-
-
-#### CHAPITRE VI : Rapports publics
-
-###### Article L136-1
-
-La Cour des comptes adresse au Président de la République et présente au Parlement un rapport public annuel et des rapports
-publics thématiques, dans lesquels elle expose ses observations et dégage les enseignements qui peuvent en être tirés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 11 al 1 première phrase
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 du 2 décembre 1994
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-647 du 6 juin 2005 - art. 1 () JORF 7 juin 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 44
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L136-6 (T)
-	  - Code des juridictions financières - art. L143-10-1 (Ab)
-	  - Code des juridictions financières - art. R135-1 (T)
-	  - Code des juridictions financières - art. R271-1 (V)
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L143-6 (VT)
-
-
-###### Article L136-2
-
-Les rapports publics de la Cour des comptes portent à la fois sur les services, organismes et entreprises directement
-contrôlés par elle et sur les collectivités territoriales, établissements, sociétés, groupements et organismes qui relèvent
-de la compétence des chambres régionales et territoriales des comptes en vertu des dispositions du livre II.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 11 al 2, modifié par loi 82-594 1982-07-02 art 19-II
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-647 du 6 juin 2005 - art. 1 () JORF 7 juin 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 44
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L143-7 (VT)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L251-1 (V)
-
-
-###### Article L136-3
-
-La partie du rapport public de la Cour des comptes établie notamment sur la base des observations des chambres régionales des
-comptes et consacrée aux collectivités territoriales est précédée d'observations relatives au fonctionnement, à l'activité,
-aux moyens et aux résultats du contrôle des chambres régionales des comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 88 al 1 et 3, complété par loi 88-13 1988-01-05, art 23-IX
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 du 2 décembre 1994
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-647 du 6 juin 2005 - art. 1 () JORF 7 juin 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 44
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L143-8 (VT)
-
-
-###### Article L136-4
-
-La Cour des comptes informe les communes, les départements et les régions des observations relatives à leur gestion qu'elle
-envisage d'insérer dans les rapports publics et les invite à lui faire part de leurs réponses.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 88 al 2
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 du 2 décembre 1994
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-647 du 6 juin 2005 - art. 1 () JORF 7 juin 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 44
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L143-9 (VT)
-
-
-###### Article L136-5
-
-Les rapports publics de la Cour des comptes, auxquels sont jointes les réponses des ministres et des représentants des
-collectivités territoriales, des établissements, sociétés, groupements et organismes intéressés, sont publiés au Journal
-officiel de la République française. Ces réponses engagent la seule responsabilité de leurs auteurs. Le délai de leur
-transmission à la Cour des comptes et les conditions de leur insertion dans le rapport sont fixés par décret en Conseil
-d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 11 al 1 2nd phrase, modifié par loi 82-594 1982-07-10, art 19-I
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-647 du 6 juin 2005 - art. 1 () JORF 7 juin 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 44
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L143-10 (VT)
-
-
-###### Article L136-6
-
-Le rapport public annuel mentionné à l'article L. 136-1 comporte une présentation des suites données aux observations
-définitives des juridictions financières, établie sur la base de comptes rendus que les destinataires de ces observations ont
-l'obligation de fournir à la Cour des comptes.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2011-900 du 29 juillet 2011 - art. 64
-
-	**Liens**:
-
-	  - RECTIFICATION: Loi n°2011-900 du 29 juillet 2011, v. init.
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 44
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L136-1
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L143-10-1 (Ab)
-
-
 ### TITRE IV : Procédure
 
 #### CHAPITRE Ier : Dispositions communes aux activités juridictionnelles et administratives
+
+#### CHAPITRE Ier :  Règles générales de procédure
 
 ###### Article L141-1
 
 La Cour des comptes est habilitée à se faire communiquer tous documents, de quelque nature que ce soit, relatifs à la gestion
 des services et organismes soumis à son contrôle.
 
-Le fait de faire obstacle, de quelque façon que ce soit, à l'exercice des pouvoirs attribués aux magistrats, conseillers
-maîtres en service extraordinaire et rapporteurs de la Cour des comptes par le présent code est puni de 15 000 euros
-d'amende. Le procureur général près la Cour des comptes peut saisir le parquet près la juridiction compétente en vue de
-déclencher l'action publique.
+Le fait de faire obstacle, de quelque façon que ce soit, à l'exercice des pouvoirs attribués aux membres et personnels de la
+Cour des comptes mentionnés aux sections 1 à 4 du chapitre II du titre Ier du présent livre par le présent code est puni de
+15 000 euros d'amende. Le procureur général près la Cour des comptes peut saisir le parquet près la juridiction compétente en
+vue de déclencher l'action publique.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 43
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 11
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L141-5 (VD)
+
+
+###### Article L141-1 A
+
+Sous réserve des dispositions du présent code, les arrêts, avis, observations et opinions de la Cour des comptes sont
+délibérés et adoptés collégialement, après une procédure contradictoire.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 43
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des juridictions financières - art. L140-1 (VT)
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 11
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L141-1 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L143-11 (Ab)
 
 
 ###### Article L141-2
@@ -2739,49 +2412,65 @@ Les conditions d'application des deuxième et troisième alinéas sont fixées p
 	  - Code des juridictions financières - art. LO132-2-1
 
 
-###### Article L141-4
+###### Article L141-3-1
 
-La Cour des comptes peut recourir, pour des enquêtes de caractère technique, à l'assistance d'experts désignés par son
-premier président. S'il s'agit d'agents publics, elle informe leur chef de service. Les experts remplissent leur mission en
-liaison avec un magistrat, un conseiller maître en service extraordinaire ou un rapporteur, délégué et désigné dans la lettre
-de service du premier président de la Cour des comptes qui précise la mission et les pouvoirs d'investigation de l'expert.
-Celui-ci informe le magistrat, le conseiller maître en service extraordinaire ou le rapporteur du développement de sa
-mission. Les experts sont tenus à l'obligation du secret professionnel.
+Les membres et personnels de la Cour des comptes mentionnés aux sections 1 à 4 du chapitre II du titre Ier du présent livre
+peuvent demander aux autorités administratives indépendantes et aux autorités de contrôle et de régulation tous
+renseignements utiles aux enquêtes qu'ils effectuent dans le cadre de leurs attributions, sans qu'un secret protégé par la
+loi puisse leur être opposé.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 43
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 11
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L141-7 (VD)
+
+
+###### Article L141-4
+
+La Cour des comptes peut recourir, pour des enquêtes de caractère technique, à l'assistance d'experts désignés par son
+premier président. S'il s'agit d'agents publics, elle informe leur chef de service. Les experts ne peuvent être désignés pour
+une mission relative à une affaire dont ils ont eu à connaître, même indirectement, au titre de l'exercice de leurs
+fonctions. Les experts remplissent leur mission en liaison avec l'un des membres et personnels de la Cour des comptes
+mentionnés aux sections 1 à 4 du chapitre II du titre Ier du présent livre, dans des conditions précisées par voie
+réglementaire. 
+
+Les experts sont tenus à l'obligation du secret professionnel.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 43
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. L120-4 (V)
 	  - Code des juridictions financières - art. R112-27-1 (Ab)
 
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. L140-3 (VT)
-
 
 ###### Article L141-5
 
-Les agents des services financiers, ainsi que les commissaires aux comptes des organismes contrôlés, sont déliés du secret
-professionnel à l'égard des magistrats, conseillers maîtres en service extraordinaire et rapporteurs de la Cour des comptes,
-à l'occasion des enquêtes que ceux-ci effectuent dans le cadre de leurs attributions.
+Les agents des services financiers ainsi que les commissaires aux comptes des organismes contrôlés sont déliés du secret
+professionnel à l'égard des membres et personnels de la Cour des comptes mentionnés aux sections 1 à 4 du chapitre II du
+titre Ier du présent livre, à l'occasion des enquêtes que ceux-ci effectuent dans le cadre de leurs attributions. 
 
-Pour les besoins des mêmes enquêtes, les magistrats de la Cour des comptes, conseillers maîtres en service extraordinaire et
-rapporteurs peuvent exercer directement le droit de communication que les agents des services financiers tiennent de la loi.
+Pour les besoins des mêmes enquêtes, les membres et personnels de la Cour des comptes mentionnés aux mêmes sections 1 à 4
+peuvent exercer directement le droit de communication que les agents des services financiers tiennent de la loi.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. L140-4 (VT)
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 43
 
 	**Cité par**:
 
@@ -2791,24 +2480,30 @@ rapporteurs peuvent exercer directement le droit de communication que les agents
 ###### Article L141-6
 
 Pour la vérification des conditions d'exécution des conventions de délégation de service public et passées par les services
-et organismes soumis au contrôle de la Cour des comptes, les magistrats, conseillers maîtres en service extraordinaire et
-rapporteurs de celle-ci peuvent prendre connaissance, auprès des cocontractants de ces services et organismes, des factures,
-livres et registres pouvant se rapporter aux opérations visées par lesdites conventions. Ils peuvent demander par écrit toute
-justification complémentaire et obtenir copie de ceux des documents présentés qu'ils estiment utiles.
+et organismes soumis au contrôle de la Cour des comptes, les membres et personnels de la Cour des comptes mentionnés aux
+sections 1 à 4 du chapitre II du titre Ier du présent livre peuvent prendre connaissance, auprès des cocontractants de ces
+services et organismes, des factures, livres et registres pouvant se rapporter aux opérations visées par lesdites
+conventions. Ils peuvent demander par écrit toute justification complémentaire et obtenir copie de ceux des documents
+présentés qu'ils estiment utiles.
 
-Un avis d'enquête doit être établi préalablement par le premier président de la Cour des comptes.
+Une notification du début de la vérification doit être établie préalablement par le premier président de la Cour des comptes.
 
-Les observations et, le cas échéant, les autres suites définitivement retenues par la Cour sont communiquées à l'intéressé.
+Les observations et, le cas échéant, les autres suites définitivement retenues par la Cour sont communiquées au délégant et
+au délégataire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 43
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des juridictions financières - art. L140-4-1 (VT)
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 11
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L141-11 (VD)
 
 	**Cité par**:
 
@@ -2852,22 +2547,33 @@ La Cour des comptes prend toutes dispositions pour garantir le secret de ses inv
 
 ###### Article L141-8
 
-Pour l'exercice des compétences qui leur sont reconnues par les articles L. 112-5 et L. 112-7, les conseillers maîtres en
-service extraordinaire et les rapporteurs sont tenus de respecter l'obligation du secret professionnel des magistrats.
+Pour l'exercice des compétences qui leur sont reconnues par les articles L. 112-5 et L. 112-7, les membres et personnels de
+la Cour des comptes mentionnés aux sections 1 à 4 du chapitre II du titre Ier du présent livre sont tenus de respecter
+l'obligation du secret professionnel des magistrats.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 43
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 11
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 11
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L112-5
+	  - Code des juridictions financières - art. L112-5 (VT)
+	  - Code des juridictions financières - art. L112-7 (VT)
 
 	**Anciens textes**:
 
-	  - Code des juridictions financières - art. L140-6 (VT)
+	  - Code des juridictions financières - art. L141-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L141-8 (VD)
 
 
 ###### Article L141-9
@@ -2908,9 +2614,6 @@ Les mesures d'instruction, rapports et diverses communications de la Cour des co
 fondement des dispositions du titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des
 relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal.
 
-A ce titre, ne sont notamment pas communicables, au sens de ces dispositions, les rapports de vérification et avis des
-comités régionaux ou départementaux d'examen des comptes des organismes de sécurité sociale mentionnés à l'article L. 134-2.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -2928,7 +2631,7 @@ comités régionaux ou départementaux d'examen des comptes des organismes de s�
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-483 du 29 avril 2009 - art. 15
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 43
 
 
 #### CHAPITRE II : Dispositions relatives aux activités juridictionnelles
@@ -2999,36 +2702,375 @@ faire connaître son avis.
 	  - Loi organique n°2009-1523 du 10 décembre 2009 - art. 2
 
 
+#### CHAPITRE III : Dispositions relatives aux procédures applicables en matière non juridictionnelle
+
+##### Section 1 : Communication des observations
+
+###### Article L143-1
+
+Les observations et recommandations d'amélioration ou de réforme portant sur la gestion des services, organismes et
+entreprises mentionnés aux articles L. 111-3 à L. 111-7 font l'objet de communications de la Cour des comptes aux ministres,
+organismes et entreprises ainsi qu'aux autorités administratives compétentes, dans des conditions fixées par voie
+réglementaire. 
+
+Sous réserve du respect des secrets protégés par la loi, la Cour des comptes peut rendre publiques ces observations et
+recommandations, selon des modalités fixées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L111-3
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L143-0-2 (VD)
+	  - Code des juridictions financières - art. R141-8 (M)
+	  - Code des juridictions financières - art. R143-1 (T)
+	  - Code des juridictions financières - art. R143-13 (V)
+
+
+###### Article L143-2
+
+Les observations formulées par la Cour des comptes en application de l'article L. 111-8 sont adressées au président des
+organismes mentionnés audit article, qui est tenu de les communiquer au conseil d'administration et à l'assemblée générale
+lors de la première réunion qui suit. 
+
+La Cour des comptes communique, pour information, ses observations définitives aux ministres concernés par les objectifs
+poursuivis par l'appel à la générosité publique ainsi qu'aux présidents de la commission des finances de l'Assemblée
+nationale et du Sénat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. D143-29 (V)
+	  - Code des juridictions financières - art. L143-11 (Ab)
+	  - Code des juridictions financières - art. L143-4 (VD)
+	  - Code des juridictions financières - art. L143-5 (VT)
+	  - Code des juridictions financières - art. R143-18 (V)
+	  - Code des juridictions financières - art. R143-4 (M)
+	  - Code général des impôts, CGI. - art. 1378 octies (VD)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L111-8
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L135-2 (T)
+
+
+###### Article L143-3
+
+A la suite du contrôle d'une entreprise publique visée à l'article L. 133-1, la Cour des comptes adresse aux ministres
+intéressés un rapport particulier dans lequel elle expose ses observations sur les comptes, l'activité, la gestion et les
+résultats de l'entreprise. Elle y exprime notamment son avis sur la qualité de la gestion de celle-ci et propose, le cas
+échéant, les redressements qu'elle estime devoir leur être apportés. Elle établit et communique dans les mêmes conditions un
+rapport particulier à chaque fois qu'elle décide de vérifier les comptes et la gestion d'un des organismes ou d'une des
+entreprises, soumis à son contrôle, qui relèvent de l'article L. 133-2.
+
+Ces rapports particuliers sont portés à la connaissance des membres du Parlement désignés pour suivre et apprécier la gestion
+des entreprises nationales et des sociétés d'économies mixte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L111-8-2 (Ab)
+	  - Code des juridictions financières - art. L143-4 (V)
+	  - Code des juridictions financières - art. L143-5 (VT)
+	  - Code des juridictions financières - art. R133-3 (Ab)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L133-1
+	  - Code des juridictions financières - art. L133-2
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L135-3 (T)
+
+
+###### Article L143-4
+
+Les observations qui font l'objet d'une publication par la Cour des comptes ou d'une communication au Parlement sont arrêtées
+après l'audition, à leur demande, des dirigeants des services ou organismes contrôlés, et de toute autre personne
+nominativement ou explicitement mise en cause.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 13
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L135-4 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L143-0-2 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R141-8-1 (T)
+	  - Code des juridictions financières - art. R143-10 (T)
+	  - Code des juridictions financières - art. R143-11 (M)
+	  - Code des juridictions financières - art. R143-13 (V)
+
+
+###### Article L143-5
+
+Les communications de la Cour des comptes aux ministres, autres que celles visées aux articles L. 143-2 et L. 143-3, et les
+réponses qui leur sont apportées sont transmises aux commissions des finances et, dans leur domaine de compétence, aux
+commissions chargées des affaires sociales de chacune des assemblées parlementaires à l'expiration d'un délai de réponse de
+deux mois. Elles sont également communiquées, à leur demande, aux commissions d'enquête de chacune des assemblées
+parlementaires. En outre, le premier président communique à ces mêmes destinataires, à leur demande, les autres constatations
+et observations définitives de la Cour des comptes, ainsi que les réponses qui leur ont été apportées.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 (V)
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L135-5 (T)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L143-2
+
+
+##### Section 2 : Rapports publics de la Cour des comptes
+
+###### Article L143-6
+
+La Cour des comptes adresse au Président de la République et présente au Parlement un rapport public annuel et des rapports
+publics thématiques, dans lesquels elle expose ses observations et dégage les enseignements qui peuvent en être tirés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L136-1 (T)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R112-17-1 (T)
+	  - Code des juridictions financières - art. R112-37 (V)
+	  - Code des juridictions financières - art. R143-11 (V)
+	  - Code des juridictions financières - art. R212-16 (V)
+	  - Code des juridictions financières - art. R241-26 (T)
+	  - Code des juridictions financières - art. R243-19 (V)
+	  - Code des juridictions financières - art. R261-1 (V)
+	  - Code des juridictions financières - art. R262-14 (V)
+	  - Code des juridictions financières - art. R271-1 (V)
+	  - Code des juridictions financières - art. R272-14 (V)
+
+
+###### Article L143-7
+
+Les rapports publics de la Cour des comptes portent à la fois sur les services, organismes et entreprises directement
+contrôlés par elle et sur les collectivités territoriales, établissements, sociétés, groupements et organismes qui relèvent
+de la compétence des chambres régionales et territoriales des comptes en vertu des dispositions du livre II.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L136-2 (T)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L251-1 (M)
+
+
+###### Article L143-8
+
+La partie du rapport public de la Cour des comptes établie notamment sur la base des observations des chambres régionales des
+comptes et consacrée aux collectivités territoriales est précédée d'observations relatives au fonctionnement, à l'activité,
+aux moyens et aux résultats du contrôle des chambres régionales des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L136-3 (T)
+
+
+###### Article L143-9
+
+La Cour des comptes informe les communes, les départements et les régions des observations relatives à leur gestion qu'elle
+envisage d'insérer dans les rapports publics et les invite à lui faire part de leurs réponses.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L136-4 (T)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L243-9 (VD)
+	  - Code des juridictions financières - art. L254-6 (VD)
+	  - Code des juridictions financières - art. L262-72 (VD)
+	  - Code des juridictions financières - art. L272-69 (VD)
+
+
+###### Article L143-10
+
+Les rapports publics de la Cour des comptes, auxquels sont jointes les réponses des ministres et des représentants des
+collectivités territoriales, des établissements, sociétés, groupements et organismes intéressés, sont publiés au Journal
+officiel de la République française. Ces réponses engagent la seule responsabilité de leurs auteurs. Le délai de leur
+transmission à la Cour des comptes et les conditions de leur insertion dans le rapport sont fixés par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 13
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L136-5 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L143-8 (VD)
+
+
+###### Article L143-10-1
+
+Le rapport public annuel mentionné à l'article L. 136-1 comporte une présentation des suites données aux observations
+définitives des juridictions financières, établie sur la base de comptes rendus que les destinataires de ces observations ont
+l'obligation de fournir à la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L136-1
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L136-6 (T)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L243-7 (V)
+	  - Code des juridictions financières - art. L254-4-1 (T)
+	  - Code des juridictions financières - art. L262-50-2 (VT)
+	  - Code des juridictions financières - art. L272-48-2 (VT)
+
+
+##### Section 3 : Dispositions relatives aux procédures spécifiques au contrôle des établissements publics et des organismes bénéficiant de concours financiers publics
+
+###### Article L143-11
+
+Lorsque la Cour des comptes exerce la compétence définie au chapitre III du titre III du livre Ier, elle met en œuvre les
+procédures instituées par les articles L. 141-1 A à L. 141-10 et L. 143-2 à L. 143-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L141-1 A
+	  - Code des juridictions financières - art. L143-2
+
+
+##### Section 7 : Dispositions relatives aux procédures spécifiques à l'assistance au Gouvernement
+
+###### Article L143-14
+
+Les conclusions des enquêtes que la Cour des comptes effectue en application de l'article L. 132-5-1 sont communiquées au
+Premier ministre dans un délai fixé après consultation du premier président de la Cour des comptes. 
+
+Le Premier ministre peut décider de leur publication.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 45
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L132-5-1 (Ab)
+
+
 ## LIVRE II : Les chambres régionales et territoriales des comptes
 
 ### PREMIERE PARTIE : Les chambres régionales des comptes
 
 #### TITRE Ier : Missions et organisation
-
-##### CHAPITRE PRELIMINAIRE
-
-###### Article L210-1
-
-Il est créé dans chaque région une chambre régionale des comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 84 al 1, première phrase
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 du 2 décembre 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 46
-
 
 ##### CHAPITRE Ier : Missions
 
@@ -3065,33 +3107,32 @@ La Cour des comptes statue en appel.
 
 ###### Article L211-2
 
-Sous réserve des dispositions des articles L. 231-7 à L. 231-9, font l'objet d'un apurement administratif par les comptables
-supérieurs du Trésor :
+Font l'objet d'un apurement administratif par les autorités compétentes de l'Etat désignées par arrêté du ministre chargé du
+budget : 
 
-- les comptes des communes dont la population n'excède pas 3 500 habitants et dont le montant des recettes ordinaires
-figurant au dernier compte administratif est inférieur à 750 000 Euros, ainsi que ceux de leurs établissements publics ;
+1° Les comptes des communes dont la population n'excède pas 3 500 habitants pour l'exercice 2012 et 5 000 habitants pour les
+exercices ultérieurs ou dont le montant des recettes ordinaires figurant au dernier compte administratif est inférieur à un
+million d'euros pour l'exercice 2012 et à trois millions d'euros pour les exercices ultérieurs, ainsi que ceux de leurs
+établissements publics ; 
 
-- les comptes des établissements publics de coopération intercommunale regroupant une population inférieure à 3 500
-habitants ;
+2° Les comptes des établissements publics de coopération intercommunale dont la population n'excède pas 5 000 habitants pour
+l'exercice 2012 et 10 000 habitants pour les exercices ultérieurs et dont le montant des recettes ordinaires figurant au
+dernier compte administratif est inférieur à deux millions d'euros pour l'exercice 2012 et à cinq millions d'euros pour les
+exercices ultérieurs ; 
 
-- les comptes des associations syndicales autorisées et des associations de remembrement.
+3° Les comptes des associations syndicales autorisées et des associations de remembrement ; 
 
-A compter de l'exercice 2002, le montant des recettes ordinaires pris en compte pour l'application du présent article est
-réévalué tous les cinq ans en fonction de l'évolution de l'indice des prix à la consommation hors tabac.
+4° Les comptes des établissements publics locaux d'enseignement, à compter de l'exercice 2013, dont le montant des ressources
+de fonctionnement figurant au dernier compte financier est inférieur à trois millions d'euros. 
+
+Le montant des recettes ordinaires pris en compte pour l'application du présent article est réévalué tous les cinq ans, à
+compter de 2013, en fonction de l'évolution de l'indice des prix à la consommation hors tabac.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 2
-
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 37 ()
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Cité par**:
 
@@ -3117,9 +3158,9 @@ réévalué tous les cinq ans en fonction de l'évolution de l'indice des prix �
 	  - Code des juridictions financières - art. L231-7 (V)
 	  - Code rural et de la pêche maritime - art. R811-72 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des juridictions financières L231-7 à L231-9
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 39
 
 
 ###### Article L211-3
@@ -3409,22 +3450,34 @@ Ces dispositions s'appliquent pour le contrôle des comptes établis au titre de
 
 ###### Article L212-1
 
-Le siège, la composition, l'organisation et la répartition en sections des chambres régionales des comptes sont fixés par
-décret en Conseil d'Etat. Le siège de la chambre régionale des comptes est fixé après avis du conseil régional.
+Le siège et le ressort des chambres régionales des comptes sont fixés par décret en Conseil d'Etat. Leur nombre ne peut
+excéder vingt.
+
+Lorsque le ressort d'une chambre régionale des comptes est modifié, les procédures en cours devant cette chambre et qui
+relèvent du ressort concerné par la modification sont réglées selon les modalités définies aux trois derniers alinéas du
+présent article.
+
+Les procédures juridictionnelles engagées devant la chambre régionale des comptes et qui n'ont pas été inscrites au rôle de
+cette chambre sont transmises à la Cour des comptes, qui peut déléguer l'affaire à la chambre régionale de son choix.
+
+Les procédures administratives engagées devant la chambre régionale des comptes et sur lesquelles une délibération n'est pas
+encore intervenue sont, à cette date, transmises à la Cour des comptes, qui peut déléguer l'affaire à la chambre régionale de
+son choix.
+
+Il est délibéré sur les affaires qui ne sont pas transmises à la Cour des comptes en application des troisième et avant-
+dernier alinéas selon les dispositions du code des juridictions financières applicables aux chambres régionales des comptes
+avant la date d'entrée en vigueur de la loi n° 2011-1862 du 13 décembre 2011 relative à la répartition des contentieux et à
+l'allègement de certaines procédures juridictionnelles.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 1er
-
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 46
 
 	**Cité par**:
 
@@ -3943,16 +3996,20 @@ chambre régionale des comptes et de vice-président de la chambre régionale de
 toute mutation d'un magistrat, sur les propositions de nomination à l'emploi de président de chambre régionale des comptes et
 de vice-président de la chambre régionale des comptes d'Ile-de-France ainsi que sur les propositions de nomination prévues au
 troisième alinéa de l'article L. 122-2 et au deuxième alinéa de l'article L. 122-5. Tout projet de modification du statut
-défini par le présent code est soumis pour avis au Conseil supérieur des chambres régionales des comptes.
+défini par le présent code est soumis pour avis au Conseil supérieur des chambres régionales des comptes. 
 
 Ce conseil est également consulté sur toute question relative à l'organisation, au fonctionnement ou à la compétence des
-chambres régionales.
+chambres régionales. 
+
+Les membres des chambres régionales des comptes sont tenus de se conformer, dans l'exercice de leurs attributions, aux normes
+professionnelles fixées par le premier président de la Cour des comptes, après avis du Conseil supérieur des chambres
+régionales des comptes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Cité par**:
 
@@ -3964,16 +4021,12 @@ chambres régionales.
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 14 ()
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 38
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L122-2 (M)
-	  - Code des juridictions financières - art. L122-5 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1983-07-10, art 18
+	  - Code des juridictions financières - art. L122-2
+	  - Code des juridictions financières - art. L122-5
 
 
 ###### Article L212-17
@@ -5023,22 +5076,19 @@ ans avant la date à laquelle la chambre régionale des comptes en est saisie.
 ###### Article L231-7
 
 Les décisions d'apurement prises en application de l'article L. 211-2, assorties le cas échéant de toute observation pouvant
-entraîner la mise en débet du comptable, sont transmises par le comptable supérieur du Trésor à la chambre régionale des
-comptes. La mise en débet du comptable ne peut être prononcée que par la chambre régionale des comptes.
+entraîner la mise en débet du comptable, sont transmises par l'autorité compétente de l'Etat désignée par arrêté du ministre
+chargé du budget à la chambre régionale des comptes. La mise en débet du comptable ne peut être prononcée que par la chambre
+régionale des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 3
-
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 39
 
 	**Cité par**:
 
@@ -5046,30 +5096,42 @@ comptes. La mise en débet du comptable ne peut être prononcée que par la cham
 	  - Code des juridictions financières - art. D242-31 (V)
 	  - Code des juridictions financières - art. R231-1 (V)
 
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 21
+
 	**Cite**:
 
-	  - Code des juridictions financières - art. L211-2 (M)
+	  - Code des juridictions financières - art. L211-2
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L231-5 (V)
 
 
 ###### Article L231-8
 
 Pour les comptes soumis au régime de l'apurement administratif et qui ne font pas l'objet d'observations sous réserve des
-recours éventuels et du droit d'évocation de la chambre régionale des comptes, les arrêtés des comptables supérieurs du
-Trésor emportent décharge définitive du comptable.
+recours éventuels et du droit d'évocation de la chambre régionale des comptes, les arrêtés des autorités compétentes de
+l'Etat désignées par arrêté du ministre chargé du budget emportent décharge définitive du comptable.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 4
-
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 39
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 21
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L231-6 (V)
 
 	**Cité par**:
 
@@ -5081,7 +5143,8 @@ Trésor emportent décharge définitive du comptable.
 
 ###### Article L231-9
 
-Le comptable supérieur du Trésor adresse à la chambre régionale des comptes tous les arrêtés de décharge qu'il a pris. 
+L'autorité compétente de l'Etat désignée par arrêté du ministre chargé du budget adresse à la chambre régionale des comptes
+tous les arrêtés de décharge qu'il a pris. 
 
 La chambre régionale des comptes peut exercer son droit d'évocation et, sur réquisition du ministère public, de réformation
 sur les arrêtés visés à l'article L. 231-8 dans le délai de six mois à dater de leur notification au comptable.
@@ -5090,13 +5153,21 @@ sur les arrêtés visés à l'article L. 231-8 dans le délai de six mois à dat
 
 	**Modifié par**:
 
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 19
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 39
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 21
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. D244-3 (T)
 	  - Code des juridictions financières - art. L253-6 (M)
 	  - Code des juridictions financières - art. R231-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L231-7 (VD)
 
 	**Cite**:
 
@@ -6984,27 +7055,27 @@ Le présent titre est applicable aux communes   de Saint-Pierre-et-Miquelon ains
 
 ###### Article L251-1
 
-Les dispositions des articles L. 136-2 à L. 136-4 sont applicables dans les conditions suivantes : 
+Les dispositions des articles L. 143-7 à L. 143-9 sont applicables dans les conditions suivantes : 
 
 1° Les références aux chambres régionales des comptes sont remplacées par les références aux chambres territoriales des
 comptes et les références aux départements et aux régions sont remplacées par les références aux collectivités ; 
 
-2° Pour l'application de l'article L. 136-2, la référence au livre II est remplacée par la référence au chapitre II du
+2° Pour l'application de l'article L. 143-7, la référence au livre II est remplacée par la référence au chapitre II du
 présent titre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 13 () JORF 22 février 2007
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L136-2 (V)
+	  - Code des juridictions financières - art. L143-7
 
 
 ##### CHAPITRE II : Des chambres territoriales des comptes
@@ -9730,15 +9801,15 @@ relatifs à la gestion des communes, de leurs établissements publics et des aut
 
 Les magistrats de la chambre territoriale des comptes disposent à l'égard des communes, de leurs établissements publics et
 des organismes visés à l'article L. 262-44, pour l'exercice des contrôles qu'ils effectuent, de l'ensemble des droits et
-pouvoirs attribués à la Cour des comptes par le titre IV du livre Ier du présent code.
+pouvoirs attribués à la Cour des comptes par le titre IV du livre Ier du présent code. 
 
-L'avis d'enquête mentionné à l'article L. 141-6 est établi par le président de la chambre territoriale des comptes.
+La notification mentionnée à l'article L. 141-6 est établie par le président de la chambre territoriale des comptes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 43
 
 	**Cite**:
 
@@ -12423,7 +12494,7 @@ haut-commissaire, à la société et au président du gouvernement du territoire
 
 ###### Article L272-41-1
 
-L'avis d'enquête mentionné à l'article L. 141-6 est établi par le président de la chambre territoriale des comptes. 
+La notification mentionnée à l'article L. 141-6 est établie par le président de la chambre territoriale des comptes. 
 
 Le procureur de la République peut transmettre au représentant du ministère public près de la chambre territoriale des
 comptes, d'office ou à la demande de ce dernier, la copie de toute pièce d'une procédure judiciaire relative à des faits de
@@ -12434,8 +12505,12 @@ publics.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 43
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
 
 	**Cite**:
 
@@ -12542,15 +12617,15 @@ relatifs à la gestion des communes, de leurs établissements publics et des aut
 
 Les magistrats de la chambre territoriale des comptes disposent à l'égard des communes, de leurs établissements publics et
 des organismes visés à l'article L. 272-42, pour l'exercice des contrôles qu'ils effectuent, de l'ensemble des droits et
-pouvoirs attribués à la Cour des comptes par le titre IV du livre Ier du présent code.
+pouvoirs attribués à la Cour des comptes par le titre IV du livre Ier du présent code. 
 
-L'avis d'enquête visé à l'article L. 141-6 est établi par le président de la chambre territoriale des comptes.
+La notification mentionnée à l'article L. 141-6 est établie par le président de la chambre territoriale des comptes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 12
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 43
 
 	**Cite**:
 
@@ -14586,33 +14661,29 @@ judiciaire relative à des faits de nature à constituer des infractions prévue
 Au cas où la Cour n'aurait pas été saisie ou n'aurait relevé aucune infraction susceptible de donner lieu aux sanctions
 prévues au présent titre, les ministres ou autorités responsables sont tenus d'engager l'action disciplinaire contre les
 agents mentionnés à l'article L. 312-1 dont la faute aura été relevée par la Cour des comptes dans un référé, dans un rapport
-annuel ou dans une communication faite au Parlement en application de l'article 47 de la Constitution et des articles L.O.
-132-1, L. 132-3, L. 132-4 et L. 135-5, chaque fois que cette faute aura entraîné un dépassement de crédit ou causé un
-préjudice à l'une des collectivités visées à l'article L. 312-1.
+annuel ou dans une communication faite au Parlement en application de l'article 47 de la Constitution et des articles L. O.
+132-1, L. 132-3, L. 132-4 et L. 143-5, chaque fois que cette faute aura entraîné un dépassement de crédit ou causé un
+préjudice à l'une des collectivités visées à l'article L. 312-1. 
 
 Les sanctions prises à la suite de la procédure instituée par le présent article sont portées à la connaissance du Parlement.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Constitution 1958-10-04 art. 47
-	  - Code des juridictions financières - art. L132-3 (Ab)
-	  - Code des juridictions financières - art. L132-4 (V)
-	  - Code des juridictions financières - art. L135-5 (M)
-	  - Code des juridictions financières - art. LO132-1 (V)
-
 	**Codifié par**:
 
-	  - Loi n°95-851 1995-07-24
+	  - Loi n°95-851 du 24 juillet 1995
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°95-851 1995-07-24 jorf 26 juillet 1995
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L312-1
 
 
 ###### Article L314-20

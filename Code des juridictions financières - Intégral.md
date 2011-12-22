@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2011-12-15
+Version Consolidée au 2011-12-23
 
 # Partie législative
 
@@ -185,40 +185,6 @@ La Cour des comptes contrôle les institutions de la sécurité sociale.
 	**Créé par**:
 
 	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-
-###### Article L111-6
-
-La Cour des comptes fait état des résultats des contrôles prévus aux deuxième, troisième et quatrième alinéas de l'article L.
-243-7 du code de la sécurité sociale, dans le rapport sur l'application des lois de financement de la sécurité sociale prévu
-par l'article LO 132-3 du présent code.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-483 du 22 juin 1967 - art. 1, v. init.
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 du 2 décembre 1994
-
-	**Modifié par**:
-
-	  - Loi n°2003-1199 du 18 décembre 2003 - art. 74 () JORF 19 décembre 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1906 du 21 décembre 2011 - art. 41
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. LO132-3
-	  - Code de la sécurité sociale. - art. L243-7
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R143-2 (V)
 
 
 ###### Article L111-7
@@ -1647,8 +1613,6 @@ Les amendes sont assimilées aux débets des comptables publics en ce qui concer
 	  - Code des juridictions financières - art. L272-37 (VD)
 
 
-#### CHAPITRE II : Relations avec le Parlement
-
 #### CHAPITRE II : Relations avec le Parlement et avec le Gouvernement
 
 ###### Article L132-2
@@ -1958,6 +1922,36 @@ ces enquêtes sont communiquées à la commission dont la demande d'enquête ém
 	**Modifié par**:
 
 	  - Loi n°2005-881 du 2 août 2005 - art. 14 () JORF 3 août 2005
+
+
+##### Section 2 : Certification des comptes
+
+###### Article L132-2-2
+
+Pour l'exécution de la mission visée à l'article LO 132-2-1, les membres et personnels de la Cour des comptes peuvent
+examiner les opérations qu'effectuent les organismes et régimes visés à l'article L. 114-8 du code de la sécurité sociale et
+l'organisme visé à l'article L. 135-6 du même code pour le compte des branches et de l'activité de recouvrement du régime
+général de sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1906 du 21 décembre 2011 - art. 43
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. LO132-2-1 (V)
+	  - Code de la sécurité sociale. - art. L114-8 (V)
+	  - Code de la sécurité sociale. - art. L135-6 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R143-11 (V)
 
 
 #### CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics
@@ -2283,8 +2277,6 @@ Les unions et fédérations desdits organismes sont soumises au même contrôle.
 
 
 ### TITRE IV : Procédure
-
-#### CHAPITRE Ier : Dispositions communes aux activités juridictionnelles et administratives
 
 #### CHAPITRE Ier :  Règles générales de procédure
 

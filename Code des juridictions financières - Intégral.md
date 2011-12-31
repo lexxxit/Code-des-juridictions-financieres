@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2011-12-23
+Version Consolidée au 2012-01-01
 
 # Partie législative
 
@@ -13329,6 +13329,112 @@ Le deuxième tour de ces élections a eu lieu le 10 février 2008.
 	**Modifié par**:
 
 	  - Loi organique n°2007-1719 du 7 décembre 2007 - art. 34
+
+
+##### Section 2 : Contrôle des actes budgétaires et de l'exécution du budget des communes, de leurs groupements et de leurs établissements publics
+
+###### Article L273-5
+
+Le contrôle des actes budgétaires et de l'exécution des budgets des communes, de leurs groupements et de leurs établissements
+publics s'exerce dans les conditions prévues par le chapitre II du titre Ier du livre VI de la première partie du code
+général des collectivités territoriales tel que rendu applicable en Polynésie française.
+
+**Nota:**
+
+Ordonnance n° 2007-1434 du 5 octobre 2007 art. 7 II :
+
+Les dispositions de l'article 4 de la présente ordonnance, entrent en vigueur à compter de l'exercice 2012.
+
+Toutefois, elles peuvent être rendues applicables avant l'exercice 2012 aux communes qui en font la demande par une
+délibération de leur conseil municipal. Cette délibération peut être adoptée à compter du renouvellement des conseils
+municipaux en 2008. L'entrée en vigueur intervient pour l'exercice de l'année qui suit l'adoption de la délibération lorsque
+la délibération a été transmise au haut-commissaire, au plus tard le 30 septembre de l'année de son adoption ou pour
+l'exercice de la deuxième année qui suit son adoption lorsqu'elle lui est transmise après cette date. Un arrêté du haut-
+commissaire constate la date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1132 1994-12-27
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1434 du 5 octobre 2007 - art. 4 () JORF 6 octobre 2007 en vigueur le 1er janvier 2012
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L273-6 (VT)
+
+
+###### Article L273-6
+
+Lorsqu'elle est saisie en application de l'article L. 273-5, la chambre territoriale des comptes dispose, pour l'instruction
+de ses affaires, des pouvoirs prévus aux articles L. 272-42, L. 272-43, L. 272-44 et L. 272-50.
+
+**Nota:**
+
+Ordonnance n° 2007-1434 du 5 octobre 2007 art. 7 II :
+
+Les dispositions de l'article 4 de la présente ordonnance, entrent en vigueur à compter de l'exercice 2012.
+
+Toutefois, elles peuvent être rendues applicables avant l'exercice 2012 aux communes qui en font la demande par une
+délibération de leur conseil municipal. Cette délibération peut être adoptée à compter du renouvellement des conseils
+municipaux en 2008. L'entrée en vigueur intervient pour l'exercice de l'année qui suit l'adoption de la délibération lorsque
+la délibération a été transmise au haut-commissaire, au plus tard le 30 septembre de l'année de son adoption ou pour
+l'exercice de la deuxième année qui suit son adoption lorsqu'elle lui est transmise après cette date. Un arrêté du haut-
+commissaire constate la date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1132 1994-12-27
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1434 du 5 octobre 2007 - art. 4 () JORF 6 octobre 2007 en vigueur le 1er janvier 2012
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L272-42 (V)
+	  - Code des juridictions financières - art. L272-50 (V)
+	  - Code des juridictions financières - art. L273-5 (V)
+
+
+###### Article L273-7
+
+La présente section entrera en vigueur dans les conditions prévues au II de l'article 7 de l'ordonnance n° 2007-1434 du 5
+octobre 2007 portant extension des première, deuxième et cinquième parties du code général des collectivités territoriales
+aux communes de la Polynésie française, à leurs groupements et à leurs établissements publics pour les communes et leurs
+établissements publics et à compter de l'exercice 2012 pour les groupements de communes.
+
+**Nota:**
+
+Ordonnance n° 2007-1434 du 5 octobre 2007 art. 7 II :
+
+Les dispositions de l'article 4 de la présente ordonnance, entrent en vigueur à compter de l'exercice 2012.
+
+Toutefois, elles peuvent être rendues applicables avant l'exercice 2012 aux communes qui en font la demande par une
+délibération de leur conseil municipal. Cette délibération peut être adoptée à compter du renouvellement des conseils
+municipaux en 2008. L'entrée en vigueur intervient pour l'exercice de l'année qui suit l'adoption de la délibération lorsque
+la délibération a été transmise au haut-commissaire, au plus tard le 30 septembre de l'année de son adoption ou pour
+l'exercice de la deuxième année qui suit son adoption lorsqu'elle lui est transmise après cette date. Un arrêté du haut-
+commissaire constate la date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1132 1994-12-27
+
+	**Cite**:
+
+	  - Ordonnance n°2007-1434 du 5 octobre 2007 - art. 7 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1434 du 5 octobre 2007 - art. 4 () JORF 6 octobre 2007 en vigueur le 1er janvier 2012
 
 
 ##### CHAPITRE IV : Des comptables

@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-03-14
 
 # Partie législative
 
@@ -628,6 +628,72 @@ niveau de recrutement.
 	  - Code des juridictions financières - art. R212-34 (V)
 
 
+###### Article L112-7-1
+
+Peuvent être détachés dans le corps des magistrats de la Cour des comptes, dans des conditions fixées par décret en Conseil
+d'Etat, les magistrats de l'ordre judiciaire, les fonctionnaires appartenant à un corps recruté par la voie de l'Ecole
+nationale d'administration, les professeurs titulaires des universités, les administrateurs des postes et télécommunications
+et les fonctionnaires civils et militaires de même niveau de recrutement. 
+
+Après avoir prêté le serment prévu à l'article L. 120-3, ils sont admis à exercer leurs fonctions dans les mêmes conditions
+que les magistrats de la Cour des comptes. 
+
+Il ne peut être mis fin à leurs fonctions avant le terme du détachement que sur demande des intéressés ou pour motif
+disciplinaire. 
+
+Peuvent être accueillis pour exercer les fonctions normalement dévolues aux magistrats de la Cour des comptes les agents de
+direction et les agents comptables des organismes de sécurité sociale ainsi que, dans les conditions prévues par leur statut,
+les fonctionnaires des assemblées parlementaires appartenant à des corps de même niveau de recrutement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 87
+
+	**Transféré par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 5
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L120-3
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L123-1 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R112-10-1 (T)
+	  - Code des juridictions financières - art. R112-14-2 (M)
+	  - Code des juridictions financières - art. R311-10 (V)
+	  - Code des juridictions financières - art. R311-3 (V)
+
+
+##### Section 4 bis : Participation de magistrats des chambres régionales et territoriales des comptes aux travaux de la Cour des comptes
+
+###### Article L112-7-2
+
+Sur décision du premier président de la Cour des comptes, des magistrats des chambres régionales et territoriales des comptes
+peuvent participer aux travaux de la Cour des comptes à temps plein ou à temps partiel, y compris dans le cadre des
+procédures juridictionnelles, sur leur demande et après avis de leur président de chambre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 91
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L112-7-1 (VD)
+
+
 ##### Section 5 : Conseil supérieur de la Cour des comptes
 
 ###### Article L112-8
@@ -649,7 +715,9 @@ maintenus en activité en application de l'article 1er de la loi n° 86-1304 du 
 aux modalités de recrutement de certains fonctionnaires civils de l'Etat ; 
 
 5° Neuf membres élus représentant les magistrats de la Cour des comptes, les conseillers maîtres en service extraordinaire et
-les rapporteurs extérieurs. Pour chacun d'eux, il est procédé à l'élection d'un suppléant. Leur mandat est de trois ans, il
+les rapporteurs extérieurs. Il est procédé à l'élection de neuf membres suppléants, à raison de trois pour le collège des
+conseillers maîtres, deux pour celui des conseillers référendaires, deux pour celui des auditeurs, un pour le collège des
+conseillers maîtres en service extraordinaire et un pour celui des rapporteurs extérieurs. Leur mandat est de trois ans, il
 est renouvelable une fois. Les modalités de cette élection sont fixées par décret. 
 
 Le conseil est consulté par le premier président sur toutes les questions relatives à la compétence, à l'organisation et au
@@ -659,9 +727,9 @@ conseillers maîtres en service extraordinaire et des rapporteurs extérieurs.
 
 Le conseil donne un avis sur les mesures individuelles concernant la situation et l'avancement des magistrats de la Cour des
 comptes, à l'exception des propositions de nomination des présidents de chambre. De même, il donne un avis sur les
-propositions de nomination aux emplois de président de chambre régionale des comptes et de vice-président de la chambre
-régionale des comptes d'Ile-de-France, ainsi que sur les propositions de nomination des premiers conseillers et des
-présidents de section de chambre régionale des comptes au grade de conseiller référendaire ou de conseiller maître. 
+propositions de nomination aux emplois de président de chambre régionale des comptes et de vice-président de
+chambre régionale des comptes, ainsi que sur les propositions de nomination des premiers conseillers et des présidents de
+section de chambre régionale des comptes au grade de conseiller référendaire ou de conseiller maître. 
 
 Sauf en matière disciplinaire, tous les membres du conseil siègent, quel que soit le niveau hiérarchique des magistrats dont
 le cas est examiné. Toutefois, les représentants des conseillers maîtres en service extraordinaire et des rapporteurs
@@ -691,7 +759,8 @@ professionnelles fixées par le premier président, après avis du Conseil supé
 
 	**Modifié par**:
 
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 38
+	  - Loi n°2012-347 du 12 mars 2012 - art. 89
+	  - Loi n°2012-347 du 12 mars 2012 - art. 95
 
 
 ##### Section 6 : Magistrats honoraires
@@ -918,17 +987,25 @@ Pour les magistrats de la Cour des comptes en service détaché, l'avancement au
 tour.
 
 En dehors des conseillers référendaires et des magistrats de chambre régionale des comptes ayant le grade de président de
-section, nul ne peut être nommé conseiller maître s'il n'est âgé de quarante ans accomplis.
+section, nul ne peut être nommé conseiller maître s'il n'est âgé de quarante-cinq ans accomplis.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°2006-769 du 1 juillet 2006 - art. 5 () JORF 2 juillet 2006
+	  - Loi n°2012-347 du 12 mars 2012 - art. 92
+
+	**Transféré par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L122-3 (VD)
 
 	**Cité par**:
 
@@ -938,10 +1015,6 @@ section, nul ne peut être nommé conseiller maître s'il n'est âgé de quarant
 	  - Code des juridictions financières - art. L220-12 (VD)
 	  - Code des juridictions financières - art. R*122-6 (M)
 	  - Code des juridictions financières - art. R122-8 (M)
-
-	**Anciens textes**:
-
-	  - Loi du 1941-05-16, art 3 et 4bis, complété par Loi 84-834 1984-09-13, art9
 
 
 ###### Article L122-2-1
@@ -975,18 +1048,14 @@ immédiatement au tableau.
 
 ###### Article L122-4
 
-Les magistrats des chambres régionales des comptes choisis pour occuper un emploi de président de chambre régionale ou
-territoriale des comptes et de vice-président de la chambre régionale des comptes sont nommés conseillers référendaires à la
-Cour des comptes. Ils sont réputés avoir une ancienneté de six ans dans le grade de conseiller référendaire.
+Les  magistrats des chambres régionales des comptes choisis pour occuper un  emploi de président de chambre régionale ou
+territoriale des comptes et  de vice-président de chambre régionale des comptes sont nommés  conseillers référendaires à la
+Cour des comptes. Ils sont réputés avoir  une ancienneté de six ans dans le grade de conseiller référendaire. 
 
 Ces nominations sont prononcées hors tour. Dans le cas où elles interviennent en surnombre, ces surnombres sont résorbés sur
 les premières vacances venant à s'ouvrir dans le référendariat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1982-07-10, art 21-II al 2, modifié par Loi 88-13 1988-01-05, art 27
 
 	**Cité par**:
 
@@ -997,11 +1066,11 @@ les premières vacances venant à s'ouvrir dans le référendariat.
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°2006-769 du 1 juillet 2006 - art. 7 () JORF 2 juillet 2006
+	  - Loi n°2012-347 du 12 mars 2012 - art. 95
 
 
 ###### Article L122-5
@@ -1193,11 +1262,14 @@ du conseil supérieur de la Cour des comptes s'il est saisi soit par lui-même, 
 
 ###### Article L123-5
 
-Le conseil supérieur de la Cour des comptes est saisi des faits motivant la poursuite disciplinaire par le président de la
-chambre où est affecté le magistrat en cause. Dans ce cas, ce président de chambre ne siège pas au conseil supérieur. Pour
-les présidents de chambre et pour les magistrats qui ne sont pas affectés dans une chambre, le conseil supérieur est saisi
-par le premier président de la Cour des comptes, qui ne siège pas, le conseil étant dans ce cas présidé par le président de
-chambre en activité le plus ancien dans son grade.
+Le  conseil supérieur de la Cour des comptes est saisi des faits motivant  la poursuite disciplinaire par le premier
+président ou par le président  de chambre à laquelle est affecté le magistrat en cause. Lorsqu'il est  saisi par le premier
+président, celui-ci ne siège pas, le conseil étant  alors présidé par le président de chambre en activité le plus ancien
+dans son grade. Lorsqu'il est saisi par le président de la chambre à  laquelle est affecté le magistrat en cause, et si ce
+président de  chambre est membre du conseil supérieur, il ne siège pas au conseil  supérieur où il est remplacé par le
+président de chambre suivant en  termes d'ancienneté dans ce grade. Pour les présidents de chambre et pour les magistrats qui
+ne sont pas affectés dans une chambre, le conseil supérieur est saisi par le premier président de la Cour des comptes, qui ne
+siège pas, le conseil étant dans ce cas présidé par le président de chambre en activité le plus ancien dans son grade.
 
 Lorsque le magistrat en cause est délégué dans les fonctions du ministère public, le conseil supérieur, saisi par le premier
 président, est présidé par le procureur général près la Cour des comptes.
@@ -1209,24 +1281,27 @@ mentionné à l'alinéa précédent.
 Seuls siègent au conseil supérieur de la Cour des comptes les magistrats d'un grade égal ou supérieur à celui du magistrat
 faisant l'objet de la procédure disciplinaire.
 
+Le  secrétariat du conseil supérieur de la Cour des comptes statuant en  formation disciplinaire est assuré dans des
+conditions définies par un  décret en Conseil d'Etat.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-769 du 1 juillet 2006 - art. 10 () JORF 2 juillet 2006
+	  - Loi n°2012-347 du 12 mars 2012 - art. 90
 
 
 ###### Article L123-14
 
-Lorsqu'un magistrat de la Cour des comptes, y compris lorsqu'il a été nommé sur un emploi de président de chambre régionale
-des comptes ou de vice-président de la chambre régionale des comptes d'Ile-de-France, commet une faute grave qui rend
-impossible, eu égard à l'intérêt du service, son maintien en fonctions, et si l'urgence le commande, il peut être
-immédiatement suspendu de ses fonctions par l'autorité investie du pouvoir de nomination. Celle-ci saisit d'office et sans
-délai le conseil supérieur de la Cour des comptes.
+Lorsqu'un  magistrat de la Cour des comptes, y compris lorsqu'il a été nommé sur  un emploi de président de chambre régionale
+des comptes ou de  vice-président de chambre régionale des comptes, commet une faute grave  qui rend impossible, eu égard à
+l'intérêt du service, son maintien en  fonctions et si l'urgence le commande, il peut être immédiatement  suspendu de ses
+fonctions par l'autorité investie du pouvoir de  nomination. Celle-ci saisit d'office et sans délai le conseil supérieur de
+la Cour des comptes.
 
 Cette suspension est prononcée sur proposition du premier président de la Cour des comptes ou sur proposition du procureur
 général près la Cour des comptes lorsque cette mesure concerne un magistrat délégué dans les fonctions du ministère public.
@@ -1236,11 +1311,19 @@ La suspension ne peut être rendue publique.
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-769 du 1 juillet 2006 - art. 10 () JORF 2 juillet 2006
+	  - Loi n°2012-347 du 12 mars 2012 - art. 95
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 6
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L124-10 (VD)
 
 
 ### TITRE III : Compétences et attributions
@@ -2435,18 +2518,32 @@ fonctions. Les experts remplissent leur mission en liaison avec l'un des membres
 mentionnés aux sections 1 à 4 du chapitre II du titre Ier du présent livre, dans des conditions précisées par voie
 réglementaire. 
 
-Les experts sont tenus à l'obligation du secret professionnel.
+Les experts sont tenus à l'obligation du secret professionnel. 
+
+Lorsque  l'expérience des experts mentionnés au premier alinéa est susceptible  d'être utile aux activités d'évaluation des
+politiques publiques de la  Cour des comptes, cette dernière conclut une convention avec les  intéressés indiquant, entre
+autres, s'ils exercent leur mission à temps  plein ou à temps partiel. Ils bénéficient alors des mêmes prérogatives  et sont
+soumis aux mêmes obligations que les magistrats de la cour. Le  cas échéant, ils ont vocation à être affectés en chambre par
+le premier  président, devant lequel ils prêtent le serment professionnel. Ils  prennent alors le titre de conseiller expert.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 43
+	  - Loi n°2012-347 du 12 mars 2012 - art. 93
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 11
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. L120-4 (V)
 	  - Code des juridictions financières - art. R112-27-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L141-6 (VD)
 
 
 ###### Article L141-5
@@ -3499,23 +3596,19 @@ La chambre régionale des comptes comprend au minimum un président et deux asse
 
 ###### Article L212-3
 
-Chaque chambre régionale des comptes est présidée par un conseiller maître ou un conseiller référendaire à la Cour des
-comptes. Le vice-président de la chambre régionale des comptes d'Ile-de-France est un conseiller référendaire à la Cour des
-comptes.
+Chaque  chambre régionale des comptes est présidée par un conseiller maître ou  un conseiller référendaire à la Cour des
+comptes. Les chambres  régionales des comptes qui comptent au moins quatre sections disposent  d'un vice-président, qui est
+un conseiller référendaire à la Cour des  comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 85 al 1
-
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 7 ()
+	  - Loi n°2012-347 du 12 mars 2012 - art. 95
 
 	**Cité par**:
 
@@ -3545,44 +3638,37 @@ Des magistrats de la Cour des comptes peuvent, à leur demande et sur propositio
 ###### Article L212-5
 
 Peuvent être détachés dans le corps des magistrats de chambre régionale des comptes, dans des conditions fixées par décret en
-Conseil d'Etat :
+Conseil d'Etat, les magistrats de l'ordre judiciaire, les fonctionnaires appartenant à un corps recruté par la voie de
+l'Ecole nationale d'administration, les professeurs titulaires des universités, les maîtres de conférences, les
+administrateurs des postes et télécommunications et les fonctionnaires civils et militaires issus de corps et cadres
+d'emplois appartenant à la même catégorie et de niveau comparable, apprécié au regard des conditions de recrutement ou du
+niveau des missions prévues par les statuts particuliers. 
 
-- les magistrats de l'ordre judiciaire ;
-
-- les fonctionnaires appartenant à un corps recruté par la voie de l'Ecole nationale d'administration ;
-
-- les fonctionnaires de l'Etat, territoriaux et hospitaliers, appartenant à des corps et cadres d'emplois de même niveau de
-recrutement.
-
-Ils sont soumis aux obligations et incompatibilités prévues aux articles L. 222-1 à L. 222-7.
+Ils sont soumis aux obligations et incompatibilités prévues aux articles L. 222-1 à L. 222-7. 
 
 Après avoir prêté le serment prévu à l'article L. 212-9, ils sont admis à exercer leurs fonctions dans les mêmes conditions
-que les magistrats de chambre régionale des comptes.
+que les magistrats de chambre régionale des comptes. 
 
 Il ne peut être mis fin à leurs fonctions avant le terme du détachement que sur demande des intéressés ou pour motif
-disciplinaire.
+disciplinaire. 
 
 Les dispositions du présent article s'appliquent, dans les conditions prévues par leur statut, aux fonctionnaires des
 assemblées parlementaires appartenant à des corps de même niveau de recrutement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°87-1127 1987-12-31, art 3 dernier alinéa
-
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 9 ()
+	  - Loi n°2012-347 du 12 mars 2012 - art. 88
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. L212-9 (V)
-	  - Code des juridictions financières L222-1 à L222-7, L212-9
+	  - Code des juridictions financières - art. L222-1 (V)
 
 	**Cité par**:
 
@@ -3984,11 +4070,11 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 
 Il est institué un Conseil supérieur des chambres régionales des comptes. Ce conseil établit le tableau d'avancement de grade
 des membres du corps des chambres régionales des comptes et la liste d'aptitude de ces membres à l'emploi de président de
-chambre régionale des comptes et de vice-président de la chambre régionale des comptes d'Ile-de-France. Il donne un avis sur
-toute mutation d'un magistrat, sur les propositions de nomination à l'emploi de président de chambre régionale des comptes et
-de vice-président de la chambre régionale des comptes d'Ile-de-France ainsi que sur les propositions de nomination prévues au
-troisième alinéa de l'article L. 122-2 et au deuxième alinéa de l'article L. 122-5. Tout projet de modification du statut
-défini par le présent code est soumis pour avis au Conseil supérieur des chambres régionales des comptes. 
+chambre régionale des comptes et de vice-président de chambre régionale des comptes. Il donne un avis sur toute mutation d'un
+magistrat, sur les propositions de nomination à l'emploi de président de chambre régionale des comptes et de vice-président
+de chambre régionale des comptes ainsi que sur les propositions de nomination prévues au troisième alinéa de l'article L.
+122-2 et au deuxième alinéa de l'article L. 122-5. Tout projet de modification du statut défini par le présent code est
+soumis pour avis au Conseil supérieur des chambres régionales des comptes. 
 
 Ce conseil est également consulté sur toute question relative à l'organisation, au fonctionnement ou à la compétence des
 chambres régionales. 
@@ -4013,12 +4099,20 @@ régionales des comptes.
 
 	**Modifié par**:
 
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 38
+	  - Loi n°2012-347 du 12 mars 2012 - art. 95
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 16
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. L122-2
 	  - Code des juridictions financières - art. L122-5
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L220-12 (VD)
 
 
 ###### Article L212-17
@@ -4037,8 +4131,8 @@ Président du Sénat ;
 
 - un conseiller maître à la Cour des comptes ;
 
-- deux magistrats exerçant les fonctions de président de chambre régionale des comptes ou de vice-président de la chambre
-régionale des comptes d'Ile-de-France, dont un conseiller maître et un conseiller référendaire ;
+- deux magistrats exerçant les fonctions de président de chambre  régionale des comptes ou de vice-président de chambre
+régionale des  comptes, dont un conseiller maître et un conseiller référendaire ;
 
 - six représentants des magistrats de chambre régionale des comptes.
 
@@ -4052,15 +4146,19 @@ lui-même suppléé par un conseiller maître membre de cette mission, désigné
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 15 ()
+	  - Loi n°2012-347 du 12 mars 2012 - art. 95
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Loi n°82-595 1983-07-10, art 19 al 1 et 4
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 16
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L220-13 (VD)
 
 
 ###### Article L212-18
@@ -4191,73 +4289,93 @@ Le corps des magistrats des chambres régionales des comptes comprend les grades
 ###### Article L221-1
 
 Les nominations dans le corps des magistrats des chambres régionales des comptes sont prononcées par décret du Président de
-la République. Les nominations aux différents grades de ce corps, ainsi que les mutations, sont prononcées par décret.
+la République. Les nominations aux différents grades de ce corps, ainsi que les mutations, sont prononcées par décret. 
+
+Les magistrats du siège affectés dans une chambre régionale des comptes dont le siège ou le ressort est modifié en
+application de l'article L. 212-1, s'ils ne souhaitent pas bénéficier de l'affectation de plein droit à la chambre régionale
+qui devient compétente sur le ressort de leur affectation initiale, doivent faire connaître au premier président de la Cour
+des comptes, au plus tard avant la fin du mois suivant cette modification, leur souhait d'affectation dans trois autres
+chambres régionales. 
+
+Le magistrat est alors affecté conformément à l'un de ses souhaits, dans les conditions et selon les formes prévues par le
+présent code. 
+
+Tant que la procédure énoncée aux deuxième et troisième alinéas du présent article n'est pas achevée, le magistrat est
+affecté pour ordre à la chambre régionale dans le ressort de laquelle est situé le siège de celle dont le siège ou le ressort
+est modifié. 
+
+Le magistrat qui n'a pas exprimé de souhait d'affectation dans le délai prescrit est affecté de plein droit à la chambre
+régionale qui est compétente sur le ressort de la chambre régionale supprimée. 
+
+Lors de sa création, une chambre compétente pour connaître des affaires de deux régions est, de plein droit, présidée par le
+magistrat qui présidait la chambre qui avait le même siège. Cette désignation de plein droit n'a pas pour effet de proroger
+ni de renouveler la durée maximale de fonction mentionnée à l'avant-dernier alinéa de l'article L. 221-2. 
+
+Lorsqu'un magistrat de chambre régionale entre, par l'effet d'une modification du ressort de sa chambre d'affectation, dans
+l'un des cas d'incompatibilité prévus par le présent code, il est tenu de demander, dans le délai de six mois à compter de la
+date d'effet de la modification du ressort, sa mutation dans une autre chambre régionale ou sa mise en disponibilité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-595 1983-07-10, art 20
-
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2012-347 du 12 mars 2012 - art. 95
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L212-1 (V)
+	  - Code des juridictions financières - art. L221-2 (V)
 
 
 ###### Article L221-2
 
 L'emploi de président de chambre régionale des comptes est pourvu par un conseiller maître ou un conseiller référendaire à la
-Cour des comptes. L'emploi de vice-président de la chambre régionale des comptes d'Ile-de-France est pourvu par un conseiller
-référendaire à la Cour des comptes.
+Cour des comptes. L'emploi de vice-président de chambre régionale des comptes est pourvu par un conseiller référendaire à la
+Cour des comptes. 
 
 Les nominations sont prononcées, à la demande des magistrats intéressés, par décret du Président de la République, sur
 proposition du premier président de la Cour des comptes après avis du conseil supérieur de la Cour des comptes et du Conseil
-supérieur des chambres régionales des comptes.
+supérieur des chambres régionales des comptes. 
 
 Peuvent se porter candidats à ces emplois les magistrats de la Cour des comptes ainsi que les présidents de section de
 chambre régionale des comptes inscrits sur une liste d'aptitude établie à cet effet par le Conseil supérieur des chambres
-régionales des comptes.
+régionales des comptes. 
 
 Peuvent être inscrits sur la liste d'aptitude les magistrats âgés de quarante ans au moins et justifiant d'un minimum de
 quinze années de services publics. Ces conditions sont appréciées au 1er janvier de l'année au cours de laquelle la liste est
-établie.
+établie. 
 
-Il est procédé aux nominations aux emplois de président de chambre régionale des comptes et de vice-président de la chambre
-régionale des comptes d'Ile-de-France de telle sorte que la moitié au moins et les trois quarts au plus du total desdits
-emplois soient effectivement occupés par des magistrats dont le corps d'origine, avant leur nomination à la Cour des comptes,
-était celui de magistrats de chambre régionale des comptes.
+Les magistrats nommés à l'emploi de président de chambre régionale des comptes et de vice-président de chambre régionale des
+comptes sont placés en position de détachement pendant la durée de cet emploi. Dans cette position, ils peuvent participer, à
+l'exclusion de toute activité juridictionnelle, aux formations et aux comités de la Cour des comptes ayant à connaître des
+contrôles effectués par les chambres régionales des comptes ou avec leur concours. 
 
-Les magistrats nommés à l'emploi de président de chambre régionale des comptes et de vice-président de la chambre régionale
-des comptes d'Ile-de-France sont placés en position de détachement pendant la durée de cet emploi. Dans cette position, ils
-peuvent participer, à l'exclusion de toute activité juridictionnelle, aux formations et aux comités de la Cour des comptes
-ayant à connaître des contrôles effectués par les chambres régionales des comptes ou avec leur concours.
+Les conditions d'avancement dans l'emploi de président de chambre régionale des comptes et de vice-président de chambre
+régionale des comptes sont fixées par décret en Conseil d'Etat. 
 
-Les conditions d'avancement dans l'emploi de président de chambre régionale des comptes et de vice-président de la chambre
-régionale des comptes d'Ile-de-France sont fixées par décret en Conseil d'Etat.
-
-La nomination à l'emploi de président d'une même chambre régionale des comptes ou de vice-président de la chambre régionale
-des comptes d'Ile-de-France est prononcée pour une durée de sept ans. Cette durée ne peut être ni prorogée ni renouvelée au
-sein d'une même chambre. Elle ne peut être réduite que si le magistrat intéressé demande, après avis du Conseil supérieur des
-chambres régionales des comptes, à être déchargé de ses fonctions.
+La nomination à l'emploi de président d'une même chambre régionale des comptes ou de vice-président de chambre régionale des
+comptes est prononcée pour une durée de sept ans. Cette durée ne peut être ni prorogée, ni renouvelée au sein d'une même
+chambre. Elle ne peut être réduite que si le magistrat intéressé demande, après avis du Conseil supérieur des chambres
+régionales des comptes, à être déchargé de ses fonctions. 
 
 Seuls les magistrats bénéficiant du recul de la limite d'âge prévue au premier alinéa de l'article 4 de la loi du 18 août
-1936 concernant les mises à la retraite peuvent occuper un emploi de président de chambre régionale des comptes, ou de vice-
-président de la chambre régionale des comptes d'Ile-de-France, au-delà de la limite d'âge fixée par l'article 1er de la loi
-n° 84-834 du 13 septembre 1984 relative à la limite d'âge dans la fonction publique et le secteur public. Pour l'exercice de
-cet emploi, les dispositions de l'article 1er de la loi n° 86-1304 du 23 décembre 1986 relative à la limite d'âge et aux
-modalités de recrutement de certains fonctionnaires civils de l'Etat ne sont pas applicables.
+1936 concernant les mises à la retraite par ancienneté peuvent occuper un emploi de président de chambre régionale des
+comptes ou de vice-président de chambre régionale des comptes au-delà de la limite d'âge fixée à l'article 1er de la loi n°
+84-834 du 13 septembre 1984 relative à la limite d'âge dans la fonction publique et le secteur public. Pour l'exercice de cet
+emploi, l'article 1er de la loi n° 86-1304 du 23 décembre 1986 relative à la limite d'âge et aux modalités de recrutement de
+certains fonctionnaires civils de l'Etat n'est pas applicable.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°84-834 du 13 septembre 1984 - art. 1, v. init.
-	  - Loi n°86-1304 du 23 décembre 1986 - art. 1 (V)
-	  - Loi n°1936-08-18 art. 4
+	  - Loi du 18 août 1936 - art. 4 (V)
+	  - Loi n°84-834 du 13 septembre 1984 - art. 1
+	  - Loi n°86-1304 du 23 décembre 1986 - art. 1
 
 	**Cité par**:
 
@@ -4276,15 +4394,11 @@ modalités de recrutement de certains fonctionnaires civils de l'Etat ne sont pa
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°2006-769 du 1 juillet 2006 - art. 14 () JORF 2 juillet 2006
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1983-07-10 art 21, modifié par loi 88-13 1988-01-05 art 27
+	  - Loi n°2012-347 du 12 mars 2012 - art. 95
 
 
 ###### Article L221-2-1
@@ -4528,9 +4642,8 @@ appartiennent. Des dérogations individuelles peuvent toutefois être accordées
 
 ###### Article L222-3
 
-L'emploi de président de chambre régionale des comptes et de vice-président de la chambre régionale des comptes d'Ile-de-
-France ainsi que l'exercice des fonctions de magistrat des chambres régionales des comptes sont également incompatibles
-avec :
+L'emploi  de président de chambre régionale des comptes et de vice-président de  chambre régionale des comptes ainsi que
+l'exercice des fonctions de  magistrat de chambres régionales des comptes sont également  incompatibles avec :
 
 a) L'exercice d'un mandat au Parlement européen ;
 
@@ -4541,59 +4654,60 @@ appartient ou a appartenu depuis moins de cinq ans le magistrat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-595 1983-07-10, art 8
-
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 24 ()
+	  - Loi n°2012-347 du 12 mars 2012 - art. 95
 
 
 ###### Article L222-4
 
-Nul ne peut être nommé président d'une chambre régionale des comptes, vice-président de la chambre régionale des comptes
-d'Ile- de-France ou magistrat dans une chambre régionale des comptes ou, le cas échéant, le demeurer :
+Nul ne peut être nommé président d'une chambre régionale des comptes, vice-président de chambre régionale des comptes ou
+magistrat dans une chambre régionale des comptes ou, le cas échéant, le demeurer : 
 
-a) S'il a exercé, depuis moins de cinq ans, dans le ressort de cette chambre, une fonction publique élective mentionnée à
-l'article L.O. 222-2, ou fait acte de candidature à l'un de ces mandats depuis moins de trois ans ;
+a) S'il a exercé, depuis moins de trois ans, dans le ressort de cette chambre, une fonction publique élective mentionnée à
+l'article L. O. 222-2, ou fait acte de candidature à l'un de ces mandats depuis moins de trois ans ; 
 
 b) S'il est marié, a conclu un pacte civil de solidarité ou vit en concubinage notoire avec un député d'une circonscription
-ou un sénateur d'un département situé dans le ressort de cette chambre ;
+ou un sénateur d'un département situé dans le ressort de cette chambre ; 
 
 c) S'il est marié, a conclu un pacte civil de solidarité ou vit en concubinage notoire avec le président du conseil régional,
 un président du conseil général, un maire d'une commune, chef-lieu de département de ce même ressort ou un président d'un
-établissement public de coopération intercommunale à fiscalité propre qui comprend cette même commune ;
+établissement public de coopération intercommunale à fiscalité propre qui comprend cette même commune ; 
 
-d) S'il a exercé depuis moins de cinq ans dans ce ressort les fonctions de représentant de l'Etat dans un département ou dans
-un arrondissement, ou de directeur départemental ou régional d'une administration publique de l'Etat ;
+d) S'il a exercé depuis moins de trois ans dans ce ressort les fonctions de représentant de l'Etat dans un département ou
+dans un arrondissement, ou de directeur départemental ou régional d'une administration publique de l'Etat ; 
 
-e) S'il a exercé dans le ressort de cette chambre régionale des comptes depuis moins de cinq ans des fonctions de direction
+e) S'il a exercé dans le ressort de cette chambre régionale des comptes depuis moins de trois ans des fonctions de direction
 dans l'administration d'une collectivité territoriale ou d'un organisme, quelle qu'en soit la forme juridique, soumis au
-contrôle de cette chambre ;
+contrôle de cette chambre ; 
 
 f) S'il a exercé dans le ressort de cette chambre régionale des fonctions de comptable public principal pour lesquelles il
-n'a pas reçu quitus.
+n'a pas reçu quitus. 
 
 Les conditions d'application du présent article sont fixées par voie réglementaire.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1983-07-10, art 9, modifié par 83-498 1983-06-17, art 1er
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 25 ()
+	  - Loi n°2012-347 du 12 mars 2012 - art. 95
+	  - Loi n°2012-347 du 12 mars 2012 - art. 96
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. LO222-2 (V)
 
 	**Cité par**:
 
@@ -4624,13 +4738,13 @@ Toutefois, l'interdiction prévue à l'alinéa précédent prend fin dès que l'
 
 ###### Article L222-6
 
-Nul ne peut être nommé président d'une chambre régionale des comptes, vice-président de la chambre régionale des comptes
-d'Ile-de-France ou magistrat dans une chambre régionale des comptes s'il a été déclaré comptable de fait et s'il ne lui a pas
-été donné quitus. 
+Nul  ne peut être nommé président d'une chambre régionale des comptes,  vice-président de chambre régionale des comptes ou
+magistrat dans une  chambre régionale des comptes s'il a été déclaré comptable de fait et  s'il ne lui a pas été donné
+quitus. 
 
-Si la déclaration concerne un président de chambre régionale des comptes ou le vice-président de la chambre régionale des
-comptes d'Ile-de-France et qu'elle intervient postérieurement à sa nomination dans cet emploi, ce magistrat est suspendu de
-ses fonctions par le premier président de la Cour des comptes, jusqu'à ce que quitus lui soit donné. 
+Si la  déclaration concerne un président de chambre régionale des comptes ou le  vice-président d'une chambre régionale des
+comptes et qu'elle  intervient postérieurement à sa nomination dans cet emploi, ce magistrat  est suspendu de ses fonctions
+par le premier président de la Cour des  comptes jusqu'à ce que quitus lui soit donné.
 
 Si la déclaration concerne un magistrat de chambre régionale des comptes et qu'elle intervient postérieurement à sa
 nomination, ce magistrat est suspendu de ses fonctions dans les conditions prévues au deuxième alinéa de l'article L. 223-11,
@@ -4640,7 +4754,7 @@ jusqu'à ce que quitus lui soit donné.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 15
+	  - Loi n°2012-347 du 12 mars 2012 - art. 95
 
 	**Cite**:
 
@@ -4649,24 +4763,20 @@ jusqu'à ce que quitus lui soit donné.
 
 ###### Article L222-7
 
-Nul président de chambre régionale des comptes, vice-président de la chambre régionale des comptes d'Ile-de-France ou
-magistrat des chambres régionales des comptes ne peut, dans le ressort d'une chambre régionale à laquelle il a appartenu au
-cours des cinq années précédentes, être détaché auprès d'une collectivité territoriale ou d'un organisme soumis au contrôle
-de cette chambre ou placé en disponibilité pour servir dans une telle collectivité ou un tel organisme.
+Nul  président de chambre régionale des comptes, vice-président de chambre  régionale des comptes ou magistrat des chambres
+régionales des comptes  ne peut, dans le ressort d'une chambre régionale à laquelle il a  appartenu au cours des trois années
+précédentes, être détaché auprès  d'une collectivité territoriale ou d'un organisme soumis au contrôle de  cette chambre ou
+placé en disponibilité pour servir dans une telle  collectivité ou un tel organisme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-595 1983-07-10, art 11
-
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 27 ()
+	  - Loi n°2012-347 du 12 mars 2012 - art. 95
 
 	**Cité par**:
 
@@ -4695,7 +4805,11 @@ Parlement ou au   Conseil économique, social et environnemental.
 
 Le pouvoir disciplinaire est exercé à l'égard des membres du corps des chambres régionales des comptes par le Conseil
 supérieur des chambres régionales des comptes, qui est saisi des faits motivant la poursuite disciplinaire par le président
-de chambre régionale à laquelle appartient le magistrat concerné.
+de chambre régionale à laquelle appartient le magistrat concerné ou  par le premier président de la Cour des comptes.
+Lorsqu'il est saisi  par le premier président, celui-ci ne siège pas, le conseil étant alors  présidé par le président de la
+mission permanente d'inspection des  chambres régionales et territoriales des comptes. Lorsqu'il est saisi  par le président
+de la chambre à laquelle est affecté le magistrat en  cause, et si ce président de chambre est membre du conseil supérieur,
+il  ne siège pas au conseil supérieur.
 
 Lorsque le Conseil supérieur des chambres régionales des comptes statue comme conseil de discipline, le procureur général
 près la Cour des comptes n'assiste pas aux séances de ce conseil, sauf dans le cas visé à l'alinéa ci-après.
@@ -4705,19 +4819,18 @@ Conseil supérieur est présidé par le procureur général près la Cour des co
 les fonctions du ministère public élu par les magistrats exerçant ces fonctions. Dans ce cas, il est saisi par le premier
 président.
 
+Le  secrétariat du conseil supérieur des chambres régionales des comptes  statuant en formation disciplinaire est assuré dans
+des conditions  définies par un décret en Conseil d'Etat.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1983-07-10, art 22
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°2006-769 du 1 juillet 2006 - art. 12 () JORF 2 juillet 2006
+	  - Loi n°2012-347 du 12 mars 2012 - art. 90
 
 
 ###### Article L223-2
@@ -4999,6 +5112,54 @@ Le Conseil supérieur est saisi d'office et sans délai d'une procédure discipl
 	**Nouveaux textes**:
 
 	  - Code des juridictions financières - art. L223-6 (VD)
+
+
+##### Chapitre IV : Recrutement direct
+
+###### Article L224-1
+
+Il peut être procédé, sur proposition du premier président de la Cour des comptes, au recrutement direct de conseillers de
+chambre régionale des comptes par voie de concours. 
+
+Le nombre de postes pourvus à ce titre ne peut excéder, pour le premier concours organisé, le nombre de postes offerts, à
+compter de la promulgation de la loi n° 2011-900 du 29 juillet 2011 de finances rectificative pour 2011, dans le corps des
+magistrats de chambre régionale des comptes au titre des articles L. 221-3 et L. 221-4 et, pour les concours suivants, le
+nombre de postes offerts au titre des mêmes articles à compter des nominations au titre du précédent concours. 
+
+Le concours est ouvert : 
+
+1° Aux fonctionnaires et autres agents publics civils ou militaires appartenant à un corps de catégorie A ou assimilé et
+justifiant au 31 décembre de l'année du concours de sept ans de services publics effectifs dont trois ans effectifs dans la
+catégorie A ; 
+
+2° Aux magistrats de l'ordre judiciaire ; 
+
+3° Aux titulaires de l'un des diplômes exigés pour se présenter au premier concours d'entrée à l'Ecole nationale
+d'administration. 
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 94
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 17
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L221-11 (VD)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L221-3
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R228-1 (M)
 
 
 #### TITRE III : Compétences et attributions

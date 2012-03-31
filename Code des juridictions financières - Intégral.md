@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2012-03-14
+Version Consolidée au 2012-04-01
 
 # Partie législative
 
@@ -15780,29 +15780,25 @@ chargés de mission.
 
 Le premier président est chargé de la direction générale de la Cour des comptes. Après avis du procureur général, il définit
 l'organisation générale des travaux de la Cour, il répartit les attributions de la Cour entre les chambres et arrête le
-programme annuel des travaux au vu des propositions des présidents de chambre.
+programme annuel des travaux au vu des propositions des présidents de chambre. 
 
-Il préside les audiences solennelles, la chambre du conseil, les chambres réunies, la conférence des présidents et le comité
-du rapport public et des programmes. Il peut présider les séances de chambre, les formations interchambres et les chambres
-réunies statuant en formation restreinte.
+Il préside les audiences solennelles, la chambre du conseil dans chacune des deux formations prévues à l'article R. 112-17,
+les chambres réunies, la conférence des présidents et le comité du rapport public et des programmes. Il peut présider les
+séances de chambre, les formations interchambres et les chambres réunies statuant en formation restreinte. 
 
-Il signe les arrêts et décisions rendus sous sa présidence.
+Il signe les arrêts et décisions rendus sous sa présidence. 
 
 Il fait connaître aux ministres compétents, par voie de référé, les observations formulées par la Cour.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-199 1985-02-11, art 2 al 1 et 2
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2007-543 du 12 avril 2007 - art. 2 () JORF 13 avril 2007
+	  - Décret n°2012-388  du 21 mars 2012 - art. 1
 
 	**Cité par**:
 
@@ -15811,6 +15807,10 @@ Il fait connaître aux ministres compétents, par voie de référé, les observa
 	  - Code des juridictions financières - art. R112-20 (T)
 	  - Code des juridictions financières - art. R112-7 (M)
 	  - Code des juridictions financières - art. R143-14 (M)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R112-17 (V)
 
 
 ###### Article R112-4
@@ -16249,27 +16249,31 @@ Le greffe procède aux notifications prévues aux articles R. 141-10, R. 141-12,
 
 ###### Article R112-15
 
-La Cour des comptes se réunit soit en audience solennelle, soit en chambre du conseil, soit toutes chambres réunies statuant
-en formation plénière ou en formation restreinte, soit par chambre ou section de chambre, soit en formation interchambres
-dans les conditions prévues à l'article R. 112-21.
+La Cour des comptes se réunit soit en audience solennelle, soit en chambre du conseil statuant en formation plénière ou en
+formation ordinaire, soit toutes chambres réunies statuant en formation plénière ou en formation restreinte, soit par chambre
+ou section de chambre, soit en formation interchambres dans les conditions prévues à l'article R. 112-21.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-199 1985-02-11, art 5
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2007-543 du 12 avril 2007 - art. 9 () JORF 13 avril 2007
+	  - Décret n°2012-388  du 21 mars 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 18
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. R112-21 (M)
+	  - Code des juridictions financières - art. R112-21 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R112-34 (V)
 
 	**Cité par**:
 
@@ -16313,46 +16317,27 @@ Les conseillers référendaires et les auditeurs portent la robe de soie noire.
 
 ###### Article R112-17
 
-La chambre du conseil est composée du premier président, des présidents de chambre, des conseillers maîtres, des conseillers
-maîtres en service extraordinaire et, le cas échéant, de présidents de chambre régionale ou territoriale des comptes ayant le
-grade de conseiller maître.
-
-Le procureur général assiste aux séances de la chambre du conseil et participe aux débats. Il peut être accompagné d'un
-avocat général ou d'un chargé de mission.
-
-La chambre du conseil est saisie des projets de rapports publics, de rapports prévus aux articles LO. 132-2-1 et LO. 132-3
-ainsi qu'aux 3°, 4° et 5° de l'article 58 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances et
-en arrête le texte. Elle adopte les rapports, après avoir pris connaissance des réponses des ministres et des représentants
-des organismes intéressés.
-
-Elle délibère également sur toutes affaires ou questions qui lui sont soumises par le premier président, soit de son propre
-chef, soit sur proposition du procureur général.
-
-Le rapporteur est soit le rapporteur général du comité du rapport public et des programmes, soit un conseiller maître désigné
-par le premier président. Le rapporteur peut être assisté de conseillers référendaires, d'auditeurs ou de rapporteurs
-extérieurs à temps plein qui participent aux débats avec voix consultative.
-
-Le secrétariat de la chambre du conseil est assuré par le secrétaire général de la Cour des comptes.
+La chambre du conseil se réunit soit en formation plénière, soit en formation ordinaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-199 du 11 février 1985 - art. 7 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Cite**:
 
-	  - Loi n°2001-692 du 1 août 2001 - art. 58 (M)
-	  - Code des juridictions financières - art. L132-3 (Ab)
-	  - Code des juridictions financières - art. LO132-2-1 (V)
+	  - Loi organique n°2001-692 du 1er août 2001 - art. 58
+	  - Code des juridictions financières - art. LO132-2-1
+	  - Code des juridictions financières - art. LO132-3
 
 	**Modifié par**:
 
-	  - Décret n°2007-1298 du 31 août 2007 - art. 3 () JORF 2 septembre 2007
+	  - Décret n°2012-388  du 21 mars 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 20
 
 	**Cité par**:
 
@@ -16361,6 +16346,116 @@ Le secrétariat de la chambre du conseil est assuré par le secrétaire généra
 	  - Code des juridictions financières - art. R112-3 (T)
 	  - Code des juridictions financières - art. R120-5 (V)
 	  - Code des juridictions financières - art. R136-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R112-36 (V)
+
+
+###### Article R112-17-1
+
+I. ― La chambre du conseil en formation plénière est composée du premier président, des présidents de chambre, y compris ceux
+maintenus en activité en application de l'article 1er de la loi n° 86-1304 du 23 décembre 1986 relative à la limite d'âge et
+aux modalités de recrutement de certains fonctionnaires civils de l'Etat, des conseillers maîtres, des conseillers maîtres en
+service extraordinaire et des présidents de chambre régionale et territoriale des comptes ayant le grade de conseiller
+maître. Les conseillers référendaires et les auditeurs y ont accès sans voix délibérative. 
+
+II. ― La chambre du conseil en formation plénière est saisie des projets du rapport public annuel prévu à l'article L. 143-6,
+des rapports prévus aux articles LO 132-2-1 et LO 132-3 ainsi qu'aux 3°, 4° et 5° de l'article 58 de la loi organique n°
+2001-692 du 1er août 2001 relative aux lois de finances, et en arrête le texte. Le premier président peut également, soit de
+son propre chef, soit sur proposition du procureur général, la saisir de tout autre projet de rapport, dont elle arrête le
+texte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-1304 du 23 décembre 1986 - art. 1
+	  - Loi organique n°2001-692 du 1er août 2001 - art. 58
+	  - Code des juridictions financières - art. L143-6 (V)
+	  - Code des juridictions financières - art. LO132-2-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2012-388  du 21 mars 2012 - art. 3
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R112-17-2 (T)
+
+
+###### Article R112-17-2
+
+I. ― La chambre du conseil en formation ordinaire est composée du premier président, des présidents de chambre, y compris
+ceux maintenus en activité en application de l'article 1er de la loi n° 86-1304 du 23 décembre 1986 relative à la limite
+d'âge et aux modalités de recrutement de certains fonctionnaires civils de l'Etat et de cinq conseillers maîtres par chambre,
+désignés chaque année par le premier président sur proposition du président de chambre intéressé. Un suppléant est désigné
+pour chacun des conseillers maîtres susmentionnés. Participent également à cette formation les présidents de chambre
+régionale ou territoriale des comptes ayant le grade de conseiller maître lorsque la chambre qu'ils président a participé au
+rapport examiné. Les autres membres de la Cour des comptes ont accès à la chambre du conseil en formation ordinaire sans voix
+délibérative. 
+
+II. ― La chambre du conseil en formation ordinaire est saisie des projets de rapports publics autres que ceux mentionnés au
+II de l'article R. 112-17-1 et à l'exclusion de ceux prévus à l'article L. 111-8. Elle en arrête le texte. Le premier
+président peut également, soit de son propre chef, soit sur proposition du procureur général, la saisir de tout autre projet
+de rapport, dont elle arrête le texte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-1304 du 23 décembre 1986 - art. 1
+	  - Code des juridictions financières - art. L111-8
+	  - Code des juridictions financières - art. R112-17-1
+
+	**Créé par**:
+
+	  - Décret n°2012-388  du 21 mars 2012 - art. 3
+
+
+###### Article R112-17-3
+
+Dans chacune des deux formations prévues à l'article R. 112-17 : 
+
+1° La chambre du conseil ne peut valablement délibérer que si la moitié au moins de ses membres sont présents ; 
+
+2° En cas de partage égal des voix, celle du président est prépondérante ; 
+
+3° Le procureur général assiste aux séances et participe aux débats. Il peut être accompagné d'un avocat général ou d'un
+chargé de mission ; 
+
+4° Le rapporteur est soit le rapporteur général du comité du rapport public et des programmes, soit un conseiller maître
+désigné par le premier président. Le rapporteur peut être assisté de conseillers référendaires, d'auditeurs ou de rapporteurs
+extérieurs à temps plein, qui participent aux débats avec voix consultative ; 
+
+5° La chambre du conseil adopte les rapports après avoir pris connaissance des réponses des ministres et des représentants
+des organismes intéressés ; 
+
+6° Le secrétariat est assuré par le secrétaire général de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-388  du 21 mars 2012 - art. 3
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R112-17
+
+
+###### Article R112-17-4
+
+Lorsqu'il y a lieu, pour la Cour des comptes, d'élire un de ses membres pour la représenter auprès d'une institution, d'un
+organisme ou d'une commission, il est procédé à l'élection en chambre du conseil en formation plénière si le texte institutif
+le prévoit et en chambre du conseil ordinaire dans les autres cas. L'élection a lieu au scrutin secret à la majorité des
+membres présents, dans des conditions fixées par arrêté du premier président.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-388  du 21 mars 2012 - art. 3
 
 
 ###### Article R112-18
@@ -19312,43 +19407,49 @@ en tenant lieu, lors de la première réunion qui suit leur réception.
 
 ###### Article R136-1
 
-Les projets de rapports dont est saisie la chambre du conseil en application de l'article R. 112-17 sont préalablement
-examinés par le comité du rapport public et des programmes au vu des propositions transmises par les chambres, les formations
-interchambres ou les formations communes aux juridictions, ou élaborées selon la procédure définie en application du second
-alinéa de l'article R. 136-3. Les projets sont communiqués par le premier président aux ministres et aux représentants des
-collectivités et organismes intéressés. Ces derniers adressent leurs réponses dans un délai d'un mois, sauf prorogation
-accordée par le premier président sur demande écrite et motivée tendant à l'octroi d'un délai supplémentaire.
+Les projets de rapports dont est saisie la chambre du conseil en application des articles R. 112-17-1 à R. 112-17-2 sont
+préalablement examinés par le comité du rapport public et des programmes au vu des propositions transmises par les chambres,
+les formations interchambres ou les formations communes aux juridictions, ou élaborées selon la procédure définie en
+application du second alinéa de l'article R. 136-3. Les projets sont communiqués par le premier président aux ministres et
+aux représentants des collectivités et organismes intéressés. Ces derniers adressent leurs réponses dans un délai d'un mois,
+sauf prorogation accordée par le premier président sur demande écrite et motivée tendant à l'octroi d'un délai
+supplémentaire. 
 
-La chambre du conseil arrête le texte des rapports selon les modalités prévues à l'article R. 112-17.
+La chambre du conseil arrête le texte des rapports selon les modalités prévues aux articles R. 112-17 à R. 112-17-3. 
 
-Les réponses sont annexées aux rapports publiés.
+Les réponses sont annexées aux rapports publiés. 
 
 Le premier président remet le rapport annuel au Président de la République. Il le dépose sur les bureaux de l'Assemblée
 nationale et du Sénat. Il en assure la publication au Journal officiel.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-199 du 11 février 1985 - art. 52 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2007-1298 du 31 août 2007 - art. 5 () JORF 2 septembre 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2012-388  du 21 mars 2012 - art. 4
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 24
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. R112-17 (M)
-	  - Code des juridictions financières - art. R136-3 (M)
+	  - Code des juridictions financières - art. R112-17
+	  - Code des juridictions financières - art. R112-17-1 (T)
+	  - Code des juridictions financières - art. R136-3
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R137-3 (T)
 	  - Code des juridictions financières - art. R137-4 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R143-5 (M)
 
 
 ###### Article R136-2

@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2012-04-02
+Version Consolidée au 2012-05-06
 
 # Partie législative
 
@@ -14698,8 +14698,7 @@ Premier ministre, à l'intéressé, au ministre dont l'intéressé dépend, au m
 
 Si le procureur général conclut au renvoi devant la cour, l'intéressé est avisé par lettre recommandée avec demande d'avis de
 réception, qu'il peut, dans le délai de quinze jours, prendre connaissance au secrétariat de la Cour, soit par lui-même, soit
-par mandataire, soit par un avocat ou un avoué, soit par un avocat au Conseil d'Etat et à la Cour de cassation, du dossier de
-l'affaire.
+par mandataire, soit par un avocat, soit par un avocat au Conseil d'Etat et à la Cour de cassation, du dossier de l'affaire.
 
 Le dossier communiqué est le dossier complet de l'affaire, y compris les conclusions du procureur général.
 
@@ -14710,15 +14709,11 @@ L'intéressé peut, dans le délai d'un mois à dater de la communication qui lu
 
 	**Codifié par**:
 
-	  - Loi n°95-851 1995-07-24
-
-	**Anciens textes**:
-
-	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+	  - Loi n°95-851 du 24 juillet 1995
 
 	**Modifié par**:
 
-	  - Décret n°2005-677 du 17 juin 2005 - art. 1 () JORF 18 juin 2005
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 
 ###### Article L314-9

@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2012-05-06
+Version Consolidée au 2012-05-09
 
 # Partie législative
 
@@ -23453,25 +23453,21 @@ recueille la majorité des membres présents ; à défaut, aucune sanction n'est
 
 Les grades du corps des magistrats des chambres régionales des comptes comportent le nombre d'échelons suivant :
 
-1° Président de section de chambre régionale des comptes : quatre échelons ;
+1° Président de section de chambre régionale des comptes : quatre échelons et deux échelons spéciaux ;
 
-2° Premier conseiller de chambre régionale des comptes : sept échelons ;
+2° Premier conseiller de chambre régionale des comptes : sept échelons et un échelon spécial ;
 
 3° Conseiller de chambre régionale des comptes : sept échelons.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°82-970 1982-11-16, art 7
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2006-232 du 27 février 2006 - art. 2 () JORF 28 février 2006 en vigueur le 1er mars 2006
+	  - Décret n°2012-672 du 7 mai 2012 - art. 1
 
 
 ###### Article R224-2
@@ -23525,6 +23521,38 @@ L'avancement d'échelon est prononcé par décision du premier président de la 
 	**Créé par**:
 
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+
+
+###### Article R224-3-1
+
+I.  ― Pour les premiers conseillers ayant au moins quinze années  d'ancienneté dans le corps et au moins sept ans
+d'ancienneté au 7e  échelon de leur grade, l'avancement à l'échelon spécial du grade de  premier conseiller se fait dans la
+limite d'un pourcentage des effectifs  du grade fixé par arrêté conjoint du Premier ministre, du ministre  chargé du budget
+et du ministre chargé de la fonction publique. L'accès à  cet échelon spécial s'effectue par ordre d'ancienneté dans le 7e
+échelon. 
+
+II. ― Pour les présidents de section  ayant atteint le 4e échelon de ce grade depuis au moins cinq ans,  l'avancement au
+premier échelon spécial du grade de président de section  se fait dans la limite d'un pourcentage des effectifs du grade fixé
+par  arrêté conjoint du Premier ministre, du ministre chargé du budget et du  ministre chargé de la fonction publique.
+L'accès à cet échelon spécial  s'effectue par ordre d'ancienneté dans le 4e échelon. 
+
+III. ― Pour les présidents de section ayant atteint le premier échelon  spécial depuis au moins cinq ans, l'avancement au
+deuxième échelon  spécial du grade de président de section se fait dans la limite d'un  pourcentage des effectifs du premier
+échelon spécial fixé par arrêté  conjoint du Premier ministre, du ministre chargé du budget et du  ministre chargé de la
+fonction publique. L'accès à ce deuxième échelon  spécial s'effectue par ordre d'ancienneté dans le premier échelon  spécial.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 7 mai 2012 - art. 1 (V)
+	  - Arrêté du 7 mai 2012 - art. 2 (V)
+	  - Arrêté du 7 mai 2012 - art. 3 (V)
+	  - Arrêté du 4 juin 2014 (V)
+
+	**Créé par**:
+
+	  - Décret n°2012-672 du 7 mai 2012 - art. 2
 
 
 ###### Article R224-4

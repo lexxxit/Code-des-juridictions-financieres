@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2012-05-09
+Version Consolidée au 2012-06-30
 
 # Partie législative
 
@@ -17668,6 +17668,26 @@ Cour des comptes.
 	  - Code des juridictions financières - art. R127-8 (V)
 
 
+###### Article R126-9
+
+Le secrétariat du Conseil supérieur de la Cour des comptes statuant en formation disciplinaire est assuré par le secrétaire
+général de la Cour des comptes ou un secrétaire général adjoint.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-826 du 27 juin 2012 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 31
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R127-9 (V)
+
+
 ### TITRE III : Compétences et attributions
 
 #### CHAPITRE Ier : Compétences juridictionnelles
@@ -21322,6 +21342,8 @@ Provence-Alpes-Côte d'Azur : quatre sections.
 
 ##### Paragraphe 3 : Le président
 
+##### Paragraphe 3 : Le président et le vice-président
+
 ###### Article R*212-7-1
 
 Le président de la chambre régionale des comptes est ordonnateur secondaire des dépenses et des recettes de la juridiction
@@ -21391,48 +21413,49 @@ Il nomme les experts auxquels la chambre régionale des comptes recourt.
 
 ###### Article R212-8
 
-En cas d'absence, d'empêchement ou de vacance, le président de la chambre régionale des comptes est remplacé par le magistrat
-du siège, présent à la chambre, le plus ancien dans le grade le plus élevé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 4
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-
-###### Article R212-8-1
-
-Le vice-président de la chambre régionale des comptes d'Ile-de-France assiste le président de la chambre dans la direction
-générale de la juridiction. A cette fin, il peut recevoir délégation de signature du président de la chambre.
-
-Il est membre des formations de la chambre réunie en séance plénière, en formation restreinte ou en sections réunies. Il peut
-présider, dans les conditions fixées par arrêté du président de la chambre, les formations de délibéré.
-
-Il peut signer, au lieu et place du président de la chambre, après avoir reçu délégation à cette fin, les actes, avis,
-décisions ou observations délibérées par la chambre.
-
-En cas d'absence, d'empêchement ou de vacance, le président de la chambre régionale des comptes d'Ile-de-France est remplacé
-par le vice-président ou, à défaut, par le magistrat du siège présent à la chambre, le plus ancien dans le grade le plus
+En cas d'absence, d'empêchement ou de vacance, le président de la chambre régionale des comptes est remplacé le cas échéant,
+par le vice-président, ou, à défaut, par le magistrat du siège, présent à la chambre, le plus ancien dans le grade le plus
 élevé.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 20 ()
+	  - Décret n°2012-826 du 27 juin 2012 - art. 5
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 73
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R212-6 (V)
+
+
+###### Article R212-8-1
+
+Le vice-président assiste le président de la chambre dans la direction générale de la juridiction. A cette fin, il peut
+recevoir délégation de signature du président de la chambre. 
+
+Il est membre des formations de la chambre réunie en séance plénière, en formation restreinte ou en sections réunies. Il peut
+présider, dans les conditions fixées par arrêté du président de la chambre, les formations de délibéré. 
+
+Il peut signer, au lieu et place du président de la chambre, après avoir reçu délégation à cette fin, les actes, avis,
+décisions ou observations délibérées par la chambre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Modifié par**:
+
+	  - Décret n°2012-826 du 27 juin 2012 - art. 6
 
 	**Cité par**:
 
@@ -22030,16 +22053,16 @@ Le greffe procède aux notifications prévues aux articles R. 241-32, R. 241-34,
 
 ###### Article R212-26
 
-Le président de la chambre régionale des comptes, le vice-président de la chambre régionale des comptes d'Ile-de-France et
-les présidents de section disposent du service du greffe de la chambre.
+Le président de la chambre régionale des comptes, le vice-président et les présidents de section disposent du service du
+greffe de la chambre. 
 
 Le greffe prépare l'ordre du jour des séances de la chambre et des sections, note les décisions prises et assure la tenue des
-rôles, registres et dossiers.
+rôles, registres et dossiers. 
 
 Il tient à la disposition des personnes intéressées la liste des jugements communicables en application de l'article D.
 247-1, des lettres d'observations définitives, avis et décisions, mentionnés au présent code et communicables en application
 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le
-public et diverses dispositions d'ordre administratif, social et fiscal.
+public et diverses dispositions d'ordre administratif, social et fiscal. 
 
 Il procède, sous le contrôle du ministère public, à l'enregistrement des comptes produits à la chambre et des actes,
 documents et requêtes dont elle est saisie.
@@ -22048,20 +22071,16 @@ documents et requêtes dont elle est saisie.
 
 	**Cite**:
 
-	  - Loi n°78-753 1978-07-17
-	  - Code des juridictions financières - art. D247-1 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 12
+	  - Loi n°78-753 du 17 juillet 1978
+	  - Code des juridictions financières - art. D247-1
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 23 ()
+	  - Décret n°2012-826 du 27 juin 2012 - art. 7
 
 
 ###### Article R212-27
@@ -22261,43 +22280,47 @@ La chambre régionale des comptes se réunit soit en formation plénière, soit 
 ###### Article R212-33
 
 Dès lors que ces formations ont été instituées dans les conditions fixées au troisième alinéa de l'article R. 212-7, la
-chambre régionale des comptes peut également délibérer en formation restreinte de chambre et en sections réunies.
+chambre régionale des comptes peut également délibérer en formation restreinte de chambre et en sections réunies. 
 
 La formation restreinte de chambre est composée, lorsqu'il n'existe pas de section, du président de la chambre, du rapporteur
 et du contre-rapporteur quand celui-ci a été désigné ou, dans le cas contraire, du magistrat, présent à la chambre, le plus
 ancien dans le grade le plus élevé. La formation restreinte de chambre est composée, lorsqu'il existe une ou plusieurs
 sections, du président de la chambre, du ou des présidents de section, du rapporteur, le cas échéant du contre-rapporteur et,
 conformément à la règle de l'imparité fixée par le premier alinéa de l'article R. 212-31, du ou des deux magistrats présents
-à la chambre les plus anciens dans le grade le plus élevé.
+à la chambre les plus anciens dans le grade le plus élevé. 
 
 Lorsqu'il existe plus de quatre sections, la formation restreinte est composée du président de la chambre, des trois
 présidents de section les plus anciens dans le grade, du rapporteur, le cas échéant du contre-rapporteur et, conformément à
 la règle de l'imparité fixée par le premier alinéa de l'article R. 212-31, du ou des deux magistrats présents à la chambre
-les plus anciens dans le grade le plus élevé.
+les plus anciens dans le grade le plus élevé. 
 
-A la chambre régionale des comptes d'Ile-de-France, le vice-président est membre de la formation restreinte.
+Le vice-président est membre de la formation restreinte. 
 
 La formation en sections réunies est composée du président de la chambre, du vice-président et des membres des sections
 intéressées par une même affaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 18
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 24 ()
+	  - Décret n°2012-826 du 27 juin 2012 - art. 8
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 78
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. R212-31 (V)
-	  - Code des juridictions financières - art. R212-7 (V)
+	  - Code des juridictions financières - art. R*212-31 (V)
+	  - Code des juridictions financières - art. R212-7
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R212-27 (V)
 
 	**Cité par**:
 
@@ -22458,36 +22481,35 @@ Sont électeurs et éligibles tous les magistrats exerçant les fonctions du min
 ###### Article R212-47
 
 Le conseiller maître représentant les magistrats de la Cour des comptes au Conseil supérieur des chambres régionales des
-comptes est élu, ainsi qu'un suppléant.
+comptes est élu, ainsi qu'un suppléant. 
 
 Sont électeurs les membres de la Cour des comptes en position d'activité, de congé parental ou de détachement, à l'exclusion
-de ceux qui exercent les fonctions de président de chambre régionale ou territoriale des comptes ou de vice-président de la
-chambre régionale des comptes d'Ile-de-France.
+de ceux qui exercent les fonctions de président ou de vice-président de chambre régionale des comptes. 
 
 Sont éligibles les conseillers maîtres à la Cour des comptes qui ont la qualité d'électeur, à l'exclusion du président de la
 mission permanente d'inspection, membre de droit du Conseil supérieur des chambres régionales des comptes et des conseillers
-maîtres en position de détachement.
+maîtres en position de détachement. 
 
 Sont élus le candidat titulaire et le candidat suppléant qui ont obtenu le plus grand nombre de suffrages exprimés. En cas
-d'égalité, le plus âgé des candidats est proclamé élu.
+d'égalité, le plus âgé des candidats est proclamé élu. 
 
-Les modalités des opérations électorales sont fixées par un arrêté du premier président de la Cour des comptes.
+Les modalités des opérations électorales sont fixées par un arrêté du premier président de la Cour des comptes. 
 
 Les dispositions du deuxième alinéa de l'article R. 212-36 et celles de l'article R. 212-45 sont applicables.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 41 (M)
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 28 ()
+	  - Décret n°2012-826 du 27 juin 2012 - art. 9
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 88
 
 	**Cité par**:
 
@@ -22496,18 +22518,23 @@ Les dispositions du deuxième alinéa de l'article R. 212-36 et celles de l'arti
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. R212-45 (V)
+	  - Code des juridictions financières - art. R212-36
+	  - Code des juridictions financières - art. R212-45
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R220-9 (V)
 
 
 ###### Article R212-47-1
 
-Pour l'élection des représentants titulaires et suppléants des magistrats exerçant les fonctions de président de chambre
-régionale des comptes et de vice-président de la chambre régionale des comptes d'Ile-de-France, les candidatures font l'objet
-d'une liste qui doit comporter le nom d'un candidat titulaire et d'un candidat suppléant pour chacun des deux sièges à
-pourvoir au titre des conseillers maîtres et des conseillers référendaires.
+Pour l'élection des représentants titulaires et suppléants des magistrats exerçant les fonctions de président ou de vice-
+président de chambre régionale des comptes, les candidatures font l'objet d'une liste qui doit comporter le nom d'un candidat
+titulaire et d'un candidat suppléant pour chacun des deux sièges à pourvoir au titre des conseillers maîtres et des
+conseillers référendaires.
 
-Sont électeurs et éligibles les magistrats exerçant les fonctions de président de chambre régionale des comptes et de vice-
-président de la chambre régionale des comptes d'Ile-de-France. Ils constituent un collège électoral unique.
+Sont électeurs et éligibles les magistrats exerçant les fonctions de président ou de vice-président de chambre régionale des
+comptes. Ils constituent un collège électoral unique.
 
 Sont proclamés élus les candidats titulaires et suppléants ayant obtenu le plus grand nombre de suffrages exprimés. En cas
 d'égalité, le plus âgé des candidats est proclamé élu.
@@ -22518,11 +22545,19 @@ Les modalités des opérations électorales sont fixées par un arrêté du prem
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 29 ()
+	  - Décret n°2012-826 du 27 juin 2012 - art. 10
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 88
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R220-10 (V)
 
 
 ###### Article R212-48
@@ -22651,14 +22686,15 @@ moins quatre des membres élus titulaires et, dans ce cas, dans le délai de deu
 
 ###### Article R212-54
 
-Le secrétariat permanent du Conseil supérieur des chambres régionales des comptes est assuré par un membre du corps des
-chambres régionales des comptes n'appartenant pas à ce conseil, affecté à ces fonctions avec son accord, par arrêté du
-premier président de la Cour des comptes, sur proposition du conseil supérieur. La durée de cette affectation ne peut excéder
-cinq ans. Il ne peut y être mis fin que sur proposition du conseil supérieur.
+Le secrétariat permanent du Conseil supérieur des chambres régionales des comptes est assuré sauf lorsqu'il se réunit pour
+statuer en formation disciplinaire, par un membre du corps des chambres régionales des comptes n'appartenant pas à ce
+conseil, affecté à ces fonctions avec son accord, par arrêté du premier président de la Cour des comptes, sur proposition du
+conseil supérieur. La durée de cette affectation ne peut excéder cinq ans. Il ne peut y être mis fin que sur proposition du
+conseil supérieur. 
 
 Le conseil supérieur établit son règlement intérieur, qui détermine notamment les modalités de fixation de l'ordre du jour,
 l'organisation de ses travaux ainsi que les conditions dans lesquelles il prend les décisions et rend les avis prévus par le
-présent code.
+présent code. 
 
 Un procès-verbal est établi après chaque séance du Conseil supérieur des chambres régionales des comptes par les soins du
 secrétaire de ce conseil. Il est signé par le président, contresigné par le secrétaire et par un membre élu titulaire désigné
@@ -22668,7 +22704,15 @@ secrétaire de ce conseil. Il est signé par le président, contresigné par le 
 
 	**Modifié par**:
 
-	  - Décret n°2010-519 du 20 mai 2010 - art. 3
+	  - Décret n°2012-826 du 27 juin 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 88
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R220-16 (V)
 
 
 #### TITRE II : Dispositions statutaires
@@ -22697,23 +22741,19 @@ grade dans l'ordre de leur nomination.
 
 ###### Article R221-2
 
-La liste d'aptitude à l'emploi de président de chambre régionale des comptes et de vice-président de la chambre régionale des
-comptes d'Ile-de-France est établie chaque année par le Conseil supérieur des chambres régionales des comptes ; sa validité
-est de douze mois à compter de sa publication au Journal officiel de la République française.
+La liste d'aptitude à l'emploi de président ou de vice-président de chambre régionale des comptes est établie chaque année
+par le Conseil supérieur des chambres régionales des comptes ; sa validité est de douze mois à compter de sa publication au
+Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°82-970 du 16 novembre 1982 - art. 26 (M)
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 33 ()
+	  - Décret n°2012-826 du 27 juin 2012 - art. 11
 
 
 ###### Article R221-3
@@ -23447,6 +23487,18 @@ recueille la majorité des membres présents ; à défaut, aucune sanction n'est
 	  - Décret n°2002-1201 du 27 septembre 2002 - art. 45 ()
 
 
+###### Article R223-9
+
+Le secrétariat du Conseil supérieur des chambres régionales des comptes statuant en formation disciplinaire est assuré par le
+secrétaire général de la Cour des comptes ou un secrétaire général adjoint.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-826 du 27 juin 2012 - art. 3
+
+
 ##### CHAPITRE IV : Avancement
 
 ###### Article R224-1
@@ -24001,37 +24053,44 @@ exerçait jusqu'alors les fonctions du ministère public.
 	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
 
 
-##### CHAPITRE VII : Emploi de président de chambre régionale et territoriale des comptes et de vice-président de la chambre régionale des comptes d'Ile-de-France
+##### CHAPITRE VII : Emploi de président et de vice-président de chambre régionale des comptes
 
 ###### Article R227-1
 
-Dans l'emploi de président de chambre régionale des comptes et de vice-président de la chambre régionale des comptes d'Ile-
-de-France, les magistrats nommés exercent les missions qui leur sont respectivement dévolues par les articles R. 212-7 et R.
-212-8-1.
+Dans l'emploi de président et de vice-président de chambre régionale des comptes, les magistrats nommés exercent les missions
+qui leur sont respectivement dévolues par les articles R. 212-7 et R. 212-8-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1201 du 27 septembre 2002 - art. 48 ()
+	  - Décret n°2012-826 du 27 juin 2012 - art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 35
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R212-7
+	  - Code des juridictions financières - art. R212-8-1
 
 
 ###### Article R227-2
 
-L'emploi de président de chambre régionale des comptes et de vice-président de la chambre régionale des comptes d'Ile-de-
-France comporte six échelons.
+L'emploi de président et de vice-président de chambre régionale des comptes comporte six échelons.
 
 La durée du temps de services effectifs passé dans chaque échelon pour accéder à l'échelon supérieur est fixée à un an pour
 le 1er échelon, à trois ans pour les 2e et 3e échelons et à cinq ans pour les 4e et 5e échelons.
 
-Les magistrats détachés dans l'emploi de président de chambre régionale des comptes ou de vice-président de la chambre
-régionale des comptes d'Ile-de-France sont classés à l'échelon comportant un indice égal ou immédiatement supérieur à celui
-qu'ils détiennent dans leur grade d'origine. Ils conservent, dans la limite de la durée de services exigée pour l'accès à
-l'échelon supérieur de leur nouvel emploi, l'ancienneté acquise dans l'échelon de leur grade.
+Les magistrats détachés dans l'emploi de président et de vice-président de chambre régionale des comptes sont classés à
+l'échelon comportant un indice égal ou immédiatement supérieur à celui qu'ils détiennent dans leur grade d'origine. Ils
+conservent, dans la limite de la durée de services exigée pour l'accès à l'échelon supérieur de leur nouvel emploi,
+l'ancienneté acquise dans l'échelon de leur grade.
 
 Les présidents de chambre régionale nommés conseillers maîtres sont classés à l'échelon comportant un indice égal ou
 immédiatement supérieur à celui qu'ils détiennent dans leur grade.
@@ -24040,15 +24099,188 @@ immédiatement supérieur à celui qu'ils détiennent dans leur grade.
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2006-1262 du 16 octobre 2006 - art. 14 () JORF 17 octobre 2006
+	  - Décret n°2012-826 du 27 juin 2012 - art. 14
 
 	**Cité par**:
 
 	  - Décret n°2017-294 du 7 mars 2017 - art. 4 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 99
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R227-1 (V)
+
+
+##### Chapitre VIII : Recrutement direct
+
+###### Article R228-1
+
+L'ouverture du concours prévu à l'article L. 224-1 en vue du recrutement direct de conseillers de chambre régionale des
+comptes donne lieu à publicité, notamment par la voie du Journal officiel de la République française, au moins deux mois
+avant la date des épreuves écrites. Cette publicité indique la date des épreuves écrites, la date limite et le lieu de dépôt
+des candidatures.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-826 du 27 juin 2012 - art. 15
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L224-1
+
+
+###### Article R228-2
+
+Le jury est présidé par le président de la mission permanente d'inspection des chambres régionales et territoriales des
+comptes.
+
+Il comprend :
+
+1° Trois membres désignés respectivement par le ministre chargé des collectivités territoriales, le ministre chargé du budget
+et le ministre chargé de la fonction publique ;
+
+2° Deux professeurs des universités titulaires ;
+
+3° Un avocat général ou un procureur financier désigné par le procureur général près la Cour des comptes ;
+
+4° Un président de chambre régionale des comptes ;
+
+5° Deux membres du corps des magistrats de chambre régionale des comptes, proposés par le Conseil supérieur des chambres
+régionales des comptes.
+
+Les membres du jury mentionnés aux 2°, 4° et 5° ci-dessus sont nommés par arrêté du premier président de la Cour des comptes.
+
+Cet arrêté désigne le remplaçant du président dans le cas où celui-ci se trouverait dans l'impossibilité de poursuivre sa
+mission. Il peut également comporter les noms de correcteurs adjoints qui participent, avec les membres du jury, à la
+correction des épreuves écrites et assistent aux délibérations du jury avec voix consultative pour l'attribution des notes se
+rapportant aux épreuves qu'ils ont corrigées.
+
+En cas de partage égal des voix, le président du jury a voix prépondérante.
+
+Dans la limite des postes ouverts, le jury inscrit par ordre de mérite les candidats qu'il retient sur une liste publiée au
+Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-826 du 27 juin 2012 - art. 15
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R228-6 (V)
+	  - Code des juridictions financières - art. R228-7 (V)
+
+
+###### Article R228-3
+
+Nul ne peut se présenter plus de trois fois au concours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-826 du 27 juin 2012 - art. 15
+
+
+###### Article R228-4
+
+Le concours comporte deux épreuves écrites d'admissibilité et une épreuve orale d'admission :
+
+1° Epreuves d'admissibilité :
+
+a) Une épreuve consistant en l'étude d'un dossier de finances publiques (durée : 4 heures ; coefficient 2) ;
+
+b) Une composition portant sur le droit constitutionnel ou administratif (durée : 4 heures ; coefficient 1) ;
+
+2° Epreuve d'admission : une interrogation portant sur un sujet se rapportant à la gestion publique locale, dont le sujet est
+tiré au sort par le candidat, suivie d'une conversation d'ordre général (durée : quarante-cinq minutes précédées de trente
+minutes de préparation ; coefficient 2).
+
+Le programme des épreuves est fixé par arrêté du Premier ministre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-826 du 27 juin 2012 - art. 15
+
+	**Cité par**:
+
+	  - Arrêté du 13 février 2014 - art. 1 (V)
+
+
+###### Article R228-5
+
+Les notes vont de 0 à 20. Toute note inférieure à 5 avant l'application des coefficients est éliminatoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-826 du 27 juin 2012 - art. 15
+
+
+###### Article R228-6
+
+Les membres du corps des magistrats de chambre régionale des comptes recrutés par la voie du concours direct sont nommés et
+titularisés au premier échelon du grade de conseiller. Les nominations suivent l'ordre de la liste mentionnée au dernier
+alinéa de l'article R. 228-2. 
+
+Ceux qui justifient d'une ou de plusieurs activités professionnelles antérieures dans des fonctions normalement exercées à
+temps complet, en qualité d'agent public d'un niveau équivalent à la catégorie A, de cadre, au sens de la convention
+collective dont ils relevaient, d'avocat au Conseil d'Etat et à la Cour de cassation, d'avocat, d'avoué, de notaire,
+d'huissier de justice, d'expert-comptable ou de commissaire aux comptes, sont classés au grade de conseiller à un échelon
+déterminé sur la base des durées fixées pour chaque avancement d'échelon à l'article R. 224-2, en prenant en compte la moitié
+de la durée de cette ou de ces activités professionnelles, dans la limite de sept années. 
+
+Toutefois, les fonctionnaires, les militaires et les magistrats sont nommés dans les conditions prévues à l'article R.
+221-13.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-826 du 27 juin 2012 - art. 15
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R221-13
+	  - Code des juridictions financières - art. R224-2
+	  - Code des juridictions financières - art. R228-2
+
+
+###### Article R228-7
+
+Les membres du corps des magistrats de chambre régionale des comptes recrutés par la voie du concours direct reçoivent une
+formation à la Cour des comptes dont la durée ne peut être supérieure à six mois. 
+
+A l'issue de cette formation, ils choisissent, dans l'ordre de la liste mentionnée au dernier alinéa de l'article R. 228-2 et
+dans la limite des postes offerts, leur chambre d'affectation sur une liste arrêtée par le premier président de la Cour des
+comptes après avis du Conseil supérieur des chambres régionales des comptes. Les affectations sont prononcées par décision du
+premier président de la Cour des comptes. 
+
+Les conseillers qui n'exercent pas de choix sont affectés d'office. Si les intéressés n'acceptent pas cette affectation, ils
+sont considérés comme démissionnaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-826 du 27 juin 2012 - art. 15
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R228-2
 
 
 #### TITRE III : Compétences et attributions

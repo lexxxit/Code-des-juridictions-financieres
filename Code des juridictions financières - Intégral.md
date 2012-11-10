@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2012-06-30
+Version Consolidée au 2012-11-11
 
 # Partie législative
 
@@ -15920,10 +15920,10 @@ l'amende prévue par la loi.
 
 Il défère à la Cour des comptes les opérations qu'il présume constitutives de gestion de fait, à son initiative ou à la
 demande du ministre chargé du budget, des ministres intéressés, des représentants de l'Etat dans les régions, la collectivité
-territoriale de Corse, les départements ou les collectivités d'outre-mer, des procureurs de la République, des trésoriers-
-payeurs généraux et des autres comptables principaux, ou au vu des constatations faites lors d'un contrôle de la Cour des
-comptes ou des autres informations dont il dispose. Il requiert en cas de besoin l'application de l'amende pour immixtion
-dans les fonctions de comptable public. 
+territoriale de Corse, les départements ou les collectivités d'outre-mer, des procureurs de la République, des   directeurs
+départementaux ou, le cas échéant, régionaux des finances publiques  et des autres comptables principaux, ou au vu des
+constatations faites lors d'un contrôle de la Cour des comptes ou des autres informations dont il dispose. Il requiert en cas
+de besoin l'application de l'amende pour immixtion dans les fonctions de comptable public. 
 
 Il adresse à la Cour les appels formés contre les jugements et ordonnances rendus par les chambres régionales et
 territoriales des comptes, sur transmission du greffe de ces chambres. 
@@ -15931,7 +15931,7 @@ territoriales des comptes, sur transmission du greffe de ces chambres.
 Lui sont obligatoirement communiqués, avec pièces à l'appui, les rapports à fin d'arrêt ou d'ordonnance et de décision sur la
 compétence. 
 
-Il présente ses conclusions écrites sur ces rapports.
+Il présente ses conclusions écrites sur ces rapports. 
 
 S'il n'a pas conclu à la décharge du comptable, il saisit la formation de jugement pour la mise en jeu de la responsabilité
 personnelle et pécuniaire du comptable par des réquisitions écrites et motivées en droit. 
@@ -15949,7 +15949,7 @@ présenter des observations orales. Il ne prend pas part au délibéré.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1397 du 19 décembre 2008 - art. 3
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 	**Cite**:
 
@@ -17724,13 +17724,13 @@ rendus par les chambres régionales et territoriales des comptes.
 ###### Article R131-2
 
 Les comptes sont produits annuellement à la Cour des comptes, appuyés des pièces générales et justificatives, dans les
-conditions fixées par le décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique et les
-instructions prises pour son application. La Cour procède à la vérification de ces pièces pour préparer le jugement des
-comptes des comptables et pour assurer le contrôle de la gestion des ordonnateurs.
+conditions fixées par le                 décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique et les instructions prises pour son application. La Cour procède à la vérification de ces pièces pour préparer le
+jugement des comptes des comptables et pour assurer le contrôle de la gestion des ordonnateurs. 
 
 Toutefois, en ce qui concerne les opérations de l'Etat, la Cour des comptes reçoit trimestriellement les pièces
 justificatives des recettes et des dépenses effectuées au titre du budget général, des budgets annexes et des comptes
-spéciaux du Trésor.
+spéciaux du Trésor. 
 
 Sont vérifiées dans les locaux des services gestionnaires ou centralisateurs les pièces justifiant les catégories de dépenses
 ou de recettes publiques fixées par arrêté du ministre chargé du budget pris sur proposition du premier président et du
@@ -17740,11 +17740,11 @@ procureur général.
 
 	**Cite**:
 
-	  - Décret n°62-1587 du 29 décembre 1962
+	  - Décret n°2012-1246 du 7 novembre 2012
 
 	**Modifié par**:
 
-	  - Décret n°2008-1397 du 19 décembre 2008 - art. 7
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 	**Cité par**:
 
@@ -17758,56 +17758,62 @@ procureur général.
 
 A la clôture de chaque exercice, les chefs de service comptable de 1re et 2e catégorie des impôts et les receveurs principaux
 régionaux des douanes dressent, sous leur responsabilité, un état récapitulatif présentant la situation du recouvrement des
-droits dont la perception incombe aux receveurs de leur circonscription.
+droits dont la perception incombe aux receveurs de leur circonscription. 
 
 Ils produisent au soutien de cet état les décisions et pièces justificatives des réductions et annulations de droits et des
 admissions en non valeur et une expédition des ordres de versement et des arrêtés de débet qui auraient été émis contre les
 receveurs en application de l'article 3 du décret n° 77-1017 du 1er septembre 1977 relatif à la responsabilité des receveurs
 des administrations financières, ainsi que les autres pièces indiquées dans les nomenclatures particulières à chaque
-administration.
+administration. 
 
 A la même époque, les receveurs principaux des impôts et les receveurs des douanes dressent, chacun en ce qui le concerne, un
 état des droits de la réalisation desquels ils doivent justifier en application des articles 1er et 4 du décret du 1er
-septembre 1977 précité, qui restent à recouvrer.
+septembre 1977 précité, qui restent à recouvrer. 
 
 Ces états et pièces sont adressés par les chefs de service comptable de 1re et 2e catégorie des impôts et les receveurs
-principaux régionaux des douanes aux trésoriers-payeurs généraux, à l'agent comptable des impôts de Paris ou au receveur
-principal régional des douanes de Paris, qui les annexent aux comptes de gestion qu'ils rendent à la Cour des comptes.
+principaux régionaux des douanes aux   directeurs départementaux ou, le cas échéant, régionaux des finances publiques , à
+l'agent comptable des impôts de Paris ou au receveur principal régional des douanes de Paris, qui les annexent aux comptes de
+gestion qu'ils rendent à la Cour des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°77-1017 1977-09-01, art 9
-
 	**Cite**:
 
-	  - Décret n°77-1017 du 1 septembre 1977 - art. 1 (M)
-	  - Décret n°77-1017 du 1 septembre 1977 - art. 3 (M)
-	  - Décret n°77-1017 du 1 septembre 1977 - art. 4 (M)
+	  - Décret n°77-1017 du 1 septembre 1977 - art. 1
+	  - Décret n°77-1017 du 1 septembre 1977 - art. 3
+	  - Décret n°77-1017 du 1 septembre 1977 - art. 4
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
-
-	**Modifié par**:
-
-	  - Décret n°2006-814 du 7 juillet 2006 - art. 11 (V) JORF 9 juillet 2006
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Cité par**:
 
 	  - Décret n°2008-446 du 7 mai 2008 - art. 1 (V)
 	  - Décret n°2011-1138 du 20 septembre 2011 - art. 2 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 35
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D131-3 (V)
+
 
 ###### Article D131-9
 
-La Cour des comptes, au vu des comptes de gestion des trésoriers-payeurs généraux, statue, par un même arrêt ou une même
-ordonnance, sur les états annexes visés à l'article précédent présentés par les receveurs des impôts relevant d'une même
-direction des services fiscaux ou les receveurs des douanes relevant d'une même direction régionale.
+La Cour des comptes, au vu des comptes de gestion des   directeurs départementaux ou, le cas échéant, régionaux des finances
+publiques , statue, par un même arrêt ou une même ordonnance, sur les états annexes visés à l'article précédent présentés par
+les receveurs des impôts relevant d'une même direction des services fiscaux ou les receveurs des douanes relevant d'une même
+direction régionale. 
 
 Elle statue dans les mêmes conditions sur les états annexes présentés par les receveurs rattachés respectivement à l'agent
-comptable des impôts de Paris et au receveur principal régional des douanes de Paris.
+comptable des impôts de Paris et au receveur principal régional des douanes de Paris. 
 
 Les décisions de débet ou de décharge qui se rapportent aux recettes des administrations financières font l'objet de
 dispositions spéciales à chacun des receveurs intéressés.
@@ -17816,7 +17822,7 @@ dispositions spéciales à chacun des receveurs intéressés.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 2
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 	**Cité par**:
 
@@ -18393,28 +18399,24 @@ circonscriptions.
 
 ###### Article D131-30
 
-Le trésorier-payeur général pour l'étranger est compétent pour arrêter, dans les cas autres que ceux énumérés à l'article D.
-131-29, les comptes des établissements et organismes culturels et d'enseignement à l'étranger visés à l'article 21 du décret
-du 24 août 1976 mentionné à l'article D. 131-29.
+Le directeur départemental ou, le cas échéant, régional des finances publiques pour l'étranger est compétent pour arrêter,
+dans les cas autres que ceux énumérés à l'article D. 131-29, les comptes des établissements et organismes culturels et
+d'enseignement à l'étranger visés à l'article 21 du décret du 24 août 1976 mentionné à l'article D. 131-29.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°76-832 du 24 août 1976 - art. 21 (M)
-	  - Code des juridictions financières - art. D131-29 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°86-764 du 10 juin 1986 - art. 4 (Ab)
+	  - Décret n°76-832 du 24 août 1976 - art. 21
+	  - Code des juridictions financières - art. D131-29
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 	**Cité par**:
 
@@ -18452,9 +18454,9 @@ millions de francs.
 
 ###### Article D131-32
 
-Les trésoriers-payeurs généraux ou les autres comptables supérieurs chargés de l'apurement administratif peuvent enjoindre
-aux comptables dont ils apurent les comptes de produire, dans le délai d'un mois, les pièces justificatives qui feraient
-défaut. 
+Les   directeurs départementaux ou, le cas échéant, régionaux des finances publiques  ou les autres comptables supérieurs
+chargés de l'apurement administratif peuvent enjoindre aux comptables dont ils apurent les comptes de produire, dans le délai
+d'un mois, les pièces justificatives qui feraient défaut. 
 
 Ils prennent sur les comptes qui leur sont soumis des décisions administratives établissant que les comptables sont quittes
 ou en débet. 
@@ -18470,7 +18472,7 @@ nécessaires sont transmis à la Cour. Le jugement de l'affaire obéit aux règl
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 6
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 	**Cité par**:
 
@@ -20737,13 +20739,22 @@ Les arrêts et ordonnances rendus par la Cour des comptes sont notifiés directe
 La notification prévue à l'article R. 141-20 est effectuée par le secrétaire général de la Cour des comptes par lettre
 recommandée avec avis de réception. 
 
-Le trésorier-payeur général des créances spéciales du Trésor reçoit ampliation des arrêts relatifs aux débets et amendes.
+Le   directeur départemental ou, le cas échéant, régional des finances publiques  des créances spéciales du Trésor reçoit
+ampliation des arrêts relatifs aux débets et amendes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 13
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 32
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D142-17 (M)
 
 	**Cité par**:
 
@@ -20819,27 +20830,28 @@ Les mêmes obligations incombent aux représentants légaux et aux héritiers de
 
 Si, par suite du refus du comptable, de ses représentants légaux ou de ses héritiers, ou pour toute autre cause, la
 notification par lettre recommandée ne peut atteindre son destinataire, le secrétaire général de la Cour des comptes adresse
-l'arrêt ou l'ordonnance au trésorier-payeur général du département ou du territoire dans lequel se trouve le dernier domicile
-connu ou déclaré.
+l'arrêt ou l'ordonnance au   directeur départemental ou, le cas échéant, régional des finances publiques  du département ou
+du territoire dans lequel se trouve le dernier domicile connu ou déclaré. 
 
-Dès réception de l'arrêt ou de l'ordonnance, le trésorier-payeur général fait procéder à une notification à personne ou à
-domicile par un agent huissier du Trésor qui en retire récépissé et en dresse procès-verbal.
+Dès réception de l'arrêt ou de l'ordonnance, le   directeur départemental ou, le cas échéant, régional des finances publiques
+fait procéder à une notification à personne ou à domicile par un agent huissier du Trésor qui en retire récépissé et en
+dresse procès-verbal. 
 
 Si, dans l'exercice de cette mission, l'agent huissier ne trouve au domicile indiqué ni le comptable lui-même ni un membre de
 sa famille ou une personne à son service qui accepte de recevoir l'arrêt ou l'ordonnance et d'en donner récépissé, l'arrêt ou
 l'ordonnance est déposé par lui au secrétariat de la mairie de la commune du domicile. Il dresse de ces faits un procès-
-verbal qui est joint à l'arrêt ou à l'ordonnance.
+verbal qui est joint à l'arrêt ou à l'ordonnance. 
 
 Un avis, rédigé dans les termes suivants, est affiché pendant un mois à la porte de la mairie, dans le cadre réservé aux
-affiches officielles :
+affiches officielles : 
 
 " M... (nom et qualité) est informé qu'un arrêt ou une ordonnance le concernant a été rendu par la Cour des comptes à la date
-du
+du 
 
 Une expédition de cet arrêt ou de cette ordonnance est déposée au secrétariat de la mairie, où elle lui sera remise contre
 récépissé. Faute de ce faire avant le (date d'expiration du délai d'un mois), la notification dudit arrêt ou de cette
 ordonnance sera considérée comme lui ayant été valablement faite à cette date avec toutes les conséquences de droit qu'elle
-comporte. "
+comporte. " 
 
 Le récépissé du comptable ou, à défaut, le procès-verbal de l'agent huissier du Trésor et le certificat du maire constatant
 l'affichage pendant un mois sont transmis sans délai par ce dernier au secrétaire général de la Cour.
@@ -20848,7 +20860,15 @@ l'affichage pendant un mois sont transmis sans délai par ce dernier au secréta
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 15
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 32
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D142-20 (M)
 
 	**Cité par**:
 
@@ -20859,8 +20879,8 @@ l'affichage pendant un mois sont transmis sans délai par ce dernier au secréta
 ###### Article D144-5
 
 Les arrêts de la Cour des comptes concernant les personnes déclarées comptables de fait sont notifiés par le secrétaire
-général de la Cour par lettre recommandée avec avis de réception ; le trésorier-payeur général des créances spéciales du
-Trésor reçoit ampliation desdits arrêts.
+général de la Cour par lettre recommandée avec avis de réception ; le directeur départemental ou, le cas échéant, régional
+des finances publiques des créances spéciales du Trésor reçoit ampliation desdits arrêts. 
 
 En cas de besoin, la notification des arrêts est faite suivant les procédures prévues aux articles D. 144-2 et D. 144-4.
 
@@ -20868,20 +20888,23 @@ En cas de besoin, la notification des arrêts est faite suivant les procédures 
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 32
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D142-21 (M)
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. D144-2 (V)
-	  - Code des juridictions financières - art. D144-4 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°96-366 1969-04-11, art 6
+	  - Code des juridictions financières - art. D144-2
 
 
 #### CHAPITRE V : Dispositions diverses
@@ -20912,15 +20935,15 @@ aux tiers.
 
 La communication des pièces justificatives détenues par la Cour des comptes peut être demandée au secrétaire général de la
 juridiction par les comptables, le représentant légal de la collectivité ou de l'établissement public ou les juridictions de
-l'ordre judiciaire ou administratif.
+l'ordre judiciaire ou administratif. 
 
 Cette communication est effectuée soit sur place dans les locaux de la juridiction, soit par envoi de photocopies, soit par
 envoi des pièces originales. Dans ce dernier cas, le président de la chambre décide la communication et fixe le délai de
-réintégration des pièces ; dans les autres cas, le secrétaire général fixe les modalités de communication des pièces.
+réintégration des pièces ; dans les autres cas, le secrétaire général fixe les modalités de communication des pièces. 
 
-Les pièces justificatives afférentes aux comptes arrêtés par les trésoriers-payeurs généraux peuvent être communiquées par
-ces comptables aux personnes ou juridictions visées au premier alinéa du présent article ; les conditions de cette
-communication sont précisées par instruction du ministre chargé du budget.
+Les pièces justificatives afférentes aux comptes arrêtés par les   directeurs départementaux ou, le cas échéant, régionaux
+des finances publiques  peuvent être communiquées par ces comptables aux personnes ou juridictions visées au premier alinéa
+du présent article ; les conditions de cette communication sont précisées par instruction du ministre chargé du budget. 
 
 Les communications, quelles qu'en soient les formes, s'effectuent aux frais du demandeur.
 
@@ -20928,7 +20951,15 @@ Les communications, quelles qu'en soient les formes, s'effectuent aux frais du d
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 17
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 33
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D142-23 (T)
 
 
 ###### Article D145-3
@@ -21339,8 +21370,6 @@ Provence-Alpes-Côte d'Azur : quatre sections.
 
 	  - Décret n°2012-255 du 23 février 2012 - art. 3
 
-
-##### Paragraphe 3 : Le président
 
 ##### Paragraphe 3 : Le président et le vice-président
 
@@ -21850,21 +21879,21 @@ l'amende prévue par la loi.
 
 Il défère à la chambre régionale des comptes les opérations qu'il présume constitutives de gestion de fait, sur communication
 du représentant de l'Etat dans la région, la collectivité territoriale de Corse ou dans les départements du ressort de la
-chambre, des trésoriers-payeurs généraux, des procureurs de la République ou du procureur général près la Cour des comptes, à
-son initiative ou au vu des constatations faites lors d'un contrôle de la chambre régionale des comptes ou des autres
-informations dont il dispose. Il requiert, en cas de besoin, l'application de l'amende pour immixtion dans les fonctions de
-comptable public. 
+chambre, des   directeurs départementaux ou, le cas échéant, régionaux des finances publiques , des procureurs de la
+République ou du procureur général près la Cour des comptes, à son initiative ou au vu des constatations faites lors d'un
+contrôle de la chambre régionale des comptes ou des autres informations dont il dispose. Il requiert, en cas de besoin,
+l'application de l'amende pour immixtion dans les fonctions de comptable public. 
 
 Lui sont obligatoirement communiqués, avec pièces à l'appui, les rapports à fin de jugement ou d'ordonnance, les rapports
 concernant les demandes d'inscription d'office d'une dépense obligatoire en application de l'article L. 1612-15 du code
 général des collectivités territoriales, et de décision sur la compétence. 
 
-Il présente ses conclusions écrites sur ces rapports.
+Il présente ses conclusions écrites sur ces rapports. 
 
 S'il n'a pas conclu à la décharge du comptable, il saisit la formation de jugement pour la mise en jeu de la responsabilité
 personnelle et pécuniaire du comptable par des réquisitions écrites et motivées en droit. 
 
-Il participe aux audiences publiques. Il y présente ses conclusions.
+Il participe aux audiences publiques. Il y présente ses conclusions. 
 
 V.-Dans les cas de procédure non juridictionnelle, les rapports, avec pièces à l'appui, lui sont communiqués soit à sa
 demande, soit sur décision du président de la chambre ou du président de section. Il présente ses conclusions écrites sur ces
@@ -21877,7 +21906,7 @@ orales. Il ne prend pas part au délibéré.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1397 du 19 décembre 2008 - art. 31
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 	**Cite**:
 
@@ -24294,16 +24323,17 @@ sont considérés comme démissionnaires.
 La chambre régionale des comptes juge, en premier ressort, les comptes des comptables publics des collectivités et
 établissements publics et groupements d'intérêt public relevant de sa compétence, sous réserve des dispositions relatives à
 l'apurement administratif ; elle déclare et apure les gestions de fait des collectivités et établissements publics de son
-ressort et prononce les condamnations à l'amende.
+ressort et prononce les condamnations à l'amende. 
 
 Elle statue sur les révisions et sur les rectifications d'erreur matérielle de ses propres jugements et sur les recours en
-réformation des arrêtés de décharge et de quitus des trésoriers-payeurs généraux et des receveurs particuliers des finances.
+réformation des arrêtés de décharge et de quitus des   directeurs départementaux ou, le cas échéant, régionaux des finances
+publiques  et des receveurs particuliers des finances.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1397 du 19 décembre 2008 - art. 34
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 	**Cité par**:
 
@@ -24482,45 +24512,48 @@ augmentées, le cas échéant, des recettes du ou des comptes annexes des servic
 ###### Article D231-22
 
 L'apurement administratif est exercé sur les comptes des établissements publics rattachés aux communes et aux établissements
-publics de coopération intercommunale dont les comptes sont arrêtés par les trésoriers-payeurs généraux et les receveurs des
-finances.
+publics de coopération intercommunale dont les comptes sont arrêtés par l'autorité compétente de l'Etat mentionnée à
+l'article L. 211-2.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L211-2
 
 
 ###### Article D231-23
 
-Les trésoriers-payeurs généraux et les receveurs des finances peuvent enjoindre aux comptables dont ils apurent les comptes,
-dans un délai qu'ils fixent et qui ne peut être inférieur à un mois, de rapporter toutes explications, justifications ou
-pièces justificatives à leur décharge.
+L'autorité compétente de l'Etat peut enjoindre aux comptables dont elle apure les comptes, dans un délai qu'elle fixe et qui
+ne peut être inférieur à un mois, de rapporter toutes explications, justifications ou pièces justificatives à leur décharge.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 
 ###### Article D231-25
 
-Le trésorier-payeur général ou le receveur des finances transmet à la chambre régionale des comptes un arrêté de charge
-provisoire fixant les soldes du compte et énonçant sous forme d'attendus les observations pouvant entraîner la mise en jeu de
-la responsabilité du comptable. 
+L'autorité compétente de l'Etat transmet à la chambre régionale des comptes un arrêté de charge provisoire fixant les soldes
+du compte et énonçant sous forme d'attendus les observations pouvant entraîner la mise en jeu de la responsabilité du
+comptable. 
 
 Cet arrêté est accompagné du ou des comptes de gestion apurés et des réponses apportées par le comptable aux observations et
-injonctions du trésorier-payeur général ou du receveur des finances. 
+injonctions de l'autorité compétente de l'Etat. 
 
 Le jugement de l'affaire obéit aux règles prévues par les articles R. 241-34 à R. 241-43.
 
@@ -24528,7 +24561,7 @@ Le jugement de l'affaire obéit aux règles prévues par les articles R. 241-34 
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 19
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 	**Cite**:
 
@@ -24537,47 +24570,67 @@ Le jugement de l'affaire obéit aux règles prévues par les articles R. 241-34 
 
 ###### Article D231-26
 
-Le trésorier-payeur général ou le receveur des finances, si le comptable a satisfait à l'ensemble de ses obligations et
-qu'aucune observation pouvant entraîner sa mise en débet n'a été retenue à sa charge ou que la chambre régionale des comptes
-a pris une ordonnance prononçant la décharge du comptable ou que le débet, prononcé par la chambre, a été apuré, prend un
-arrêté de décharge définitive, s'il a constaté la reprise au bilan d'entrée de l'exercice suivant des soldes arrêtés à la
-clôture de l'exercice examiné.
+L'autorité compétente de l'Etat, si le comptable a satisfait à l'ensemble de ses obligations et qu'aucune observation pouvant
+entraîner sa mise en débet n'a été retenue à sa charge ou que la chambre régionale des comptes a pris une ordonnance
+prononçant la décharge du comptable ou que le débet, prononcé par la chambre, a été apuré, prend un arrêté de décharge
+définitive, si elle a constaté la reprise au bilan d'entrée de l'exercice suivant des soldes arrêtés à la clôture de
+l'exercice examiné.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 20
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 106
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D231-11 (V)
 
 
 ###### Article D231-27
 
-Lorsque le trésorier-payeur général ou le receveur des finances accorde décharge définitive à un comptable sorti de
-fonctions, il le déclare quitte.
+Lorsque l'autorité compétente de l'Etat accorde décharge définitive à un comptable sorti de fonctions, elle le déclare
+quitte.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 181
 
 
 ###### Article D231-28
 
 Lorsque la chambre régionale des comptes décide par jugement motivé, après réquisition du ministère public d'exercer son
-droit d'évocation, celui-ci peut porter non seulement sur les comptes non encore apurés par les trésoriers-payeurs généraux
-ou receveurs des finances, mais également sur ceux apurés depuis moins de six mois. Ce délai s'apprécie à compter de la
-notification aux comptables des décisions d'apurement qui sont adressées simultanément à la chambre régionale des comptes.
+droit d'évocation, celui-ci peut porter non seulement sur les comptes non encore apurés par        l'autorité compétente de
+l'Etat, mais également sur ceux apurés depuis moins de six mois. Ce délai s'apprécie à compter de la notification aux
+comptables des décisions d'apurement qui sont adressées simultanément à la chambre régionale des comptes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 21
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 106
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D231-14 (V)
 
 	**Cité par**:
 
@@ -24586,19 +24639,27 @@ notification aux comptables des décisions d'apurement qui sont adressées simul
 
 ###### Article D231-29
 
-Les trésoriers-payeurs généraux communiquent au ministère public près la chambre régionale des comptes les opérations
-présumées constitutives de gestion de fait concernant les communes, les établissements publics de coopération intercommunale
-et les établissements publics dont les comptes font l'objet d'un apurement administratif.
+L'autorité compétente de l'Etat communique au ministère public près la chambre régionale des comptes les opérations présumées
+constitutives de gestion de fait concernant les communes, les établissements publics de coopération intercommunale et les
+établissements publics dont les comptes font l'objet d'un apurement administratif.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 106
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D231-15 (V)
 
 	**Cité par**:
 
@@ -24611,8 +24672,8 @@ Les comptables, les représentants légaux des communes, des établissements pub
 établissements publics dont les comptes sont soumis à l'apurement administratif ou à leur défaut, les contribuables dûment
 autorisés dans les conditions prévues à l'article L. 2132-5 du code général des collectivités territoriales, ainsi que les
 représentants de l'Etat dans le département ou la région, peuvent demander à la chambre régionale des comptes la réformation
-des arrêtés de décharge pris par les trésoriers-payeurs généraux et les receveurs des finances dans un délai de six mois à
-dater de leur notification aux comptables. 
+des arrêtés de décharge pris par les   directeurs départementaux ou, le cas échéant, régionaux des finances publiques dans un
+délai de six mois à dater de leur notification aux comptables. 
 
 Lorsque le recours est présenté par un contribuable, la durée de l'instance devant le tribunal administratif pour obtenir
 l'autorisation de saisir le ministère public n'est pas comprise dans ce délai. 
@@ -24620,21 +24681,21 @@ l'autorisation de saisir le ministère public n'est pas comprise dans ce délai.
 Après expiration du délai de six mois prévu à l'alinéa précédent, les comptables, les représentants légaux des communes, des
 établissements publics de coopération intercommunale et des établissements publics dont les comptes sont soumis à l'apurement
 administratif, les représentants de l'Etat dans le département ou la région et le procureur financier près la chambre
-régionale des comptes peuvent encore demander à la chambre régionale des comptes de réformer les arrêtés des trésoriers-
-payeurs généraux et receveurs des finances pour cause d'erreur, omission, faux ou double emploi selon la procédure prévue au
-II de l'article R. 243-13. Le procureur financier près la chambre régionale des comptes peut également demander hors délai la
-réformation des arrêtés pris sur les comptes du comptable patent lorsqu'une gestion de fait a été déférée à la chambre
-régionale des comptes conformément aux dispositions de l'article D. 231-28.
+régionale des comptes peuvent encore demander à la chambre régionale des comptes de réformer les arrêtés des   directeurs
+départementaux ou, le cas échéant, régionaux des finances publiques pour cause d'erreur, omission, faux ou double emploi
+selon la procédure prévue au II de l'article R. 243-13. Le procureur financier près la chambre régionale des comptes peut
+également demander hors délai la réformation des arrêtés pris sur les comptes du comptable patent lorsqu'une gestion de fait
+a été déférée à la chambre régionale des comptes conformément aux dispositions de l'article D. 231-28.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 22
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. D231-28
+	  - Code des juridictions financières - art. D231-28 (T)
 	  - Code des juridictions financières - art. R243-13
 
 	**Cité par**:
@@ -24645,23 +24706,30 @@ régionale des comptes conformément aux dispositions de l'article D. 231-28.
 
 ###### Article D231-31
 
-Les comptes de gestion faisant l'objet de l'apurement administratif prévu par l'article L. 211-2 sont produits aux
-trésoriers-payeurs généraux ou aux receveurs des finances, au plus tard le 31 décembre qui suit la clôture de l'exercice
-auquel ils se rapportent.
+Les comptes de gestion faisant l'objet de l'apurement administratif prévu par l'article L. 211-2 sont produits à l'autorité
+compétente de l'Etat, au plus tard le 31 décembre qui suit la clôture de l'exercice auquel ils se rapportent.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2003-186 du 5 mars 2003 - art. 2 () JORF 7 mars 2003
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 106
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D231-8 (V)
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L211-2 (M)
+	  - Code des juridictions financières - art. L211-2
 
 
 ##### Section 3 : Condamnation des comptables à l'amende
@@ -25600,16 +25668,17 @@ d'avis de réception.
 
 ###### Article R241-23
 
-Le président de la chambre régionale des comptes communique au représentant de l'Etat ainsi qu'au trésorier-payeur général le
-rapport d' observations définitives arrêté par la chambre lors de l'examen de la gestion d'une collectivité territoriale,
-d'un établissement public local ou d'un organisme non soumis aux règles de la comptabilité publique. Les réponses adressées à
-la chambre en application de l'article R. 241-16 sont jointes au rapport.
+Le président de la chambre régionale des comptes communique au représentant de l'Etat ainsi qu'au   directeur départemental
+ou, le cas échéant, régional des finances publiques  le rapport d'observations définitives arrêté par la chambre lors de
+l'examen de la gestion d'une collectivité territoriale, d'un établissement public local ou d'un organisme non soumis aux
+règles de la comptabilité publique. Les réponses adressées à la chambre en application de l'article R. 241-16 sont jointes au
+rapport.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2008-1397 du 19 décembre 2008 - art. 43
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 	**Cite**:
 
@@ -26729,20 +26798,28 @@ une décision unique sur la recevabilité de la demande et, s'il y a lieu, sur l
 
 ###### Article D244-1
 
-Les trésoriers-payeurs généraux et les receveurs particuliers des finances notifient aux comptables par lettre recommandée
-avec avis de réception les arrêtés qu'ils prennent sur les comptes des communes, des groupements de communes et de leurs
-établissements publics dont ils assurent l'apurement administratif. Ils les adressent simultanément au ministère public près
-la chambre régionale des comptes. 
+Les directeurs départementaux ou, le cas échéant, régionaux des finances publiques  et les receveurs particuliers des
+finances notifient aux comptables par lettre recommandée avec avis de réception les arrêtés qu'ils prennent sur les comptes
+des communes, des groupements de communes et de leurs établissements publics dont ils assurent l'apurement administratif. Ils
+les adressent simultanément au ministère public près la chambre régionale des comptes. 
 
 Les receveurs particuliers des finances établissent, pour les notifications qu'ils effectuent, un procès-verbal dans les
-conditions prévues à l'article D. 246-1 et l'adressent au trésorier-payeur général. Les récépissés et avis de réception sont
-conservés à la trésorerie générale.
+conditions prévues à l'article D. 246-1 et l'adressent au   directeur départemental ou, le cas échéant, régional des finances
+publiques . Les récépissés et avis de réception sont conservés à la trésorerie générale.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 23
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 60
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D242-27 (V)
 
 	**Cite**:
 
@@ -26756,30 +26833,36 @@ conservés à la trésorerie générale.
 
 ###### Article D244-2
 
-Les trésoriers-payeurs généraux et les receveurs particuliers des finances adressent les arrêtés pris sur les comptes des
-communes, des groupements de communes et de leurs établissements publics à leurs représentants.
+Les   directeurs départementaux ou, le cas échéant, régionaux des finances publiques  et les receveurs particuliers des
+finances adressent les arrêtés pris sur les comptes des communes, des groupements de communes et de leurs établissements
+publics à leurs représentants. 
 
 Ces communications sont effectuées par lettre recommandée avec avis de réception.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°89-863 du 27 octobre 1989 - art. 10 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 60
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D242-28 (V)
 
 
 ###### Article D244-3
 
-Le recours en réformation contre un arrêté de décharge définitif pris par un trésorier-payeur général ou un receveur
-particulier des finances doit être déposé ou adressé par le requérant au greffe de la chambre régionale des comptes. 
+Le recours en réformation contre un arrêté de décharge définitif pris par un   directeur départemental ou, le cas échéant,
+régional des finances publiques  ou un receveur particulier des finances doit être déposé ou adressé par le requérant au
+greffe de la chambre régionale des comptes. 
 
 Le dépôt du recours interrompt, à compter de la date de son enregistrement, le délai de six mois prévu à l'article L. 231-9. 
 
@@ -26787,34 +26870,47 @@ Le recours doit, à peine de nullité, exposer les faits et les moyens ainsi que
 appuyé de tous les documents nécessaires pour établir le bien-fondé de la demande et, sauf en ce qui concerne les
 contribuables autorisés, d'une ampliation de l'arrêté attaqué. 
 
-Le greffe près la chambre régionale des comptes communique le recours au trésorier-payeur général ou au receveur particulier
-des finances et aux autres intéressés visés à l'article D. 231-30. Cette formalité est réputée accomplie à l'égard des
-ministres intéressés par envoi au représentant de l'Etat dans le département où a été prise la décision attaquée. 
+Le greffe près la chambre régionale des comptes communique le recours au   directeur départemental ou, le cas échéant,
+régional des finances publiques  ou au receveur particulier des finances et aux autres intéressés visés à l'article D.
+231-30. Cette formalité est réputée accomplie à l'égard des ministres intéressés par envoi au représentant de l'Etat dans le
+département où a été prise la décision attaquée. 
 
-Lorsque la décision attaquée a été prise par un receveur particulier des finances, le greffe avise en outre le trésorier-
-payeur général du dépôt du recours.
+Lorsque la décision attaquée a été prise par un receveur particulier des finances, le greffe avise en outre le   directeur
+départemental ou, le cas échéant, régional des finances publiques  du dépôt du recours.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 24
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 60
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. D231-30
 	  - Code des juridictions financières - art. L231-9
 
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D242-29 (V)
+
 	**Cité par**:
 
 	  - Code des juridictions financières - art. D244-4 (T)
 
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. R242-3 (T)
+
 
 ###### Article D244-4
 
-Le trésorier-payeur général ou le receveur particulier des finances établit dans le délai d'un mois sur les faits et les
-motifs invoqués dans le recours un rapport qu'il adresse au greffe près la chambre régionale des comptes. Celui-ci le notifie
-au requérant et aux autres intéressés. 
+Le   directeur départemental ou, le cas échéant, régional des finances publiques  ou le receveur particulier des finances
+établit dans le délai d'un mois sur les faits et les motifs invoqués dans le recours un rapport qu'il adresse au greffe près
+la chambre régionale des comptes. Celui-ci le notifie au requérant et aux autres intéressés. 
 
 Dans le délai d'un mois à dater de cette transmission, les intéressés peuvent prendre connaissance au greffe de la chambre
 régionale des comptes de l'ensemble des pièces jointes au recours et produire des mémoires en défense. Copie de ces mémoires
@@ -26832,7 +26928,15 @@ avis de réception.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 25
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 60
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D242-30 (V)
 
 	**Cite**:
 
@@ -26867,19 +26971,28 @@ Le secrétaire général de la chambre régionale des comptes notifie les jugeme
 articles R. 241-33 et R. 241-42, dans ce dernier cas par lettre recommandée avec avis de réception. Une ampliation du
 jugement ou de l'ordonnance est adressée au premier président de la Cour des comptes. Sous réserve des dispositions des
 articles D. 246-2, D. 246-3 et D. 246-4, cette notification, en ce qui concerne les comptables patents, est effectuée sous
-couvert des trésoriers-payeurs généraux qui adressent, dans un délai de quinze jours, les jugements et ordonnances aux
-comptables par lettre recommandée avec avis de réception soit directement, soit par les soins des receveurs particuliers des
-finances. 
+couvert des   directeurs départementaux ou, le cas échéant, régionaux des finances publiques  qui adressent, dans un délai de
+quinze jours, les jugements et ordonnances aux comptables par lettre recommandée avec avis de réception soit directement,
+soit par les soins des receveurs particuliers des finances. 
 
-Les trésoriers-payeurs généraux constatent par procès-verbal, à la fin de chaque période de deux mois, l'envoi des jugements
-et ordonnances. Les procès-verbaux, auxquels sont annexés les récépissés de dépôt délivrés par la poste et les avis de
-réception, sont adressés au secrétaire général de la chambre régionale des comptes.
+Les   directeurs départementaux ou, le cas échéant, régionaux des finances publiques  constatent par procès-verbal, à la fin
+de chaque période de deux mois, l'envoi des jugements et ordonnances. Les procès-verbaux, auxquels sont annexés les
+récépissés de dépôt délivrés par la poste et les avis de réception, sont adressés au secrétaire général de la chambre
+régionale des comptes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 28
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 61
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D242-32 (V)
 
 	**Cité par**:
 
@@ -26933,21 +27046,26 @@ est adressée au premier président de la Cour des comptes.
 ###### Article D246-3
 
 Les jugements rendus par les chambres régionales des comptes à la suite d'un recours en révision sont notifiés aux comptables
-et aux parties intéressées dans les conditions fixées à l'article D. 246-2, le trésorier-payeur général étant avisé.
+et aux parties intéressées dans les conditions fixées à l'article D. 246-2, le directeur départemental ou, le cas échéant,
+régional des finances publiques étant avisé.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°89-863 du 27 octobre 1989 - art. 3 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 61
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D242-34 (V)
 
 	**Cité par**:
 
@@ -26955,7 +27073,7 @@ et aux parties intéressées dans les conditions fixées à l'article D. 246-2, 
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. D246-2 (V)
+	  - Code des juridictions financières - art. D246-2
 
 
 ###### Article D246-4
@@ -26997,24 +27115,26 @@ représentants légaux ou à leurs héritiers.
 
 Si, par suite du refus du comptable, de ses représentants légaux ou de ses héritiers, ou pour toute autre cause, la
 notification par lettre recommandée ne peut pas atteindre son destinataire, le secrétaire général de la chambre régionale des
-comptes adresse le jugement ou l'ordonnance au trésorier-payeur général du département du dernier domicile connu ou déclaré.
+comptes adresse le jugement ou l'ordonnance au   directeur départemental ou, le cas échéant, régional des finances publiques
+du département du dernier domicile connu ou déclaré. 
 
-Dès réception du jugement ou de l'ordonnance, le trésorier-payeur général fait procéder à une notification à personne ou à
-domicile par un agent huissier du Trésor qui en retire récépissé et en dresse procès-verbal.
+Dès réception du jugement ou de l'ordonnance, le   directeur départemental ou, le cas échéant, régional des finances
+publiques  fait procéder à une notification à personne ou à domicile par un agent huissier du Trésor qui en retire récépissé
+et en dresse procès-verbal. 
 
 Si, dans l'exercice de cette mission, l'agent huissier ne trouve au domicile indiqué ni le comptable lui-même ni un membre de
 sa famille ou une personne à son service qui accepte de recevoir le jugement ou l'ordonnance et d'en donner récépissé, le
 jugement ou l'ordonnance est déposé par lui au secrétariat de la mairie de la commune du domicile. Il dresse de ces faits un
-procès-verbal qui est joint au jugement ou à l'ordonnance.
+procès-verbal qui est joint au jugement ou à l'ordonnance. 
 
 Un avis, rédigé dans les termes suivants, sera affiché pendant un mois à la porte de la mairie, dans le cadre réservé aux
-affiches officielles :
+affiches officielles : 
 
 " M... (nom et qualité) est informé qu'un jugement ou une ordonnance le concernant a été rendu par la chambre régionale de...
 à la date du... Une expédition de ce jugement ou de cette ordonnance est déposée au secrétariat de la mairie, où elle lui
 sera remise contre récépissé. Faute de ce faire avant le (date d'expiration du délai d'un mois), la notification dudit
 jugement ou de cette ordonnance sera considérée comme lui ayant été valablement faite à cette date avec toutes les
-conséquences de droit qu'elle comporte ".
+conséquences de droit qu'elle comporte ". 
 
 Le récépissé du comptable ou, à défaut, le procès-verbal de l'agent huissier du Trésor et le certificat du maire constatant
 l'affichage pendant un mois doivent être transmis sans délai par ce dernier au secrétaire général de la chambre régionale des
@@ -27024,7 +27144,15 @@ comptes.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 30
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 61
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D242-36 (V)
 
 	**Cité par**:
 
@@ -27043,14 +27171,22 @@ Le cas échéant, cette notification est faite suivant les procédures visées a
 code. 
 
 Les jugements de gestion de fait sont notifiés dans les mêmes formes au comptable public de la collectivité ou de
-l'établissement public concerné ainsi qu'au représentant de l'Etat dans le département. Le trésorier-payeur général reçoit
-ampliation desdits jugements.
+l'établissement public concerné ainsi qu'au représentant de l'Etat dans le département. Le   directeur départemental ou, le
+cas échéant, régional des finances publiques  reçoit ampliation desdits jugements.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 31
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 61
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D242-37 (M)
 
 	**Cite**:
 
@@ -27090,37 +27226,46 @@ ministres intéressés.
 ###### Article D246-8
 
 Lorsqu'un jugement a prononcé un débet ou une amende, il est communiqué au ministre chargé du budget par le secrétaire
-général de la Cour des comptes. Il est, en outre, transmis par le secrétaire général de la chambre au trésorier-payeur
-général qui assure l'exécution du recouvrement.
+général de la Cour des comptes. Il est, en outre, transmis par le secrétaire général de la chambre au   directeur
+départemental ou, le cas échéant, régional des finances publiques  qui assure l'exécution du recouvrement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 33
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 61
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D242-39 (V)
 
 
 ##### CHAPITRE VII : Dispositions diverses
 
 ###### Article D247-1
 
-Les jugements des chambres régionales des comptes sont publiables ou communicables aux tiers.
+Les jugements des chambres régionales des comptes sont publiables ou communicables aux tiers. 
 
 Les ordonnances prononçant la décharge d'un comptable et le déclarant éventuellement quitte de sa gestion sont communicables
 aux tiers. 
 
 La communication des pièces justificatives détenues par une chambre régionale des comptes peut être demandée au secrétaire
 général de la juridiction par les comptables, le représentant légal de la collectivité ou de l'établissement public ou les
-juridictions de l'ordre judiciaire ou administratif.
+juridictions de l'ordre judiciaire ou administratif. 
 
 Cette communication est effectuée soit sur place dans les locaux de la juridiction, soit par envoi de photocopies, soit par
 envoi des pièces originales. Dans ce dernier cas, une ordonnance du président de la chambre régionale des comptes décide la
 communication et fixe le délai de réintégration des pièces ; dans les autres cas, le président de la chambre fixe les
-modalités de communication des pièces.
+modalités de communication des pièces. 
 
-Les pièces justificatives afférentes aux comptes arrêtés par les trésoriers-payeurs généraux et les receveurs particuliers
-des finances peuvent être communiquées par ces comptables aux personnes ou juridictions visées au quatrième alinéa du présent
-article ; les conditions de cette communication sont précisées par instruction du ministre chargé du budget.
+Les pièces justificatives afférentes aux comptes arrêtés par les   directeurs départementaux ou, le cas échéant, régionaux
+des finances publiques  et les receveurs particuliers des finances peuvent être communiquées par ces comptables aux personnes
+ou juridictions visées au quatrième alinéa du présent article ; les conditions de cette communication sont précisées par
+instruction du ministre chargé du budget. 
 
 Les communications, quelles qu'en soient les formes, s'effectuent aux frais du demandeur.
 
@@ -27128,7 +27273,15 @@ Les communications, quelles qu'en soient les formes, s'effectuent aux frais du d
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 34
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 63
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D245-1 (V)
 
 	**Cité par**:
 
@@ -27144,28 +27297,32 @@ Les communications, quelles qu'en soient les formes, s'effectuent aux frais du d
 La durée d'utilisation comme archives courantes, la durée de conservation comme archives intermédiaires et la destination
 définitive, à l'issue de la période de conservation comme archives intermédiaires, des documents produits et reçus par les
 chambres régionales des comptes sont définies par accord entre le premier président de la Cour des comptes et le directeur
-général des Archives de France.
+général des Archives de France. 
 
 La durée d'utilisation comme archives courantes, la durée de conservation comme archives intermédiaires et la destination
-définitive, à l'issue de la période de conservation comme archives intermédiaires, des documents reçus par les trésoriers-
-payeurs généraux et les receveurs particuliers des finances à l'appui des comptes dont ils assurent l'apurement administratif
-et des documents produits par eux à l'occasion de cet apurement sont définies par accord entre le directeur général de la
-comptabilité publique et le directeur général des Archives de France avec l'agrément du premier président de la Cour des
-comptes.
+définitive, à l'issue de la période de conservation comme archives intermédiaires, des documents reçus par les   directeurs
+départementaux ou, le cas échéant, régionaux des finances publiques  et les receveurs particuliers des finances à l'appui des
+comptes dont ils assurent l'apurement administratif et des documents produits par eux à l'occasion de cet apurement sont
+définies par accord entre le directeur général de la comptabilité publique et le directeur général des Archives de France
+avec l'agrément du premier président de la Cour des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°89-863 du 27 octobre 1989 - art. 15 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 63
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D245-2 (V)
 
 	**Cité par**:
 
@@ -27349,14 +27506,15 @@ L'article R. 231-1 est applicable dans les conditions suivantes :
 1° Les références à la chambre régionale des comptes sont remplacées par des références à la chambre territoriale des
 comptes ; 
 
-2° Au dernier alinéa, les mots : " des trésoriers-payeurs généraux et des receveurs particuliers des finances " sont
-remplacés par les mots : " du représentant de la direction générale des finances publiques dans ces collectivités ".
+2° Au dernier alinéa, les mots : " des   directeurs départementaux ou, le cas échéant, régionaux des finances publiques  et
+des receveurs particuliers des finances " sont remplacés par les mots : " du représentant de la direction générale des
+finances publiques dans ces collectivités ".
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 	**Cite**:
 
@@ -27392,15 +27550,15 @@ chambre territoriale des comptes.
 ###### Article D253-5
 
 Les articles D. 231-18 à D. 231-31 sont applicables. Pour l'application de ces articles aux chambres territoriales des
-comptes, les références aux trésoriers-payeurs généraux, aux receveurs particuliers des finances et aux receveurs des
-finances sont remplacées par des références aux représentants de la direction générale des finances publiques dans ces
-collectivités.
+comptes, les références aux   directeurs départementaux ou, le cas échéant, régionaux des finances publiques, aux receveurs
+particuliers des finances sont remplacées par des références aux représentants de la direction générale des finances
+publiques dans ces collectivités.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 	**Cite**:
 
@@ -27953,8 +28111,8 @@ nationaux soumis au contrôle de la chambre territoriale des comptes en applicat
 
 " La notification des observations rectifiées se substitue à celle prévue au premier alinéa de l'article R. 241-21. ” ; 
 
-6° Pour l'application de l'article R. 241-23, les mots : " trésorier-payeur général ” sont remplacés par les mots : "
-représentant de la direction générale des finances publiques ” ; 
+6° Pour l'application de l'article R. 241-23, les mots : "   directeur départemental ou, le cas échéant, régional des
+finances publiques  ” sont remplacés par les mots : " représentant de la direction générale des finances publiques ” ; 
 
 7° Pour l'application de l'article R. 241-24, les mots : " les missions prévues à l'article 7 du décret n° 82-389 du 10 mai
 1982 relatif aux pouvoirs du préfet et à l'action des services et organismes publics de l'Etat dans les départements et à
@@ -27978,9 +28136,9 @@ l'Etat dans les régions et départements ”.
 	  - Code des juridictions financières - art. R241-3
 	  - Code des juridictions financières - art. R241-5
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 
 ##### Section 2 : Dispositions relatives aux activités juridictionnelles
@@ -28071,14 +28229,15 @@ Les articles D. 244-1 à D. 244-5 sont applicables. Pour leur application :
 1° Les références aux chambres régionales des comptes ou à la chambre régionale des comptes sont respectivement remplacées
 par des références aux chambres territoriales des comptes ou à la chambre territoriale des comptes ; 
 
-2° Les références aux trésoriers-payeurs généraux et aux receveurs particuliers des finances sont remplacées par des
-références aux représentants de la direction générale des finances publiques.
+2° Les références aux   directeurs départementaux ou, le cas échéant, régionaux des finances publiques  et aux receveurs
+particuliers des finances sont remplacées par des références aux représentants de la direction générale des finances
+publiques.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 	**Cite**:
 
@@ -28099,14 +28258,14 @@ par des références aux chambres territoriales des comptes ou à la chambre ter
 
 2° La référence au représentant de l'Etat dans le département est remplacée par la référence au représentant de l'Etat ; 
 
-3° La référence au trésorier-payeur général est remplacée par la référence au représentant de la direction générale des
-finances publiques dans ces collectivités.
+3° La référence au   directeur départemental ou, le cas échéant, régional des finances publiques  est remplacée par la
+référence au représentant de la direction générale des finances publiques dans ces collectivités.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 	**Cite**:
 
@@ -28122,15 +28281,15 @@ finances publiques dans ces collectivités.
 
 Les articles D. 247-1 et D. 247-2 sont applicables. Pour leur application, les références aux chambres régionales des comptes
 ou à la chambre régionale des comptes sont respectivement remplacées par des références aux chambres territoriales des
-comptes ou à la chambre territoriale des comptes. Pour l'application de ces articles, les références aux trésoriers-payeurs
-généraux, aux receveurs particuliers des finances et aux receveurs des finances sont remplacées par des références aux
-représentants de la direction générale des finances publiques dans ces collectivités.
+comptes ou à la chambre territoriale des comptes. Pour l'application de ces articles, les références aux   directeurs
+départementaux ou, le cas échéant, régionaux des finances publique , aux receveurs particuliers des finances sont remplacées
+par des références aux représentants de la direction générale des finances publiques dans ces collectivités.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 	**Cite**:
 
@@ -28704,21 +28863,21 @@ IV.-Il veille à la production des comptes dans les délais réglementaires et, 
 l'amende prévue par la loi. 
 
 Il défère à la chambre territoriale des comptes les opérations qu'il présume constitutives de gestion de fait, sur
-communication du haut-commissaire, des trésoriers-payeurs généraux, des procureurs de la République ou du procureur général
-près la Cour des comptes, à son initiative ou au vu des constatations faites lors d'un contrôle de la chambre territoriale
-des comptes ou des autres informations dont il dispose. Il requiert, en cas de besoin, l'application de l'amende pour
-immixtion dans les fonctions de comptable public. 
+communication du haut-commissaire, des   directeurs départementaux ou, le cas échéant, régionaux des finances publiques , des
+procureurs de la République ou du procureur général près la Cour des comptes, à son initiative ou au vu des constatations
+faites lors d'un contrôle de la chambre territoriale des comptes ou des autres informations dont il dispose. Il requiert, en
+cas de besoin, l'application de l'amende pour immixtion dans les fonctions de comptable public. 
 
 Lui sont obligatoirement communiqués, avec pièces à l'appui, les rapports à fin de jugement ou d'ordonnance, les rapports
 concernant les demandes d'inscription d'office d'une dépense obligatoire en application des articles LO 263-5 et LO 263-21 et
 de décision sur la compétence. 
 
-Il présente ses conclusions écrites sur ces rapports.
+Il présente ses conclusions écrites sur ces rapports. 
 
 S'il n'a pas conclu à la décharge du comptable, il saisit la formation de jugement pour la mise en jeu de la responsabilité
 personnelle et pécuniaire du comptable par des réquisitions écrites et motivées en droit. 
 
-Il participe aux audiences publiques. Il y présente ses conclusions.
+Il participe aux audiences publiques. Il y présente ses conclusions. 
 
 V.-Dans les cas de procédure non juridictionnelle, les rapports, avec pièces à l'appui, lui sont communiqués soit à sa
 demande, soit sur décision du président de la chambre ou du président de section. Il présente ses conclusions écrites sur ces
@@ -28731,7 +28890,7 @@ orales. Il ne prend pas part au délibéré.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1397 du 19 décembre 2008 - art. 71
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
 
 	**Cite**:
 
@@ -29221,16 +29380,25 @@ territoriale des comptes de la Nouvelle-Calédonie.
 La chambre territoriale des comptes juge, en premier ressort, les comptes des comptables publics des collectivités et
 établissements publics et groupements d'intérêt public relevant de sa compétence, sous réserve des dispositions relatives à
 l'apurement administratif ; elle déclare et apure les gestions de fait des collectivités et établissements publics de son
-ressort, prononce les condamnations à l'amende.
+ressort, prononce les condamnations à l'amende. 
 
 Elle statue sur les révisions et sur les rectifications d'erreur matérielle de ses propres jugements et sur les recours en
-réformation des arrêtés de décharge et de quitus du trésorier-payeur général.
+réformation des arrêtés de décharge et de quitus du   directeur départemental ou, le cas échéant, régional des finances
+publiques .
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1397 du 19 décembre 2008 - art. 74
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 165
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R262-38 (V)
 
 
 ##### Paragraphe 1 : Jugement des comptes des comptables patents
@@ -30288,15 +30456,24 @@ réception.
 
 ###### Article R262-78
 
-Le président de la chambre territoriale des comptes communique au représentant de l'Etat ainsi qu'au trésorier-payeur général
-les observations définitives arrêtées par la chambre lors de l'examen de la gestion d'une collectivité territoriale, d'un
-établissement public local ou d'un organisme non soumis aux règles de la comptabilité publique.
+Le président de la chambre territoriale des comptes communique au représentant de l'Etat ainsi qu'au   directeur
+départemental ou, le cas échéant, régional des finances publiques  les observations définitives arrêtées par la chambre lors
+de l'examen de la gestion d'une collectivité territoriale, d'un établissement public local ou d'un organisme non soumis aux
+règles de la comptabilité publique.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+
 	**Liens**:
 
-	  - DEPLACE: Décret n°2008-1397 du 19 décembre 2008 - art. 79
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R262-129 (V)
 
 
 ###### Article R262-79

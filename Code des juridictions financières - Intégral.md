@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2012-11-11
+Version Consolidée au 2012-12-13
 
 # Partie législative
 
@@ -16496,11 +16496,15 @@ Les chambres réunies statuant en formation restreinte jugent les affaires dont 
 sur proposition d'une chambre ou sur réquisitoire du procureur général. Elles statuent sur les affaires renvoyées devant la
 Cour après cassation. 
 
-Elles formulent l'avis de la Cour des comptes sur les projets de remise gracieuse soumis par le ministre chargé du budget sur
-les demandes présentées par les comptables publics et assimilés, les comptables de fait et les régisseurs constitués en
-débet.
-
 Le premier président peut renvoyer des affaires relevant de la formation restreinte à la formation plénière qui les juge.
+
+**Nota:**
+
+Décret n° 2012-1387 du 10 décembre 2012, article 3 :  					L'
+
+avant-dernier alinéa du II de l'article R. 112-18 du code des juridictions financières
+ est abrogé.  Toutefois, ses dispositions restent applicables aux projets de  décisions de remise gracieuse portant sur des
+débets consécutifs à un  premier acte de mise en jeu de la responsabilité antérieur au 1er  juillet 2012.
 
 **Liens relatifs à cet article**
 
@@ -16513,7 +16517,7 @@ Le premier président peut renvoyer des affaires relevant de la formation restre
 
 	**Modifié par**:
 
-	  - Décret n°2008-1397 du 19 décembre 2008 - art. 4
+	  - Décret n°2012-1387 du 10 décembre 2012 - art. 3
 
 
 ###### Article R112-19

@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2013-04-01
+Version Consolidée au 2013-04-24
 
 # Partie législative
 
@@ -16136,8 +16136,6 @@ Les conseillers maîtres en service extraordinaire, avant d'entrer en fonctions,
 	  - Code des juridictions financières - art. R112-15 (V)
 
 
-##### Section 4 : Rapporteurs extérieurs
-
 ##### Section 4 : Rapporteurs extérieurs. ― Magistrats et fonctionnaires détachés dans le corps des magistrats de la Cour des comptes
 
 ###### Article R112-13
@@ -19656,41 +19654,6 @@ observations provisoires sur lesquelles elle estime nécessaire de susciter leur
 
 	  - Code des juridictions financières - art. R112-18 (M)
 	  - Code des juridictions financières - art. R141-13 (M)
-
-
-##### Section 2 : Dispositions relatives aux activités juridictionnelles
-
-##### Sous-section 1 : Dispositions relatives au jugement des comptes des comptables patents
-
-###### Article R141-10
-
-Le contrôle du compte est notifié au comptable et à l'ordonnateur en fonctions. 
-
-Toutefois, s'agissant des comptes des comptables supérieurs de l'Etat, le contrôle est notifié au comptable en fonctions et
-au ministre chargé du budget. 
-
-La notification précise le ou les exercices contrôlés et le nom du ou des magistrats rapporteurs.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - DEPLACE: Décret n°2008-1397 du 19 décembre 2008 - art. 15
-	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 29
-
-	**Modifié par**:
-
-	  - Décret n°2008-1397 du 19 décembre 2008 - art. 16
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. D112-20-1 (V)
-	  - Code des juridictions financières - art. D141-10-1 (T)
-	  - Code des juridictions financières - art. R131-44 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. R142-1 (M)
 
 
 #### CHAPITRE II :  Dispositions relatives aux activités juridictionnelles
@@ -26178,91 +26141,6 @@ décision est annexée au rapport d'observations définitives.
 	  - Code des juridictions financières - art. L245-4
 
 
-##### Section 2 : Dispositions relatives aux activités juridictionnelles
-
-##### Sous-section 1 : Dispositions relatives au jugement des comptes des comptables patents
-
-###### Article R241-32
-
-Le contrôle du compte ou d'une série de comptes est notifié au comptable et aux ordonnateurs en fonctions. 
-
-La notification précise le ou les exercices contrôlés et le nom du ou des magistrats rapporteurs.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1397 du 19 décembre 2008 - art. 51
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 56
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. D212-26-1 (V)
-	  - Code des juridictions financières - art. R241-33 (Ab)
-	  - Code des juridictions financières - art. R254-2 (V)
-	  - Code des juridictions financières - art. R254-7 (Ab)
-	  - Code des juridictions financières - art. R262-81-1 (T)
-	  - Code des juridictions financières - art. R272-70-1 (T)
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. R242-1 (M)
-
-
-###### Article R241-33
-
-Le magistrat rapporteur instruit à charge et à décharge les comptes dont il est saisi.
-
-A tout moment de la procédure, les comptables, les ordonnateurs et les autres personnes mis en cause sont tenus de déférer
-aux demandes d'explication ou de production de pièces formulées par le magistrat chargé de l'instruction, dans un délai fixé
-par ce magistrat et qui ne peut être inférieur à quinze jours suivant la réception de cette demande. 
-
-Les rapports d'examen des comptes à fin de jugement sont communiqués au ministère public dans les conditions prévues au IV de
-l'article R. 212-19. 
-
-Lorsque le ministère public ne retient aucune charge à l'égard du comptable, il transmet ses conclusions au président de la
-formation de jugement compétente ou à un magistrat délégué à cet effet. 
-
-Le président de la formation de jugement compétente, ou le magistrat délégué à cet effet, peut prendre une ordonnance de
-décharge dans les conditions prévues au II de l'article L. 242-1.
-
-Toutefois, le président de la formation de jugement, ou le magistrat délégué à cet effet, peut demander que soit établi le
-rapport complémentaire prévu au II de l'article L. 242-1 dans un délai d'un mois à compter de la réception des conclusions.
-
-A défaut d'une demande d'un rapport complémentaire dans le délai susmentionné, le président de la formation de jugement ou le
-magistrat délégué à cet effet décharge, par ordonnance motivée, le comptable de sa gestion. Si aucune charge ne subsiste à
-son encontre au titre de ses gestions successives et s'il est sorti de fonctions, il est, en outre, déclaré quitte par
-ordonnance.
-
-L'ordonnance de décharge, et, s'il y a lieu, de quitus, est notifiée à chacun des comptables et des ordonnateurs concernés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1397 du 19 décembre 2008 - art. 52
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 56
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. D246-1 (T)
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L242-1
-	  - Code des juridictions financières - art. R212-19
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. R242-2 (M)
-
-
 ##### CHAPITRE II : Dispositions relatives aux activités juridictionnelles
 
 ##### Section 1 : Dispositions relatives au jugement des comptes des comptables patents
@@ -27428,8 +27306,6 @@ départemental ou, le cas échéant, régional des finances publiques  qui assur
 
 	  - Code des juridictions financières - art. D246-8 (T)
 
-
-##### CHAPITRE III : Voies de recours
 
 ##### CHAPITRE III :  Examen de la gestion
 
@@ -35547,11 +35423,6 @@ rendus par la chambre territoriale des comptes de la Polynésie française.
 	  - Code des juridictions financières - art. D272-85 (V)
 
 
-##### Section 11 : Dispositions diverses.
- 
-
-
-
 ##### Section 8 : Dispositions diverses.
 
 ###### Article D272-98
@@ -36569,7 +36440,7 @@ Le comité d'enquête est composé comme suit :
 
 - le secrétaire général du Gouvernement ;
 
-- le directeur général du Centre d'analyse stratégique ;
+- le Commissaire général à la stratégie et à la prospective ;
 
 - le directeur du budget ;
 
@@ -36591,16 +36462,16 @@ Le comité d'enquête est composé comme suit :
 trois noms proposés par chaque organisation ;
 
 - une personnalité qualifiée à raison de ses responsabilités et de son expérience dans le domaine de la gestion des
-entreprises.
+entreprises. 
 
 Les membres du comité sont nommés par arrêté du Premier ministre. Ils peuvent être assistés de membres suppléants désignés
-dans les mêmes conditions.
+dans les mêmes conditions. 
 
-Sur sa demande, le Médiateur peut se faire représenter au comité par son délégué.
+Sur sa demande, le Médiateur peut se faire représenter au comité par son délégué. 
 
-Expirent de droit les fonctions d'un membre du comité qui perd la qualité en vertu de laquelle il a été désigné.
+Expirent de droit les fonctions d'un membre du comité qui perd la qualité en vertu de laquelle il a été désigné. 
 
-Le président du comité a voix prépondérante, en cas de partage des voix.
+Le président du comité a voix prépondérante, en cas de partage des voix. 
 
 Le président peut, après consultation du comité, procéder à la division de celui-ci en sections chargées de l'étude de
 problèmes déterminés, les conclusions correspondantes demeurant arrêtées en séance plénière. A ces sections peuvent être
@@ -36609,17 +36480,17 @@ traitées.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°75-223 du 8 avril 1975 - art. 2 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2006-260 du 6 mars 2006 - art. 6 (Ab) JORF 7 mars 2006
+	  - Décret n°2013-333 du 22 avril 2013 - art. 11
+
+	**Abrogé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 180
 
 
 ###### Article D320-3

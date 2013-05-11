@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2013-04-24
+Version Consolidée au 2013-05-12
 
 # Partie législative
 
@@ -21533,23 +21533,6 @@ comptes, après avis du Conseil supérieur des chambres régionales des comptes.
 
 ##### Paragraphe 3 : Le président et le vice-président
 
-###### Article R*212-7-1
-
-Le président de la chambre régionale des comptes est ordonnateur secondaire des dépenses et des recettes de la juridiction
-qu'il préside. En cas d'absence ou d'empêchement, il peut déléguer sa signature à un magistrat ou au secrétaire général de
-cette juridiction.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Modifié par**:
-
-	  - Décret n°2007-542 du 12 avril 2007 - art. 2 () JORF 13 avril 2007
-
-
 ###### Article R212-7
 
 Le président de la chambre régionale des comptes est chargé de la direction générale de la chambre.
@@ -21598,6 +21581,31 @@ Il nomme les experts auxquels la chambre régionale des comptes recourt.
 	**Cite**:
 
 	  - Code des juridictions financières - art. R212-13 (M)
+
+
+###### Article R212-7-1
+
+Le président de la chambre régionale des comptes est ordonnateur secondaire des dépenses et des recettes de la juridiction
+qu'il préside. Il peut déléguer sa signature à un magistrat et au secrétaire général de cette juridiction. En cas d'absence
+ou d'empêchement du secrétaire général, il peut déléguer sa signature à un fonctionnaire de la chambre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Modifié par**:
+
+	  - Décret n°2013-387 du 10 mai 2013 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 73
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R212-5 (V)
 
 
 ###### Article R212-8

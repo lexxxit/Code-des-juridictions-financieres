@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2013-05-12
+Version Consolidée au 2013-08-07
 
 # Partie législative
 
@@ -2548,18 +2548,38 @@ le premier  président, devant lequel ils prêtent le serment professionnel. Ils
 
 ###### Article L141-5
 
-Les agents des services financiers ainsi que les commissaires aux comptes des organismes contrôlés sont déliés du secret
+I.-Les agents des services financiers ainsi que les commissaires aux comptes des organismes contrôlés sont déliés du secret
 professionnel à l'égard des membres et personnels de la Cour des comptes mentionnés aux sections 1 à 4 du chapitre II du
 titre Ier du présent livre, à l'occasion des enquêtes que ceux-ci effectuent dans le cadre de leurs attributions. 
 
 Pour les besoins des mêmes enquêtes, les membres et personnels de la Cour des comptes mentionnés aux mêmes sections 1 à 4
-peuvent exercer directement le droit de communication que les agents des services financiers tiennent de la loi.
+peuvent exercer directement le droit de communication que les agents des services financiers tiennent de la loi. 
+
+II.-Les agents des services financiers sont également déliés du secret professionnel à l'égard des experts désignés par la
+Cour des comptes, en application de l'article L. 141-4, habilités à consulter dans les locaux de l'administration les données
+fiscales nominatives nécessaires à l'exercice de la mission de certification des comptes de l'Etat prévue au 5° de l'article
+58 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances et de la mission de certification des
+comptes des branches des caisses nationales du régime général de la sécurité sociale prévue au VIII de l'article LO 111-3 du
+code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi organique n°2001-692 du 1er août 2001 - art. 58 (V)
+	  - Code de la sécurité sociale. - art. LO111-3 (V)
+
 	**Modifié par**:
 
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 43
+	  - Loi n°2013-712 du 5 août 2013 - art. 8
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 11
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L141-9 (VD)
 
 	**Cité par**:
 

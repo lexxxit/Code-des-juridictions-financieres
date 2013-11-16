@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2013-08-07
+Version Consolidée au 2013-11-17
 
 # Partie législative
 
@@ -381,8 +381,9 @@ et du président de la chambre territoriale des comptes.
 ###### Article L111-9-1
 
 Lorsqu'une enquête ou un contrôle relève à la fois des compétences de la Cour des comptes et de celles d'une ou plusieurs
-chambres régionales des comptes ou de celles de deux ou plusieurs chambres régionales des comptes, ces juridictions peuvent,
-dans l'exercice de leurs missions non juridictionnelles, mener leurs travaux dans les conditions suivantes.
+chambres régionales ou territoriales des comptes ou de celles de deux ou plusieurs chambres régionales ou territoriales des
+comptes, ces juridictions peuvent, dans l'exercice de leurs missions non juridictionnelles, mener leurs travaux dans les
+conditions suivantes.
 
 Une formation commune aux juridictions est constituée par arrêté du premier président dans des conditions fixées par voie
 réglementaire. Elle statue sur les orientations de ces travaux, les conduit et délibère sur leurs résultats. Elle en adopte
@@ -396,12 +397,20 @@ la synthèse ainsi que les suites à lui donner.
 
 	**Modifié par**:
 
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 40
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 28
+
+	**Transféré par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 11
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. L112-2 (VD)
 	  - Code des juridictions financières - art. R112-21-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L141-13 (VD)
 
 
 ###### Article L111-10
@@ -9097,19 +9106,34 @@ de leurs établissements publics.
 
 La chambre territoriale des comptes examine la gestion du territoire, des provinces et de leurs établissements publics.
 
+Elle examine la gestion des établissements, sociétés, groupements et organismes, quel que soit leur statut juridique,
+auxquels le territoire, les provinces et leurs établissements publics apportent un concours financier supérieur à 1 500 € ou
+à sa contrepartie en monnaie locale, ou dans lesquels ils détiennent, séparément ou ensemble, plus de la moitié du capital ou
+des voix dans les organes délibérants, ou exercent un pouvoir prépondérant de décision ou de gestion. 
+
+Elle peut également assurer les vérifications prévues au troisième alinéa sur demande motivée du haut-commissaire, du
+congrès, du gouvernement de la Nouvelle-Calédonie ou de l'établissement public. 
+
+Elle examine la gestion des filiales des établissements, sociétés, groupements et organismes mentionnés au même troisième
+alinéa, lorsque ces derniers détiennent dans lesdites filiales, séparément ou ensemble, plus de la moitié du capital ou des
+voix dans les organismes délibérants, ou exercent un pouvoir prépondérant de décision ou de gestion. 
+
+Elle peut également, dans le cadre du contrôle des comptes de l'autorité délégante, vérifier auprès des délégataires de
+service public les comptes qu'ils ont produits aux autorités délégantes. 
+
+L'examen de gestion porte sur la régularité des actes de gestion, sur l'économie des moyens mis en œuvre et sur l'évaluation
+des résultats atteints par rapport aux objectifs fixés par l'assemblée concernée. L'opportunité de ces objectifs ne peut
+faire l'objet d'observations.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-213 1982-03-02 modifiée, art 87 al 1 et 13 Loi 88-1028 1988-11-09, art 73 al 3
 
 	**Codifié par**:
 
-	  - Loi n°94-1132 1994-12-27
+	  - Loi n°94-1132 du 27 décembre 1994
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi organique n°2013-1027 du 15 novembre 2013 - art. 26
 
 
 ###### Article LO262-5
@@ -10305,6 +10329,31 @@ jusqu'au lendemain du tour de scrutin où l'élection est acquise.
 	  - Code des juridictions financières L262-7 à L262-11
 
 
+###### Article L262-50-1
+
+Les observations définitives sur la gestion prévues à l'article L. 262-50 sont arrêtées par la chambre territoriale des
+comptes après l'audition, à leur demande, des dirigeants des personnes morales contrôlées et de toute autre personne
+nominativement ou explicitement mise en cause.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 29
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L262-50
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-66 (VD)
+
+
 ###### Article L262-51
 
 La chambre territoriale des comptes prend toutes dispositions pour garantir le secret de ses investigations.
@@ -10376,27 +10425,68 @@ professionnel.
 Les documents d'instruction et les communications provisoires de la chambre territoriale des comptes sont couverts par le
 secret professionnel que les experts sont tenus de respecter en application de l'article L. 262-52.
 
+L'instruction conduite par la chambre territoriale des comptes dans le cadre de la préparation du rapport provisoire et
+confidentiel est menée avec, en particulier, l'ordonnateur dont la gestion est contrôlée.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 6 al 2
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 39 ()
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 30
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-48 (VD)
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L262-52 (M)
+	  - Code des juridictions financières - art. L262-52
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. L262-53 (M)
+
+
+###### Article L262-53-1
+
+Les parties peuvent se faire assister ou représenter par un avocat.
+
+L'ordonnateur ou le dirigeant qui était en fonctions au cours d'un exercice examiné peut se faire assister ou représenter par
+la personne de son choix, désignée à sa demande par le président de la chambre territoriale des comptes. S'il s'agit d'un
+agent public, son chef de service en est informé. Cette personne peut être désignée pour une affaire qu'elle a eu à connaître
+dans le cadre de ses fonctions. Elle est habilitée à se faire communiquer par la collectivité territoriale ou l'établissement
+public tout document, de quelque nature qu'il soit, relatif à la gestion de l'exercice examiné.
+
+Lorsque l'ordonnateur ou le dirigeant n'est plus en fonctions au moment où l'exercice est examiné par la chambre territoriale
+des comptes, les honoraires de l'avocat demeurent à la charge de la collectivité territoriale ou de l'établissement public
+concerné, dans la limite d'un plafond fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 31
+
+	**Cité par**:
+
+	  - Décret n°2014-1028 du 8 septembre 2014 (V)
+	  - Décret n°2014-1028 du 8 septembre 2014 - art. 1 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-54 (VD)
 
 
 ###### Article L262-54
@@ -13083,6 +13173,31 @@ jusqu'au lendemain du tour de scrutin où l'élection est acquise.
 	  - Code des juridictions financières L272-6 à L272-10
 
 
+###### Article L272-48-1
+
+Les observations définitives sur la gestion prévues à l'article L. 272-48 sont arrêtées par la chambre territoriale des
+comptes après l'audition, à leur demande, des dirigeants des personnes morales contrôlées et de toute autre personne
+nominativement ou explicitement mise en cause.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 29
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L272-48
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-64 (V)
+
+
 ###### Article L272-49
 
 La chambre territoriale des comptes prend toutes dispositions pour garantir le secret de ses investigations.
@@ -13149,25 +13264,66 @@ professionnel.
 ###### Article L272-51
 
 Les documents d'instruction et les communications provisoires de la chambre territoriale des comptes sont couverts par le
-secret professionnel que les experts sont tenus de respecter en application de l'article L. 272-50.
+secret professionnel que les experts sont tenus de respecter en application de l'article L. 272-50. 
+
+L'instruction conduite par la chambre territoriale des comptes dans le cadre de la préparation du rapport provisoire et
+confidentiel est menée avec, en particulier, l'ordonnateur dont la gestion est contrôlée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-594 1982-07-10, art 6 al 2
-
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 39 ()
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 30
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-47 (V)
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L272-50 (M)
+	  - Code des juridictions financières - art. L272-50
+
+
+###### Article L272-51-1
+
+Les parties peuvent se faire assister ou représenter par un avocat.
+
+L'ordonnateur ou le dirigeant qui était en fonctions au cours d'un exercice examiné peut se faire assister ou représenter par
+la personne de son choix, désignée à sa demande par le président de la chambre territoriale des comptes. S'il s'agit d'un
+agent public, son chef de service en est informé. Cette personne peut être désignée pour une affaire qu'elle a eu à connaître
+dans le cadre de ses fonctions. Elle est habilitée à se faire communiquer par la collectivité territoriale ou l'établissement
+public tout document, de quelque nature qu'il soit, relatif à la gestion de l'exercice examiné.
+
+Lorsque l'ordonnateur ou le dirigeant n'est plus en fonctions au moment où l'exercice est examiné par la chambre territoriale
+des comptes, les honoraires de l'avocat demeurent à la charge de la collectivité territoriale ou de l'établissement public
+concerné, dans la limite d'un plafond fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 31
+
+	**Cité par**:
+
+	  - Décret n°2014-1028 du 8 septembre 2014 (V)
+	  - Décret n°2014-1028 du 8 septembre 2014 - art. 2 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-52 (V)
 
 
 ###### Article L272-52

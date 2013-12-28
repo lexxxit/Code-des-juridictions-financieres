@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2013-12-20
+Version Consolidée au 2013-12-29
 
 # Partie législative
 
@@ -20642,38 +20642,81 @@ Dans l'un et l'autre cas, cette personne ne peut prendre part au délibéré.
 
 ###### Article R143-1
 
-La Cour des comptes fait connaître ses observations : 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <table>
+          <tbody>
+            <tr>
+              <td colspan="8">
+                <table>
+                  <tbody>
+                    <tr>
+                      <td>
+                        <table>
+                          <tbody>
+                            <tr>
+                              <td colspan="4">
+                                <table>
+                                  <tbody>
+                                    <tr>
+                                      <td>
 
-Par le rapport public annuel et les rapports publics thématiques établis en application de l'article L. 143-6 ; 
+La Cour des comptes fait connaître ses observations :
+
+Par le rapport public annuel et les rapports publics thématiques établis en application de l'article L. 143-6 ;
 
 Par les rapports établis et les avis formulés en application des dispositions prévues aux 2°, 3°, 4°, 5° et 6° de l'article
-58 de la loi organique n° 2001-692 du 1er août 2001 et aux articles LO 132-2-1, LO 132-3, L. 132-4 du présent code ; 
+58 de la loi organique n° 2001-692 du 1er août 2001 et aux articles LO 132-2-1, LO 132-3, L. 132-4 du présent code et à l'
+article L. 6145-16 du code de la santé publique ;
 
-Par les rapports particuliers établis en application du deuxième alinéa de l'article L. 143-3 ; 
+Par les rapports particuliers établis en application du deuxième alinéa de l'article L. 143-3 ;
 
-Par référés du premier président aux ministres. 
+Par référés du premier président aux ministres.
 
 Les observations de la Cour peuvent également être transmises par des communications du procureur général aux autorités
-compétentes. 
+compétentes.
 
 Certaines observations de la Cour des comptes peuvent faire l'objet de lettres d'un président de chambre ou de formation
-interchambres aux autorités compétentes. 
+interchambres aux autorités compétentes.
 
 Les rapports particuliers mentionnés ci-dessus sont transmis par le premier président au Premier ministre, aux ministres
-concernés ainsi qu'aux dirigeants de l'organisme contrôlé. 
+concernés ainsi qu'aux dirigeants de l'organisme contrôlé.
 
-Les communications de la Cour des comptes mentionnées à l'article L. 143-1 sont rendues publiques par le premier président. 
+Les communications de la Cour des comptes mentionnées à l'article L. 143-1 sont rendues publiques par le premier président.
 
 Lorsque la Cour des comptes envisage de rendre publique une communication, le premier président en informe les destinataires
 ainsi que toute personne mise en cause et les invite à lui faire part de leurs réponses dans un délai d'un mois ou, pour les
-référés, dans le délai fixé à l'article L. 143-5. Ces réponses engagent la seule responsabilité de leurs auteurs. 
+référés, dans le délai fixé à l'article L. 143-5. Ces réponses engagent la seule responsabilité de leurs auteurs.
 
 La publication de la communication, accompagnée des réponses adressées au premier président, ne peut intervenir qu'à
-l'expiration du délai de réponse applicable. 
+l'expiration du délai de réponse applicable.
 
 Les communications faites aux ministres ou aux autorités administratives en application des articles R. 241-24, R. 262-79 et
 R. 272-67 sont, le cas échéant, simultanément transmises par la Cour pour information aux collectivités et établissements
 publics locaux concernés.
+
+</td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -20684,21 +20727,24 @@ publics locaux concernés.
 
 	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 23
+	  - Décret n°2013-1238 du 23 décembre 2013 - art. 2
+	  - Décret n°2017-671 du 28 avril 2017 - art. 57
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 31
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 61
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. D112-20-1 (V)
 	  - Code des juridictions financières - art. D131-35 (T)
+	  - Code des juridictions financières - art. R131-25 (V)
 	  - Code des juridictions financières - art. R141-8-1 (T)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Code des juridictions financières - art. R135-1 (T)
+	  - Code des juridictions financières - art. R142-15 (V)
+	  - Code des juridictions financières - art. R143-11 (V)
 
 
 ###### Article R143-2
@@ -20877,21 +20923,64 @@ Premier ministre, sur proposition du premier président de la Cour des comptes.
 
 ###### Article R143-8
 
-Pour la mise en oeuvre des dispositions du 5° de l'article 58 de la loi organique n° 2001-692 du 1er août 2001 et de
-l'article LO 132-2-1, les résultats provisoires des vérifications peuvent, à tout moment des travaux préparatoires à la
-certification, être transmis aux autorités administratives concernées, à fin de validation de ces résultats ou d'information
-de ces autorités. Cette transmission est effectuée, préalablement à l'examen de ces travaux par la formation compétente de la
-Cour des comptes, par des magistrats, des conseillers maîtres en service extraordinaire ou des rapporteurs extérieurs.
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <table>
+          <tbody>
+            <tr>
+              <td colspan="8">
+                <table>
+                  <tbody>
+                    <tr>
+                      <td>
+                        <table>
+                          <tbody>
+                            <tr>
+                              <td colspan="4">
+                                <table>
+                                  <tbody>
+                                    <tr>
+                                      <td>
+
+Pour la mise en oeuvre des dispositions du 5° de l'article 58 de la loi organique n° 2001-692 du 1er août 2001, de l'article
+LO 132-2-1 du présent code et de l' article L. 6145-16 du code de la santé publique, les résultats provisoires des
+vérifications peuvent, à tout moment des travaux préparatoires à la certification, être transmis aux autorités
+administratives concernées, à fin de validation de ces résultats ou d'information de ces autorités. Cette transmission est
+effectuée, préalablement à l'examen de ces travaux par la formation compétente de la Cour des comptes, par des magistrats,
+des conseillers maîtres en service extraordinaire ou des rapporteurs extérieurs.
+
+</td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 25
+	  - Décret n°2013-1238 du 23 décembre 2013 - art. 2
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des juridictions financières - art. R137-1 (T)
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 63
 
 	**Cité par**:
 
@@ -20973,23 +21062,72 @@ des comptes.
 
 ###### Article R143-10
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <table>
+          <tbody>
+            <tr>
+              <td colspan="8">
+                <table>
+                  <tbody>
+                    <tr>
+                      <td>
+                        <table>
+                          <tbody>
+                            <tr>
+                              <td colspan="4">
+                                <table>
+                                  <tbody>
+                                    <tr>
+                                      <td>
+
 I.-Le projet de rapport établi en vue de la certification prévue par le 5° de l'article 58 de la loi organique n° 2001-692 du
-1er août 2001 et le compte rendu des vérifications sont examinés par la formation compétente. 
+1er août 2001 et le compte rendu des vérifications sont examinés par la formation compétente.
 
 Ils sont ensuite adressés aux secrétaires généraux, aux directeurs généraux et directeurs d'administration centrale
 compétents et aux autres autorités administratives compétentes. Sans préjudice du droit d'être entendu prévu à l'article L.
 143-4, le délai de réponse qui leur est imparti est fixé à dix jours au plus. Ces autorités administratives adressent
-directement copie de leurs réponses aux directeurs chargés du budget et de la comptabilité publique. 
+directement copie de leurs réponses aux directeurs chargés du budget et de la comptabilité publique.
 
 II.-La procédure prévue au I s'applique au projet de rapport de certification de la régularité, de la sincérité et de la
 fidélité des comptes des organismes nationaux du régime général et des comptes combinés de chaque branche et de l'activité de
 recouvrement du régime général prévu par l'article LO 132-2-1. Le projet est adressé aux directeurs compétents auprès des
 ministres chargés de la sécurité sociale, des comptes publics et du budget ainsi que, chacun pour ce qui le concerne, aux
 directeurs des caisses nationales du régime général. Ces directeurs adressent copie de leurs réponses au directeur chargé de
-la sécurité sociale. 
+la sécurité sociale.
 
-III.-Les projets éventuellement modifiés sont ensuite transmis au comité du rapport public et des programmes conformément à
+III. - La procédure prévue au I s'applique au projet de rapport établi en vue de la certification prévue par l'article L.
+6145-16 du code de la santé publique, présentant le compte rendu des vérifications que la cour a opérées en vue de certifier
+la régularité, la sincérité et la fidélité des comptes des établissements publics de santé dont elle assure la certification.
+Le projet est adressé aux directeurs compétents des ministères chargés de la santé et du budget, aux directeurs généraux des
+agences régionales de santé compétentes, ainsi que, chacun pour ce qui le concerne, aux directeurs et comptables publics des
+établissements publics de santé concernés.
+
+IV.-Les projets éventuellement modifiés sont ensuite transmis au comité du rapport public et des programmes conformément à
 l'article R. 143-5.
+
+</td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -21000,13 +21138,18 @@ l'article R. 143-5.
 	  - Code des juridictions financières - art. LO132-2-1
 	  - Code des juridictions financières - art. R143-5
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 25
+	  - Décret n°2013-1238 du 23 décembre 2013 - art. 2
+	  - Décret n°2017-671 du 28 avril 2017 - art. 59
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des juridictions financières - art. R137-3 (T)
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 63
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R143-21, v. 0.2 (V)
 
 
 ###### Article R143-11
@@ -21020,7 +21163,11 @@ au ministre chargé de la sécurité sociale, au ministre chargé du budget et, 
 directeurs des caisses nationales du régime général de sécurité sociale. Ces derniers adressent copie de leur réponse au
 ministre chargé de la sécurité sociale. 
 
-III.-Sans préjudice du droit d'être entendu prévu à l'article L. 143-4, le délai de réponse prévu à l'article R. 143-5 peut
+III. - La même procédure s'applique au rapport de certification prévu par l'article R. 6145-61-5 du code de la santé
+publique. Ce projet est adressé au ministre chargé de la santé, au ministre chargé du budget et, chacun pour ce qui le
+concerne, aux directeurs et comptables publics des établissements publics de santé concernés.
+
+IV.-Sans préjudice du droit d'être entendu prévu à l'article L. 143-4, le délai de réponse prévu à l'article R. 143-5 peut
 être ramené à dix jours.
 
 **Liens relatifs à cet article**
@@ -21031,17 +21178,13 @@ III.-Sans préjudice du droit d'être entendu prévu à l'article L. 143-4, le d
 	  - Code des juridictions financières - art. L143-4
 	  - Code des juridictions financières - art. R143-5
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 25
+	  - Décret n°2013-1238 du 23 décembre 2013 - art. 2
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R131-17 (V)
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. R137-4 (T)
 
 
 ###### Article R143-12

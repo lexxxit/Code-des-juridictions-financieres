@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2013-12-29
+Version Consolidée au 2014-03-27
 
 # Partie législative
 
@@ -315,8 +315,8 @@ La "Fondation du patrimoine" est soumise au contrôle de la Cour des comptes.
 
 ###### Article L111-8-2
 
-L'Union d'économie sociale du logement est soumise au contrôle de la Cour des comptes dans les conditions prévues à l'article
-L. 143-3.
+L'Union des entreprises et des salariés pour le logement est soumise au contrôle de la Cour des comptes dans les conditions
+prévues à l'article L. 143-3.
 
 **Liens relatifs à cet article**
 
@@ -326,11 +326,15 @@ L. 143-3.
 
 	**Modifié par**:
 
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
+	  - Loi n°2014-366 du 24 mars 2014 - art. 123 (V)
 
 	**Cité par**:
 
 	  - Décret n°2014-1500 du 12 décembre 2014 - art. (VD)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
 
 	**Cite**:
 

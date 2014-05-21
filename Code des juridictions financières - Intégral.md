@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2014-03-27
+Version Consolidée au 2014-05-22
 
 # Partie législative
 
@@ -24961,9 +24961,9 @@ d'utilité publique des dépenses ayant donné lieu à déclaration de gestion d
 
 ###### Article D231-18
 
-Les seuils de 3 500,5 000 et 10 000 habitants, prévus aux 1° et 2° de l'article L. 211-2, s'apprécient tous les cinq
-exercices à partir de l'exercice 2013 la population légale en vigueur, dans les conditions fixées par l'article R. 2151-2 du
-code général des collectivités territoriales.
+Les seuils de 3 500, 5 000 et 10 000 habitants, prévus aux 1° et 2° de l'article L. 211-2, s'apprécient tous les cinq
+exercices à partir de l'exercice 2013. Ils ont pour base la population légale en vigueur, dans les conditions fixées par
+l'article R. 2151-2 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
@@ -24973,7 +24973,15 @@ code général des collectivités territoriales.
 
 	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 47
+	  - Décret n°2014-504 du 19 mai 2014 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 105
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D231-3 (V)
 
 	**Cité par**:
 
@@ -24988,7 +24996,7 @@ code général des collectivités territoriales.
 ###### Article D231-19
 
 Les seuils de 5 000 et 10 000 habitants prévus au 2° de l'article L. 211-2 s'apprécient, pour les établissements publics de
-coopération intercommunale en prenant en compte la population totale des communes qui sont membres de ce groupement. 
+coopération intercommunale en prenant en compte la population totale des communes qui sont membres de ces groupements. 
 
 Les seuils de population mentionnés au premier alinéa sont appréciés tous les cinq exercices à partir de l'exercice 2013,
 sauf lorsque le périmètre de l'établissement public de coopération intercommunale a été modifié au cours de cette période
@@ -25003,7 +25011,15 @@ modification.
 
 	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 47
+	  - Décret n°2014-504 du 19 mai 2014 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 105
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D231-4 (V)
 
 	**Cite**:
 
@@ -25105,8 +25121,9 @@ seuils prévus à l'article L. 211-2.
 
 ###### Article D231-23
 
-L'autorité compétente de l'Etat peut enjoindre aux comptables dont elle apure les comptes, dans un délai qu'elle fixe et qui
-ne peut être inférieur à un mois, de rapporter toutes explications, justifications ou pièces justificatives à leur décharge.
+L'autorité compétente de l'Etat mentionnée à l'article L. 211-2 peut enjoindre aux comptables dont elle apure les comptes,
+dans un délai qu'elle fixe et qui ne peut être inférieur à un mois, de rapporter toutes explications, justifications ou
+pièces justificatives à leur décharge.
 
 **Liens relatifs à cet article**
 
@@ -25116,7 +25133,19 @@ ne peut être inférieur à un mois, de rapporter toutes explications, justifica
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+	  - Décret n°2014-504 du 19 mai 2014 - art. 4
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 106
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D231-9 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L211-2
 
 
 ###### Article D231-25
@@ -25253,8 +25282,8 @@ Les comptables, les représentants légaux des communes, des établissements pub
 établissements publics dont les comptes sont soumis à l'apurement administratif ou à leur défaut, les contribuables dûment
 autorisés dans les conditions prévues à l'article L. 2132-5 du code général des collectivités territoriales, ainsi que les
 représentants de l'Etat dans le département ou la région, peuvent demander à la chambre régionale des comptes la réformation
-des arrêtés de décharge pris par les directeurs départementaux ou, le cas échéant, régionaux des finances publiques dans un
-délai de six mois à dater de leur notification aux comptables. 
+des arrêtés de décharge pris par l'autorité compétente de l'Etat dans un délai de six mois à dater de leur notification aux
+comptables. 
 
 Lorsque le recours est présenté par un contribuable, la durée de l'instance devant le tribunal administratif pour obtenir
 l'autorisation de saisir le ministère public n'est pas comprise dans ce délai. 
@@ -25262,17 +25291,25 @@ l'autorisation de saisir le ministère public n'est pas comprise dans ce délai.
 Après expiration du délai de six mois prévu à l'alinéa précédent, les comptables, les représentants légaux des communes, des
 établissements publics de coopération intercommunale et des établissements publics dont les comptes sont soumis à l'apurement
 administratif, les représentants de l'Etat dans le département ou la région et le procureur financier près la chambre
-régionale des comptes peuvent encore demander à la chambre régionale des comptes de réformer les arrêtés des directeurs
-départementaux ou, le cas échéant, régionaux des finances publiques pour cause d'erreur, omission, faux ou double emploi
-selon la procédure prévue au II de l'article R. 242-26. Le procureur financier près la chambre régionale des comptes peut
-également demander hors délai la réformation des arrêtés pris sur les comptes du comptable patent lorsqu'une gestion de fait
-a été déférée à la chambre régionale des comptes conformément aux dispositions de l'article D. 231-28.
+régionale des comptes peuvent encore demander à la chambre régionale des comptes de réformer les arrêtés de l'autorité
+compétente de l'Etat pour cause d'erreur, omission, faux ou double emploi selon la procédure prévue au II de l'article R.
+242-26. Le procureur financier près la chambre régionale des comptes peut également demander hors délai la réformation des
+arrêtés pris sur les comptes du comptable patent lorsqu'une gestion de fait a été déférée à la chambre régionale des comptes
+conformément aux dispositions de l'article D. 231-28.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 49
+	  - Décret n°2014-504 du 19 mai 2014 - art. 5
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 126
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D242-30 (V)
 
 	**Cité par**:
 
@@ -27277,24 +27314,24 @@ une décision unique sur la recevabilité de la demande et, s'il y a lieu, sur l
 
 ###### Article D242-27
 
-Les directeurs départementaux ou, le cas échéant, régionaux des finances publiques et les receveurs particuliers des finances
-notifient aux comptables par courrier simple avec avis de réception les arrêtés qu'ils prennent sur les comptes des communes,
-des groupements de communes et de leurs établissements publics dont ils assurent l'apurement administratif. Ils les adressent
-simultanément au ministère public près la chambre régionale des comptes. 
-
-Les receveurs particuliers des finances établissent, pour les notifications qu'ils effectuent, un procès-verbal dans les
-conditions prévues à l'article D. 242-32 et l'adressent au directeur départemental ou, le cas échéant, régional des finances
-publiques . Les récépissés et avis de réception sont conservés à la trésorerie générale.
+L'autorité compétente de l'Etat notifie aux comptables par voie électronique ou, par exception, tout autre moyen probant, les
+arrêtés pris sur les comptes des communes, des groupements de communes et de leurs établissements publics et des
+établissements publics locaux d'enseignement dont elle assure l'apurement administratif. L'autorité compétente de l'Etat
+adresse au ministère public près la chambre régionale des comptes les arrêtés et les justificatifs de notification.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 60
+	  - Décret n°2014-504 du 19 mai 2014 - art. 6
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des juridictions financières - art. D244-1 (T)
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 106
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D231-12 (V)
 
 	**Cité par**:
 
@@ -27303,28 +27340,29 @@ publiques . Les récépissés et avis de réception sont conservés à la tréso
 
 ###### Article D242-28
 
-Les   directeurs départementaux ou, le cas échéant, régionaux des finances publiques  et les receveurs particuliers des
-finances adressent les arrêtés pris sur les comptes des communes, des groupements de communes et de leurs établissements
-publics à leurs représentants. 
-
-Ces communications sont effectuées par lettre recommandée avec avis de réception.
+L'autorité compétente de l'Etat adresse les arrêtés pris sur les comptes des communes, des groupements de communes et de
+leurs établissements publics et des établissements publics locaux d'enseignement à leurs représentants par voie électronique
+ou, par exception, tout autre moyen probant.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 60
+	  - Décret n°2014-504 du 19 mai 2014 - art. 6
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des juridictions financières - art. D244-2 (T)
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 106
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D231-13 (V)
 
 
 ###### Article D242-29
 
-Le recours en réformation contre un arrêté de décharge définitif pris par un   directeur départemental ou, le cas échéant,
-régional des finances publiques  ou un receveur particulier des finances doit être déposé ou adressé par le requérant au
-greffe de la chambre régionale des comptes. 
+Le recours en réformation contre un arrêté de décharge définitif pris par l'autorité compétente de l'Etat doit être déposé ou
+adressé par le requérant au greffe de la chambre régionale des comptes. 
 
 Le dépôt du recours interrompt, à compter de la date de son enregistrement, le délai de six mois prévu à l'article L. 231-9. 
 
@@ -27332,34 +27370,34 @@ Le recours doit, à peine de nullité, exposer les faits et les moyens ainsi que
 appuyé de tous les documents nécessaires pour établir le bien-fondé de la demande et, sauf en ce qui concerne les
 contribuables autorisés, d'une ampliation de l'arrêté attaqué. 
 
-Le greffe près la chambre régionale des comptes communique le recours au   directeur départemental ou, le cas échéant,
-régional des finances publiques  ou au receveur particulier des finances et aux autres intéressés visés à l'article D.
-231-30. Cette formalité est réputée accomplie à l'égard des ministres intéressés par envoi au représentant de l'Etat dans le
-département où a été prise la décision attaquée. 
-
-Lorsque la décision attaquée a été prise par un receveur particulier des finances, le greffe avise en outre le   directeur
-départemental ou, le cas échéant, régional des finances publiques  du dépôt du recours.
+Le greffe près la chambre régionale des comptes communique le recours à l'autorité compétente de l'Etat et aux autres
+intéressés visés à l'article D. 231-30. Cette formalité est réputée accomplie à l'égard des ministres intéressés par envoi au
+représentant de l'Etat dans le département où a été prise la décision attaquée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 60
+	  - Décret n°2014-504 du 19 mai 2014 - art. 7
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 126
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. D242-30 (V)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Code des juridictions financières - art. D244-3 (T)
+	  - Code des juridictions financières - art. D242-31 (V)
 
 
 ###### Article D242-30
 
-Le directeur départemental ou, le cas échéant, régional des finances publiques ou le receveur particulier des finances
-établit dans le délai d'un mois sur les faits et les motifs invoqués dans le recours un rapport qu'il adresse au greffe près
-la chambre régionale des comptes. Celui-ci le notifie au requérant et aux autres intéressés. 
+L'autorité compétente de l'Etat établit dans le délai d'un mois un rapport sur les faits et les motifs invoqués dans le
+recours qu'elle adresse au greffe près la chambre régionale des comptes. Celui-ci le notifie au requérant et aux autres
+intéressés. 
 
 Dans le délai d'un mois à dater de cette transmission, les intéressés peuvent prendre connaissance au greffe de la chambre
 régionale des comptes de l'ensemble des pièces jointes au recours et produire des mémoires en défense. Copie de ces mémoires
@@ -27375,17 +27413,13 @@ avec avis de réception.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 60
+	  - Décret n°2014-504 du 19 mai 2014 - art. 8
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. D242-29
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. D244-4 (T)
+	  - Code des juridictions financières - art. D242-29 (T)
 
 
 ###### Article D242-31
@@ -27417,26 +27451,32 @@ publique, sur la recevabilité du recours et, s'il y a lieu, sur le fond du liti
 ###### Article D242-32
 
 Le secrétaire général de la chambre régionale des comptes notifie les jugements et ordonnances aux personnes mentionnées aux
-articles R. 242-2 et R. 242-11, dans ce dernier cas par lettre recommandée avec avis de réception. Une ampliation du jugement
-ou de l'ordonnance est adressée au premier président de la Cour des comptes. Sous réserve des dispositions des articles D.
-242-33 D. 242-34 et D. 242-35, cette notification, en ce qui concerne les comptables patents, est effectuée sous couvert des
-directeurs départementaux ou, le cas échéant, régionaux des finances publiques qui adressent, dans un délai de quinze jours,
-les jugements aux comptables par lettre recommandée avec avis de réception et les ordonnances par simple courrier avec avis
-de réception soit directement, soit par les soins des receveurs particuliers des finances. 
+articles R. 242-2 et R. 242-11. Sous réserve des dispositions des articles D. 242-33, D. 242-34 et D. 242-35, cette
+notification, en ce qui concerne les comptables patents, est effectuée sous couvert des directeurs départementaux ou, le cas
+échéant, régionaux des finances publiques qui adressent, dans un délai de quinze jours, les jugements et les ordonnances aux
+comptables par voie électronique ou, par exception, par tout autre moyen probant. 
 
-Les directeurs départementaux ou, le cas échéant, régionaux des finances publiques constatent par procès-verbal, à la fin de
-chaque période de deux mois, l'envoi des jugements et ordonnances. Les procès-verbaux, auxquels sont annexés les preuves de
-notification sont adressées au secrétaire général de la chambre régionale des comptes.
+Les directeurs départementaux ou, le cas échéant, régionaux des finances publiques adressent au secrétaire général de la
+chambre régionale des comptes les justificatifs de la notification aux comptables patents.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 61
+	  - Décret n°2014-504 du 19 mai 2014 - art. 9
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des juridictions financières - art. D246-1 (T)
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 127
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. D242-33 (V)
+	  - Code des juridictions financières - art. R242-2
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D242-34 (V)
 
 	**Cité par**:
 
@@ -27535,12 +27575,12 @@ représentants légaux ou à leurs héritiers.
 
 Si, par suite du refus du comptable, de ses représentants légaux ou de ses héritiers, ou pour toute autre cause, la
 notification par lettre recommandée ne peut pas atteindre son destinataire, le secrétaire général de la chambre régionale des
-comptes adresse le jugement ou l'ordonnance au   directeur départemental ou, le cas échéant, régional des finances publiques
-du département du dernier domicile connu ou déclaré. 
+comptes adresse le jugement ou l'ordonnance au directeur départemental ou, le cas échéant, régional des finances publiques du
+département du dernier domicile connu ou déclaré. 
 
-Dès réception du jugement ou de l'ordonnance, le   directeur départemental ou, le cas échéant, régional des finances
-publiques  fait procéder à une notification à personne ou à domicile par un agent huissier du Trésor qui en retire récépissé
-et en dresse procès-verbal. 
+Dès réception du jugement ou de l'ordonnance, le directeur départemental ou, le cas échéant, régional des finances publiques
+fait procéder à une notification à personne ou à domicile par un agent huissier des finances publiques qui en retire
+récépissé et en dresse procès-verbal. 
 
 Si, dans l'exercice de cette mission, l'agent huissier ne trouve au domicile indiqué ni le comptable lui-même ni un membre de
 sa famille ou une personne à son service qui accepte de recevoir le jugement ou l'ordonnance et d'en donner récépissé, le
@@ -27556,19 +27596,15 @@ sera remise contre récépissé. Faute de ce faire avant le (date d'expiration d
 jugement ou de cette ordonnance sera considérée comme lui ayant été valablement faite à cette date avec toutes les
 conséquences de droit qu'elle comporte ". 
 
-Le récépissé du comptable ou, à défaut, le procès-verbal de l'agent huissier du Trésor et le certificat du maire constatant
-l'affichage pendant un mois doivent être transmis sans délai par ce dernier au secrétaire général de la chambre régionale des
-comptes.
+Le récépissé du comptable ou, à défaut, le procès-verbal de l'agent huissier des finances publiques et le certificat du maire
+constatant l'affichage pendant un mois doivent être transmis sans délai par ce dernier au secrétaire général de la chambre
+régionale des comptes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 61
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. D246-5 (T)
+	  - Décret n°2014-504 du 19 mai 2014 - art. 10
 
 	**Cité par**:
 
@@ -28134,22 +28170,27 @@ envoi des pièces originales. Dans ce dernier cas, une ordonnance du président 
 communication et fixe le délai de réintégration des pièces ; dans les autres cas, le président de la chambre fixe les
 modalités de communication des pièces. 
 
-Les pièces justificatives afférentes aux comptes arrêtés par les   directeurs départementaux ou, le cas échéant, régionaux
-des finances publiques  et les receveurs particuliers des finances peuvent être communiquées par ces comptables aux personnes
-ou juridictions visées au quatrième alinéa du présent article ; les conditions de cette communication sont précisées par
-instruction du ministre chargé du budget. 
+Les pièces justificatives afférentes aux comptes arrêtés par l'autorité compétente de l'Etat peuvent être communiquées par
+ces autorités aux personnes ou juridictions visées au quatrième alinéa du présent article ; les conditions de cette
+communication sont précisées par instruction du ministre chargé du budget. 
 
 Les communications, quelles qu'en soient les formes, s'effectuent aux frais du demandeur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 63
+	  - Décret n°2014-504 du 19 mai 2014 - art. 11
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des juridictions financières - art. D247-1 (T)
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 117
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 127
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D241-5 (V)
+	  - Code des juridictions financières - art. D242-42, v. 0.2 (V)
 
 	**Cité par**:
 
@@ -28167,21 +28208,24 @@ chambres régionales des comptes sont définies par accord entre le premier pré
 général des Archives de France. 
 
 La durée d'utilisation comme archives courantes, la durée de conservation comme archives intermédiaires et la destination
-définitive, à l'issue de la période de conservation comme archives intermédiaires, des documents reçus par les   directeurs
-départementaux ou, le cas échéant, régionaux des finances publiques  et les receveurs particuliers des finances à l'appui des
-comptes dont ils assurent l'apurement administratif et des documents produits par eux à l'occasion de cet apurement sont
-définies par accord entre le directeur général de la comptabilité publique et le directeur général des Archives de France
-avec l'agrément du premier président de la Cour des comptes.
+définitive, à l'issue de la période de conservation comme archives intermédiaires, des documents reçus par l'autorité
+compétente de l'Etat à l'appui des comptes dont elle assure l'apurement administratif et des documents produits par elle à
+l'occasion de cet apurement sont définies conjointement par le directeur général des finances publiques et le directeur
+général des Archives de France avec l'agrément du premier président de la Cour des comptes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 63
+	  - Décret n°2014-504 du 19 mai 2014 - art. 12
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des juridictions financières - art. D247-2 (T)
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 117
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D241-4 (V)
 
 	**Cité par**:
 
@@ -28434,16 +28478,17 @@ chambre territoriale des comptes.
 
 ###### Article D253-5
 
-Les articles D. 231-18 à D. 231-31 sont applicables. Pour l'application de ces articles aux chambres territoriales des
-comptes, les références aux   directeurs départementaux ou, le cas échéant, régionaux des finances publiques, aux receveurs
-particuliers des finances sont remplacées par des références aux représentants de la direction générale des finances
-publiques dans ces collectivités.
+Les articles D. 231-18 à D. 231-31 sont applicables.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+	  - Décret n°2014-504 du 19 mai 2014 - art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 145
 
 	**Cite**:
 
@@ -29109,17 +29154,19 @@ une référence au représentant de l'Etat.
 Les articles D. 242-27 à D. 242-31 sont applicables. Pour leur application : 
 
 1° Les références aux chambres régionales des comptes ou à la chambre régionale des comptes sont respectivement remplacées
-par des références aux chambres territoriales des comptes ou à la chambre territoriale des comptes ; 
+par des références aux chambres territoriales des comptes ou à la chambre territoriale des comptes. 
 
-2° Les références aux directeurs départementaux ou, le cas échéant, régionaux des finances publiques et aux receveurs
-particuliers des finances sont remplacées par des références aux représentants de la direction générale des finances
-publiques.
+2° (Supprimé)
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 65
+	  - Décret n°2014-504 du 19 mai 2014 - art. 14
+
+	**Abrogé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 157
 
 	**Cite**:
 
@@ -29164,15 +29211,17 @@ au représentant de la direction générale des finances publiques dans ces coll
 
 Les articles D. 245-1 et D. 245-2 sont applicables. Pour leur application, les références aux chambres régionales des comptes
 ou à la chambre régionale des comptes sont respectivement remplacées par des références aux chambres territoriales des
-comptes ou à la chambre territoriale des comptes. Pour l'application de ces articles, les références aux directeurs
-départementaux ou, le cas échéant, régionaux des finances publique, aux receveurs particuliers des finances sont remplacées
-par des références aux représentants de la direction générale des finances publiques dans ces collectivités.
+comptes ou à la chambre territoriale des comptes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 66
+	  - Décret n°2014-504 du 19 mai 2014 - art. 15
+
+	**Abrogé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 159
 
 	**Cite**:
 

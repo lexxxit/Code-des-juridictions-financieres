@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2014-05-22
+Version Consolidée au 2014-10-16
 
 # Partie législative
 
@@ -24145,21 +24145,23 @@ L'avancement d'échelon est prononcé par décision du premier président de la 
 
 ###### Article R224-3-1
 
-I.  ― Pour les premiers conseillers ayant au moins quinze années  d'ancienneté dans le corps et au moins sept ans
-d'ancienneté au 7e  échelon de leur grade, l'avancement à l'échelon spécial du grade de  premier conseiller se fait dans la
-limite d'un pourcentage des effectifs  du grade fixé par arrêté conjoint du Premier ministre, du ministre  chargé du budget
-et du ministre chargé de la fonction publique. L'accès à  cet échelon spécial s'effectue par ordre d'ancienneté dans le 7e
-échelon. 
+I. ― Pour les premiers conseillers ayant au moins quinze années d'ancienneté dans le corps et au moins sept ans d'ancienneté
+au 7e échelon de leur grade, l'avancement à l'échelon spécial du grade de premier conseiller se fait dans la limite d'un
+pourcentage des effectifs du grade fixé par arrêté conjoint du Premier ministre, du ministre chargé du budget et du ministre
+chargé de la fonction publique. L'accès à cet échelon spécial s'effectue par ordre d'ancienneté dans le 7e échelon. 
 
-II. ― Pour les présidents de section  ayant atteint le 4e échelon de ce grade depuis au moins cinq ans,  l'avancement au
-premier échelon spécial du grade de président de section  se fait dans la limite d'un pourcentage des effectifs du grade fixé
-par  arrêté conjoint du Premier ministre, du ministre chargé du budget et du  ministre chargé de la fonction publique.
-L'accès à cet échelon spécial  s'effectue par ordre d'ancienneté dans le 4e échelon. 
+Pour l'application du premier alinéa, les services accomplis dans les corps ou cadres d'emplois mentionnés à l'article L.
+212-5 sont assimilés à des services effectifs dans le corps des magistrats de chambre régionale des comptes. 
 
-III. ― Pour les présidents de section ayant atteint le premier échelon  spécial depuis au moins cinq ans, l'avancement au
-deuxième échelon  spécial du grade de président de section se fait dans la limite d'un  pourcentage des effectifs du premier
-échelon spécial fixé par arrêté  conjoint du Premier ministre, du ministre chargé du budget et du  ministre chargé de la
-fonction publique. L'accès à ce deuxième échelon  spécial s'effectue par ordre d'ancienneté dans le premier échelon  spécial.
+II. ― Pour les présidents de section ayant atteint le 4e échelon de ce grade depuis au moins cinq ans, l'avancement au
+premier échelon spécial du grade de président de section se fait dans la limite d'un pourcentage des effectifs du grade fixé
+par arrêté conjoint du Premier ministre, du ministre chargé du budget et du ministre chargé de la fonction publique. L'accès
+à cet échelon spécial s'effectue par ordre d'ancienneté dans le 4e échelon. 
+
+III. ― Pour les présidents de section ayant atteint le premier échelon spécial depuis au moins cinq ans, l'avancement au
+deuxième échelon spécial du grade de président de section se fait dans la limite d'un pourcentage des effectifs du premier
+échelon spécial fixé par arrêté conjoint du Premier ministre, du ministre chargé du budget et du ministre chargé de la
+fonction publique. L'accès à ce deuxième échelon spécial s'effectue par ordre d'ancienneté dans le premier échelon spécial.
 
 **Liens relatifs à cet article**
 
@@ -24170,9 +24172,13 @@ fonction publique. L'accès à ce deuxième échelon  spécial s'effectue par or
 	  - Arrêté du 7 mai 2012 - art. 3 (V)
 	  - Arrêté du 4 juin 2014 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-672 du 7 mai 2012 - art. 2
+	  - Décret n°2014-1174 du 13 octobre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L212-5
 
 
 ###### Article R224-4

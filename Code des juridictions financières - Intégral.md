@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2014-10-16
+Version Consolidée au 2014-11-08
 
 # Partie législative
 
@@ -18719,49 +18719,48 @@ personnel de l'externat.
 
 ###### Article D131-29
 
-Lorsqu'ils n'en sont pas aussi les agents comptables, les payeurs généraux et les payeurs auprès des ambassades de France
-sont compétents pour arrêter les comptes des établissements et organismes culturels et d'enseignement à l'étranger mentionnés
-à l'article 21 du décret n° 76-832 du 24 août 1976 relatif à l'organisation financière de certains établissements ou
-organismes de diffusion culturelle et d'enseignement dépendant du ministère des affaires étrangères, situés dans leurs
-circonscriptions.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°76-832 du 24 août 1976 - art. 21 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°86-764 du 10 juin 1986 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Cité par**:
-
-	  - Décret n°2014-1331 du 5 novembre 2014 (V)
-	  - Code des juridictions financières - art. D131-30 (M)
-	  - Code des juridictions financières - art. D131-31 (M)
-
-
-###### Article D131-30
-
-Le directeur départemental ou, le cas échéant, régional des finances publiques pour l'étranger est compétent pour arrêter,
-dans les cas autres que ceux énumérés à l'article D. 131-29, les comptes des établissements et organismes culturels et
-d'enseignement à l'étranger visés à l'article 21 du décret du 24 août 1976 mentionné à l'article D. 131-29.
+Lorsqu'ils n'en sont pas aussi les agents comptables, les trésoriers auprès des ambassades de France sont compétents pour
+arrêter les comptes des établissements et organismes culturels à l'étranger mentionnés à l'article 21 du décret n° 76-832 du
+24 août 1976 relatif à l'organisation financière de certains établissements ou organismes de diffusion culturelle et
+d'enseignement dépendant du ministère des affaires étrangères, situés dans leurs circonscriptions.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°76-832 du 24 août 1976 - art. 21
-	  - Code des juridictions financières - art. D131-29
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Cité par**:
+
+	  - Décret n°2014-1331 du 5 novembre 2014 (V)
+	  - Code des juridictions financières - art. D131-30 (T)
+	  - Code des juridictions financières - art. D131-31 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2014-1331 du 5 novembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 181
+
+
+###### Article D131-30
+
+Le directeur de la direction spécialisée des finances publiques pour l'étranger est compétent pour arrêter, dans les cas
+autres que ceux énumérés à l'article D. 131-29, les comptes des établissements et organismes culturels à l'étranger visés à
+l'article 21 du décret du 24 août 1976 mentionné à l'article D. 131-29.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°76-832 du 24 août 1976 - art. 21
+	  - Code des juridictions financières - art. D131-29 (Ab)
 
 	**Codifié par**:
 
@@ -18769,7 +18768,15 @@ d'enseignement à l'étranger visés à l'article 21 du décret du 24 août 1976
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+	  - Décret n°2014-1331 du 5 novembre 2014 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 37
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D131-19 (V)
 
 	**Cité par**:
 
@@ -18780,29 +18787,31 @@ d'enseignement à l'étranger visés à l'article 21 du décret du 24 août 1976
 
 La compétence établie aux articles D. 131-29 et D. 131-30 s'exerce pour une période de cinq exercices consécutifs en deçà
 d'un seuil fixé par référence aux recettes de fonctionnement, y compris les subventions, quel que soit leur objet, du premier
-exercice de la période considérée.
+exercice de la période considérée. 
 
-Ce seuil est fixé pour la période commençant en 1983 à la contre-valeur en monnaie locale, au 31 décembre 1983, de 12
-millions de francs.
+Ce seuil est fixé par arrêté du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°86-764 du 10 juin 1986 - art. 5 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2014-1331 du 5 novembre 2014 - art. 3
 
-	**Cite**:
+	**Transféré par**:
 
-	  - Code des juridictions financières - art. D131-29 (V)
-	  - Code des juridictions financières - art. D131-30 (V)
+	  - Décret n°2017-671 du 28 avril 2017 - art. 37
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D131-19 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. D131-31 (T)
 
 
 ###### Article D131-32

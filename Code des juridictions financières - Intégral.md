@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2015-02-06
+Version Consolidée au 2015-02-13
 
 # Partie législative
 
@@ -18169,18 +18169,26 @@ dispositions spéciales à chacun des receveurs intéressés.
 
 L'arrêt ou l'ordonnance qui contient les dispositions relatives à chacune des administrations financières est notifié par le
 secrétaire général de la Cour des comptes aux directeurs des services fiscaux et aux directeurs régionaux des douanes qui,
-dans les quinze jours de sa réception, en assurent la notification aux receveurs intéressés, chacun en ce qui le concerne,
-par lettre recommandée avec demande d'avis de réception.
+dans les quinze jours de sa réception, en assurent la notification aux receveurs intéressés, chacun en ce qui le concerne. En
+cas de transmission sur support papier, la notification se fait par lettre recommandée avec demande d'avis de réception. 
 
 Les directeurs des services fiscaux et les directeurs régionaux des douanes constatent l'envoi des extraits de l'arrêt et la
 date de notification de chacun d'eux par un procès-verbal qui est adressé au secrétaire général de la Cour des comptes,
-appuyé des récépissés de dépôt délivrés par la poste et des avis de réception.
+appuyé, le cas échéant, des récépissés de dépôt délivrés par la poste et des avis de réception.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1398 du 19 décembre 2008 - art. 3
+	  - Décret n°2015-146 du 10 février 2015 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 35
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D131-5 (V)
 
 
 ##### Sous-section 2 : Jugement des gestions de fait.
@@ -18854,52 +18862,60 @@ nécessaires sont transmis à la Cour. Le jugement de l'affaire obéit aux règl
 
 ###### Article D131-33
 
-Les arrêtés sont notifiés aux comptables par lettre recommandée avec accusé de réception.
+En cas de transmission sur support papier, les arrêtés sont notifiés aux comptables par lettre recommandée avec demande
+d'avis de réception. 
 
-Les dispositions des articles D. 144-2 à D. 144-4 sont applicables à la notification des arrêtés.
+Les dispositions des articles D. 142-17 à D. 142-20 sont applicables à la notification des arrêtés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°86-764 1986-06-10, article nouveau
+	  - Code des juridictions financières - art. R142-17 (V)
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2015-146 du 10 février 2015 - art. 2
 
-	**Cite**:
+	**Liens**:
 
-	  - Code des juridictions financières D144-2 à D144-4
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 37
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D131-21 (V)
 
 
 ###### Article D131-34
 
 Les arrêtés sont notifiés au représentant de l'Etat dans un délai de quinze jours.
 
-Le représentant de l'Etat notifie à son tour, par lettre recommandée avec avis de réception, lesdits arrêtés, dans un délai
-de quinze jours aux ordonnateurs intéressés.
+Le représentant de l'Etat notifie à son tour lesdits arrêtés, dans un délai de quinze jours aux ordonnateurs intéressés.
 
 Les comptables supérieurs notifient dans un délai de quinze jours aux ministres intéressés ou à leurs délégués les arrêtés
 qu'ils prennent sur les comptes des établissements publics.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°86-764 1986-06-10, article nouveau
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2015-146 du 10 février 2015 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 37
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D131-22 (V)
 
 
 ###### Article D131-35
@@ -18939,35 +18955,39 @@ comptes du comptable patent lorsqu'une gestion de fait a été déférée à la 
 
 ###### Article D131-36
 
-Les recours visés à l'article précédent doivent être remis ou adressés sous pli recommandé au comptable supérieur, qui en
-accuse réception. Une copie de ce recours est adressée par le requérant au secrétaire général de la Cour des comptes.
+Les recours visés à l'article précédent doivent être remis ou adressés au comptable supérieur. En cas de transmission sur
+support papier, ils sont adressés sous pli recommandé au comptable supérieur, qui en accuse réception. 
 
 Le recours doit, à peine de nullité, indiquer l'exposé des faits et moyens, ainsi que les conclusions du requérant. Il doit
 être appuyé des pièces établissant la notification du recours au comptable supérieur, de tous les documents nécessaires pour
 établir le bien-fondé de la demande et d'une ampliation de la décision attaquée. Trois copies doivent être jointes au
-recours.
+recours. 
 
 Les intéressés, autres que le requérant, visés à l'article D. 131-35 sont informés du dépôt du recours par le comptable
-supérieur, qui leur adresse à cet effet par pli recommandé les copies du recours remises par le requérant. Pour
-l'accomplissement de cette formalité, les ministres intéressés sont représentés par le représentant de l'Etat compétent.
+supérieur, qui leur adresse à cet effet éventuellement par pli recommandé les copies du recours remises par le requérant.
+Pour l'accomplissement de cette formalité, les ministres intéressés sont représentés par le représentant de l'Etat compétent.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°86-764 1986-06-10, article nouveau
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2015-146 du 10 février 2015 - art. 4
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 37
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D131-24 (V)
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. D131-35 (V)
+	  - Code des juridictions financières - art. D131-35
 
 
 ##### Section 4 : Condamnation des comptables à l'amende pour retard
@@ -19856,6 +19876,73 @@ observations provisoires sur lesquelles elle estime nécessaire de susciter leur
 	  - Code des juridictions financières - art. R141-13 (M)
 
 
+###### Article R141-9
+
+Pour échanger ou notifier, dans le cadre des procédures de contrôle, des documents, des actes ou des données, à l'exception
+de ceux qui présentent un caractère de secret de la défense nationale et qui font l'objet de mesures de classification en
+application de l'article 413-9 du code pénal, la Cour des comptes et ses interlocuteurs procèdent par voie électronique ou, à
+défaut, par courrier sur support papier. 
+
+Les caractéristiques techniques des applications assurant les transmissions électroniques garantissent la fiabilité de
+l'identification des intervenants, l'intégrité et la conservation des documents ainsi que la confidentialité des échanges.
+Elles garantissent également la traçabilité de ces transmissions électroniques et permettent d'établir de manière certaine la
+date et l'heure de la mise à disposition d'un document ainsi que celles de sa première consultation par son destinataire. Un
+arrêté du premier président définit ces caractéristiques et les exigences techniques que doivent respecter les utilisateurs
+de ces applications.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Modifié par**:
+
+	  - Décret n°2015-146 du 10 février 2015 - art. 5
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 48
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R141-10 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R141-7 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 413-9
+
+
+###### Article R141-10
+
+L'identification de l'interlocuteur de la Cour des comptes, selon les modalités prévues par l'arrêté mentionné à l'article R.
+141-9, vaut signature pour l'application des dispositions du présent livre. Toutefois, lorsque l'échange dématérialisé n'a
+pas fait l'objet d'une signature électronique au sens du second alinéa de l'article 1316-4 du code civil, l'interlocuteur de
+la Cour des comptes peut, sur demande de celle-ci, être tenu de produire un exemplaire du document échangé revêtu de sa
+signature manuscrite.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-146 du 10 février 2015 - art. 5
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. D112-20-1 (V)
+	  - Code des juridictions financières - art. D141-10-1 (T)
+	  - Code des juridictions financières - art. R131-44 (Ab)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R141-9 (V)
+	  - Code civil - art. 1316-4
+
+
 #### CHAPITRE II :  Dispositions relatives aux activités juridictionnelles
 
 ##### Section 1 : Dispositions relatives au jugement des comptes des comptables patents
@@ -20098,7 +20185,8 @@ articles R. 112-18 et R. 112-19.
 
 Le rôle des audiences publiques est fixé par le président de la formation de jugement en accord avec le ministère public. 
 
-Toute partie est avertie par une notification faite par lettre recommandée du jour où l'affaire est appelée à l'audience. 
+Toute partie est avertie du jour où l'affaire est appelée à l'audience. En cas de transmission sur support papier, la
+notification est faite par lettre recommandée avec demande d'avis de réception.  
 
 Cette notification est faite sept jours au moins avant l'audience. 
 
@@ -20106,17 +20194,21 @@ L'ordre du jour de l'audience est affiché à l'entrée de la Cour.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 29
+	  - Décret n°2015-146 du 10 février 2015 - art. 6
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 51
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. D112-20-1 (Ab)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Code des juridictions financières - art. R141-16 (T)
+	  - Code des juridictions financières - art. R142-9 (V)
 
 
 ###### Article R142-9
@@ -20319,9 +20411,10 @@ modalités et un barème fixés par arrêté du premier président.
 I. - Le comptable ou ses ayants droit, peut demander, après expiration des délais de pourvoi en cassation, la révision d'un
 arrêt ou d'une ordonnance en produisant des justifications recouvrées depuis l'arrêt ou l'ordonnance. 
 
-La requête en révision est adressée au premier président par lettre recommandée avec avis de réception. Elle doit comporter
-l'exposé des faits et moyens invoqués par le requérant et être accompagnée d'une copie de l'arrêt ou de l'ordonnance attaqué
-et des justifications sur lesquelles elle se fonde. 
+La requête en révision est adressée au premier président. En cas de transmission sur support papier, elle est adressée par
+lettre recommandée avec demande d'avis de réception. Elle doit comporter l'exposé des faits et moyens invoqués par le
+requérant et être accompagnée d'une copie de l'arrêt ou de l'ordonnance attaqué et des justifications sur lesquelles elle se
+fonde. 
 
 II. - La Cour des comptes peut procéder à la révision d'un arrêt ou d'une ordonnance, pour cause d'erreur, omission, faux ou
 double emploi, d'office ou sur réquisition du procureur général. Cette réquisition peut être prise de sa propre initiative ou
@@ -20339,14 +20432,22 @@ arrêt unique sur la recevabilité du recours et, s'il y a lieu, sur le fond de 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 31
+	  - Décret n°2015-146 du 10 février 2015 - art. 7
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 53
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. D112-20-1 (Ab)
 	  - Code des juridictions financières - art. D142-22 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R142-19 (V)
 
 
 ###### Article R142-16
@@ -20381,21 +20482,25 @@ ou de l'ordonnance.
 Les arrêts et ordonnances rendus par la Cour des comptes sont notifiés directement aux personnes mentionnées aux articles R.
 142-3 et R. 142-12. 
 
-La notification prévue à l'article R. 142-12 est effectuée par le secrétaire général de la Cour des comptes par lettre
-recommandée avec avis de réception. 
+La notification prévue à l'article R. 142-12 est effectuée par le secrétaire général de la Cour des comptes. En cas de
+transmission sur support papier, la notification se fait par lettre recommandée avec demande d'avis de réception. 
 
 Le directeur départemental ou, le cas échéant, régional des finances publiques des créances spéciales du Trésor reçoit
 ampliation des arrêts relatifs aux débets et amendes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 32
+	  - Décret n°2015-146 du 10 février 2015 - art. 8
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des juridictions financières - art. D144-1 (T)
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 54
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D142-22 (V)
 
 	**Cite**:
 
@@ -20435,33 +20540,38 @@ mêmes conditions aux représentants légaux ou aux héritiers des comptables.
 
 Tout comptable public dont les comptes sont jugés par la Cour des comptes et qui cesse définitivement ses fonctions est tenu,
 tant qu'il n'a pas obtenu sa libération définitive, de faire connaître son domicile dans le procès-verbal de remise de
-service et d'aviser le secrétaire général de la Cour, par lettre recommandée, de tout changement ultérieur de son domicile.
+service et d'aviser le secrétaire général de la Cour de tout changement ultérieur de son domicile. En cas de transmission sur
+support papier, le secrétaire général est avisé par lettre recommandée avec demande d'avis de réception. 
 
 Les mêmes obligations incombent aux représentants légaux et aux héritiers des comptables.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 32
+	  - Décret n°2015-146 du 10 février 2015 - art. 9
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 54
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. D131-23 (V)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Code des juridictions financières - art. D144-3 (T)
+	  - Code des juridictions financières - art. D142-24 (V)
 
 
 ###### Article D142-20
 
-Si, par suite du refus du comptable, de ses représentants légaux ou de ses héritiers, ou pour toute autre cause, la
-notification par lettre recommandée ne peut atteindre son destinataire, le secrétaire général de la Cour des comptes adresse
-l'arrêt ou l'ordonnance au   directeur départemental ou, le cas échéant, régional des finances publiques  du département ou
-du territoire dans lequel se trouve le dernier domicile connu ou déclaré. 
+Si par suite du refus du comptable, de ses représentants légaux ou de ses héritiers, ou pour toute autre cause, la
+notification par lettre recommandée ou par voie électronique ne peut atteindre son destinataire, le secrétaire général de la
+Cour des comptes adresse l'arrêt ou l'ordonnance au directeur départemental ou, le cas échéant, régional des finances
+publiques du département ou du territoire dans lequel se trouve le dernier domicile connu ou déclaré. 
 
-Dès réception de l'arrêt ou de l'ordonnance, le   directeur départemental ou, le cas échéant, régional des finances publiques
+Dès réception de l'arrêt ou de l'ordonnance, le directeur départemental ou, le cas échéant, régional des finances publiques
 fait procéder à une notification à personne ou à domicile par un agent huissier du Trésor qui en retire récépissé et en
 dresse procès-verbal. 
 
@@ -20486,41 +20596,51 @@ l'affichage pendant un mois sont transmis sans délai par ce dernier au secréta
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 32
+	  - Décret n°2015-146 du 10 février 2015 - art. 10
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 54
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. D142-21 (V)
 	  - Code des juridictions financières - art. R141-8 (V)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Code des juridictions financières - art. D144-4 (T)
+	  - Code des juridictions financières - art. D142-25 (V)
 
 
 ###### Article D142-21
 
 Les arrêts de la Cour des comptes concernant les personnes déclarées comptables de fait sont notifiés par le secrétaire
-général de la Cour par lettre recommandée avec avis de réception ; le directeur départemental ou, le cas échéant, régional
-des finances publiques des créances spéciales du Trésor reçoit ampliation desdits arrêts. 
+général de la Cour. En cas de transmission sur support papier, la notification se fait par lettre recommandée avec demande
+d'avis de réception ; le directeur départemental ou, le cas échéant, régional des finances publiques des créances spéciales
+du Trésor reçoit ampliation desdits arrêts. 
 
 En cas de besoin, la notification des arrêts est faite suivant les procédures prévues aux articles D. 142-18 et D. 142-20.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 32
+	  - Décret n°2015-146 du 10 février 2015 - art. 11
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des juridictions financières - art. D144-5 (T)
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 54
 
 	**Cite**:
 
+	  - Code des juridictions financières - art. D142-20
 	  - Code des juridictions financières - art. R142-18
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D142-26 (V)
 
 
 ##### Section 5 : Dispositions diverses
@@ -24891,14 +25011,17 @@ l'apurement administratif ; elle déclare et apure les gestions de fait des coll
 ressort et prononce les condamnations à l'amende. 
 
 Elle statue sur les révisions et sur les rectifications d'erreur matérielle de ses propres jugements et sur les recours en
-réformation des arrêtés de décharge et de quitus des   directeurs départementaux ou, le cas échéant, régionaux des finances
-publiques  et des receveurs particuliers des finances.
+réformation des arrêtés de décharge et de quitus dont elle est saisie en application de l'article L. 231-9.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+	  - Décret n°2015-146 du 10 février 2015 - art. 44
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L231-9
 
 	**Cité par**:
 
@@ -25871,19 +25994,23 @@ d'inspection et corps de contrôle.
 ###### Article R241-7
 
 Les personnes visées à l'article L. 241-4 que la chambre régionale des comptes décide d'entendre sont convoquées par le
-président de la chambre.
+président de la chambre. 
 
-Celui-ci appelle la ou les personnes intéressées à se présenter devant la chambre ou la section concernée par lettre
-recommandée avec demande d'avis de réception.
+Celui-ci appelle la ou les personnes intéressées à se présenter devant la chambre ou la section concernée. En cas de
+transmission sur support papier, cette convocation se fait par lettre recommandée avec demande d'avis de réception. 
 
 Il précise les points sur lesquels la chambre les entendra et leur adresse, s'il y a lieu, un questionnaire ou tout document
 qu'elle juge utile en vue de l'audition.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-146 du 10 février 2015 - art. 12
+
 	**Liens**:
 
-	  - DEPLACE: Décret n°2013-268 du 29 mars 2013 - art. 54
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 131
 
 	**Cite**:
 
@@ -25893,6 +26020,10 @@ qu'elle juge utile en vue de l'audition.
 
 	  - Code des juridictions financières - art. R212-21 (V)
 	  - Code des juridictions financières - art. R241-29 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R243-7 (V)
 
 
 ###### Article R241-8
@@ -26325,14 +26456,22 @@ La notification du rapport d'observations rectifié se substitue à celle prévu
 
 ###### Article R241-22
 
-Les notifications des rapports d'observations prévues au présent chapitre sont faites par lettre recommandée avec demande
-d'avis de réception.
+En cas de transmission sur support papier, les notifications des rapports d'observations prévues au présent chapitre sont
+faites par lettre recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-146 du 10 février 2015 - art. 13
+
 	**Liens**:
 
-	  - DEPLACE: Décret n°2013-268 du 29 mars 2013 - art. 54
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 119
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R241-10 (V)
 
 
 ###### Article R241-23
@@ -26532,8 +26671,9 @@ collectivité ou de l'établissement qui a fait l'objet d'un examen de la gestio
 d'omission dudit rapport peut être adressée au greffe de la chambre par les personnes mentionnées à l'article L. 245-4 du
 présent code. 
 
-La demande en rectification est transmise par lettre recommandée avec avis de réception. Elle doit comporter l'exposé des
-faits et les motifs invoqués et être accompagnée des justifications sur lesquelles elle se fonde. 
+En cas de transmission sur support papier, la demande en rectification est transmise par lettre recommandée avec demande
+d'avis de réception. Elle doit comporter l'exposé des faits et les motifs invoqués et être accompagnée des justifications sur
+lesquelles elle se fonde. 
 
 Le président de la chambre régionale des comptes transmet la demande en rectification à toute personne nominativement ou
 explicitement concernée par ladite demande et, le cas échéant, aux ordonnateurs et dirigeants des personnes morales
@@ -26547,14 +26687,88 @@ décision est annexée au rapport d'observations définitives.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-146 du 10 février 2015 - art. 14
+
 	**Liens**:
 
-	  - DEPLACE: Décret n°2013-268 du 29 mars 2013 - art. 54
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 135
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. L243-5
 	  - Code des juridictions financières - art. L245-4
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R243-21 (V)
+
+
+###### Article R241-32
+
+Pour échanger ou notifier dans le cadre des procédures de contrôle, des documents, des actes ou des données, à l'exception de
+ceux qui présentent un caractère de secret de la défense nationale et qui font l'objet de mesures de classification en
+application de l'article 413-9 du code pénal, la chambre régionale des comptes et ses interlocuteurs procèdent par voie
+électronique ou, à défaut, par courrier sur support papier. 
+
+Les caractéristiques techniques des applications assurant les transmissions électroniques garantissent la fiabilité de
+l'identification des intervenants, l'intégrité et la conservation des documents ainsi que la confidentialité des échanges.
+Elles garantissent également la traçabilité de ces transmissions électroniques et permettent d'établir de manière certaine la
+date et l'heure de la mise à disposition d'un document ainsi que celles de sa première consultation par son destinataire. Un
+arrêté du premier président définit ces caractéristiques et les exigences techniques que doivent respecter les utilisateurs
+de ces applications.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-146 du 10 février 2015 - art. 15
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 119
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. D212-26-1 (V)
+	  - Code des juridictions financières - art. R241-33 (Ab)
+	  - Code des juridictions financières - art. R254-2 (V)
+	  - Code des juridictions financières - art. R254-7 (Ab)
+	  - Code des juridictions financières - art. R262-81-1 (T)
+	  - Code des juridictions financières - art. R272-70-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R241-9 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 413-9
+
+
+###### Article R241-33
+
+L'identification de l'interlocuteur de la chambre régionale des comptes, selon les modalités prévues par l'arrêté mentionné à
+l'article R. 241-32, vaut signature pour l'application des dispositions du présent livre. Toutefois, lorsque l'échange
+dématérialisé n'a pas fait l'objet d'une signature électronique au sens du second alinéa de l'article 1316-4 du code civil,
+l'interlocuteur de la chambre régionale des comptes peut, sur demande de celle-ci, être tenu de produire un exemplaire du
+document échangé revêtu de sa signature manuscrite.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-146 du 10 février 2015 - art. 15
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. D246-1 (T)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R241-32 (T)
+	  - Code civil - art. 1316-4
 
 
 ##### CHAPITRE II : Dispositions relatives aux activités juridictionnelles
@@ -26797,7 +27011,8 @@ visées à l'article R. 212-32.
 
 Le rôle des audiences publiques est fixé par le président de la formation de jugement en accord avec le ministère public. 
 
-Toute partie est avertie par une notification faite par lettre recommandée du jour où l'affaire est appelée à l'audience. 
+Toute partie est avertie du jour où l'affaire est appelée à l'audience. En cas de transmission sur support papier, cette
+notification se fait par lettre recommandée avec demande d'avis de réception.  
 
 Cette notification est faite sept jours au moins avant l'audience. 
 
@@ -26805,13 +27020,17 @@ L'ordre du jour de l'audience est affiché à l'entrée de la chambre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 56
+	  - Décret n°2015-146 du 10 février 2015 - art. 16
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des juridictions financières - art. R241-38 (T)
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 122
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R242-8 (V)
 
 
 ###### Article R242-8
@@ -27089,25 +27308,29 @@ Le ministère public et, dans la mesure où elles justifient d'un intérêt, les
 
 ###### Article R242-17
 
-La requête en appel, signée par l'intéressé, doit être déposée ou adressée par lettre recommandée au greffe de la chambre
-régionale des comptes.
+La requête en appel, signée par l'intéressé, doit être déposée ou adressée au greffe de la chambre régionale des comptes. En
+cas de transmission sur support papier, la requête est adressée par lettre recommandée avec demande d'avis de réception. 
 
 La requête doit contenir, à peine de nullité, l'exposé des faits et moyens, ainsi que les conclusions du requérant. Elle doit
 être accompagnée des documents sur lesquels elle s'appuie et d'une copie du jugement ou de l'ordonnance attaquée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 59
+	  - Décret n°2015-146 du 10 février 2015 - art. 17
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 124
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R131-28 (V)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Code des juridictions financières - art. R243-4 (T)
+	  - Code des juridictions financières - art. R242-22 (V)
 
 
 ###### Article R242-18
@@ -27297,20 +27520,20 @@ ministère public près la chambre ou sur demande du procureur général près l
 
 ###### Article R242-25
 
-Les notifications et transmissions concernant la procédure d'appel sont effectuées par lettre recommandée avec demande d'avis
-de réception.
+En cas de transmission sur support papier, les notifications et transmissions concernant la procédure d'appel sont effectuées
+par lettre recommandée avec demande d'avis de réception. 
 
 Il est fait application, le cas échéant, des dispositions des articles D. 242-35 et D. 242-36.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 59
+	  - Décret n°2015-146 du 10 février 2015 - art. 18
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code des juridictions financières - art. R243-12 (T)
+	  - Code des juridictions financières - art. D242-35
 
 
 ###### Article R242-26
@@ -27318,9 +27541,10 @@ Il est fait application, le cas échéant, des dispositions des articles D. 242-
 I. - Le comptable, ou ses ayants droit, peut demander, après expiration des délais d'appel, la révision d'un jugement ou
 d'une ordonnance en produisant des justifications recouvrées depuis le jugement ou l'ordonnance. 
 
-La requête en révision est adressée au président de la chambre par lettre recommandée avec avis de réception. Elle doit
-comporter l'exposé des faits et moyens invoqués par le requérant, et être accompagnée d'une copie du jugement ou de
-l'ordonnance attaqué ainsi que des justifications sur lesquelles elle se fonde. 
+La requête en révision est adressée au président de la chambre. Elle doit comporter l'exposé des faits et moyens invoqués par
+le requérant, et être accompagnée d'une copie du jugement ou de l'ordonnance attaqué ainsi que des justifications sur
+lesquelles elle se fonde. En cas de transmission sur support papier, la requête est adressée par lettre recommandée avec
+demande d'avis de réception. 
 
 II. - La chambre régionale des comptes peut procéder à la révision d'un jugement ou d'une ordonnance, pour cause d'erreur,
 omission, faux ou double emploi, soit d'office, soit sur réquisition du ministère public, qui peut être prise de sa propre
@@ -27338,13 +27562,17 @@ une décision unique sur la recevabilité de la demande et, s'il y a lieu, sur l
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 59
+	  - Décret n°2015-146 du 10 février 2015 - art. 19
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des juridictions financières - art. R243-13 (T)
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 125
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R242-29, v. 0.2 (V)
 
 
 ##### Section 4 : Apurement administratif et voies de recours devant les chambres régionales des comptes
@@ -27445,18 +27673,26 @@ Si, au cours de l'instance, de nouvelles pièces sont versées au dossier, le re
 par le greffe près la chambre régionale des comptes. Ils disposent d'un délai de quinze jours pour en prendre connaissance au
 greffe de la chambre régionale des comptes. 
 
-Les notifications et transmissions prévues à l'article D. 242-29 et au présent article sont faites par lettre recommandée
-avec avis de réception.
+En cas de transmission sur support papier, les notifications et transmissions prévues à l'article D. 242-29 et au présent
+article sont faites par lettre recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-504 du 19 mai 2014 - art. 8
+	  - Décret n°2015-146 du 10 février 2015 - art. 20
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 126
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. D242-29 (T)
+	  - Code des juridictions financières - art. D242-29
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D242-32 (V)
 
 
 ###### Article D242-31
@@ -27529,23 +27765,23 @@ Les jugements et ordonnances rendus par les chambres régionales des comptes sur
 nationaux en application de l'article L. 131-1 sont notifiés directement aux comptables intéressés par le secrétaire général
 de la chambre. 
 
-Cette notification est effectuée par lettre recommandée avec avis de réception. Une ampliation du jugement ou de l'ordonnance
-est adressée au premier président de la Cour des comptes.
+En cas de transmission sur support papier, cette notification est effectuée par lettre recommandée avec demande d'avis de
+réception. Une ampliation du jugement ou de l'ordonnance est adressée au premier président de la Cour des comptes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 61
+	  - Décret n°2015-146 du 10 février 2015 - art. 21
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 127
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. D242-32 (V)
 	  - Code des juridictions financières - art. D242-34 (V)
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. D246-2 (T)
 
 
 ###### Article D242-34
@@ -27610,10 +27846,10 @@ représentants légaux ou à leurs héritiers.
 
 ###### Article D242-36
 
-Si, par suite du refus du comptable, de ses représentants légaux ou de ses héritiers, ou pour toute autre cause, la
-notification par lettre recommandée ne peut pas atteindre son destinataire, le secrétaire général de la chambre régionale des
-comptes adresse le jugement ou l'ordonnance au directeur départemental ou, le cas échéant, régional des finances publiques du
-département du dernier domicile connu ou déclaré. 
+Si par suite du refus du comptable, de ses représentants légaux ou de ses héritiers, ou pour toute autre cause, la
+notification par lettre recommandée ou par voie électronique ne peut atteindre son destinataire, le secrétaire général de la
+chambre régionale des comptes adresse le jugement ou l'ordonnance au directeur départemental ou, le cas échéant, régional des
+finances publiques du département du dernier domicile connu ou déclaré.  
 
 Dès réception du jugement ou de l'ordonnance, le directeur départemental ou, le cas échéant, régional des finances publiques
 fait procéder à une notification à personne ou à domicile par un agent huissier des finances publiques qui en retire
@@ -27641,7 +27877,15 @@ régionale des comptes.
 
 	**Modifié par**:
 
-	  - Décret n°2014-504 du 19 mai 2014 - art. 10
+	  - Décret n°2015-146 du 10 février 2015 - art. 22
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 127
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D242-38 (V)
 
 	**Cité par**:
 
@@ -27651,7 +27895,8 @@ régionale des comptes.
 ###### Article D242-37
 
 Les jugements des chambres régionales des comptes concernant les personnes déclarées comptables de fait leur sont notifiés
-par le secrétaire général de la chambre régionale des comptes par lettre recommandée avec avis de réception. 
+par le secrétaire général de la chambre régionale des comptes. En cas de transmission sur support papier, la notification est
+effectuée par lettre recommandée avec avis de réception. 
 
 Le cas échéant, cette notification est faite suivant les procédures visées aux articles D. 242-35 et D. 242-36 du présent
 code. 
@@ -27662,20 +27907,29 @@ l'établissement public concerné ainsi qu'au représentant de l'Etat dans le d�
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 61
+	  - Décret n°2015-146 du 10 février 2015 - art. 23
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des juridictions financières - art. D246-6 (T)
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 127
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. D242-35 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D242-39 (V)
 
 
 ###### Article D242-38
 
 Les jugements et ordonnances des chambres régionales des comptes sur les comptes produits par les comptables patents ou les
-comptables de fait sont notifiés par le secrétaire général au représentant de la collectivité ou de l'établissement public
-par lettre recommandée avec avis de réception. 
+comptables de fait sont notifiés par le secrétaire général au représentant de la collectivité ou de établissement public. En
+cas de transmission sur support papier, la notification est effectuée par lettre recommandée avec demande d'avis de
+réception. 
 
 Ils sont transmis par le secrétaire général au procureur financier et, par son intermédiaire, au procureur général près la
 Cour des comptes. Lorsqu'ils statuent sur les comptes d'un établissement public national jugé en application du deuxième
@@ -27684,13 +27938,17 @@ ministres intéressés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 61
+	  - Décret n°2015-146 du 10 février 2015 - art. 24
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des juridictions financières - art. D246-7 (T)
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 127
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D242-40 (V)
 
 	**Cité par**:
 
@@ -28180,13 +28438,14 @@ Art.R. 1612-15.-Dans le cas où une subvention exceptionnelle est accordée à u
 
 ###### Article R244-3
 
-Les notifications prévues au présent chapitre sont effectuées par lettre recommandée avec demande d'avis de réception.
+En cas de transmission sur support papier, les notifications prévues au présent chapitre sont effectuées par lettre
+recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 58
+	  - Décret n°2015-146 du 10 février 2015 - art. 25
 
 
 ##### CHAPITRE V : Dispositions diverses
@@ -28472,15 +28731,13 @@ L'article R. 231-1 est applicable dans les conditions suivantes :
 1° Les références à la chambre régionale des comptes sont remplacées par des références à la chambre territoriale des
 comptes ; 
 
-2° Au dernier alinéa, les mots : " des   directeurs départementaux ou, le cas échéant, régionaux des finances publiques  et
-des receveurs particuliers des finances " sont remplacés par les mots : " du représentant de la direction générale des
-finances publiques dans ces collectivités ".
+2° (Supprimé)
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+	  - Décret n°2015-146 du 10 février 2015 - art. 45
 
 	**Cite**:
 
@@ -29237,6 +29494,26 @@ au représentant de la direction générale des finances publiques dans ces coll
 	**Cite**:
 
 	  - Code des juridictions financières - art. D242-32
+
+
+###### Article R254-7
+
+Les articles R. 241-32 et R. 241-33 sont applicables. Pour leur application, les références aux chambres régionales des
+comptes sont remplacées par des références aux chambres territoriales des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-146 du 10 février 2015 - art. 26
+
+	**Abrogé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 157
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R241-32
 
 
 ##### Chapitre VI : Dispositions diverses
@@ -30788,23 +31065,31 @@ d'inspection et corps de contrôle.
 ###### Article R262-62
 
 Les personnes visées à l'article L. 262-46 que la chambre territoriale des comptes décide d'entendre sont convoquées par le
-président de la chambre.
+président de la chambre. 
 
-Celui-ci appelle la ou les personnes intéressées à se présenter devant la chambre ou la section concernée par lettre
-recommandée avec demande d'avis de réception.
+Celui-ci appelle la ou les personnes intéressées à se présenter devant la chambre ou la section concernée. En cas de
+transmission sur support papier, cette convocation est effectuée par lettre recommandée avec demande d'avis de réception. 
 
 Il précise les points sur lesquels la chambre les entendra et leur adresse, s'il y a lieu, un questionnaire ou tout document
 qu'elle juge utile en vue de l'audition.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-146 du 10 février 2015 - art. 27
+
 	**Liens**:
 
-	  - DEPLACE: Décret n°2008-1397 du 19 décembre 2008 - art. 79
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 168
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. L262-46
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R262-119 (V)
 
 	**Cité par**:
 
@@ -31152,14 +31437,22 @@ La notification des observations rectifiées se substitue à celle prévue au pr
 
 ###### Article R262-77
 
-Les notifications des observations prévues au présent chapitre sont effectuées par lettre recommandée avec demande d'avis de
-réception.
+En cas de transmission sur support papier, les notifications des observations prévues au présent chapitre sont effectuées par
+lettre recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-146 du 10 février 2015 - art. 28
+
 	**Liens**:
 
-	  - DEPLACE: Décret n°2008-1397 du 19 décembre 2008 - art. 79
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R262-67 (V)
 
 
 ###### Article R262-78
@@ -31249,6 +31542,30 @@ La procédure devant la chambre territoriale des comptes est  contradictoire.
 	**Modifié par**:
 
 	  - Décret n°2008-1397 du 19 décembre 2008 - art. 84
+
+
+###### Article R262-81-1
+
+Les articles R. 241-32 et R. 241-33 sont applicables. Pour leur application, les références aux chambres régionales des
+comptes sont remplacées par des références aux chambres territoriales des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-146 du 10 février 2015 - art. 29
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R241-32
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R262-66 (V)
 
 
 ###### Article R262-82
@@ -31482,7 +31799,8 @@ de fait, d'amende, ou de révision. Cette décision est délibérée dans l'une 
 
 Le rôle des audiences publiques est fixé par le président de la formation de jugement en accord avec le ministère public. 
 
-Toute partie est avertie par une notification faite par lettre recommandée du jour où l'affaire est appelée à l'audience. 
+Toute partie est avertie par une notification du jour où l'affaire est appelée à l'audience. En cas de transmission sur
+support papier, la notification est effectuée par lettre recommandée avec demande d'avis de réception.  
 
 Cette notification est faite sept jours au moins avant l'audience. 
 
@@ -31490,9 +31808,17 @@ L'ordre du jour de l'audience est affiché à l'entrée de la chambre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1397 du 19 décembre 2008 - art. 92
+	  - Décret n°2015-146 du 10 février 2015 - art. 30
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R262-76 (V)
 
 
 ###### Article R262-82-8
@@ -31734,17 +32060,25 @@ Le ministère public et, dans la mesure où elles justifient d'un intérêt, les
 
 ###### Article R262-86
 
-La requête en appel, signée par l'intéressé, doit être déposée ou adressée par lettre recommandée au greffe de la chambre
-territoriale des comptes.
+La requête en appel, signée par l'intéressé, doit être déposée ou adressée au greffe de la chambre territoriale des comptes.
+En cas de transmission sur support papier, la requête est adressée par lettre recommandée avec demande d'avis de réception. 
 
 La requête doit contenir, à peine de nullité, l'exposé des faits et moyens, ainsi que les conclusions du requérant. Elle doit
 être accompagnée des documents sur lesquels elle s'appuie et d'une copie du jugement ou de l'ordonnance attaquée.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-146 du 10 février 2015 - art. 31
+
 	**Liens**:
 
-	  - DEPLACE: Décret n°2013-268 du 29 mars 2013 - art. 68
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R262-90 (V)
 
 
 ###### Article R262-87
@@ -31898,8 +32232,8 @@ ministère public près la chambre ou sur demande du procureur général près l
 
 ###### Article R262-94
 
-Les notifications et transmissions concernant la procédure d'appel sont effectuées par lettre recommandée avec demande d'avis
-de réception. 
+En cas de transmission sur support papier, les notifications et transmissions concernant la procédure d'appel sont effectuées
+par lettre recommandée avec demande d'avis de réception. 
 
 Il est fait application, le cas échéant, des dispositions des articles D. 242-35 et D. 242-36.
 
@@ -31911,13 +32245,12 @@ Il est fait application, le cas échéant, des dispositions des articles D. 242-
 
 	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 68
+	  - Décret n°2015-146 du 10 février 2015 - art. 32
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. D242-35
-	  - Code des juridictions financières - art. D246-4
-	  - Code des juridictions financières - art. D246-5
+	  - Code des juridictions financières - art. D242-36
 
 
 ###### Article R262-95
@@ -31925,9 +32258,10 @@ Il est fait application, le cas échéant, des dispositions des articles D. 242-
 I. - Le comptable, ou ses ayants droit, peut demander, après expiration des délais d'appel, la révision d'un jugement ou
 d'une ordonnance en produisant des justifications recouvrées depuis le jugement ou l'ordonnance. 
 
-La requête en révision est adressée au président de la chambre par lettre recommandée avec avis de réception. Elle doit
-comporter l'exposé des faits et moyens invoqués par le requérant et être accompagnée d'une copie du jugement ou de
-l'ordonnance attaqué ainsi que des justifications sur lesquelles elle se fonde. 
+La requête en révision est adressée au président de la chambre. Elle doit comporter l'exposé des faits et moyens invoqués par
+le requérant et être accompagnée d'une copie du jugement ou de l'ordonnance attaqué ainsi que des justifications sur
+lesquelles elle se fonde. En cas de transmission sur support papier, la requête est adressée par lettre recommandée avec
+demande d'avis de réception. 
 
 II. - La chambre territoriale des comptes peut procéder à la révision d'un jugement ou d'une ordonnance, pour cause d'erreur,
 omission, faux ou double emploi, soit d'office, soit sur réquisition du ministère public, qui peut être prise de sa propre
@@ -31944,9 +32278,17 @@ arrêt unique sur la recevabilité de la demande et, s'il y a lieu, sur le fond 
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-146 du 10 février 2015 - art. 33
+
 	**Liens**:
 
-	  - DEPLACE: Décret n°2013-268 du 29 mars 2013 - art. 68
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R262-97 (V)
 
 
 ##### Paragraphe 4 : Notification des jugements
@@ -33214,21 +33556,18 @@ emporte les mêmes effets.
 
 ###### Article R263-48
 
-Les notifications prévues au présent chapitre sont effectuées par lettre recommandée avec demande d'avis de réception.
+En cas de transmission sur support papier, les notifications prévues au présent chapitre sont effectuées par lettre
+recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 107
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2015-146 du 10 février 2015 - art. 34
 
 	**Cité par**:
 
@@ -34537,21 +34876,29 @@ d'inspection et corps de contrôle.
 Les personnes visées à l'article L. 272-44 que la chambre territoriale des comptes décide d'entendre sont convoquées par le
 président de la chambre. 
 
-Celui-ci appelle la ou les personnes intéressées à se présenter devant la chambre ou la section concernée par lettre
-recommandée avec demande d'avis de réception. 
+Celui-ci appelle la ou les personnes intéressées à se présenter devant la chambre ou la section concernée. En cas de
+transmission sur support papier, la convocation est effectuée par lettre recommandée avec demande d'avis de réception. 
 
 Il précise les points sur lesquels la chambre les entendra et leur adresse, s'il y a lieu, un questionnaire ou tout document
 qu'elle juge utile en vue de l'audition.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-568 du 20 mai 2009 - art. 2
+	  - Décret n°2015-146 du 10 février 2015 - art. 35
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 177
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. L272-44
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R272-102 (V)
 
 	**Cité par**:
 
@@ -34941,14 +35288,22 @@ La notification des observations rectifiées se substitue à celle prévue au pr
 
 ###### Article R272-64
 
-Les notifications des observations prévues au présent chapitre sont effectuées par lettre recommandée avec demande d'avis de
-réception.
+En cas de transmission sur support papier, les notifications des observations prévues au présent chapitre sont effectuées par
+lettre recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-568 du 20 mai 2009 - art. 2
+	  - Décret n°2015-146 du 10 février 2015 - art. 36
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 177
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R272-54 (V)
 
 
 ###### Article R272-65
@@ -34980,8 +35335,8 @@ jointes au rapport.
 
 ###### Article R272-66
 
-.-La demande en rectification du rapport d'observations définitives prévue à l'article L. 272-56-1 peut être adressée au
-greffe de la chambre dès que la communication de ce rapport à l'assemblée ou à l'organe délibérant permet à toute personne
+La demande en rectification du rapport d'observations définitives prévue à l'article L. 272-56-1 peut être adressée au greffe
+de la chambre dès que la communication de ce rapport à l'assemblée ou à l'organe délibérant permet à toute personne
 nominativement ou explicitement mise en cause d'avoir connaissance des observations définitives de la chambre et des réponses
 qui y ont été éventuellement apportées conformément à l'article L. 272-48. 
 
@@ -34989,8 +35344,9 @@ Dans le délai d'un an suivant la communication du rapport d'observations défin
 collectivité ou de l'établissement qui a fait l'objet d'un examen de la gestion, une demande en rectification d'erreur ou
 d'omission de ce rapport peut être adressée au greffe de la chambre par les personnes mentionnées à l'article L. 272-56-1. 
 
-La demande en rectification est transmise par lettre recommandée avec avis de réception. Elle doit comporter l'exposé des
-faits et les motifs invoqués et être accompagnée des justifications sur lesquelles elle se fonde. 
+En cas de transmission sur support papier, la demande en rectification est transmise par lettre recommandée avec demande
+d'avis de réception. Elle doit comporter l'exposé des faits et les motifs invoqués et être accompagnée des justifications sur
+lesquelles elle se fonde. 
 
 Le président de la chambre territoriale des comptes transmet la demande en rectification à toute personne nominativement ou
 explicitement concernée par ladite demande et, le cas échéant, aux ordonnateurs et dirigeants des personnes morales
@@ -35004,9 +35360,9 @@ décision est annexée au rapport d'observations définitives.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-568 du 20 mai 2009 - art. 2
+	  - Décret n°2015-146 du 10 février 2015 - art. 37
 
 	**Cite**:
 
@@ -35105,6 +35461,30 @@ auditions ; il est émargé par les personnes entendues.
 	  - Code des juridictions financières - art. R272-31
 	  - Code des juridictions financières - art. R272-32
 	  - Code des juridictions financières - art. R272-48
+
+
+###### Article R272-70-1
+
+Les articles R. 241-32 et R. 241-33 sont applicables. Pour leur application, les références aux chambres régionales des
+comptes sont remplacées par des références aux chambres territoriales des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-146 du 10 février 2015 - art. 38
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 177
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R241-32
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R272-53 (V)
 
 
 ##### Sous-section 2 : Dispositions relatives aux activités juridictionnelles. 
@@ -35315,7 +35695,8 @@ de fait, d'amende, ou de révision. Cette décision est délibérée dans l'une 
 
 Le rôle des audiences publiques est fixé par le président de la formation de jugement en accord avec le ministère public. 
 
-Toute partie est avertie par une notification faite par lettre recommandée du jour où l'affaire est appelée à l'audience. 
+Toute partie est avertie par une notification du jour où l'affaire est appelée à l'audience. En cas de transmission sur
+support papier, la notification est effectuée par lettre recommandée avec demande d'avis de réception.  
 
 Cette notification est faite sept jours au moins avant l'audience. 
 
@@ -35323,13 +35704,21 @@ L'ordre du jour de l'audience est affiché à l'entrée de la chambre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-568 du 20 mai 2009 - art. 2
+	  - Décret n°2015-146 du 10 février 2015 - art. 39
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 177
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R272-54 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R272-63 (V)
 
 
 ###### Article R272-78
@@ -35601,17 +35990,26 @@ Le ministère public et, dans la mesure où elles justifient d'un intérêt, les
 
 ###### Article R272-87
 
-La requête en appel, signée par l'intéressé, doit être déposée ou adressée par lettre recommandée au greffe de la chambre
-territoriale des comptes. 
+La requête en appel, signée par l'intéressé, doit être déposée ou adressée au greffe de la chambre territoriale des comptes. 
+
+En cas de transmission sur support papier, la requête est adressée par lettre recommandée avec demande d'avis de réception.
 
 La requête doit contenir, à peine de nullité, l'exposé des faits et moyens, ainsi que les conclusions du requérant. Elle doit
 être accompagnée des documents sur lesquels elle s'appuie et d'une copie du jugement ou de l'ordonnance attaqué.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-146 du 10 février 2015 - art. 40
+
 	**Liens**:
 
-	  - DEPLACE: Décret n°2013-268 du 29 mars 2013 - art. 75
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 177
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R272-77 (V)
 
 
 ###### Article R272-88
@@ -35756,18 +36154,22 @@ ministère public près la chambre ou sur demande du procureur général près l
 
 ###### Article R272-94
 
-Les notifications et transmissions concernant la procédure d'appel sont effectuées par lettre recommandée avec demande d'avis
-de réception.
+En cas de transmission sur support papier, les notifications et transmissions concernant la procédure d'appel sont effectuées
+par lettre recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2013-268 du 29 mars 2013 - art. 75
+	  - Décret n°2015-146 du 10 février 2015 - art. 41
+
+	**Abrogé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 181
 
 	**Cité par**:
 
-	  - Code des juridictions financières - art. R272-94-1 (V)
+	  - Code des juridictions financières - art. D272-94-1 (Ab)
 
 
 ###### Article R272-95
@@ -35775,9 +36177,10 @@ de réception.
 I. ― Le comptable, ou ses ayants droit, peut demander, après expiration des délais d'appel, la révision d'un jugement ou
 d'une ordonnance en produisant des justifications recouvrées depuis le jugement ou l'ordonnance. 
 
-La requête en révision est adressée au président de la chambre par lettre recommandée avec avis de réception. Elle doit
-comporter l'exposé des faits et moyens invoqués par le requérant et être accompagnée d'une copie du jugement ou de
-l'ordonnance attaqué ainsi que des justifications sur lesquelles elle se fonde. 
+La requête en révision est adressée au président de la chambre. Elle doit comporter l'exposé des faits et moyens invoqués par
+le requérant et être accompagnée d'une copie du jugement ou de l'ordonnance attaqué ainsi que des justifications sur
+lesquelles elle se fonde. En cas de transmission sur support papier, la requête est adressée par lettre recommandée avec
+demande d'avis de réception. 
 
 II. ― La chambre territoriale des comptes peut procéder à la révision d'un jugement ou d'une ordonnance, pour cause d'erreur,
 omission, faux ou double emploi, soit d'office, soit sur réquisition du ministère public, qui peut être prise de sa propre
@@ -35794,9 +36197,17 @@ arrêt unique sur la recevabilité de la demande et, s'il y a lieu, sur le fond 
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-146 du 10 février 2015 - art. 42
+
 	**Liens**:
 
-	  - DEPLACE: Décret n°2013-268 du 29 mars 2013 - art. 75
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 177
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R272-84 (V)
 
 	**Cité par**:
 
@@ -36553,13 +36964,14 @@ emporte les mêmes effets.
 
 ###### Article R273-31
 
-Les notifications prévues à la présente section sont effectuées par lettre recommandée avec demande d'avis de réception.
+En cas de transmission sur support papier, les notifications prévues à la présente section sont effectuées par lettre
+recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-568 du 20 mai 2009 - art. 2
+	  - Décret n°2015-146 du 10 février 2015 - art. 43
 
 
 ###### Article R273-32

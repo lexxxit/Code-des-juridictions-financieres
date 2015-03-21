@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2015-02-13
+Version Consolidée au 2015-03-22
 
 # Partie législative
 
@@ -4719,8 +4719,8 @@ b) S'il est marié, a conclu un pacte civil de solidarité ou vit en concubinage
 ou un sénateur d'un département situé dans le ressort de cette chambre ; 
 
 c) S'il est marié, a conclu un pacte civil de solidarité ou vit en concubinage notoire avec le président du conseil régional,
-un président du conseil général, un maire d'une commune, chef-lieu de département de ce même ressort ou un président d'un
-établissement public de coopération intercommunale à fiscalité propre qui comprend cette même commune ; 
+un président du conseil départemental , un maire d'une commune, chef-lieu de département de ce même ressort ou un président
+d'un établissement public de coopération intercommunale à fiscalité propre qui comprend cette même commune ; 
 
 d) S'il a exercé depuis moins de trois ans dans ce ressort les fonctions de représentant de l'Etat dans un département ou
 dans un arrondissement, ou de directeur départemental ou régional d'une administration publique de l'Etat ; 
@@ -4746,12 +4746,11 @@ Les conditions d'application du présent article sont fixées par voie réglemen
 
 	**Modifié par**:
 
-	  - Loi n°2012-347 du 12 mars 2012 - art. 95
-	  - Loi n°2012-347 du 12 mars 2012 - art. 96
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. LO222-2 (V)
+	  - Code des juridictions financières - art. LO222-2
 
 	**Cité par**:
 
@@ -5613,16 +5612,16 @@ modifications budgétaires ainsi décidées doivent être achevés au plus tard 
 rapportent. 
 
 Art. L1612-12.-L'arrêté des comptes de la collectivité territoriale est constitué par le vote de l'organe délibérant sur le
-compte administratif présenté selon le cas par le maire, le président du conseil général ou le président du conseil régional
-après transmission, au plus tard le 1er juin de l'année suivant l'exercice, du compte de gestion établi par le comptable de
-la collectivité territoriale. Le vote de l'organe délibérant arrêtant les comptes doit intervenir au plus tard le 30 juin de
-l'année suivant l'exercice. 
+compte administratif présenté selon le cas par le maire, le président du conseil départemental  ou le président du conseil
+régional après transmission, au plus tard le 1er juin de l'année suivant l'exercice, du compte de gestion établi par le
+comptable de la collectivité territoriale. Le vote de l'organe délibérant arrêtant les comptes doit intervenir au plus tard
+le 30 juin de l'année suivant l'exercice. 
 
 Le compte administratif est arrêté si une majorité des voix ne s'est pas dégagée contre son adoption. 
 
 Lorsque le compte administratif fait l'objet d'un rejet par l'assemblée délibérante, le projet de compte administratif joint
-à la délibération de rejet tel que présenté selon le cas par le maire, le président du conseil général ou le président du
-conseil régional, s'il est conforme au compte de gestion établi par le comptable, après avis rendu sous un mois par la
+à la délibération de rejet tel que présenté selon le cas par le maire, le président du conseil départemental  ou le président
+du conseil régional, s'il est conforme au compte de gestion établi par le comptable, après avis rendu sous un mois par la
 chambre régionale des comptes, saisie sans délai par le représentant de l'Etat, est substitué au compte administratif pour la
 mise en oeuvre des dispositions prévues aux articles L. 1424-35, L. 2531-13 et L. 4434-9 et pour la liquidation des
 attributions au titre du Fonds de compensation pour la taxe sur la valeur ajoutée prévue à l'article L. 1615-6. 
@@ -5672,7 +5671,7 @@ le préfet de région peut mettre en oeuvre, dans les conditions de l'article L.
 au budget de la région, au bénéfice de la Société nationale des chemins de fer français dans la limite de la part de la
 compensation visée au quatrième alinéa de l'article L. 1614-8-1. 
 
-Art. L. 1612-16.-A défaut de mandatement d'une dépense obligatoire par le maire, le président du conseil général ou le
+Art. L. 1612-16.-A défaut de mandatement d'une dépense obligatoire par le maire, le président du conseil départemental  ou le
 président du conseil régional suivant le cas, dans le mois suivant la mise en demeure qui lui en a été faite par le
 représentant de l'Etat dans le département, celui-ci y procède d'office. 
 
@@ -5735,7 +5734,7 @@ aux établissements publics régionaux et interrégionaux.
 
 	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 37 (V)
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Cité par**:
 
@@ -5935,7 +5934,7 @@ Les autres dispositions de l'article L. 1612-12 du code général des collectivi
 Le budget de l'établissement est exécuté en équilibre réel. 
 
 IV.-Pour l'application des dispositions du présent article et des articles L. 421-11 et L. 421-12 du présent code, le conseil
-général ou le conseil régional peut déléguer tout ou partie de ses attributions à son bureau, à l'exception de celles
+départemental  ou le conseil régional peut déléguer tout ou partie de ses attributions à son bureau, à l'exception de celles
 relatives à la fixation du montant de la participation de la collectivité de rattachement prévue au a de l'article L. 421-11
 du présent code.
 
@@ -5947,7 +5946,7 @@ du présent code.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-631 du 1 juillet 2004 - art. 2
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Cité par**:
 
@@ -5959,10 +5958,10 @@ du présent code.
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1612-1 (V)
-	  - Code général des collectivités territoriales - art. L1612-12 (VT)
-	  - Code général des collectivités territoriales - art. L1612-5 (V)
-	  - Code général des collectivités territoriales - art. L1612-9 (V)
+	  - Code général des collectivités territoriales - art. L1612-12
+	  - Code général des collectivités territoriales - art. L1612-14
+	  - Code général des collectivités territoriales - art. L1612-15
+	  - Code général des collectivités territoriales - art. L1612-5
 
 
 ##### Section 4 : Des établissements publics de santé
@@ -14532,10 +14531,10 @@ dûment informées sur l'affaire.
 
 Les dispositions de l'article L. 313-9 s'appliquent aux fonctionnaires et agents des collectivités territoriales et de leurs
 groupements qui peuvent exciper d'un ordre écrit donné préalablement par leur supérieur hiérarchique ou par la personne
-légalement habilitée à donner un tel ordre, le maire, le président du conseil général, le président du conseil régional, le
-président du conseil exécutif de Corse ou le président élu d'un des groupements susvisés, dès lors que ces autorités ont été
-dûment informées sur l'affaire. Si l'ordre émane du supérieur hiérarchique ou de la personne légalement habilitée à donner un
-tel ordre, la responsabilité de ces derniers se substituera à celle du subordonné.
+légalement habilitée à donner un tel ordre, le maire, le président du conseil départemental , le président du conseil
+régional, le président du conseil exécutif de Corse ou le président élu d'un des groupements susvisés, dès lors que ces
+autorités ont été dûment informées sur l'affaire. Si l'ordre émane du supérieur hiérarchique ou de la personne légalement
+habilitée à donner un tel ordre, la responsabilité de ces derniers se substituera à celle du subordonné.
 
 **Nota:**
 
@@ -14545,20 +14544,15 @@ tel ordre, la responsabilité de ces derniers se substituera à celle du subordo
 
 	**Codifié par**:
 
-	  - Loi n°95-851 1995-07-24
-
-	**Anciens textes**:
-
-	  - Loi n°95-851 1995-07-24, art 1er, modifié par loi 96-142 1996-02-21, art 4-XXII
-	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
+	  - Loi n°95-851 du 24 juillet 1995
 
 	**Modifié par**:
 
-	  - Loi n°96-142 du 21 février 1996 - art. 4 ()
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L313-9 (V)
+	  - Code des juridictions financières - art. L313-9
 
 
 ###### Article L313-11
@@ -22823,25 +22817,25 @@ suppléer à un fonctionnaire affecté à la chambre.
 
 Dans les régions d'outre-mer, en cas d'absence ou d'empêchement de l'un des magistrats composant la chambre régionale des
 comptes, celle-ci peut être complétée par un conseiller choisi parmi les magistrats du siège de l'ordre judiciaire en
-fonctions dans le ressort.
+fonctions dans le ressort. 
 
 Ce conseiller est désigné chaque année, dans la première quinzaine du mois de décembre, par ordonnance du premier président
 de la cour d'appel prise après avis de l'assemblée générale des magistrats du siège de la Cour. Un conseiller suppléant est
-désigné dans les mêmes conditions.
+désigné dans les mêmes conditions. 
 
 Les conseillers désignés en application des deux précédents alinéas sont délégués à la chambre régionale des comptes par
-ordonnance du premier président de la Cour d'appel prise sur requête du président de la chambre régionale des comptes.
+ordonnance du premier président de la Cour d'appel prise sur requête du président de la chambre régionale des comptes. 
 
-Pour l'application à Mayotte de la première partie du livre II du présent code :
+Pour l'application à Mayotte de la première partie du livre II du présent code : 
 
 1° La référence à la région, à la région d'outre-mer ou au département est remplacée par la référence au Département de
-Mayotte ;
+Mayotte ; 
 
-2° La référence aux conseils régionaux ou aux conseils généraux est remplacée par la référence au conseil général de
-Mayotte ;
+2° La référence aux conseils régionaux ou aux conseils départementaux est remplacée par la référence au conseil départemental
+de Mayotte ; 
 
 3° La référence au président du conseil régional ou au président du conseil général est remplacée par la référence au
-président du conseil général de Mayotte.
+président du conseil départemental de Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -22851,7 +22845,15 @@ président du conseil général de Mayotte.
 
 	**Modifié par**:
 
-	  - Décret n°2011-330 du 25 mars 2011 - art. 7
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 84
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R212-41 (V)
 
 	**Cité par**:
 
@@ -28930,8 +28932,8 @@ Le contrôle des actes budgétaires et de l'exécution du budget de la collectiv
 s'effectue selon les modalités fixées par les articles R. 1612-16 à R. 1612-38 du même code. Pour l'application de ces
 dispositions à la collectivité de Saint-Pierre-et-Miquelon et à ses établissements publics, les références au représentant de
 l'Etat dans le département et à la chambre régionale des comptes sont respectivement remplacées par des références au
-représentant de l'Etat et à la chambre territoriale des comptes et les références au conseil général ou au conseil régional
-sont remplacées par des références au conseil territorial.
+représentant de l'Etat et à la chambre territoriale des comptes et les références au conseil départemental ou au conseil
+régional sont remplacées par des références au conseil territorial.
 
 **Nota:**
 
@@ -28939,9 +28941,17 @@ sont remplacées par des références au conseil territorial.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-736 du 27 juin 2011 - art. 3
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 149
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R253-5 (V)
 
 	**Cite**:
 

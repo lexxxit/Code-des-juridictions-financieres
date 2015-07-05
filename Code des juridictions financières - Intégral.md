@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2015-05-30
+Version Consolidée au 2015-07-06
 
 # Partie législative
 
@@ -15961,7 +15961,7 @@ Le premier avocat général est nommé par décret parmi les avocats généraux,
 ###### Article R112-2
 
 Le procureur général, qui exerce le ministère public, est assisté par un premier avocat général et des avocats généraux ainsi
-que par des chargés de mission.
+que par des  substituts généraux.
 
 **Liens relatifs à cet article**
 
@@ -15971,7 +15971,7 @@ que par des chargés de mission.
 
 	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 2
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 1
 
 	**Cité par**:
 
@@ -15985,9 +15985,9 @@ Le premier président est chargé de la direction générale de la Cour des comp
 l'organisation générale des travaux de la Cour, il répartit les attributions de la Cour entre les chambres et arrête le
 programme annuel des travaux au vu des propositions des présidents de chambre. 
 
-Il préside les audiences solennelles, la chambre du conseil dans chacune des deux formations prévues à l'article R. 112-17,
-les chambres réunies, la conférence des présidents et le comité du rapport public et des programmes. Il peut présider les
-séances de chambre, les formations interchambres et les chambres réunies statuant en formation restreinte. 
+Il préside les audiences solennelles, la chambre du conseil dans chacune des formations prévues à l'article R. 112-17, les
+chambres réunies en formation plénière et la conférence des présidents et le comité du rapport public et des programmes. Il
+peut présider les séances de chambre, les formations interchambres et les chambres réunies statuant en formation restreinte. 
 
 Il signe les arrêts et décisions rendus sous sa présidence. 
 
@@ -16001,7 +16001,11 @@ Il fait connaître aux ministres compétents, par voie de référé, les observa
 
 	**Modifié par**:
 
-	  - Décret n°2012-388  du 21 mars 2012 - art. 1
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 8
 
 	**Cité par**:
 
@@ -16014,6 +16018,10 @@ Il fait connaître aux ministres compétents, par voie de référé, les observa
 	**Cite**:
 
 	  - Code des juridictions financières - art. R112-17 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R112-2 (V)
 
 
 ###### Article R112-4
@@ -16125,13 +16133,10 @@ l'amende prévue par la loi.
 
 Il défère à la Cour des comptes les opérations qu'il présume constitutives de gestion de fait, à son initiative ou à la
 demande du ministre chargé du budget, des ministres intéressés, des représentants de l'Etat dans les régions, la collectivité
-territoriale de Corse, les départements ou les collectivités d'outre-mer, des procureurs de la République, des   directeurs
-départementaux ou, le cas échéant, régionaux des finances publiques  et des autres comptables principaux, ou au vu des
+territoriale de Corse, les départements ou les collectivités d'outre-mer, des procureurs de la République, des directeurs
+départementaux ou, le cas échéant, régionaux des finances publiques et des autres comptables principaux, ou au vu des
 constatations faites lors d'un contrôle de la Cour des comptes ou des autres informations dont il dispose. Il requiert en cas
 de besoin l'application de l'amende pour immixtion dans les fonctions de comptable public. 
-
-Il adresse à la Cour les appels formés contre les jugements et ordonnances rendus par les chambres régionales et
-territoriales des comptes, sur transmission du greffe de ces chambres. 
 
 Lui sont obligatoirement communiqués, avec pièces à l'appui, les rapports à fin d'arrêt ou d'ordonnance et de décision sur la
 compétence. 
@@ -16141,7 +16146,7 @@ Il présente ses conclusions écrites sur ces rapports.
 S'il n'a pas conclu à la décharge du comptable, il saisit la formation de jugement pour la mise en jeu de la responsabilité
 personnelle et pécuniaire du comptable par des réquisitions écrites et motivées en droit. 
 
-Il participe aux audiences publiques ou s'y fait représenter. Il y présente ses conclusions. 
+Il participe aux audiences publiques ou s'y fait représenter. Il y présente ses conclusions et prend part au débat. 
 
 IV.-En matière non juridictionnelle, les rapports, avec pièces à l'appui, lui sont communiqués soit à sa demande, soit sur
 décision du président de la chambre, de la formation interchambres ou de la formation commune aux juridictions. Il présente
@@ -16154,7 +16159,7 @@ présenter des observations orales. Il ne prend pas part au délibéré.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 3
 
 	**Cite**:
 
@@ -16196,49 +16201,68 @@ régionales et territoriales des comptes.
 
 ###### Article R112-10-1
 
-Les chargés de mission sont désignés parmi les magistrats des juridictions financières et parmi les rapporteurs extérieurs en
-fonction à la Cour ainsi que les magistrats de l'ordre judiciaire, sur proposition du procureur général.
+Les substituts généraux sont désignés parmi les magistrats des juridictions financières et parmi les rapporteurs extérieurs
+en fonction à la Cour ainsi que les magistrats de l'ordre judiciaire, sur proposition du procureur général. 
+
+Un membre du corps des magistrats des chambres régionales des comptes et un magistrat de l'ordre judiciaire apportent en
+qualité de substituts généraux leur concours à l'accomplissement de la mission définie à l'article R. 112-9. 
+
+Le membre du corps des magistrats des chambres régionales des comptes est mis, avec son accord, à la disposition de la Cour
+des comptes par arrêté du Premier ministre, sur proposition conjointe du premier président de la Cour des comptes et du
+procureur général près la Cour des comptes. 
+
+Le magistrat de l'ordre judiciaire est détaché à la Cour des comptes selon les modalités définies au premier alinéa de
+l'article L. 112-7 ou à l'article L. 112-7-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-337 2000-04-14
+	  - Rapport
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-543 du 12 avril 2007 - art. 7 () JORF 13 avril 2007
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 1
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 4
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 9
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L112-7
+	  - Code des juridictions financières - art. L112-7-1
+	  - Code des juridictions financières - art. R112-9
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R112-14-1 (V)
 
 
 ###### Article R112-11
 
-Le premier avocat général, les avocats généraux ou les chargés de mission peuvent assister ou représenter le procureur
-général aux séances des formations prévues aux articles R. 112-18, R. 112-19, R. 112-21 et R. 112-21-1 et y présenter des
-observations orales.
+Le premier avocat général, les avocats généraux ou les substituts généraux peuvent assister ou représenter le procureur
+général aux séances des formations prévues aux articles R. 112-18, R. 112-19, 
+R. 112-21 et R. 112-21-1 et y présenter des observations orales. 
 
 Ils peuvent également le représenter dans les conseils, commissions, comités ou groupes de travail constitués au sein de la
 Cour.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-199 1985-02-11, art 4, al 6 et 8
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2007-1298 du 31 août 2007 - art. 2 () JORF 2 septembre 2007
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 1
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. R112-18 (M)
-	  - Code des juridictions financières - art. R112-19 (V)
-	  - Code des juridictions financières - art. R112-21 (M)
-	  - Code des juridictions financières - art. R112-21-1 (V)
+	  - Code des juridictions financières - art. R112-18 (T)
+	  - Code des juridictions financières - art. R112-21 (T)
 
 
 ###### Article R112-12
@@ -16268,32 +16292,6 @@ par l'avocat général le plus ancien présent à la Cour des comptes.
 	**Nouveaux textes**:
 
 	  - Code des juridictions financières - art. R112-14-2 (V)
-
-
-###### Article R112-12-1
-
-Un membre du corps des magistrats des chambres régionales des comptes apporte en qualité de chargé de mission son concours à
-l'accomplissement de la mission définie au deuxième alinéa de l'article L. 112-2. Il est mis, avec son accord, à disposition
-de la Cour des comptes par arrêté du Premier ministre, sur proposition conjointe du premier président de la Cour des comptes
-et du procureur général près de la Cour des comptes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 du 14 avril 2000
-
-	**Modifié par**:
-
-	  - Décret n°2006-1262 du 16 octobre 2006 - art. 2 () JORF 17 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-812 du 3 juillet 2015 - art. 35
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L112-2
 
 
 ##### Section 3 : Conseillers maîtres en service extraordinaire
@@ -16669,7 +16667,7 @@ Dans chacune des deux formations prévues à l'article R. 112-17 :
 2° En cas de partage égal des voix, celle du président est prépondérante ; 
 
 3° Le procureur général assiste aux séances et participe aux débats. Il peut être accompagné d'un avocat général ou d'un
-chargé de mission ; 
+substitut général ; 
 
 4° Le rapporteur est soit le rapporteur général du comité du rapport public et des programmes, soit un conseiller maître
 désigné par le premier président. Le rapporteur peut être assisté de conseillers référendaires, d'auditeurs ou de rapporteurs
@@ -16682,13 +16680,21 @@ des organismes intéressés ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-388  du 21 mars 2012 - art. 3
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 20
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. R112-17
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R112-39 (V)
 
 
 ###### Article R112-17-4
@@ -16715,31 +16721,31 @@ conditions fixées par arrêté du premier président.
 
 ###### Article R112-18
 
-I. - La Cour des comptes, statuant toutes chambres réunies, comporte une formation plénière et une formation restreinte.
-Elles sont constituées, au début de chaque année, par arrêté du premier président.
+I.-La Cour des comptes, statuant toutes chambres réunies, comporte une formation plénière et une formation restreinte. Elles
+sont constituées, au début de chaque année, par arrêté du premier président. 
 
 Un président de chambre ou le procureur général peuvent saisir le premier président en vue de la réunion de chambres réunies
-en formation plénière ou en formation restreinte sans que le premier président soit tenu d'y procéder.
+en formation plénière ou en formation restreinte sans que le premier président soit tenu d'y procéder. 
 
 Les chambres réunies de la Cour des comptes statuant en formation plénière se composent du premier président, des magistrats
 exerçant la présidence d'une chambre de la cour et d'un conseiller maître par chambre élu par le président et les conseillers
-maîtres de chaque chambre. Chaque chambre élit deux suppléants.
+maîtres de chaque chambre. Chaque chambre élit deux suppléants. 
 
 Les chambres réunies statuant en formation plénière ne peuvent valablement délibérer que si huit au moins de leurs membres
-sont présents.
+sont présents. 
 
-En cas de partage des voix, celle du président est prépondérante.
+En cas de partage des voix, celle du président est prépondérante. 
 
 Les chambres réunies de la Cour des comptes statuant en formation restreinte se composent d'un magistrat exerçant la
 présidence d'une chambre de la cour qui les préside et est désigné par le premier président ainsi que des conseillers maîtres
 membres, titulaires ou suppléants, de la formation plénière. En cas d'absence ou d'empêchement, le président de la formation
 restreinte est suppléé par un magistrat exerçant ou ayant exercé la présidence d'une chambre de la cour désigné par le
-premier président.
+premier président. 
 
 Les chambres réunies en formation restreinte ne peuvent valablement délibérer que si cinq au moins de leurs membres sont
-présents.
+présents. 
 
-En cas de partage des voix, celle du président est prépondérante.
+En cas de partage des voix, celle du président est prépondérante. 
 
 Le premier président désigne le rapporteur parmi les magistrats de la Cour des comptes. Il désigne le greffier des chambres
 réunies. 
@@ -16747,24 +16753,19 @@ réunies.
 Dans les cas de procédure non juridictionnelle, il désigne le contre-rapporteur parmi les membres des chambres réunies. 
 
 Dans les cas de procédure juridictionnelle, il désigne le réviseur, lorsque l'instruction est terminée, parmi les membres des
-chambres réunies.
+chambres réunies. 
 
-II. - Les chambres réunies statuant en formation plénière formulent un avis sur les questions de droit dont elles sont
-saisies par le premier président.
+II.-Les chambres réunies statuant en formation plénière formulent un avis sur les questions de droit dont elles sont saisies
+par le premier président. 
 
 Les chambres réunies statuant en formation restreinte jugent les affaires dont elles sont saisies par le premier président
 sur proposition d'une chambre ou sur réquisitoire du procureur général. Elles statuent sur les affaires renvoyées devant la
 Cour après cassation. 
 
-Le premier président peut renvoyer des affaires relevant de la formation restreinte à la formation plénière qui les juge.
+Le premier président peut renvoyer des affaires relevant de la formation restreinte à la formation plénière qui les juge. 
 
-**Nota:**
-
-Décret n° 2012-1387 du 10 décembre 2012, article 3 :  					L'
-
-avant-dernier alinéa du II de l'article R. 112-18 du code des juridictions financières
- est abrogé.  Toutefois, ses dispositions restent applicables aux projets de  décisions de remise gracieuse portant sur des
-débets consécutifs à un  premier acte de mise en jeu de la responsabilité antérieur au 1er  juillet 2012.
+III.-Le premier président désigne le greffier des chambres réunies. Celui-ci remplit les tâches mentionnées au troisième
+alinéa de l'article R. 112-20 et à l'article D. 112-20-1.
 
 **Liens relatifs à cet article**
 
@@ -16777,7 +16778,20 @@ débets consécutifs à un  premier acte de mise en jeu de la responsabilité an
 
 	**Modifié par**:
 
-	  - Décret n°2012-1387 du 10 décembre 2012 - art. 3
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 5
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 21
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. D112-20-1
+	  - Code des juridictions financières - art. R112-20
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R112-41 (V)
 
 
 ###### Article R112-19
@@ -16872,39 +16886,43 @@ Lorsqu'une enquête ou un contrôle ressortit à la compétence de deux ou plusi
 du procureur général, constitue par arrêté, à son initiative ou sur proposition du procureur général ou des présidents de
 chambre intéressés, une formation interchambres comprenant au moins un conseiller maître ou un conseiller maître en service
 extraordinaire de chacune d'entre elles. Cet arrêté définit la compétence de la formation, fixe sa composition et nomme son
-président ainsi que son greffier. Les présidents de chambre concernés désignent les membres de la formation ainsi que les
-rapporteurs auxquels elle fait appel. Le président de la formation interchambres choisit parmi ces derniers le rapporteur
-général.
+président ainsi que son greffier. Le premier président nomme les membres de la formation ainsi que les rapporteurs auxquels
+elle fait appel, sur proposition des présidents de chambre concernés. Il nomme le rapporteur général, sur proposition du
+président de la formation interchambres.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-199 1985-02-11, art 11
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Modifié par**:
 
-	  - Décret n°2007-543 du 12 avril 2007 - art. 12 () JORF 13 avril 2007
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 6
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 23
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R112-11 (M)
 	  - Code des juridictions financières - art. R112-15 (T)
 
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R112-48 (V)
+
 
 ###### Article R112-21-1
 
 La formation commune aux juridictions prévue à l'article L. 111-9-1 est constituée par arrêté du premier président de la Cour
 des comptes, à son initiative ou sur proposition du procureur général, d'un président d'une chambre de la cour ou d'un
-président de chambre régionale des comptes.
+président de chambre régionale ou territoriale des comptes. 
 
 Cet arrêté, pris après avis du procureur général, des présidents des chambres de la Cour des comptes et des présidents des
-chambres régionales des comptes intéressées, en désigne le président, les membres délibérants, les rapporteurs et le
-greffier.
+chambres régionales et territoriales des comptes intéressées, en désigne le président, les membres délibérants, les
+rapporteurs et le greffier. 
 
 La procédure applicable à la formation commune aux juridictions est celle qui régit l'exercice des missions non
 juridictionnelles de la Cour des comptes.
@@ -16913,19 +16931,23 @@ juridictionnelles de la Cour des comptes.
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-364 du 21 mars 2006 - art. 1 () JORF 28 mars 2006
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 7
 
-	**Cite**:
+	**Liens**:
 
-	  - Code des juridictions financières - art. L111-9-1 (V)
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 23
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R112-11 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R112-49 (V)
 
 
 ###### Article R112-22
@@ -17062,31 +17084,39 @@ connaissances spéciales mettraient en mesure d'éclairer les discussions.
 	  - Code des juridictions financières - art. R112-17
 
 
-##### Section 6 : Assistants de la Cour des comptes
+##### Section 6 : Vérificateurs des juridictions financières
 
 ###### Article R112-25
 
-Les assistants de la Cour des comptes collaborent, sous la responsabilité des magistrats et des rapporteurs extérieurs, aux
-contrôles et enquêtes relevant de la compétence des chambres auxquelles ils sont affectés.
+Les     vérificateurs des juridictions financières collaborent, sous la responsabilité des magistrats et des rapporteurs
+extérieurs, aux contrôles et enquêtes relevant de la compétence des chambres auxquelles ils sont affectés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2002-370 du 14 mars 2002 - art. 1 () JORF 21 mars 2002
+	  - Décret n°2000-338 du 14 avril 2000
 
 	**Cité par**:
 
 	  - Décret n°2008-94 du 30 janvier 2008 - art. 9 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 9
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 13
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R112-21 (V)
+
 
 ###### Article R112-26
 
-Un arrêté du premier président de la Cour des comptes fixe l'affectation des assistants dans une chambre.
+Un arrêté du premier président de la Cour des comptes fixe l'affectation des vérificateurs dans une chambre.
 
 **Liens relatifs à cet article**
 
@@ -17097,7 +17127,27 @@ Un arrêté du premier président de la Cour des comptes fixe l'affectation des 
 
 	**Modifié par**:
 
-	  - Décret n°2008-94 du 30 janvier 2008 - art. 11
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 10
+
+
+###### Article R112-26-1
+
+Lors de leur affectation à la Cour des comptes, les vérificateurs des juridictions financières prêtent serment devant le
+premier président.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 11
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 13
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R112-22 (V)
 
 
 ##### Section 6-1 : Experts
@@ -18136,7 +18186,7 @@ gestion qu'ils rendent à la Cour des comptes.
 
 ###### Article D131-9
 
-La Cour des comptes, au vu des comptes de gestion des   directeurs départementaux ou, le cas échéant, régionaux des finances
+La Cour des comptes, au vu des comptes de gestion des directeurs départementaux ou, le cas échéant, régionaux des finances
 publiques , statue, par un même arrêt ou une même ordonnance, sur les états annexes visés à l'article précédent présentés par
 les receveurs des impôts relevant d'une même direction des services fiscaux ou les receveurs des douanes relevant d'une même
 direction régionale. 
@@ -18144,14 +18194,22 @@ direction régionale.
 Elle statue dans les mêmes conditions sur les états annexes présentés par les receveurs rattachés respectivement à l'agent
 comptable des impôts de Paris et au receveur principal régional des douanes de Paris. 
 
-Les décisions de débet ou de décharge qui se rapportent aux recettes des administrations financières font l'objet de
-dispositions spéciales à chacun des receveurs intéressés.
+Les décisions juridictionnelles qui se rapportent aux recettes des administrations financières comportent des dispositions
+spéciales à chacun des receveurs intéressés.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 12
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 35
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D131-4 (V)
 
 	**Cité par**:
 
@@ -19074,7 +19132,7 @@ production de ses comptes, est fixé à 10 euros par compte et par mois de retar
 I.-L'appel d'un jugement prononçant un débet ou une amende est suspensif. 
 
 II.-Dans les autres cas que ceux visés au I, la Cour des comptes peut ordonner, à la requête motivée d'un appelant, le sursis
-à exécution de la décision attaquée. La requête à fin de sursis est déposée dans les conditions fixées à l'article R. 243-4.
+à exécution de la décision attaquée. La requête à fin de sursis est déposée dans les conditions fixées à l'article R. 242-17.
 Elle expose les raisons pour lesquelles l'exécution du jugement ou de l'ordonnance impliquerait pour le requérant un
 préjudice grave et difficilement réparable. Le président de la formation de jugement, ou le magistrat qu'il délègue à cet
 effet, statue par ordonnance sur cette requête. 
@@ -19090,7 +19148,15 @@ IV.-Les règles mentionnées aux articles R. 142-4 à R. 142-13 s'appliquent à 
 
 	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 20
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R131-28 (V)
 
 	**Cité par**:
 
@@ -19098,9 +19164,8 @@ IV.-Les règles mentionnées aux articles R. 142-4 à R. 142-13 s'appliquent à 
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. R141-12
 	  - Code des juridictions financières - art. R142-4
-	  - Code des juridictions financières - art. R243-4
+	  - Code des juridictions financières - art. R242-17 (V)
 
 
 #### CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics
@@ -19108,30 +19173,26 @@ IV.-Les règles mentionnées aux articles R. 142-4 à R. 142-13 s'appliquent à 
 ###### Article R133-1
 
 Pour les organismes définis à l'article L. 133-1, la Cour des comptes fait porter ses contrôles sur les opérations de chaque
-exercice. Elle peut, à cet effet, grouper plusieurs exercices.
+exercice. Elle peut, à cet effet, grouper plusieurs exercices. 
 
 La décision de la Cour, prise après avis du procureur général, de contrôler un organisme en application de l'article L.
 133-2, est portée à la connaissance du ministre chargé des finances et des ministres dont relève l'activité de cet organisme.
-Cette décision est notifiée par la Cour aux dirigeants de ce dernier.
+Cette décision est notifiée aux dirigeants de ce dernier.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-199 1985-02-11, art 35
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 14
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L133-1 (V)
-	  - Code des juridictions financières - art. L133-2 (V)
+	  - Code des juridictions financières - art. L133-1
+	  - Code des juridictions financières - art. L133-2
 
 	**Cité par**:
 
@@ -19214,45 +19275,50 @@ des dispositions législatives et réglementaires applicables en matière de sec
 
 ###### Article R133-4
 
-Les organismes dont la gestion n'est pas assujettie aux règles de la comptabilité publique et qui bénéficient de taxes
-parafiscales, de cotisations légalement obligatoires, de subventions ou d'autres concours financiers de la part de l'Etat ou
-d'une autre personne morale soumise au contrôle de la Cour peuvent faire l'objet d'un contrôle de la Cour des comptes, sous
-réserve des compétences attribuées aux chambres régionales des comptes par les articles L. 211-4 à L. 211-6 et à la chambre
-territoriale des comptes de la Nouvelle-Calédonie pour les articles L. 262-7 à L. 262-9.
+Les organismes dont la gestion n'est pas assujettie aux règles de la comptabilité publique et qui bénéficient d'impositions
+de toute nature, de cotisations légalement obligatoires, de subventions ou d'autres concours financiers de la part de l'Etat
+ou d'une autre personne morale soumise au contrôle de la Cour peuvent faire l'objet d'un contrôle de la Cour des comptes,
+sous réserve des compétences attribuées aux chambres régionales des comptes par les articles L. 211-4 à L. 211-6 et à la
+chambre territoriale des comptes de la Nouvelle-Calédonie pour les articles L. 262-7 à L. 262-9.
 
 Lorsque les organismes mentionnés à l'alinéa précédent attribuent des subventions ou participent au capital d'autres
 organismes dont la gestion n'est pas soumise aux règles de la comptabilité publique, ces derniers peuvent aussi faire l'objet
-d'un contrôle de la Cour.
+d'un contrôle de la Cour. 
 
 Le contrôle est décidé, après avis du procureur général, par le premier président, sur proposition du président de la chambre
 ou, le cas échéant, du président de la section compétente. Cette décision, qui précise les exercices sur lesquels porteront
 les contrôles et désigne les rapporteurs chargés de l'enquête, est notifiée aux dirigeants de l'organisme concerné ; elle est
-portée à la connaissance du ministre chargé des finances lorsque le concours financier ne revêt pas la forme d'une taxe
-parafiscale, d'une cotisation légalement obligatoire ou d'une subvention.
+portée à la connaissance du ministre chargé des finances lorsque le concours financier ne revêt pas la forme d'imposition de
+toute nature, d'une cotisation légalement obligatoire ou d'une subvention. 
 
 Le contrôle porte sur l'ensemble des comptes et de la gestion de l'organisme vérifié. Toutefois, lorsque le concours
-financier attribué sous forme d'une taxe parafiscale, d'une cotisation légalement obligatoire ou d'une subvention est affecté
-à une dépense déterminée et qu'il ne dépasse pas 50 % des ressources totales de l'organisme bénéficiaire, le contrôle se
-limite au compte d'emploi du concours financier que l'organisme doit établir. Si ce compte d'emploi n'est pas produit, le
+financier attribué sous forme d'imposition de toute nature, d'une cotisation légalement obligatoire ou d'une subvention est
+affecté à une dépense déterminée et qu'il ne dépasse pas 50 % des ressources totales de l'organisme bénéficiaire, le contrôle
+se limite au compte d'emploi du concours financier que l'organisme doit établir. Si ce compte d'emploi n'est pas produit, le
 contrôle porte sur l'ensemble des comptes et de la gestion.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-199 du 11 février 1985 - art. 38 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 15
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 40
 
 	**Cite**:
 
-	  - Code des juridictions financières L211-4 à L211-6, L262-7 à L262-9
+	  - Code des juridictions financières - art. L211-4
+	  - Code des juridictions financières - art. L262-7
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R133-1 (V)
 
 
 ###### Article R133-5
@@ -19760,28 +19826,6 @@ corps de contrôle.
 	  - Code des juridictions financières - art. R141-6 (V)
 
 
-###### Article R141-5
-
-Dans les ministères où sont tenues des comptabilités de matériels, un rapport sur la gestion de ces matériels retraçant les
-opérations de l'année précédente est adressé chaque année à la Cour des comptes. Accompagné des résumés généraux et du compte
-général, ce rapport traite notamment de l'utilisation des stocks, de leur renouvellement, des pertes constatées et des
-responsabilités encourues.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 du 14 avril 2000
-
-	**Liens**:
-
-	  - DEPLACE: Décret n°2013-268 du 29 mars 2013 - art. 27
-
-	**Abrogé par**:
-
-	  - Décret n°2015-812 du 3 juillet 2015 - art. 35
-
-
 ###### Article R141-6
 
 L'audition par la Cour des personnes mentionnées à l'article L. 141-9, pour les opérations dont elles ont ou ont eu la
@@ -19810,9 +19854,9 @@ dispositions de l'article R. 133-3.
 Les observations auxquelles donnent lieu les contrôles sont consignées dans un rapport. Les suites à leur donner font l'objet
 de propositions motivées.
 
-Après communication au procureur général s'il y a lieu, et à l'exception des rapports établis en matière juridictionnelle, le
-président de chambre transmet le rapport et les pièces annexées au conseiller maître ou au conseiller maître en service
-extraordinaire, contre-rapporteur.
+A l'exception des rapports établis en matière juridictionnelle, le président de chambre transmet le rapport et les pièces
+annexées au conseiller maître ou au conseiller maître en service extraordinaire, contre-rapporteur. Le président de chambre
+communique s'il y a lieu le rapport au procureur général. 
 
 En accord avec le procureur général en cas de communication à celui-ci, il inscrit l'examen du rapport à l'ordre du jour de
 la formation compétente pour les rapports autres que ceux établis en matière juridictionnelle ; cet accord est réputé acquis
@@ -19821,13 +19865,21 @@ date de la séance.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 16
+
 	**Liens**:
 
-	  - DEPLACE: Décret n°2013-268 du 29 mars 2013 - art. 27
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 58
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R141-8 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R143-3 (V)
 
 
 ###### Article R141-8
@@ -19846,28 +19898,61 @@ président recueille successivement l'opinion du rapporteur, de chacun des conse
 de chacun des conseillers maîtres dans l'ordre inverse de leur ancienneté dans le grade. Il opine le dernier. En cas de
 partage, sa voix est prépondérante. 
 
-Une section peut renvoyer à la chambre une affaire qui lui a été attribuée. 
-
-Préalablement à la délibération sur l'envoi des observations énumérées à l'article R. 143-1, notamment dans les cas prévus
-aux articles L. 143-1, L. 143-4 et L. 141-9, la Cour peut faire connaître aux administrations et organismes intéressés les
-observations provisoires sur lesquelles elle estime nécessaire de susciter leurs remarques.
+Une section peut renvoyer à la chambre une affaire qui lui a été attribuée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 27
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 17
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 58
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L141-9
-	  - Code des juridictions financières - art. L143-1
 	  - Code des juridictions financières - art. R112-15
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R112-18 (M)
 	  - Code des juridictions financières - art. R141-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R143-5 (V)
+
+
+###### Article R141-8-1
+
+Préalablement à l'envoi de ses communications mentionnées à l'article R. 143-1, la Cour adresse aux administrations et
+organismes contrôlés ses observations provisoires afin qu'ils puissent faire connaître leurs observations écrites dans le
+délai minimum d'un mois qui suit cette transmission. Elle transmet dans les mêmes conditions les extraits les concernant aux
+tiers mis en cause au sens de l'article L. 143-4. Elle peut transmettre à d'autres administrations ou organismes intéressés
+les extraits les concernant. 
+
+A l'expiration du délai mentionné ci-dessus et après avoir procédé éventuellement aux auditions, la Cour statue
+définitivement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 18
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 58
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L143-4
+	  - Code des juridictions financières - art. R143-1
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R143-7 (V)
 
 
 ###### Article R141-9
@@ -19970,8 +20055,8 @@ la chambre de la Cour des comptes compétente.
 
 Le contrôle du compte est notifié au comptable et à l'ordonnateur en fonctions. 
 
-Toutefois, s'agissant des comptes des comptables supérieurs de l'Etat, le contrôle est notifié au comptable en fonctions et
-au ministre chargé du budget. 
+Toutefois, s'agissant des comptes des comptables supérieurs de l'Etat, le contrôle est notifié au comptable en fonctions, au
+ministre chargé du budget et aux ministres intéressés. 
 
 La notification précise le ou les exercices contrôlés et le nom du ou des magistrats rapporteurs.
 
@@ -19979,16 +20064,12 @@ La notification précise le ou les exercices contrôlés et le nom du ou des mag
 
 	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 29
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 19
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. D112-20-1 (Ab)
 	  - Code des juridictions financières - art. D142-2 (M)
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. R141-10 (T)
 
 
 ###### Article R142-3
@@ -20016,22 +20097,18 @@ le magistrat délégué à cet effet, décharge, par ordonnance motivée, le com
 à son encontre au titre de ses gestions successives et s'il est sorti de fonctions, il est, en outre, déclaré quitte par
 ordonnance.
 
-L'ordonnance de décharge, et, s'il y a lieu, de quitus, est notifiée à chacun des comptables et des ordonnateurs concernés
-et, s'agissant des comptables de l'Etat, au ministre chargé du budget.
+L'ordonnance de décharge, et, s'il y a lieu, de quitus, est notifiée aux comptables et à l'ordonnateur en fonctions ainsi
+que, lorsqu'il s'agit des comptables de l'Etat, au ministre chargé du budget et au ministre intéressé.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 29
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 20
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. D142-17 (T)
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. R141-11 (T)
 
 
 ###### Article R142-4
@@ -20641,25 +20718,29 @@ En cas de besoin, la notification des arrêts est faite suivant les procédures 
 
 ###### Article D142-22
 
-Les arrêts de la Cour des comptes sont publiables ou communicables aux tiers. 
+Les arrêts et les ordonnances de la Cour des comptes sont publiables ou communicables aux tiers. 
 
 Les ordonnances prononçant la décharge d'un comptable et le déclarant éventuellement quitte de sa gestion sont communicables
 aux tiers.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 33
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 21
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 54
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. D142-21 (V)
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. D142-23 (V)
 	  - Code des juridictions financières - art. R141-8 (V)
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. D145-1 (T)
 
 
 ###### Article D142-23
@@ -21992,42 +22073,42 @@ comptes, après avis du Conseil supérieur des chambres régionales des comptes.
 
 ###### Article R212-7
 
-Le président de la chambre régionale des comptes est chargé de la direction générale de la chambre.
+Le président de la chambre régionale des comptes est chargé de la direction générale de la chambre. 
 
-Il définit l'organisation et le programme annuel des travaux après consultation de la chambre et avis du ministère public.
+Il définit l'organisation et le programme annuel des travaux après consultation de la chambre et avis du ministère public. 
 
 Un arrêté annuel du président de la chambre régionale des comptes, pris après consultation des présidents de section et avis
 du ministère public, peut instituer des formations de délibéré de la chambre autres que la formation plénière. Il en fixe la
-composition.
+composition. 
 
-Il arrête la composition des sections et fixe leurs attributions.
+Il arrête la composition des sections et fixe leurs attributions. 
 
 Il détermine les affaires qui seront délibérées en section et celles qui le seront en chambre. Il décide de leur renvoi aux
 formations de délibéré de la chambre autres que la formation plénière quand celles-ci ont été instituées dans les conditions
-prévues au troisième alinéa du présent article.
+prévues au troisième alinéa du présent article. 
 
-Il préside les audiences solennelles publiques et les séances de la chambre. Il peut présider les séances des sections.
+Il préside les audiences solennelles publiques et les séances de la chambre. Il peut présider les séances des sections. 
 
 Il répartit les travaux entre les magistrats de la chambre et les rapporteurs mentionnés à l'article R. 212-13, sur
-proposition des présidents de section concernés lorsque la chambre comprend une ou plusieurs sections.
+proposition des présidents de section concernés lorsque la chambre comprend une ou plusieurs sections. 
 
-Il prononce l'affectation des assistants de vérification au sein de la chambre.
+Il prononce l'affectation des  vérificateurs des juridictions financières au sein de la chambre. 
 
 Il nomme les experts auxquels la chambre régionale des comptes recourt.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 3
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 22
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 73
 
 	**Cité par**:
 
@@ -22037,7 +22118,11 @@ Il nomme les experts auxquels la chambre régionale des comptes recourt.
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. R212-13 (M)
+	  - Code des juridictions financières - art. R212-13 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R212-4 (V)
 
 
 ###### Article R212-7-1
@@ -22168,28 +22253,32 @@ intéressé, pour assurer les fonctions de président de section pour une durée
 
 ###### Article R212-10
 
-Le président de section ou le magistrat qui exerce ces fonctions organise les travaux de la section qu'il préside.
+Le président de section ou le magistrat qui exerce ces fonctions organise les travaux de la section qu'il préside. 
 
 Il participe à l'élaboration du programme annuel des travaux de la chambre régionale des comptes et propose la répartition
 des travaux entre les magistrats et les autres rapporteurs de sa section. Il fixe l'ordre du jour et préside les séances de
-la section.
+la section. 
 
 Il rend compte au président de la chambre de l'exécution et du suivi des travaux attribués aux magistrats et aux rapporteurs
-de la section. Il définit les tâches des assistants de vérification affectés à sa section.
+de la section. Il définit les tâches des  vérificateurs des juridictions financières affectés à sa section.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 6
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 22
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 74
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R212-9 (V)
 
 
 ###### Article R212-11
@@ -22522,10 +22611,10 @@ l'amende prévue par la loi.
 
 Il défère à la chambre régionale des comptes les opérations qu'il présume constitutives de gestion de fait, sur communication
 du représentant de l'Etat dans la région, la collectivité territoriale de Corse ou dans les départements du ressort de la
-chambre, des   directeurs départementaux ou, le cas échéant, régionaux des finances publiques , des procureurs de la
-République ou du procureur général près la Cour des comptes, à son initiative ou au vu des constatations faites lors d'un
-contrôle de la chambre régionale des comptes ou des autres informations dont il dispose. Il requiert, en cas de besoin,
-l'application de l'amende pour immixtion dans les fonctions de comptable public. 
+chambre, des directeurs départementaux ou, le cas échéant, régionaux des finances publiques, des procureurs de la République
+ou du procureur général près la Cour des comptes, à son initiative ou au vu des constatations faites lors d'un contrôle de la
+chambre régionale des comptes ou des autres informations dont il dispose. Il requiert, en cas de besoin, l'application de
+l'amende pour immixtion dans les fonctions de comptable public. 
 
 Lui sont obligatoirement communiqués, avec pièces à l'appui, les rapports à fin de jugement ou d'ordonnance, les rapports
 concernant les demandes d'inscription d'office d'une dépense obligatoire en application de l'article L. 1612-15 du code
@@ -22536,7 +22625,7 @@ Il présente ses conclusions écrites sur ces rapports.
 S'il n'a pas conclu à la décharge du comptable, il saisit la formation de jugement pour la mise en jeu de la responsabilité
 personnelle et pécuniaire du comptable par des réquisitions écrites et motivées en droit. 
 
-Il participe aux audiences publiques. Il y présente ses conclusions. 
+Il participe aux audiences publiques.     Il y présente ses conclusions et prend part au débat. 
 
 V.-Dans les cas de procédure non juridictionnelle, les rapports, avec pièces à l'appui, lui sont communiqués soit à sa
 demande, soit sur décision du président de la chambre ou du président de section. Il présente ses conclusions écrites sur ces
@@ -22549,11 +22638,19 @@ orales. Il ne prend pas part au délibéré.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 13
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 23
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 75
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R212-15 (V)
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. R212-32
+	  - Code des juridictions financières - art. R212-32 (V)
 	  - Code général des collectivités territoriales - art. L1612-15
 
 	**Cité par**:
@@ -22760,23 +22857,27 @@ documents et requêtes dont elle est saisie.
 ###### Article R212-27
 
 Le président de la chambre régionale des comptes nomme le greffier parmi les fonctionnaires affectés à la chambre pour
-exercer la fonction d'assistant de vérification.
+exercer la fonction    de vérificateur des juridictions financières. 
 
 Le greffier prête serment devant la chambre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 13
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 24
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 83
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R212-39 (V)
 
 	**Cité par**:
 
@@ -24603,10 +24704,9 @@ mobilité.
 
 ###### Article R226-3
 
-Lorsqu'ils ont accompli leur période de mobilité en exerçant des fonctions dans l'administration préfectorale ou dans un
-secrétariat général pour les affaires régionales ou auprès d'une collectivité territoriale ou d'un organisme soumis au
-contrôle des chambres régionales des comptes, les magistrats ne peuvent être avant trois ans affectés à la chambre régionale
-des comptes dans le ressort de laquelle ils ont exercé ces fonctions.
+Lorsqu'ils ont accompli leur période de mobilité en exerçant des fonctions               auprès d'une collectivité
+territoriale ou d'un organisme soumis au contrôle des chambres régionales des comptes, les magistrats ne peuvent être avant
+trois ans affectés à la chambre régionale des comptes dans le ressort de laquelle ils ont exercé ces fonctions.
 
 **Liens relatifs à cet article**
 
@@ -24616,7 +24716,7 @@ des comptes dans le ressort de laquelle ils ont exercé ces fonctions.
 
 	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 45 (V)
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 25
 
 	**Cité par**:
 
@@ -24771,31 +24871,6 @@ exerçait jusqu'alors les fonctions du ministère public.
 
 ##### CHAPITRE VII : Emploi de président et de vice-président de chambre régionale des comptes
 
-###### Article R227-1
-
-Dans l'emploi de président et de vice-président de chambre régionale des comptes, les magistrats nommés exercent les missions
-qui leur sont respectivement dévolues par les articles R. 212-7 et R. 212-8-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 du 14 avril 2000
-
-	**Modifié par**:
-
-	  - Décret n°2012-826 du 27 juin 2012 - art. 13
-
-	**Abrogé par**:
-
-	  - Décret n°2015-812 du 3 juillet 2015 - art. 35
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R212-7
-	  - Code des juridictions financières - art. R212-8-1
-
-
 ###### Article R227-2
 
 L'emploi de président et de vice-président de chambre régionale des comptes comporte six échelons.
@@ -24857,39 +24932,41 @@ des candidatures.
 ###### Article R228-2
 
 Le jury est présidé par le président de la mission permanente d'inspection des chambres régionales et territoriales des
-comptes.
+comptes. 
 
-Il comprend :
+Il comprend : 
 
 1° Trois membres désignés respectivement par le ministre chargé des collectivités territoriales, le ministre chargé du budget
-et le ministre chargé de la fonction publique ;
+et le ministre chargé de la fonction publique ; 
 
-2° Deux professeurs des universités titulaires ;
+2° Deux professeurs des universités titulaires ; 
 
-3° Un avocat général ou un procureur financier désigné par le procureur général près la Cour des comptes ;
+3° Un avocat général, un procureur financier ou un substitut général désigné par le procureur général près la Cour des
+comptes ; 
 
-4° Un président de chambre régionale des comptes ;
+4° Un président de chambre régionale des comptes ; 
 
 5° Deux membres du corps des magistrats de chambre régionale des comptes, proposés par le Conseil supérieur des chambres
-régionales des comptes.
+régionales des comptes. 
 
-Les membres du jury mentionnés aux 2°, 4° et 5° ci-dessus sont nommés par arrêté du premier président de la Cour des comptes.
+Les membres du jury mentionnés aux 2°, 4° et 5° ci-dessus sont nommés par arrêté du premier président de la Cour des
+comptes. 
 
 Cet arrêté désigne le remplaçant du président dans le cas où celui-ci se trouverait dans l'impossibilité de poursuivre sa
 mission. Il peut également comporter les noms de correcteurs adjoints qui participent, avec les membres du jury, à la
 correction des épreuves écrites et assistent aux délibérations du jury avec voix consultative pour l'attribution des notes se
-rapportant aux épreuves qu'ils ont corrigées.
+rapportant aux épreuves qu'ils ont corrigées. 
 
-En cas de partage égal des voix, le président du jury a voix prépondérante.
+En cas de partage égal des voix, le président du jury a voix prépondérante. 
 
 Dans la limite des postes ouverts, le jury inscrit par ordre de mérite les candidats qu'il retient sur une liste publiée au
 Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-826 du 27 juin 2012 - art. 15
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 26
 
 	**Cité par**:
 
@@ -25856,20 +25933,24 @@ l'avis de la chambre. "
 
 Les vérifications et l'instruction des affaires dont la chambre régionale des comptes se saisit elle-même ou est saisie, soit
 sur réquisitoire du ministère public, soit en application de dispositions législatives, sont confiées à un ou plusieurs
-rapporteurs chargés d'en faire le rapport devant la formation de délibéré.
+rapporteurs chargés d'en faire le rapport devant la formation de délibéré. 
 
 Les rapporteurs procèdent sur pièces et sur place aux vérifications et instructions qui leur sont confiées. Celles-ci
 comportent, en tant que de besoin, toutes demandes de renseignements, enquêtes ou expertises, dans les conditions définies
-par l'article R. 241-3.
+par l'article R. 241-3. 
 
-Les assistants de vérification participent à ces travaux sous la direction et la responsabilité des rapporteurs. Ils doivent
-observer la discrétion et sont tenus au secret professionnel.
+Les vérificateurs des juridictions financières participent à ces travaux sous la direction et la responsabilité des
+rapporteurs. Ils doivent observer la discrétion et sont tenus au secret professionnel. 
+
+Lors de leur première affectation dans une chambre régionale ou territoriale des comptes, les vérificateurs des juridictions
+financières prêtent serment devant le président de la chambre.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2013-268 du 29 mars 2013 - art. 54
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 22
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 27
 
 	**Cité par**:
 
@@ -26309,18 +26390,26 @@ article.
 
 ###### Article R241-18
 
-Le rapport d'observations définitives de la chambre régionale des comptes auquel sont jointes les réponses reçues est
-communicable aux tiers dès qu'a eu lieu la première réunion de l'assemblée délibérante ou de l'organe collégial de décision
-suivant sa réception par la collectivité ou l'établissement public concerné.
+Le rapport d'observations définitives de la chambre régionale des comptes auquel sont jointes les réponses reçues peut être
+publié et communiqué aux tiers dès qu'a eu lieu la première réunion de l'assemblée délibérante ou de l'organe collégial de
+décision suivant sa réception par la collectivité ou l'établissement public concerné. 
+
+A réception du rapport d'observations définitives, la collectivité ou l'établissement public concerné fait connaître à la
+chambre régionale des comptes la date de la plus proche réunion de l'assemblée délibérante ou de l'organe collégial de
+décision et communique, en temps utile, copie de son ordre du jour. 
 
 En cas d'absence de réponse à la lettre d'observations provisoires dans le délai imparti, la chambre régionale des comptes
 peut arrêter ses observations définitives, qui sont notifiées conformément aux dispositions de l'article R. 241-16.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 28
+
 	**Liens**:
 
-	  - DEPLACE: Décret n°2013-268 du 29 mars 2013 - art. 54
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 133
 
 	**Cite**:
 
@@ -26330,6 +26419,10 @@ peut arrêter ses observations définitives, qui sont notifiées conformément a
 
 	  - Code des juridictions financières - art. R241-18-1 (T)
 	  - Code des juridictions financières - art. R241-21 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R243-14 (V)
 
 
 ###### Article R241-18-1
@@ -26558,14 +26651,14 @@ budgétaire et financière, les décisions de déféré prises par la chambre r�
 
 ###### Article R241-26
 
-La Cour des comptes, en vue d'établir son rapport public annuel dans les conditions prévues aux articles L. 136-1 à L. 136-5,
-reçoit communication des observations des chambres régionales des comptes susceptibles de faire l'objet d'une insertion ou
-d'une mention au rapport public.
+La Cour des comptes, en vue d'établir son rapport public annuel dans les conditions prévues aux articles L. 143-6 à L.
+143-10, reçoit communication des observations des chambres régionales des comptes susceptibles de faire l'objet d'une
+insertion ou d'une mention au rapport public. 
 
-Ces observations sont accompagnées des documents sur lesquels elles se fondent et de l'avis du ministère public.
+Ces observations sont accompagnées des documents sur lesquels elles se fondent et de l'avis du ministère public. 
 
 Elles peuvent être portées à la connaissance des ministres intéressés par voie de référé du premier président de la Cour des
-comptes.
+comptes. 
 
 Le premier président de la Cour des comptes fixe, après avis du procureur général et après consultation du Conseil supérieur
 des chambres régionales des comptes, les modalités d'élaboration et de transmission des observations des chambres régionales
@@ -26573,14 +26666,22 @@ des chambres régionales des comptes, les modalités d'élaboration et de transm
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 29
+
 	**Liens**:
 
-	  - DEPLACE: Décret n°2013-268 du 29 mars 2013 - art. 54
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 134
 
 	**Cite**:
 
-	  - Code des juridictions financières
+	  - Code des juridictions financières - art. L143-6
 	  - Code des juridictions financières - art. R136-3
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R243-19 (V)
 
 	**Cité par**:
 
@@ -26815,7 +26916,7 @@ La notification précise le ou les exercices contrôlés et le nom du ou des mag
 
 ###### Article R242-2
 
-Le magistrat rapporteur instruit à charge et à décharge les comptes dont il est saisi.
+Le magistrat rapporteur instruit à charge et à décharge les comptes dont il est saisi. 
 
 A tout moment de la procédure, les comptables, les ordonnateurs et les autres personnes mis en cause sont tenus de déférer
 aux demandes d'explication ou de production de pièces formulées par le magistrat chargé de l'instruction, dans un délai fixé
@@ -26828,17 +26929,17 @@ Lorsque le ministère public ne retient aucune charge à l'égard du comptable, 
 formation de jugement compétente ou à un magistrat délégué à cet effet. 
 
 Le président de la formation de jugement compétente, ou le magistrat délégué à cet effet, peut prendre une ordonnance de
-décharge dans les conditions prévues au II de l'article L. 242-1.
+décharge dans les conditions prévues au II de l'article L. 242-1. 
 
 Toutefois, le président de la formation de jugement, ou le magistrat délégué à cet effet, peut demander que soit établi le
-rapport complémentaire prévu au II de l'article L. 242-1 dans un délai d'un mois à compter de la réception des conclusions.
+rapport complémentaire prévu au II de l'article L. 242-1 dans un délai d'un mois à compter de la réception des conclusions. 
 
 A défaut d'une demande d'un rapport complémentaire dans le délai susmentionné, le président de la formation de jugement ou le
 magistrat délégué à cet effet décharge, par ordonnance motivée, le comptable de sa gestion. Si aucune charge ne subsiste à
 son encontre au titre de ses gestions successives et s'il est sorti de fonctions, il est, en outre, déclaré quitte par
-ordonnance.
+ordonnance. 
 
-L'ordonnance de décharge, et, s'il y a lieu, de quitus, est notifiée à chacun des comptables et des ordonnateurs concernés.
+L'ordonnance de décharge, et, s'il y a lieu, de quitus, est notifiée aux comptables et à l'ordonnateur en fonctions.
 
 **Liens relatifs à cet article**
 
@@ -26848,22 +26949,7 @@ L'ordonnance de décharge, et, s'il y a lieu, de quitus, est notifiée à chacun
 
 	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 56
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 58
-
-	**Cite**:
-
-	  - Code des juridictions financières
-	  - Code général des collectivités territoriales - art. R1612-10
-	  - Code général des collectivités territoriales - art. R1612-11
-	  - Code général des collectivités territoriales - art. R1612-12
-	  - Code général des collectivités territoriales - art. R1612-14
-	  - Code général des collectivités territoriales - art. R1612-15
-	  - Code général des collectivités territoriales - art. R1612-8
-	  - Code général des collectivités territoriales - art. R1612-9
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 30
 
 	**Cité par**:
 
@@ -26871,9 +26957,10 @@ L'ordonnance de décharge, et, s'il y a lieu, de quitus, est notifiée à chacun
 	  - Code des juridictions financières - art. D242-34 (V)
 	  - Code des juridictions financières - art. R231-16 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code des juridictions financières - art. R241-33 (T)
+	  - Code des juridictions financières - art. L212-19
+	  - Code des juridictions financières - art. L232-1
 
 
 ###### Article R242-3
@@ -29759,53 +29846,57 @@ La chambre territoriale des comptes peut comporter une ou plusieurs sections.
 
 ###### Article R262-7
 
-Le président de la chambre territoriale des comptes est chargé de la direction générale de la chambre.
+Le président de la chambre territoriale des comptes est chargé de la direction générale de la chambre. 
 
-Il définit l'organisation et le programme annuel des travaux après consultation de la chambre et avis du ministère public.
+Il définit l'organisation et le programme annuel des travaux après consultation de la chambre et avis du ministère public. 
 
 Un arrêté annuel du président de la chambre territoriale des comptes, pris après consultation des présidents de section et
 avis du ministère public, peut instituer des formations de délibéré de la chambre autres que la formation plénière. Il en
-fixe la composition.
+fixe la composition. 
 
-Il arrête la composition des sections et fixe leurs attributions.
+Il arrête la composition des sections et fixe leurs attributions. 
 
 Il détermine les affaires qui seront délibérées en section et celles qui le seront en chambre. Il décide de leur renvoi aux
 formations de délibéré de la chambre autres que la formation plénière quand celles-ci ont été instituées dans les conditions
-prévues au troisième alinéa du présent article.
+prévues au troisième alinéa du présent article. 
 
-Il préside les audiences solennelles publiques et les séances de la chambre. Il peut présider les séances des sections.
+Il préside les audiences solennelles publiques et les séances de la chambre. Il peut présider les séances des sections. 
 
 Il répartit les travaux entre les magistrats de la chambre et les rapporteurs mentionnés à l'article R. 212-13, auquel
 renvoie l'article R. 262-13, sur proposition des présidents de section concernés lorsque la chambre comprend une ou plusieurs
-sections.
+sections. 
 
-Il prononce l'affectation des assistants de vérification au sein de la chambre.
+Il prononce l'affectation des  vérificateurs des juridictions financières au sein de la chambre. 
 
 Il nomme les experts auxquels la chambre territoriale des comptes recourt.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 3
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 22
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 163
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. R212-13 (M)
-	  - Code des juridictions financières - art. R262-13 (V)
+	  - Code des juridictions financières - art. R212-13
+	  - Code des juridictions financières - art. R262-13
 
 	**Cité par**:
 
 	  - Code des juridictions financières - art. R262-3 (M)
 	  - Code des juridictions financières - art. R262-32 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R262-3 (V)
 
 
 ###### Article R262-8
@@ -29871,28 +29962,32 @@ année.
 
 ###### Article R262-10
 
-Le président de section ou le magistrat qui exerce ces fonctions organise les travaux de la section qu'il préside.
+Le président de section ou le magistrat qui exerce ces fonctions organise les travaux de la section qu'il préside. 
 
 Il participe à l'élaboration du programme annuel des travaux de la chambre territoriale des comptes et propose la répartition
 des travaux entre les magistrats et les autres rapporteurs de sa section. Il fixe l'ordre du jour et préside les séances de
-la section.
+la section. 
 
 Il rend compte au président de la chambre de l'exécution et du suivi des travaux attribués aux magistrats et aux rapporteurs
-de la section. Il définit les tâches des assistants de vérification affectés à sa section.
+de la section. Il définit les tâches des  vérificateurs des juridictions financières affectés à sa section.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 6
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 22
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 163
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R262-7 (V)
 
 
 ###### Article R262-11
@@ -30115,7 +30210,7 @@ IV.-Il veille à la production des comptes dans les délais réglementaires et, 
 l'amende prévue par la loi. 
 
 Il défère à la chambre territoriale des comptes les opérations qu'il présume constitutives de gestion de fait, sur
-communication du haut-commissaire, des directeurs départementaux ou, le cas échéant, régionaux des finances publiques , des
+communication du haut-commissaire, des directeurs départementaux ou, le cas échéant, régionaux des finances publiques, des
 procureurs de la République ou du procureur général près la Cour des comptes, à son initiative ou au vu des constatations
 faites lors d'un contrôle de la chambre territoriale des comptes ou des autres informations dont il dispose. Il requiert, en
 cas de besoin, l'application de l'amende pour immixtion dans les fonctions de comptable public. 
@@ -30130,7 +30225,7 @@ Il présente ses conclusions écrites sur ces rapports.
 S'il n'a pas conclu à la décharge du comptable, il saisit la formation de jugement pour la mise en jeu de la responsabilité
 personnelle et pécuniaire du comptable par des réquisitions écrites et motivées en droit. 
 
-Il participe aux audiences publiques. Il y présente ses conclusions. 
+Il participe aux audiences publiques. Il y présente ses conclusions et prend part au débat. 
 
 V.-Dans les cas de procédure non juridictionnelle, les rapports, avec pièces à l'appui, lui sont communiqués soit à sa
 demande, soit sur décision du président de la chambre ou du président de section. Il présente ses conclusions écrites sur ces
@@ -30144,10 +30239,19 @@ orales. Il ne prend pas part au délibéré.
 	**Cite**:
 
 	  - Loi n°99-209 du 19 mars 1999 - art. 208-3
+	  - Code des juridictions financières - art. R262-31 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 68
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 31
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 163
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R262-13 (V)
 
 	**Cité par**:
 
@@ -30949,24 +31053,36 @@ réception de l'avis de la chambre.
 
 Les vérifications et l'instruction des affaires dont la chambre territoriale des comptes se saisit elle-même ou est saisie,
 soit sur réquisitoire du ministère public, soit en application de dispositions législatives, sont confiées à un ou plusieurs
-rapporteurs chargés d'en faire le rapport devant la formation de délibéré.
+rapporteurs chargés d'en faire le rapport devant la formation de délibéré. 
 
 Les rapporteurs procèdent sur pièces et sur place aux vérifications et instructions qui leur sont confiées. Celles-ci
 comportent, en tant que de besoin, toutes demandes de renseignements, enquêtes ou expertises, dans les conditions définies
 par l'article R. 262-58.
 
-Les assistants de vérification participent à ces travaux sous la direction et la responsabilité des rapporteurs. Ils doivent
-observer la discrétion et sont tenus au secret professionnel.
+Les vérificateurs des juridictions financières participent à ces travaux sous la direction et la responsabilité des
+rapporteurs. Ils doivent observer la discrétion et sont tenus au secret professionnel. 
+
+Lors de leur première affectation dans une chambre régionale ou territoriale des comptes, les vérificateurs des juridictions
+financières prêtent serment devant le président de la chambre.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 22
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 27
+
 	**Liens**:
 
-	  - DEPLACE: Décret n°2008-1397 du 19 décembre 2008 - art. 79
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R262-57 (V)
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. R262-58
+	  - Code des juridictions financières - art. R262-58 (V)
 
 	**Cité par**:
 
@@ -31345,15 +31461,28 @@ collectivités territoriales et établissements publics intéressés.
 
 ###### Article R262-72
 
-Les observations définitives de la chambre territoriale des comptes sont communicables aux tiers dès qu'a eu lieu la première
-réunion de l'assemblée délibérante ou de l'organe collégial de décision suivant leur réception par la collectivité ou
-l'établissement public concerné.
+Le rapport d'observations définitives de la chambre territoriale des comptes auquel sont jointes les réponses reçues est
+publiable et communicable aux tiers dès qu'a eu lieu la première réunion de l'assemblée délibérante ou de l'organe collégial
+de décision suivant sa réception par la collectivité ou l'établissement public concerné. 
+
+A réception du rapport d'observations définitives, la collectivité ou l'établissement public concerné fait connaître à la
+chambre territoriale des comptes la date de la plus proche réunion de l'assemblée délibérante ou de l'organe collégial de
+décision, et communique, en temps utile, copie de son ordre du jour.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 33
+
 	**Liens**:
 
-	  - DEPLACE: Décret n°2008-1397 du 19 décembre 2008 - art. 79
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R262-126 (V)
+	  - Code des juridictions financières - art. R262-128 (V)
 
 	**Cité par**:
 
@@ -33783,19 +33912,28 @@ Il répartit les travaux entre les magistrats de la chambre et les rapporteurs m
 renvoie l'article R. 272-13, sur proposition des présidents de section concernés lorsque la chambre comprend une ou plusieurs
 sections. 
 
-Il prononce l'affectation des assistants de vérification au sein de la chambre. 
+Il prononce l'affectation des vérificateurs des juridictions financières au sein de la chambre. 
 
 Il nomme les experts auxquels la chambre territoriale des comptes recourt.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-568 du 20 mai 2009 - art. 2
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 22
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 172
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. R212-13
+	  - Code des juridictions financières - art. R272-13 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R272-3 (V)
 
 
 ###### Article R272-8
@@ -33851,13 +33989,21 @@ des travaux entre les magistrats et les autres rapporteurs de sa section. Il fix
 la section. 
 
 Il rend compte au président de la chambre de l'exécution et du suivi des travaux attribués aux magistrats et aux rapporteurs
-de la section. Il définit les tâches des assistants de vérification affectés à sa section.
+de la section. Il définit les tâches des  vérificateurs des juridictions financières affectés à sa section.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-568 du 20 mai 2009 - art. 2
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 22
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 172
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R272-7 (V)
 
 
 ###### Article R272-11
@@ -34061,12 +34207,12 @@ concernant les demandes d'inscription d'office d'une dépense obligatoire en app
 organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française et de décision sur la
 compétence. 
 
-Il présente ses conclusions écrites sur ces rapports.
+Il présente ses conclusions écrites sur ces rapports. 
 
 S'il n'a pas conclu à la décharge du comptable, il saisit la formation de jugement pour la mise en jeu de la responsabilité
 personnelle et pécuniaire du comptable par des réquisitions écrites et motivées en droit. 
 
-Il participe aux audiences publiques. Il y présente ses conclusions.
+Il participe aux audiences publiques.     Il y présente ses conclusions et prend part au débat. 
 
 V.-Dans les cas de procédure non juridictionnelle, les rapports, avec pièces à l'appui, lui sont communiqués soit à sa
 demande, soit sur décision du président de la chambre ou du président de section. Il présente ses conclusions écrites sur ces
@@ -34081,11 +34227,19 @@ orales. Il ne prend pas part au délibéré.
 
 	  - Loi organique n°2004-192 du 27 février 2004 - art. 185-4
 	  - Code des juridictions financières - art. R272-31
-	  - Code des juridictions financières - art. R272-32
+	  - Code des juridictions financières - art. R272-32 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-568 du 20 mai 2009 - art. 2
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 32
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 172
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R272-13 (V)
 
 	**Cité par**:
 
@@ -34768,19 +34922,31 @@ Les rapporteurs procèdent sur pièces et sur place aux vérifications et instru
 comportent, en tant que de besoin, toutes demandes de renseignements, enquêtes ou expertises, dans les conditions définies
 par l'article R. 272-43. 
 
-Les assistants de vérification, mentionnés à l'article R. 241-1, participent à ces travaux sous la direction et la
-responsabilité des rapporteurs. Ils doivent observer la discrétion et sont tenus au secret professionnel.
+Les vérificateurs des juridictions financières, mentionnés à l'article R. 241-1, participent à ces travaux sous la direction
+et la responsabilité des rapporteurs. Ils doivent observer la discrétion et sont tenus au secret professionnel.
+
+Lors de leur première affectation dans une chambre régionale ou territoriale des comptes, les vérificateurs des juridictions
+financières prêtent serment devant le président de la chambre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-568 du 20 mai 2009 - art. 2
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 22
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 27
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 177
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. R241-1
-	  - Code des juridictions financières - art. R272-43
+	  - Code des juridictions financières - art. R241-1 (M)
+	  - Code des juridictions financières - art. R272-43 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R272-45 (V)
 
 	**Cité par**:
 
@@ -35182,14 +35348,27 @@ ou de l'établissement public concerné, en vue de la communication à l'assembl
 ###### Article R272-59
 
 Le rapport d'observations définitives de la chambre territoriale des comptes auquel sont jointes les réponses reçues est
-communicable aux tiers dès qu'a eu lieu la première réunion de l'assemblée délibérante ou de l'organe collégial de décision
-suivant sa réception par la collectivité ou l'établissement public concerné.
+publiable et communicable aux tiers dès qu'a eu lieu la première réunion de l'assemblée délibérante ou de l'organe collégial
+de décision suivant sa réception par la collectivité ou l'établissement public concerné. 
+
+A réception du rapport d'observations définitives, la collectivité ou l'établissement public concerné fait connaître à la
+chambre territoriale des comptes la date de la plus proche réunion de l'assemblée délibérante ou de l'organe collégial de
+décision et communique, en temps utile, copie de son ordre du jour.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-568 du 20 mai 2009 - art. 2
+	  - Décret n°2015-812 du 3 juillet 2015 - art. 34
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 177
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R272-109 (V)
+	  - Code des juridictions financières - art. R272-111 (V)
 
 	**Cité par**:
 

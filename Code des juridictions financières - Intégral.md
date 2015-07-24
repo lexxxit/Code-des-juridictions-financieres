@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2015-07-06
+Version Consolidée au 2015-07-25
 
 # Partie législative
 
@@ -239,24 +239,23 @@ obligation légale de faire.
 ###### Article L111-8
 
 La Cour des comptes peut également exercer, dans des conditions fixées par décret en Conseil d'Etat, un contrôle du compte
-d'emploi des ressources collectées auprès du public, dans le cadre de campagnes menées à l'échelon national par les
-organismes visés à l'article 3 de la loi n° 91-772 du 7 août 1991 relative au congé de représentation en faveur des
-associations et des mutuelles et au contrôle des comptes des organismes faisant appel à la générosité publique, afin de
-vérifier la conformité des dépenses engagées par ces organismes aux objectifs poursuivis par l'appel à la générosité
-publique. 
+d'emploi des ressources collectées auprès du public par les organismes visés à l'article 3 de la loi n° 91-772 du 7 août 1991
+relative au congé de représentation en faveur des associations et des mutuelles et au contrôle des comptes des organismes
+faisant un appel public à la générosité, afin de vérifier la conformité des dépenses engagées par ces organismes aux
+objectifs poursuivis par un appel public à la générosité. 
 
 Ce contrôle peut comporter des vérifications auprès d'autres organismes qui reçoivent des organismes mentionnés au premier
-alinéa, sous quelque forme que ce soit, des ressources collectées dans le cadre de ces campagnes. 
+alinéa, sous quelque forme que ce soit, des ressources collectées. 
 
 La Cour des comptes peut contrôler, dans des conditions fixées par un décret en Conseil d'Etat, la conformité entre les
 objectifs des organismes bénéficiant de dons ouvrant droit à un avantage fiscal et les dépenses financées par ces dons,
 lorsque le montant annuel de ceux-ci excède un seuil fixé par un décret en Conseil d'Etat. 
 
 Lorsque la Cour des comptes atteste, à l'issue du contrôle d'un organisme visé au présent article, de la non-conformité des
-dépenses engagées aux objectifs poursuivis par l'appel à la générosité publique ou de la non-conformité des dépenses
-financées par les dons ouvrant droit à un avantage fiscal aux objectifs de l'organisme, elle assortit son rapport d'une
-déclaration explicite en ce sens. Cette déclaration est transmise au ministre chargé du budget et aux présidents des
-commissions des finances de l'Assemblée nationale et du Sénat. Elle est rendue publique. 
+dépenses engagées aux objectifs poursuivis par l'appel public à la générosité ou de la non-conformité des dépenses financées
+par les dons ouvrant droit à un avantage fiscal aux objectifs de l'organisme, elle assortit son rapport d'une déclaration
+explicite en ce sens. Cette déclaration est transmise au ministre chargé du budget et aux présidents des commissions des
+finances de l'Assemblée nationale et du Sénat. Elle est rendue publique. 
 
 Les formes que prend la déclaration visée à l'alinéa précédent et les conditions de sa publicité sont précisées par décret.
 
@@ -264,11 +263,7 @@ Les formes que prend la déclaration visée à l'alinéa précédent et les cond
 
 	**Cite**:
 
-	  - Loi n°91-772 du 7 août 1991 - art. 3 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 20
+	  - Loi n°91-772 du 7 août 1991 - art. 3
 
 	**Cité par**:
 
@@ -284,6 +279,18 @@ Les formes que prend la déclaration visée à l'alinéa précédent et les cond
 	  - Code des juridictions financières - art. R142-2 (T)
 	  - Code des juridictions financières - art. R143-6 (M)
 	  - Code général des impôts, CGI. - art. 1378 octies (V)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-904 du 23 juillet 2015 - art. 10
+
+	**Transféré par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L111-9 (VD)
 
 
 ###### Article L111-8-1
@@ -2863,14 +2870,14 @@ organismes mentionnés audit article, qui est tenu de les communiquer au conseil
 lors de la première réunion qui suit. 
 
 La Cour des comptes communique, pour information, ses observations définitives aux ministres concernés par les objectifs
-poursuivis par l'appel à la générosité publique ainsi qu'aux présidents de la commission des finances de l'Assemblée
+poursuivis par l'appel   public à la générosité ainsi qu'aux présidents de la commission des finances de l'Assemblée
 nationale et du Sénat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 44
+	  - ORDONNANCE n°2015-904 du 23 juillet 2015 - art. 10
 
 	**Cité par**:
 
@@ -2885,10 +2892,6 @@ nationale et du Sénat.
 	**Cite**:
 
 	  - Code des juridictions financières - art. L111-8
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. L135-2 (T)
 
 
 ###### Article L143-3

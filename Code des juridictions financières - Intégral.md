@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2015-08-09
+Version Consolidée au 2015-10-16
 
 # Partie législative
 
@@ -8319,6 +8319,40 @@ la chambre territoriale des comptes et aux chambres territoriales des comptes.
 	  - Code des juridictions financières - art. L243-1
 
 
+###### Article L254-4-1
+
+A Saint-Pierre-et-Miquelon, les dispositions suivantes sont également applicables : 
+
+1° Dans un délai d'un an à compter de la présentation du rapport d'observations définitives à l'organe délibérant, le maire
+de la commune ou le président de l'établissement public de coopération intercommunale présente, devant ce même organe, les
+actions qu'il a entreprises à la suite des observations de la chambre territoriale des comptes. Ce rapport est communiqué à
+cette dernière, qui fait une synthèse annuelle des rapports qui lui sont communiqués et la transmet à la Cour des comptes en
+vue de la présentation prévue à l'article L. 143-10-1 ; 
+
+2° Le rapport d'observations définitives que la chambre territoriale des comptes adresse au président d'un établissement
+public de coopération intercommunale est également transmis par la chambre territoriale des comptes aux maires des communes
+membres de cet établissement public, immédiatement après la présentation qui en est faite à l'organe délibérant de ce
+dernier. Ce rapport est présenté par le maire de chaque commune au prochain conseil municipal et donne lieu à un débat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 35
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 35
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L143-10-1
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L254-6 (V)
+
+
 ###### Article LO254-1
 
 La chambre territoriale des comptes est habilitée à se faire communiquer tous documents, de quelque nature que ce soit,
@@ -10174,6 +10208,39 @@ nominativement ou explicitement mise en cause.
 	**Nouveaux textes**:
 
 	  - Code des juridictions financières - art. L262-66 (VD)
+
+
+###### Article L262-50-2
+
+I.-Dans un délai d'un an à compter de la présentation du rapport d'observations définitives à l'organe délibérant, le maire
+de la commune ou le président de l'établissement public de coopération intercommunale présente, devant ce même organe, les
+actions qu'il a entreprises à la suite des observations de la chambre territoriale des comptes. Ce rapport est communiqué à
+cette dernière, qui fait une synthèse annuelle des rapports qui lui sont communiqués et la transmet à la Cour des comptes en
+vue de la présentation prévue à l'article L. 143-10-1. 
+
+II.-Le rapport d'observations définitives que la chambre territoriale des comptes adresse au président d'un établissement
+public de coopération intercommunale est également transmis par la chambre territoriale des comptes aux maires des communes
+membres de cet établissement public, immédiatement après la présentation qui en est faite à l'organe délibérant de ce
+dernier. Ce rapport est présenté par le maire de chaque commune au prochain conseil municipal et donne lieu à un débat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 35
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L143-10-1
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-71 (VD)
+	  - Code des juridictions financières - art. L262-72 (VD)
 
 
 ###### Article L262-51
@@ -13018,6 +13085,39 @@ nominativement ou explicitement mise en cause.
 	**Nouveaux textes**:
 
 	  - Code des juridictions financières - art. L272-64 (V)
+
+
+###### Article L272-48-2
+
+I.-Dans un délai d'un an à compter de la présentation du rapport d'observations définitives à l'organe délibérant, le maire
+de la commune ou le président de l'établissement public de coopération intercommunale présente, devant ce même organe, les
+actions qu'il a entreprises à la suite des observations de la chambre territoriale des comptes. Ce rapport est communiqué à
+cette dernière, qui fait une synthèse annuelle des rapports qui lui sont communiqués et la transmet à la Cour des comptes en
+vue de la présentation prévue à l'article L. 143-10-1. 
+
+II.-Le rapport d'observations définitives que la chambre territoriale des comptes adresse au président d'un établissement
+public de coopération intercommunale est également transmis par la chambre territoriale des comptes aux maires des communes
+membres de cet établissement public, immédiatement après la présentation qui en est faite à l'organe délibérant de ce
+dernier. Ce rapport est présenté par le maire de chaque commune au prochain conseil municipal et donne lieu à un débat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 35
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L143-10-1
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-68 (V)
+	  - Code des juridictions financières - art. L272-69, v. 0.2 (V)
 
 
 ###### Article L272-49

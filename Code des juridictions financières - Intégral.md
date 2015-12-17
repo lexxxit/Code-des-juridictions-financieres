@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2015-10-16
+Version Consolidée au 2015-12-18
 
 # Partie législative
 
@@ -3981,15 +3981,50 @@ formes.
 
 ###### Article L212-12
 
-Les chambres régionales des comptes des régions de la Martinique, de la Guadeloupe et de la Guyane ont le même président, les
-mêmes assesseurs et le ou les mêmes représentants du ministère public. Le siège de chacune des chambres régionales des
-comptes, qui peut être le même, est fixé par un décret en Conseil d'Etat.
+I. - Les chambres régionales des comptes de la Guadeloupe, de la Guyane et de la Martinique ont le même président, les mêmes
+assesseurs et le ou les mêmes représentants du ministère public. Le siège de chacune des chambres régionales des comptes, qui
+peut être le même, est fixé par décret en Conseil d'Etat.
+
+II. - Pour l'application du présent code en Guyane :
+
+1° La référence au département, au département d'outre-mer, à la région ou à la région d'outre-mer est remplacée par la
+référence à la collectivité territoriale de Guyane ;
+
+2° La référence au conseil général ou au conseil régional est remplacée par la référence à l'assemblée de Guyane ;
+
+3° La référence au président du conseil général ou au président du conseil régional est remplacée par la référence au
+président de l'assemblée de Guyane.
+
+III. - Pour l'application du présent code en Martinique :
+
+1° La référence au département, au département d'outre-mer, à la région ou à la région d'outre-mer est remplacée par la
+référence à la collectivité territoriale de Martinique ;
+
+2° La référence au conseil général ou au conseil régional est remplacée par la référence à l'assemblée de Martinique ;
+
+3° La référence au président du conseil général ou au président du conseil régional est remplacée par la référence au
+président du conseil exécutif de Martinique.
+
+**Nota:**
+
+Conformément à l'article 21 de la loi n° 2011-884 du 27 juillet 2011 modifié par le III de l'article 10 de la loi n° 2015-29
+du 16 janvier 2015, la présente loi entre en vigueur : 
+
+1° En ce qui concerne les dispositions applicables à la Guyane, à compter de la première réunion de l'assemblée de Guyane
+suivant sa première élection en décembre 2015, concomitamment au renouvellement des     conseils régionaux ; 
+
+2° En ce qui concerne les dispositions applicables à la Martinique, à compter de la première réunion de l'assemblée de
+Martinique suivant sa première élection en décembre 2015, concomitamment au renouvellement des     conseils régionaux.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-1091 du 28 octobre 2008 - art. 1
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 9
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 15
 
 	**Cité par**:
 
@@ -3997,6 +4032,10 @@ comptes, qui peut être le même, est fixé par un décret en Conseil d'Etat.
 	  - Code des juridictions financières - art. L212-15 (VT)
 	  - Code des juridictions financières - art. L254-7 (VD)
 	  - Code des juridictions financières - art. L256-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L212-8 (VD)
 
 
 ###### Article L212-12-1
@@ -14018,6 +14057,12 @@ L. 4231-5 du code général des collectivités territoriales, les vice-présiden
 c) Le président du conseil exécutif de Corse et, quand ils agissent dans le cadre des dispositions du dernier alinéa de
 l'article L. 4424-4 du code général des collectivités territoriales, les conseillers exécutifs ; 
 
+c bis) Le président de l'assemblée de Guyane et, quand ils agissent par délégation de celui-ci, les vice-présidents et autres
+membres de l'assemblée de Guyane ; 
+
+c ter) Le président du conseil exécutif de Martinique et, quand ils agissent dans le cadre des articles L. 7224-12 et L.
+7224-21 du code général des collectivités territoriales, les conseillers exécutifs ; 
+
 d) Les présidents de conseil général et, quand ils agissent dans le cadre des dispositions des articles L. 3221-3 et L.
 3221-7 du code général des collectivités territoriales, les vice-présidents et autres membres du conseil général ; 
 
@@ -14058,6 +14103,21 @@ associations de bienfaisance assujetties au contrôle de la Cour des comptes ou 
 Les personnes mentionnées aux a à l ne sont pas non plus justiciables de la Cour lorsqu'elles ont agi dans des fonctions qui,
 en raison de dispositions législatives ou réglementaires, sont l'accessoire obligé de leur fonction principale.
 
+**Nota:**
+
+Conformément à l'article 21 de la loi n° 2011-884 du 27 juillet 2011 modifié par le III de l'article 10 de la loi n° 2015-29
+du 16 janvier 2015, la présente loi entre en vigueur : 
+
+1° En ce qui concerne les dispositions applicables à la Guyane, à compter de la première réunion de l'assemblée de Guyane
+suivant sa première élection en décembre 2015, concomitamment au renouvellement des conseils régionaux ; 
+
+2° En ce qui concerne les dispositions applicables à la Martinique, à compter de la première réunion de l'assemblée de
+Martinique suivant sa première élection en décembre 2015, concomitamment au renouvellement des conseils régionaux.
+
+Par sa décision n° 2016-599 QPC du 2 décembre 2016, le Conseil constitutionnel a déclaré conforme à la Constitution l'article
+L. 312-1 du code des juridictions financières dans sa rédaction résultant de la loi n° 2011-884 du 27 juillet 2011, à
+l'exception des m et n de son paragraphe II qu'il n'a pas examinés.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -14065,18 +14125,22 @@ en raison de dispositions législatives ou réglementaires, sont l'accessoire ob
 	  - Loi n°99-209 du 19 mars 1999
 	  - Loi organique n°2004-192 du 27 février 2004 - art. 67
 	  - Code général des collectivités territoriales - art. L2122-17
+	  - Code général des collectivités territoriales - art. L2122-25
 	  - Code général des collectivités territoriales - art. L3221-3
 	  - Code général des collectivités territoriales - art. L4132-13
 	  - Code général des collectivités territoriales - art. L4132-21
+	  - Code général des collectivités territoriales - art. L4132-22
+	  - Code général des collectivités territoriales - art. L4132-25
 	  - Code général des collectivités territoriales - art. L4132-3
 	  - Code général des collectivités territoriales - art. L4133-1
 	  - Code général des collectivités territoriales - art. L4231-1
+	  - Code général des collectivités territoriales - art. L4424-4
 	  - Code général des collectivités territoriales - art. LO6252-3
 	  - Code général des collectivités territoriales - art. LO6462-8
 
 	**Modifié par**:
 
-	  - Loi n°2010-1487 du 7 décembre 2010 - art. 15
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 9
 
 	**Cité par**:
 

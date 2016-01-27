@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-01-28
 
 # Partie législative
 
@@ -348,16 +348,45 @@ prévues à l'article L. 143-3.
 	  - Code des juridictions financières - art. L143-3
 
 
+###### Article L111-8-3
+
+Sans préjudice de la compétence attribuée aux chambres régionales et territoriales des comptes par l'article L. 211-10 du
+présent code, la Cour des comptes peut exercer un contrôle sur les personnes morales de droit privé à caractère sanitaire,
+social ou médico-social mentionnées à l'article L. 312-1 du code de l'action sociale et des familles et à l'article L. 6111-1
+du code de la santé publique et financées par l'Etat, ses établissements publics ou l'un des organismes mentionnés à
+l'article L. 134-1 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 109
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L111-7 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L211-10 (VT)
+	  - Code des juridictions financières - art. R111-4 (T)
+	  - Code des juridictions financières - art. R143-6 (M)
+
+
 ###### Article L111-9
 
 La Cour des comptes exerce de plein droit toutes les compétences énumérées par les dispositions du présent livre.
 
-Le jugement des comptes et l'examen de la gestion de tout ou partie des établissements publics nationaux relevant d'une même
-catégorie peuvent être délégués aux chambres régionales des comptes par arrêté du premier président de la Cour des comptes
-pris après avis du procureur général près la Cour des comptes et des présidents des chambres régionales des comptes
-concernées. Un décret en Conseil d'Etat définit les catégories d'établissements publics et la durée de la délégation. Il
-fixe, le cas échéant, le montant des recettes ordinaires en deçà duquel le jugement des comptes et l'examen de la gestion des
-établissements publics relevant d'une même catégorie peuvent être délégués.
+Le jugement des comptes et l'examen de la gestion de tout ou partie des organismes relevant d'une même catégorie peuvent être
+délégués aux chambres régionales des comptes par arrêté du premier président de la Cour des comptes pris après avis du
+procureur général près la Cour des comptes et des présidents des chambres régionales des comptes concernées. Un décret en
+Conseil d'Etat définit les catégories d'organismes et la durée de la délégation. Il fixe, le cas échéant, le montant des
+recettes ordinaires en deçà duquel le jugement des comptes et l'examen de la gestion des organismes relevant d'une même
+catégorie peuvent être délégués.
 
 Dans les conditions définies au deuxième alinéa, le jugement des comptes et l'examen de la gestion de tout ou partie des
 établissements publics nationaux relevant d'une même catégorie et ayant leur siège en Polynésie française, en Nouvelle-
@@ -374,7 +403,11 @@ et du président de la chambre territoriale des comptes.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1487 du 7 décembre 2010 - art. 15
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 109
+
+	**Transféré par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 1
 
 	**Cité par**:
 
@@ -387,6 +420,10 @@ et du président de la chambre territoriale des comptes.
 	  - Code des juridictions financières - art. R143-11 (V)
 	  - Code des juridictions financières - art. R143-18 (V)
 	  - Code des juridictions financières - art. R254-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L111-15 (VD)
 
 
 ###### Article L111-9-1
@@ -1747,8 +1784,9 @@ comptes sur le projet de loi de règlement du budget de l'Etat.
 
 Dans le cadre de sa mission de contrôle de l'application des lois de financement de la sécurité sociale, la Cour des comptes,
 sans préjudice des dispositions des articles L. 211-1 et L. 211-8, est habilitée à recueillir, en liaison avec les chambres
-régionales des comptes, des informations auprès des établissements mentionnés à l'article L. 6141-2 du code de la santé
-publique. 
+régionales des comptes, des informations auprès des établissements mentionnés à l'article L. 6111-1 du code de la santé
+publique. Les rapports de certification des établissements mentionnés à l'article L. 6161-3 du code de la santé publique sont
+transmis sans délai à la Cour des comptes. 
 
 Elle établit, en liaison avec les chambres régionales des comptes, un programme trisannuel des travaux à mener notamment sur
 l'évaluation comparative des coûts et des modes de gestion des établissements sanitaires et médico-sociaux financés par
@@ -1757,20 +1795,33 @@ l'assurance maladie, quel que soit leur statut public ou privé. Elle en rend co
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°2009-1646 du 24 décembre 2009 - art. 49
-
 	**Cité par**:
 
 	  - Loi n°2016-41 du 26 janvier 2016 - art. 109
 	  - Code de la santé publique - art. L6161-3 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 109
+
+	**Transféré par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 11
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 8
 
 	**Cite**:
 
 	  - Code des juridictions financières - art. L132-3
 	  - Code des juridictions financières - art. L211-1
 	  - Code de la santé publique - art. L6141-2
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L132-4 (VD)
+	  - Code des juridictions financières - art. L141-12 (VD)
 
 
 ###### Article L132-4
@@ -3598,6 +3649,49 @@ Ces dispositions s'appliquent pour le contrôle des comptes établis au titre de
 	**Cite**:
 
 	  - Code des juridictions financières - art. L211-1 (V)
+
+
+###### Article L211-10
+
+Sans préjudice de la compétence attribuée à la Cour des comptes par l'article L. 111-8-3 du présent code, les chambres
+régionales et territoriales des comptes peuvent exercer un contrôle sur les personnes morales de droit privé à caractère
+sanitaire, social ou médico-social mentionnées à l'article L. 312-1 du code de l'action sociale et des familles et à
+l'article L. 6111-1 du code de la santé publique et financées par une collectivité territoriale, un établissement public ou
+un groupement d'intérêt public relevant lui-même de la compétence de la chambre régionale des comptes ou par l'un des
+organismes mentionnés à l'article L. 134-1 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 109
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 14
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L111-8-3 (VT)
+	  - Code des juridictions financières - art. L134-1 (VT)
+	  - Code de la santé publique - art. L6111-1 (V)
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L211-7 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L244-3 (VD)
+	  - Code des juridictions financières - art. R111-4 (T)
+	  - Code des juridictions financières - art. R241-18-2 (Ab)
+	  - Code des juridictions financières - art. R243-1 (V)
+	  - Code des juridictions financières - art. R254-8 (Ab)
+	  - Code des juridictions financières - art. R262-103-1 (Ab)
+	  - Code des juridictions financières - art. R262-69-1 (Ab)
+	  - Code des juridictions financières - art. R272-70-2 (Ab)
+	  - Code des juridictions financières - art. R272-97-1 (M)
 
 
 ##### CHAPITRE II : Organisation

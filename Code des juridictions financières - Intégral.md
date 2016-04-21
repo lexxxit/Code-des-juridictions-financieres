@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2016-03-19
+Version Consolidée au 2016-04-22
 
 # Partie législative
 
@@ -576,34 +576,38 @@ Les magistrats de la Cour des comptes sont installés dans leurs fonctions en au
 	  - Code des juridictions financières - art. L112-6 (VD)
 
 
-##### Section 3 : Conseillers maîtres en service extraordinaire
+##### Section 3 : Conseillers maîtres et référendaires en service extraordinaire
 
 ###### Article L112-5
 
 Des fonctionnaires appartenant au corps de contrôle des ministères ou des personnes ayant exercé des fonctions d'encadrement
 supérieur au sein de l'Etat ou d'organismes soumis au contrôle des juridictions financières peuvent être nommés conseillers
 maîtres en service extraordinaire en vue d'assister la Cour des comptes dans l'exercice des compétences mentionnées aux
-articles L. 111-2 à L. 111-8. Ils ne peuvent exercer aucune activité d'ordre juridictionnel.
+articles L. 111-2 à L. 111-8. Leur nombre ne peut être supérieur à douze. Ils sont affectés en chambre par le premier
+président. Ils ne peuvent exercer aucune activité juridictionnelle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 2bis, issu de Loi 76-539 1976-06-22, art 7-II, modifié par Loi 96-314 1996-04-12, art 72-II
-	  - Loi n°67-483 du 22 juin 1967 - art. 2 (Ab)
-
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°2006-769 du 1 juillet 2006 - art. 1 () JORF 2 juillet 2006
+	  - Loi n°2016-483 du 20 avril 2016 - art. 63
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L111-2 (V)
-	  - Code des juridictions financières L111-2 à L111-8
+	  - Code des juridictions financières
+	  - Code des juridictions financières - art. L111-2
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L112-4 (VD)
 
 	**Cité par**:
 
@@ -617,29 +621,62 @@ articles L. 111-2 à L. 111-8. Ils ne peuvent exercer aucune activité d'ordre j
 	  - Code des juridictions financières - art. R141-8 (V)
 
 
-###### Article L112-6
+###### Article L112-5-1
 
-Les conseillers maîtres en service extraordinaire, dont le nombre ne peut être supérieur à douze, sont nommés par décret pris
-en conseil des ministres, après avis du premier président de la Cour des comptes, pour une période de cinq ans non
-renouvelable.
+Des personnes dont l'expérience et l'expertise particulières sont nécessaires aux activités et missions de la Cour des
+comptes peuvent être nommées conseillers maîtres en service extraordinaire, dans la limite de six, ou conseillers
+référendaires en service extraordinaire, dans la limite de six. 
+
+Ces conseillers sont affectés en chambre par le premier président. Ils ne peuvent exercer aucune activité juridictionnelle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Loi n°67-483 1967-06-22, art 4 dernier alinéa, issu de Loi 76-539 1976-06-22, art 7-III
+	  - Loi n°2016-483 du 20 avril 2016 - art. 63
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L112-5 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L112-6 (VT)
+
+
+###### Article L112-6
+
+Les conseillers maîtres en service extraordinaire mentionnés à l'article L. 112-5 sont nommés par décret pris en conseil des
+ministres, après avis du premier président de la Cour des comptes, pour une période de cinq ans non renouvelable. 
+
+Les conseillers maîtres en service extraordinaire mentionnés à l'article L. 112-5-1 sont nommés par décret pris en conseil
+des ministres, sur proposition du premier président de la Cour des comptes, pour une période de cinq ans non renouvelable. 
+
+Les conseillers référendaires en service extraordinaire sont nommés par décret, sur proposition du premier président de la
+Cour des comptes, pour une période de trois ans renouvelable une fois.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi n°2006-769 du 1 juillet 2006 - art. 1 () JORF 2 juillet 2006
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Cité par**:
 
 	  - Loi n°2006-769 du 1 juillet 2006 - art. 19 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 63
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L112-5 (V)
+	  - Code des juridictions financières - art. L112-5-1 (VT)
 
 
 ##### Section 4 : Rapporteurs extérieurs
@@ -652,25 +689,15 @@ décret en Conseil d'Etat. Ils ne peuvent exercer aucune activité juridictionne
 
 Cette disposition est également applicable aux fonctionnaires appartenant à des corps de même niveau de recrutement de la
 fonction publique de l'Etat, de la fonction publique territoriale, de la fonction publique hospitalière ainsi qu'aux agents
-de direction et aux agents comptables des organismes de sécurité sociale. Elle s'applique également, dans les conditions
-prévues par leur statut aux militaires et aux fonctionnaires des assemblées parlementaires appartenant à des corps de même
-niveau de recrutement.
+de direction, aux agents comptables des organismes de sécurité sociale et aux agents contractuels exerçant à la Cour des
+comptes depuis plus de six ans. Elle s'applique également, dans les conditions prévues par leur statut aux militaires et aux
+fonctionnaires des assemblées parlementaires appartenant à des corps de même niveau de recrutement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°67-483 1967-06-22, art 4bis, issu de Loi 82-594 1982-07-10, art 1
-	  - Loi n°67-483 du 22 juin 1967 - art. 1, v. init.
-	  - Loi n°67-483 du 22 juin 1967 - art. 4 (Ab)
-
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi - art. 62 ()
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Cité par**:
 
@@ -683,6 +710,10 @@ niveau de recrutement.
 	  - Code des juridictions financières - art. R112-52 (V)
 	  - Code des juridictions financières - art. R125-1 (V)
 	  - Code des juridictions financières - art. R212-34 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 64
 
 
 ###### Article L112-7-1
@@ -771,30 +802,31 @@ République, par le Président de l'Assemblée nationale et par le Président du
 maintenus en activité en application de l'article 1er de la loi n° 86-1304 du 23 décembre 1986 relative à la limite d'âge et
 aux modalités de recrutement de certains fonctionnaires civils de l'Etat ; 
 
-5° Neuf membres élus représentant les magistrats de la Cour des comptes, les conseillers maîtres en service extraordinaire et
-les rapporteurs extérieurs. Il est procédé à l'élection de neuf membres suppléants, à raison de trois pour le collège des
-conseillers maîtres, deux pour celui des conseillers référendaires, deux pour celui des auditeurs, un pour le collège des
-conseillers maîtres en service extraordinaire et un pour celui des rapporteurs extérieurs. Leur mandat est de trois ans, il
-est renouvelable une fois. Les modalités de cette élection sont fixées par décret. 
+5° Neuf membres élus représentant les magistrats de la Cour des comptes, les conseillers maîtres et conseillers référendaires
+en service extraordinaire et les rapporteurs extérieurs. Il est procédé à l'élection de neuf membres suppléants, à raison de
+trois pour le collège des conseillers maîtres, deux pour celui des conseillers référendaires, deux pour celui des auditeurs,
+un pour le collège des conseillers maîtres et référendaires en service extraordinaire et un pour celui des rapporteurs
+extérieurs. Leur mandat est de trois ans, il est renouvelable une fois. Les modalités de cette élection sont fixées par
+décret. 
 
 Le conseil est consulté par le premier président sur toutes les questions relatives à la compétence, à l'organisation et au
 fonctionnement de la Cour des comptes, sur les modifications des dispositions statutaires applicables aux magistrats, ainsi
 que sur toute question déontologique, d'ordre général ou individuel, relative à l'exercice des fonctions des magistrats, des
-conseillers maîtres en service extraordinaire et des rapporteurs extérieurs. 
+conseillers maîtres et référendaires en service extraordinaire et des rapporteurs extérieurs. 
 
 Le conseil donne un avis sur les mesures individuelles concernant la situation et l'avancement des magistrats de la Cour des
 comptes, à l'exception des propositions de nomination des présidents de chambre. De même, il donne un avis sur les
-propositions de nomination aux emplois de président de chambre régionale des comptes et de vice-président de
-chambre régionale des comptes, ainsi que sur les propositions de nomination des premiers conseillers et des présidents de
-section de chambre régionale des comptes au grade de conseiller référendaire ou de conseiller maître. 
+propositions de nomination aux emplois de président de chambre régionale des comptes et de vice-président de chambre
+régionale des comptes, ainsi que sur les propositions de nomination des premiers conseillers et des présidents de section de
+chambre régionale des comptes au grade de conseiller référendaire ou de conseiller maître. 
 
 Sauf en matière disciplinaire, tous les membres du conseil siègent, quel que soit le niveau hiérarchique des magistrats dont
-le cas est examiné. Toutefois, les représentants des conseillers maîtres en service extraordinaire et des rapporteurs
-extérieurs ne siègent pas lorsque le conseil se réunit pour donner l'avis prévu à l'alinéa précédent. 
+le cas est examiné. Toutefois, les représentants des conseillers maîtres et référendaires en service extraordinaire et des
+rapporteurs extérieurs ne siègent pas lorsque le conseil se réunit pour donner l'avis prévu à l'alinéa précédent. 
 
 Lorsque la situation de l'un des membres élus du conseil supérieur est évoquée à l'occasion de l'examen d'une question
-figurant à l'ordre du jour, le magistrat, le conseiller maître en service extraordinaire ou le rapporteur extérieur en cause
-ne siège pas à la réunion. Il est remplacé par son suppléant. 
+figurant à l'ordre du jour, le magistrat, le conseiller maître ou référendaire en service extraordinaire ou le rapporteur
+extérieur en cause ne siège pas à la réunion. Il est remplacé par son suppléant. 
 
 Les membres de la Cour des comptes sont tenus de se conformer, dans l'exercice de leurs attributions, aux normes
 professionnelles fixées par le premier président, après avis du Conseil supérieur de la Cour des comptes.
@@ -816,8 +848,15 @@ professionnelles fixées par le premier président, après avis du Conseil supé
 
 	**Modifié par**:
 
-	  - Loi n°2012-347 du 12 mars 2012 - art. 89
-	  - Loi n°2012-347 du 12 mars 2012 - art. 95
+	  - Loi n°2016-483 du 20 avril 2016 - art. 63
+
+	**Transféré par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L120-14 (VD)
 
 
 ##### Section 6 : Magistrats honoraires
@@ -905,20 +944,379 @@ Il ne peut en aucun cas être relevé de ce serment.
 ###### Article L120-4
 
 Aucun membre de la Cour des comptes ne peut se prévaloir, à l'appui d'une activité politique, de son appartenance à la Cour
-des comptes.
+des comptes. 
 
-Tout membre de la Cour des comptes, en service à la cour ou chargé de fonctions extérieures, doit s'abstenir de toute
-manifestation de nature politique incompatible avec la réserve que lui imposent ses fonctions.
+Tout membre de la Cour des comptes s'abstient de tout acte ou comportement à caractère public incompatible avec la réserve
+que lui imposent ses fonctions. 
+
+Le présent article est applicable, pendant l'exercice de leurs fonctions à la Cour des comptes, aux conseillers maîtres et
+référendaires en service extraordinaire et aux rapporteurs extérieurs mentionnés aux sections 3 et 4 du chapitre II du titre
+Ier du présent livre, aux experts mentionnés à l'article L. 141-4 et aux vérificateurs des juridictions financières.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 15
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L120-5 (VD)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L141-4 (V)
+
+
+###### Article L120-5
+
+Les membres et les personnels de la Cour des comptes mentionnés aux sections 1 à 4 du chapitre II du titre Ier du présent
+livre veillent à prévenir ou à faire cesser immédiatement les situations de conflit d'intérêts.
+
+Constitue un conflit d'intérêts toute situation d'interférence entre un intérêt public et des intérêts publics ou privés qui
+est de nature à influencer ou à paraître influencer l'exercice indépendant, impartial et objectif d'une fonction.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2006-769 du 1 juillet 2006 - art. 3 () JORF 2 juillet 2006
+	  - Loi n°2016-483 du 20 avril 2016 - art. 15
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L120-6 (VD)
+
+
+###### Article L120-6
+
+Le premier président de la Cour des comptes établit, après avis du collège de déontologie des juridictions financières et du
+procureur général, une charte de déontologie énonçant les principes déontologiques et les bonnes pratiques propres à
+l'exercice des fonctions des magistrats de la Cour des comptes et des chambres régionales et territoriales des comptes, des
+personnels de la Cour des comptes mentionnés aux sections 3 et 4 du chapitre II du titre Ier du présent livre et des
+rapporteurs auprès des chambres régionales des comptes mentionnés à l'article L. 212-5-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 15
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L120-7 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L120-8 (VT)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L212-5-1 (V)
+
+
+###### Article L120-7
+
+Le collège de déontologie des juridictions financières est composé :
+
+1° D'un magistrat de la Cour des comptes, en activité ou honoraire, élu par la chambre du conseil en formation plénière ;
+
+2° D'un magistrat des chambres régionales des comptes, en activité ou honoraire, élu par le Conseil supérieur des chambres
+régionales des comptes ;
+
+3° D'un magistrat de la Cour des comptes ou des chambres régionales des comptes, en activité ou honoraire, désigné par le
+premier président de la Cour des comptes ;
+
+4° D'une personnalité extérieure désignée alternativement par le premier président de la Cour de cassation parmi les
+magistrats en fonction à la Cour de cassation ou honoraires et par le vice-président du Conseil d'Etat parmi les membres en
+fonction au Conseil d'Etat ou honoraires ;
+
+5° D'une personnalité qualifiée nommée par le Président de la République, en dehors des magistrats de la Cour des comptes et
+des chambres régionales des comptes, sur proposition du premier président de la Cour des comptes.
+
+Le président du collège de déontologie est désigné par le premier président de la Cour des comptes.
+
+La durée du mandat des membres du collège de déontologie est de trois ans, renouvelable une fois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 15
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L120-8 (VD)
+	  - Code des juridictions financières - art. L120-8 (VT)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L120-9 (VD)
+
+
+###### Article L120-8
+
+Le collège de déontologie des juridictions financières est chargé :
+
+1° De rendre un avis préalable à l'établissement de la charte de déontologie mentionnée à l'article L. 120-6 ;
+
+2° De rendre des avis sur toute question déontologique concernant personnellement l'un des magistrats ou des personnels de la
+Cour des comptes ou des chambres régionales et territoriales des comptes, sur saisine de la personne concernée, du premier
+président de la Cour des comptes, du procureur général près la Cour des comptes, d'un président de chambre à la Cour des
+comptes, du secrétaire général de la Cour des comptes ou d'un président de chambre régionale ou territoriale des comptes ;
+
+3° De formuler des recommandations de nature à éclairer les magistrats et les personnels de la Cour des comptes et des
+chambres régionales et territoriales des comptes sur l'application des principes déontologiques et de la charte de
+déontologie, à son initiative ou sur saisine du premier président de la Cour des comptes, du procureur général près la Cour
+des comptes, d'un président de chambre à la Cour des comptes, du secrétaire général de la Cour des comptes, d'un président de
+chambre régionale ou territoriale des comptes ou d'une organisation syndicale ou association de magistrats ou de personnels
+des juridictions financières ;
+
+4° De rendre des avis sur les déclarations d'intérêts qui lui sont transmises dans les conditions prévues aux articles L.
+120-9 et L. 220-6.
+
+Le collège de déontologie rend publiques ses recommandations et peut rendre publics, sous forme anonyme, ses avis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 15
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L120-10 (V)
+	  - Code des juridictions financières - art. L220-7 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L120-6
+	  - Code des juridictions financières - art. L120-9 (V)
+	  - Code des juridictions financières - art. L220-6
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L120-7 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L120-9 (VD)
+
+
+###### Article L120-9
+
+I. - Dans les deux mois qui suivent leur prise de fonctions, les membres et les personnels de la Cour des comptes mentionnés
+aux sections 1 à 4 du chapitre II du titre Ier du présent livre remettent une déclaration exhaustive, exacte et sincère de
+leurs intérêts :
+
+1° Au président de chambre, s'ils sont affectés dans une chambre ;
+
+2° Au procureur général, s'ils sont affectés au parquet ;
+
+3° Au premier président, s'ils sont affectés au secrétariat général.
+
+La déclaration des membres et des personnels mentionnés aux 1° et 2° est transmise au premier président.
+
+Dans les deux mois qui suivent leur prise de fonctions, les présidents de chambre remettent une déclaration exhaustive,
+exacte et sincère de leurs intérêts au premier président.
+
+La déclaration d'intérêts mentionne les liens et les intérêts détenus de nature à influencer ou à paraître influencer
+l'exercice indépendant, impartial et objectif des fonctions, que le déclarant a, ou qu'il a eus pendant les cinq années
+précédant son affectation ou sa prise de fonctions. Elle ne comporte aucune mention des opinions ou des activités politiques,
+syndicales, religieuses ou philosophiques de l'intéressé, sauf lorsque leur révélation résulte de la déclaration de fonctions
+ou de mandats exercés publiquement.
+
+La remise de la déclaration d'intérêts donne lieu à un entretien déontologique avec l'autorité à laquelle la déclaration a
+été remise, ayant pour objet de prévenir tout éventuel conflit d'intérêts et d'inviter, s'il y a lieu, à mettre fin à une
+situation de conflit d'intérêts. A l'issue de l'entretien, la déclaration peut être modifiée par le déclarant. L'entretien
+peut être renouvelé à tout moment à la demande du déclarant ou de l'autorité.
+
+L'autorité à laquelle la déclaration a été remise peut solliciter l'avis du collège de déontologie des juridictions
+financières sur la déclaration lorsqu'il existe un doute sur une éventuelle situation de conflit d'intérêts. Lorsque l'avis
+est sollicité par un président de chambre ou le procureur général, il est également porté à la connaissance du premier
+président.
+
+Toute modification substantielle des liens et intérêts détenus fait l'objet, dans un délai de deux mois, d'une déclaration
+complémentaire dans les mêmes formes et peut donner lieu à un entretien déontologique.
+
+La déclaration d'intérêts est annexée au dossier de l'intéressé selon des modalités garantissant sa confidentialité, sous
+réserve de sa consultation par les personnes autorisées à y accéder.
+
+Lorsqu'une procédure disciplinaire est engagée, le conseil supérieur de la Cour des comptes peut obtenir communication de la
+déclaration d'intérêts.
+
+II. - Dans les deux mois qui suivent leur prise de fonctions, le premier président et le procureur général remettent une
+déclaration exhaustive, exacte et sincère de leurs intérêts au collège de déontologie, qui peut leur adresser des
+observations ayant pour objet de prévenir tout éventuel conflit d'intérêts et de les inviter, s'il y a lieu, à mettre fin à
+une situation de conflit d'intérêts.
+
+Toute modification substantielle des liens et intérêts détenus fait l'objet, dans un délai de deux mois, d'une déclaration
+complémentaire dans les mêmes formes.
+
+Les septième et avant-dernier alinéas du I du présent article sont applicables.
+
+III. - Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment le modèle, le contenu
+et les conditions de remise, de mise à jour, de conservation et de consultation de la déclaration d'intérêts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 15
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L120-10 (V)
+	  - Code des juridictions financières - art. L120-11 (V)
+	  - Code des juridictions financières - art. L120-8 (VT)
+	  - Code des juridictions financières - art. L220-9 (VD)
+	  - Code des juridictions financières - art. R120-1 (V)
+	  - Code des juridictions financières - art. R120-2 (V)
+	  - Code des juridictions financières - art. R120-3 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L120-10 (VD)
+
+
+###### Article L120-10
+
+I.-Le fait, pour une personne tenue de remettre une déclaration d'intérêts en application de l'article L. 120-9 du présent
+code, de ne pas adresser sa déclaration ou d'omettre de déclarer une partie substantielle de ses intérêts est puni d'une
+peine de trois ans d'emprisonnement et de 45 000 € d'amende. 
+
+Peuvent être prononcées, à titre complémentaire, l'interdiction des droits civiques, selon les modalités prévues aux articles
+131-26 et 131-26-1 du code pénal, ainsi que l'interdiction d'exercer une fonction publique, selon les modalités prévues à
+l'article 131-27 du même code. 
+
+II.-Le fait de publier, hors le cas prévu au dernier alinéa de l'article L. 120-8 du présent code, ou de divulguer, de
+quelque manière que ce soit, tout ou partie des déclarations, des informations ou des avis mentionnés à l'article L. 120-9 du
+même code est puni des peines mentionnées à l'article 226-1 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 15
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L120-11 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L120-11 (VD)
+	  - Code des juridictions financières - art. L120-9 (VD)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L120-8 (VT)
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-26-1
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 226-1
+
+
+###### Article L120-11
+
+Les membres et les personnels de la Cour des comptes qui estiment se trouver dans une situation de conflit d'intérêts
+s'abstiennent de participer au délibéré sur l'affaire concernée ou, s'ils sont affectés au parquet, de préparer des
+conclusions sur ladite affaire.
+
+Le président de la formation délibérante ou, le cas échéant, le procureur général peut également, à son initiative, inviter
+un magistrat, un conseiller maître ou référendaire en service extraordinaire ou un rapporteur extérieur dont il estime qu'il
+se trouve dans une situation de conflit d'intérêts, pour des raisons qu'il lui communique, à s'abstenir de participer au
+délibéré de l'affaire concernée ou de préparer des conclusions sur ladite affaire.
+
+Il est procédé au remplacement du magistrat, du conseiller maître ou référendaire en service extraordinaire ou du rapporteur
+extérieur concerné dans les conditions prévues au présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 15
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L120-12 (VD)
+
+
+###### Article L120-12
+
+Dans les deux mois qui suivent leur prise de fonctions et dans les deux mois qui suivent la cessation de leurs fonctions, le
+premier président, le procureur général et les présidents de chambre de la Cour des comptes adressent une déclaration de
+situation patrimoniale au président de la Haute Autorité pour la transparence de la vie publique.
+
+La déclaration de situation patrimoniale est établie, contrôlée et sanctionnée dans les conditions et selon les modalités
+prévues aux premier et quatrième alinéas du I, aux II et V de l'article 4, aux articles 6, 7, à l'exception de la publication
+d'un rapport spécial au Journal officiel, et 26 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie
+publique.
+
+Toute modification substantielle de la situation patrimoniale fait l'objet, dans un délai de deux mois, d'une déclaration
+complémentaire dans les mêmes formes.
+
+Aucune nouvelle déclaration n'est exigée du membre de la Cour des comptes qui a établi depuis moins de six mois une
+déclaration en application du présent article, des articles 4 ou 11 de la loi n° 2013-907 du 11 octobre 2013 précitée ou de
+l'article LO 135-1 du code électoral.
+
+La déclaration de situation patrimoniale n'est pas versée au dossier de l'intéressé et ne peut pas être communiquée aux
+tiers.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment le modèle, le contenu et les
+conditions de mise à jour et de conservation des déclarations de situation patrimoniale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2013-907 du 11 octobre 2013
+	  - Loi n°2013-907 du 11 octobre 2013 - art. 11
+	  - Loi n°2013-907 du 11 octobre 2013 - art. 4
+	  - Code électoral - art. LO135-1
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 15
+
+	**Transféré par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 3
 
 
 #### CHAPITRE Ier : Nominations
@@ -1135,10 +1533,11 @@ les premières vacances venant à s'ouvrir dans le référendariat.
 Les trois quarts des postes vacants parmi les conseillers référendaires sont attribués, d'une part, à des auditeurs de 1re
 classe, d'autre part, à des magistrats de chambre régionale des comptes dans les conditions fixées ci-après.
 
-Chaque année, est nommé conseiller référendaire à la Cour des comptes un magistrat de chambre régionale des comptes ayant au
-moins le grade de premier conseiller, âgé de trente-cinq ans au moins et justifiant, à la date de nomination, de dix ans de
-services publics effectifs. Cette nomination est prononcée sur proposition du premier président de la Cour des comptes, après
-avis du conseil supérieur de la Cour des comptes et du Conseil supérieur des chambres régionales des comptes.
+Chaque année, sont nommés conseillers référendaires à la Cour des comptes un ou deux magistrats de chambre régionale des
+comptes ayant au moins le grade de premier conseiller, âgés de trente-cinq ans au moins et justifiant, à la date de
+nomination, de dix ans de services publics effectifs. Cette nomination est prononcée sur proposition du premier président de
+la Cour des comptes, après avis du conseil supérieur de la Cour des comptes et du Conseil supérieur des chambres régionales
+des comptes.
 
 Pour les magistrats de la Cour des comptes en service détaché, l'avancement au grade de conseiller référendaire s'effectue
 hors tour.
@@ -1151,7 +1550,10 @@ Les vacances parmi les conseillers référendaires autres que celles mentionnée
 raison d'une sur quatre par des rapporteurs extérieurs à temps plein exerçant leurs fonctions à la Cour des comptes depuis au
 moins trois ans ou ayant exercé ces fonctions pendant au moins trois ans.
 
-Les nominations prononcées en application des deux alinéas précédents ne peuvent intervenir qu'après qu'une commission
+Chaque année, un fonctionnaire ou un magistrat justifiant de trois années en qualité de rapporteur extérieur peut également
+être nommé conseiller référendaire, sans qu'il en soit tenu compte pour l'application du cinquième alinéa. 
+
+Les nominations prononcées en application des trois alinéas précédents ne peuvent intervenir qu'après qu'une commission
 siégeant auprès du premier président de la Cour des comptes a émis un avis sur l'aptitude des candidats à exercer les
 fonctions de conseiller référendaire. Les conditions de la publicité donnée aux vacances de poste ainsi que la composition et
 les modalités de fonctionnement de la commission sont fixées par décret en Conseil d'Etat.
@@ -1160,11 +1562,7 @@ les modalités de fonctionnement de la commission sont fixées par décret en Co
 
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
-
-	**Modifié par**:
-
-	  - Loi n°2006-769 du 1 juillet 2006 - art. 8 () JORF 2 juillet 2006
+	  - Loi n°94-1040 du 2 décembre 1994
 
 	**Cité par**:
 
@@ -1177,9 +1575,9 @@ les modalités de fonctionnement de la commission sont fixées par décret en Co
 	  - Code des juridictions financières - art. R*122-2 (V)
 	  - Code des juridictions financières - art. R*122-6 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi du 1941-05-16, art 4 et 4bis, modifié par Loi 78-743 1978-07-13, complété par Loi 84-834 1984-09-13, art 9, et par Loi 94-530 1994-06-28, art 2-II
+	  - Loi n°2016-483 du 20 avril 2016 - art. 64
 
 
 ###### Article L122-6
@@ -1319,27 +1717,27 @@ du conseil supérieur de la Cour des comptes s'il est saisi soit par lui-même, 
 
 ###### Article L123-5
 
-Le  conseil supérieur de la Cour des comptes est saisi des faits motivant  la poursuite disciplinaire par le premier
-président ou par le président  de chambre à laquelle est affecté le magistrat en cause. Lorsqu'il est  saisi par le premier
-président, celui-ci ne siège pas, le conseil étant  alors présidé par le président de chambre en activité le plus ancien
-dans son grade. Lorsqu'il est saisi par le président de la chambre à  laquelle est affecté le magistrat en cause, et si ce
-président de  chambre est membre du conseil supérieur, il ne siège pas au conseil  supérieur où il est remplacé par le
-président de chambre suivant en  termes d'ancienneté dans ce grade. Pour les présidents de chambre et pour les magistrats qui
-ne sont pas affectés dans une chambre, le conseil supérieur est saisi par le premier président de la Cour des comptes, qui ne
-siège pas, le conseil étant dans ce cas présidé par le président de chambre en activité le plus ancien dans son grade.
+Le conseil supérieur de la Cour des comptes est saisi des faits motivant la poursuite disciplinaire par le premier président
+ou par le président de chambre à laquelle est affecté le magistrat en cause. Lorsqu'il est saisi par le premier président,
+celui-ci ne siège pas, le conseil étant alors présidé par le président de chambre en activité le plus ancien dans son grade.
+Lorsqu'il est saisi par le président de la chambre à laquelle est affecté le magistrat en cause, et si ce président de
+chambre est membre du conseil supérieur, il ne siège pas au conseil supérieur où il est remplacé par le président de chambre
+suivant en termes d'ancienneté dans ce grade. Pour les présidents de chambre et pour les magistrats qui ne sont pas affectés
+dans une chambre, le conseil supérieur est saisi par le premier président de la Cour des comptes, qui ne siège pas, le
+conseil étant dans ce cas présidé par le président de chambre en activité le plus ancien dans son grade.
 
 Lorsque le magistrat en cause est délégué dans les fonctions du ministère public, le conseil supérieur, saisi par le premier
 président, est présidé par le procureur général près la Cour des comptes.
 
 Ne siègent pas au conseil supérieur les représentants des rapporteurs extérieurs, des conseillers maîtres en service
-extraordinaire ainsi que le procureur général près la Cour des comptes, sauf, s'agissant du procureur général, dans le cas
-mentionné à l'alinéa précédent.
+extraordinaire et des conseillers référendaires en service extraordinaire ainsi que le procureur général près la Cour des
+comptes, sauf, s'agissant du procureur général, dans le cas mentionné à l'alinéa précédent.
 
 Seuls siègent au conseil supérieur de la Cour des comptes les magistrats d'un grade égal ou supérieur à celui du magistrat
 faisant l'objet de la procédure disciplinaire.
 
-Le  secrétariat du conseil supérieur de la Cour des comptes statuant en  formation disciplinaire est assuré dans des
-conditions définies par un  décret en Conseil d'Etat.
+Le secrétariat du conseil supérieur de la Cour des comptes statuant en formation disciplinaire est assuré dans des conditions
+définies par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1349,7 +1747,15 @@ conditions définies par un  décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2012-347 du 12 mars 2012 - art. 90
+	  - Loi n°2016-483 du 20 avril 2016 - art. 63
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 6
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L124-5 (VD)
 
 
 ###### Article L123-14
@@ -2536,11 +2942,11 @@ Cour des comptes.
 
 ###### Article L141-3
 
-Les magistrats, conseillers maîtres en service extraordinaire et rapporteurs de la Cour des comptes peuvent demander aux
-commissaires aux comptes, y compris les commissaires aux apports et les commissaires à la fusion, tous renseignements sur les
-sociétés qu'ils contrôlent ; ils peuvent en particulier se faire communiquer les dossiers et documents établis en application
-des dispositions législatives et réglementaires relatives à la profession et au statut des commissaires aux comptes de
-sociétés. 
+Les magistrats, conseillers maîtres en service extraordinaire, conseillers référendaires en service extraordinaire et
+rapporteurs de la Cour des comptes peuvent demander aux commissaires aux comptes, y compris les commissaires aux apports et
+les commissaires à la fusion, tous renseignements sur les sociétés qu'ils contrôlent ; ils peuvent en particulier se faire
+communiquer les dossiers et documents établis en application des dispositions législatives et réglementaires relatives à la
+profession et au statut des commissaires aux comptes de sociétés. 
 
 Pour l'application de l'article LO 132-2-1 du présent code, les membres et personnels de la Cour des comptes peuvent demander
 aux commissaires aux comptes des organismes et régimes de sécurité sociale visés par l'article L. 114-8 du code de la
@@ -2562,10 +2968,6 @@ Les conditions d'application des deuxième et troisième alinéas sont fixées p
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°2010-1594 du 20 décembre 2010 - art. 46
-
 	**Cité par**:
 
 	  - Arrêté du 21 juin 2011 (V)
@@ -2573,9 +2975,23 @@ Les conditions d'application des deuxième et troisième alinéas sont fixées p
 	  - Code des juridictions financières - art. R137-5 (T)
 	  - Code des juridictions financières - art. R137-6 (T)
 
+	**Modifié par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 63
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 11
+
 	**Cite**:
 
+	  - Code des juridictions financières - art. L120-3 (V)
 	  - Code des juridictions financières - art. LO132-2-1
+	  - Code de la sécurité sociale. - art. L135-6 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L141-10 (VD)
 
 
 ###### Article L141-3-1
@@ -3820,7 +4236,7 @@ niveau des missions prévues par les statuts particuliers.
 
 Ils sont soumis aux obligations et incompatibilités prévues aux articles L. 222-1 à L. 222-7. 
 
-Après avoir prêté le serment prévu à l'article L. 212-9, ils sont admis à exercer leurs fonctions dans les mêmes conditions
+Après avoir prêté le serment prévu à l'article L. 220-3, ils sont admis à exercer leurs fonctions dans les mêmes conditions
 que les magistrats de chambre régionale des comptes. 
 
 Il ne peut être mis fin à leurs fonctions avant le terme du détachement que sur demande des intéressés ou pour motif
@@ -3837,12 +4253,20 @@ assemblées parlementaires appartenant à des corps de même niveau de recruteme
 
 	**Modifié par**:
 
-	  - Loi n°2012-347 du 12 mars 2012 - art. 88
+	  - Loi n°2016-483 du 20 avril 2016 - art. 16
+
+	**Transféré par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 17
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L212-9 (V)
-	  - Code des juridictions financières - art. L222-1 (V)
+	  - Code des juridictions financières - art. L220-3 (V)
+	  - Code des juridictions financières - art. L222-1
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L221-10 (VD)
 
 	**Cité par**:
 
@@ -3924,109 +4348,6 @@ juridictionnelle.
 	**Abrogé par**:
 
 	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 50
-
-
-###### Article L212-7
-
-Les membres des chambres régionales des comptes constituent un corps de magistrats.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2016-483 du 20 avril 2016 - art. 16
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. L120-7 (VD)
-	  - Code des juridictions financières - art. L220-5 (VD)
-	  - Code des juridictions financières - art. L220-6 (VD)
-	  - Code des juridictions financières - art. L220-8 (VD)
-	  - Code des juridictions financières - art. L241-11 (VD)
-	  - Code des juridictions financières - art. L241-12 (VD)
-	  - Code des juridictions financières - art. L241-9 (VD)
-	  - Code des juridictions financières - art. R212-22 (V)
-	  - Code des juridictions financières - art. R212-23 (V)
-	  - Code des juridictions financières - art. R212-4 (V)
-	  - Code des juridictions financières - art. R241-1 (V)
-	  - Code des juridictions financières - art. R262-19 (V)
-	  - Code des juridictions financières - art. R262-20 (V)
-	  - Code des juridictions financières - art. R262-3 (V)
-	  - Code des juridictions financières - art. R272-19 (V)
-	  - Code des juridictions financières - art. R272-20 (V)
-	  - Code des juridictions financières - art. R272-3 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1983-07-10, art 2, première proposition
-
-
-###### Article L212-8
-
-Les magistrats des chambres régionales des comptes sont inamovibles. En conséquence, nul magistrat des chambres régionales
-des comptes ne peut recevoir, sans son consentement, une affectation nouvelle, même en avancement.
-
-Les magistrats ne peuvent, en dehors de leurs fonctions, être requis pour d'autres services publics que le service national.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1983-07-10, art 4 al 1
-	  - loi 82-595 1982-07-10, art 6 al 2 modifié par loi 93-2 1993-01-04, art 233
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2016-483 du 20 avril 2016 - art. 16
-
-
-###### Article L212-9
-
-Tout magistrat des chambres régionales des comptes doit, lors de sa nomination à son premier emploi dans une chambre
-régionale, prêter serment, avant d'entrer en fonctions, de remplir bien et fidèlement ses fonctions, de garder le secret des
-délibérations et de se comporter en tout comme un digne et loyal magistrat. Il ne peut, en aucun cas, être relevé de son
-serment.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°87-1127 du 31 décembre 1987 - art. 3 (Ab)
-	  - Code des juridictions financières - art. L212-12 (VD)
-	  - Code des juridictions financières - art. L212-5 (M)
-	  - Code des juridictions financières - art. R212-14 (V)
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 1994-12-02
-
-	**Créé par**:
-
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2016-483 du 20 avril 2016 - art. 16
-
-	**Anciens textes**:
-
-	  - Loi n°82-595 1983-07-10, art 5
 
 
 ###### Article L212-10
@@ -4445,23 +4766,50 @@ question figurant à l'ordre du jour, le magistrat en cause ne siège pas à la 
 
 ###### Article L220-1
 
-Sous réserve des dispositions du présent code, le statut général des fonctionnaires et les décrets en Conseil d'Etat pris
-pour son application s'appliquent aux membres du corps des chambres régionales des comptes dans des conditions fixées par
-décret en Conseil d'Etat.
+Le statut des magistrats des chambres régionales des comptes est régi par le présent titre et, pour autant qu'elles n'y sont
+pas contraires, par les dispositions statutaires de la fonction publique de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-595 1983-07-10, art 26
-
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 63
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 16
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L220-1 (VD)
+
+
+###### Article L220-1 A
+
+Les membres des chambres régionales des comptes constituent un corps de magistrats.
+
+Ils sont inamovibles. En conséquence, nul magistrat des chambres régionales des comptes ne peut recevoir, sans son
+consentement, une affectation nouvelle, même en avancement.
+
+Les magistrats ne peuvent, en dehors de leurs fonctions, être requis pour d'autres services publics que le service national.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°94-1040 1994-12-02 jorf 6 décembre 1994
+	  - Loi n°2016-483 du 20 avril 2016 - art. 16
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 16
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L220-1 A (VD)
 
 
 ###### Article L220-2
@@ -4495,6 +4843,282 @@ Le corps des magistrats des chambres régionales des comptes comprend les grades
 	**Nouveaux textes**:
 
 	  - Code des juridictions financières - art. L220-3 (VD)
+
+
+###### Article L220-3
+
+Tout magistrat des chambres régionales des comptes, lors de sa nomination à son premier emploi dans une chambre régionale,
+prête serment, avant d'entrer en fonctions, de remplir bien et fidèlement ses fonctions, de garder le secret des
+délibérations et de se comporter en tout comme un digne et loyal magistrat.
+
+Il ne peut en aucun cas être relevé de ce serment.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 16
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 16
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L212-5 (VT)
+	  - Code des juridictions financières - art. L221-10 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L220-4 (VD)
+
+
+###### Article L220-4
+
+Aucun magistrat des chambres régionales des comptes ne peut se prévaloir, à l'appui d'une activité politique, de son
+appartenance au corps des magistrats des chambres régionales des comptes. 
+
+Tout magistrat des chambres régionales des comptes s'abstient de tout acte ou comportement à caractère public incompatible
+avec la réserve que lui imposent ses fonctions. 
+
+Le présent article est applicable, pendant l'exercice de leurs fonctions dans une chambre régionale des comptes, aux
+rapporteurs mentionnés à l'article L. 212-5-1 et aux vérificateurs des juridictions financières.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 16
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 16
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L212-5-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L220-6 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R212-3 (V)
+
+
+###### Article L220-5
+
+Les magistrats des chambres régionales des comptes veillent à prévenir ou à faire cesser immédiatement les situations de
+conflit d'intérêts.
+
+Constitue un conflit d'intérêts toute situation d'interférence entre un intérêt public et des intérêts publics ou privés qui
+est de nature à influencer ou à paraître influencer l'exercice indépendant, impartial et objectif d'une fonction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 16
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 16
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L220-7 (VD)
+
+
+###### Article L220-6
+
+Dans les deux mois qui suivent leur prise de fonctions, les magistrats du siège des chambres régionales des comptes et les
+rapporteurs mentionnés à l'article L. 212-5-1 remettent une déclaration exhaustive, exacte et sincère de leurs intérêts au
+président de la chambre à laquelle ils ont été affectés. La déclaration est transmise au premier président de la Cour des
+comptes. 
+
+Dans les deux mois qui suivent leur prise de fonctions, les procureurs financiers remettent une déclaration exhaustive,
+exacte et sincère de leurs intérêts au procureur général près la Cour des comptes. 
+
+Dans les deux mois qui suivent leur prise de fonctions, les présidents de chambre régionale des comptes remettent une
+déclaration exhaustive, exacte et sincère de leurs intérêts au premier président de la Cour des comptes. 
+
+La déclaration d'intérêts mentionne les liens et les intérêts détenus de nature à influencer ou à paraître influencer
+l'exercice indépendant, impartial et objectif des fonctions, que le déclarant a, ou qu'il a eus pendant les cinq années
+précédant son affectation ou sa prise de fonctions. Elle ne comporte aucune mention des opinions ou des activités politiques,
+syndicales, religieuses ou philosophiques de l'intéressé, sauf lorsque leur révélation résulte de la déclaration de fonctions
+ou de mandats exercés publiquement. 
+
+La remise de la déclaration d'intérêts donne lieu à un entretien déontologique avec l'autorité à laquelle la déclaration a
+été remise, ayant pour objet de prévenir tout éventuel conflit d'intérêts et d'inviter, s'il y a lieu, à mettre fin à une
+situation de conflit d'intérêts. A l'issue de l'entretien, la déclaration peut être modifiée par le déclarant. L'entretien
+peut être renouvelé à tout moment à la demande du déclarant ou de l'autorité. 
+
+L'autorité à laquelle la déclaration a été remise peut solliciter l'avis du collège de déontologie des juridictions
+financières sur la déclaration lorsqu'il existe un doute sur une éventuelle situation de conflit d'intérêts. Lorsque l'avis
+est sollicité par un président de chambre régionale des comptes ou le procureur général, il est également porté à la
+connaissance du premier président de la Cour des comptes. 
+
+Toute modification substantielle des liens et intérêts détenus fait l'objet, dans un délai de deux mois, d'une déclaration
+complémentaire dans les mêmes formes et peut donner lieu à un entretien déontologique. 
+
+La déclaration d'intérêts est annexée au dossier de l'intéressé selon des modalités garantissant sa confidentialité, sous
+réserve de sa consultation par les personnes autorisées à y accéder. 
+
+Lorsqu'une procédure disciplinaire est engagée, le Conseil supérieur des chambres régionales des comptes peut obtenir
+communication de la déclaration d'intérêts. 
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment le modèle, le contenu et les
+conditions de remise, de mise à jour, de conservation et de consultation de la déclaration d'intérêts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 16
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 16
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L120-8 (VT)
+	  - Code des juridictions financières - art. L220-9 (VD)
+	  - Code des juridictions financières - art. R220-1 (M)
+	  - Code des juridictions financières - art. R220-2 (M)
+	  - Code des juridictions financières - art. R220-3 (M)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L212-5-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L220-8 (VD)
+
+
+###### Article L220-7
+
+I.-Le fait, pour une personne tenue de remettre une déclaration d'intérêts en application de l'article L. 220-6 du présent
+code, de ne pas adresser sa déclaration ou d'omettre de déclarer une partie substantielle de ses intérêts est puni d'une
+peine de trois ans d'emprisonnement et de 45 000 € d'amende. 
+
+Peuvent être prononcées, à titre complémentaire, l'interdiction des droits civiques, selon les modalités prévues aux articles
+131-26 et 131-26-1 du code pénal, ainsi que l'interdiction d'exercer une fonction publique, selon les modalités prévues à
+l'article 131-27 du même code. 
+
+II.-Le fait de publier, hors le cas prévu au dernier alinéa de l'article L. 120-8 du présent code, ou de divulguer, de
+quelque manière que ce soit, tout ou partie des déclarations, des informations ou des avis mentionnés à l'article L. 220-6 du
+même code est puni des peines mentionnées à l'article 226-1 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 16
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 16
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L120-8 (V)
+	  - Code des juridictions financières - art. L220-6 (VD)
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-26-1
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 226-1
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L220-9 (VD)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L222-7 (VD)
+
+
+###### Article L220-8
+
+Le magistrat ou le rapporteur qui estime se trouver dans une situation de conflit d'intérêts s'abstient de participer au
+délibéré sur l'affaire concernée ou, s'il est membre du ministère public, de présenter des conclusions sur ladite affaire.
+
+Le président de la chambre régionale des comptes ou, le cas échéant, le procureur général près la Cour des comptes peut
+également, à son initiative, inviter le magistrat ou le rapporteur dont il estime qu'il se trouve dans une situation de
+conflit d'intérêts, pour des raisons qu'il lui communique, à s'abstenir de participer au délibéré sur l'affaire concernée ou
+de présenter des conclusions sur ladite affaire.
+
+Il est procédé au remplacement du magistrat ou du rapporteur dans les conditions prévues au présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 16
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 16
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. L120-9 (VD)
+	  - Code des juridictions financières - art. L220-9 (V)
+	  - Code des juridictions financières - art. R220-1 (V)
+	  - Code des juridictions financières - art. R220-2 (V)
+	  - Code des juridictions financières - art. R220-3 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L220-10 (VD)
+
+
+###### Article L220-9
+
+Dans les deux mois qui suivent leur prise de fonctions et dans les deux mois qui suivent la cessation de leurs fonctions, les
+présidents de chambre régionale des comptes et les procureurs financiers adressent une déclaration de situation patrimoniale
+au président de la Haute Autorité pour la transparence de la vie publique.
+
+La déclaration de situation patrimoniale est établie, contrôlée et sanctionnée dans les conditions et selon les modalités
+prévues aux premier et quatrième alinéas du I, aux II et V de l'article 4, aux articles 6, 7, à l'exception de la publication
+d'un rapport spécial au Journal officiel, et 26 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie
+publique.
+
+Toute modification substantielle de la situation patrimoniale fait l'objet, dans un délai de deux mois, d'une déclaration
+complémentaire dans les mêmes formes.
+
+Aucune nouvelle déclaration n'est exigée du magistrat qui a établi depuis moins de six mois une déclaration en application du
+présent article, des articles 4 ou 11 de la loi n° 2013-907 du 11 octobre 2013 précitée ou de l'article LO 135-1 du code
+électoral.
+
+La déclaration de situation patrimoniale n'est pas versée au dossier de l'intéressé et ne peut pas être communiquée aux
+tiers.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment le modèle, le contenu et les
+conditions de mise à jour et de conservation des déclarations de situation patrimoniale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2013-907 du 11 octobre 2013
+	  - Loi n°2013-907 du 11 octobre 2013 - art. 11
+	  - Loi n°2013-907 du 11 octobre 2013 - art. 4
+	  - Code électoral - art. LO135-1
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 16
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 16
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L220-11 (VD)
 
 
 ##### CHAPITRE Ier : Nominations
@@ -4896,8 +5520,7 @@ c) S'il est marié, a conclu un pacte civil de solidarité ou vit en concubinage
 un président du conseil départemental , un maire d'une commune, chef-lieu de département de ce même ressort ou un président
 d'un établissement public de coopération intercommunale à fiscalité propre qui comprend cette même commune ; 
 
-d) S'il a exercé depuis moins de trois ans dans ce ressort les fonctions de représentant de l'Etat dans un département ou
-dans un arrondissement, ou de directeur départemental ou régional d'une administration publique de l'Etat ; 
+d) (Abrogé) 
 
 e) S'il a exercé dans le ressort de cette chambre régionale des comptes depuis moins de trois ans des fonctions de direction
 dans l'administration d'une collectivité territoriale ou d'un organisme, quelle qu'en soit la forme juridique, soumis au
@@ -4920,7 +5543,7 @@ Les conditions d'application du présent article sont fixées par voie réglemen
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - Loi n°2016-483 du 20 avril 2016 - art. 64
 
 	**Cite**:
 
@@ -9578,21 +10201,32 @@ compétences qui sont les siennes à l'égard des chambres régionales des compt
 ###### Article L262-29
 
 Les dispositions du présent code relatives aux présidents des chambres régionales des comptes et au statut des magistrats
-composant ces juridictions sont applicables à la chambre territoriale des comptes de la Nouvelle-Calédonie.
+composant ces juridictions, dans leur rédaction résultant de la loi n° 2016-483 du 20 avril 2016 relative à la déontologie et
+aux droits et obligations des fonctionnaires, sont applicables à la chambre territoriale des comptes de la Nouvelle-
+Calédonie. Pour leur application, la référence à la chambre régionale des comptes est remplacée par la référence à la chambre
+territoriale des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°88-1028 1988-11-09, art 73 al 4
-
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Cite**:
+
+	  - Loi n°2016-483 du 20 avril 2016
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2016-483 du 20 avril 2016 - art. 17
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L262-25 (VD)
 
 
 ##### Section 4 : Compétences et attributions juridictionnelles
@@ -12540,21 +13174,32 @@ compétences qui sont les siennes à l'égard des chambres régionales des compt
 ###### Article L272-30
 
 Les dispositions du présent code relatives aux présidents des chambres régionales des comptes et au statut des magistrats
-composant ces juridictions sont applicables à la chambre territoriale des comptes de la Polynésie française.
+composant ces juridictions, dans leur rédaction résultant de la loi n° 2016-483 du 20 avril 2016 relative à la déontologie et
+aux droits et obligations des fonctionnaires,  sont applicables à la chambre territoriale des comptes de la Polynésie
+française. Pour leur application, la référence à la chambre régionale des comptes est remplacée par la référence à la chambre
+territoriale des comptes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°84-820 1984-09-06, art 97 al 5
-
 	**Codifié par**:
 
-	  - Loi n°94-1040 1994-12-02
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Cite**:
+
+	  - Loi n°2016-483 du 20 avril 2016
 
 	**Modifié par**:
 
-	  - Loi organique 99-209 1999-03-19 art. 226 1 jorf 21 mars 1999
+	  - Loi n°2016-483 du 20 avril 2016 - art. 18
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. L272-28 (V)
 
 
 ##### Section 4 : Compétences et attributions juridictionnelles

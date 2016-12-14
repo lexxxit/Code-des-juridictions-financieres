@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2016-10-15
+Version Consolidée au 2016-12-15
 
 # Partie législative
 
@@ -757,29 +757,6 @@ les fonctionnaires des assemblées parlementaires appartenant à des corps de m�
 	  - Code des juridictions financières - art. R112-14-2 (M)
 	  - Code des juridictions financières - art. R311-10 (V)
 	  - Code des juridictions financières - art. R311-3 (V)
-
-
-##### Section 4 bis : Participation de magistrats des chambres régionales et territoriales des comptes aux travaux de la Cour des comptes
-
-###### Article L112-7-2
-
-Sur décision du premier président de la Cour des comptes, des magistrats des chambres régionales et territoriales des comptes
-peuvent participer aux travaux de la Cour des comptes à temps plein ou à temps partiel, y compris dans le cadre des
-procédures juridictionnelles, sur leur demande et après avis de leur président de chambre.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2012-347 du 12 mars 2012 - art. 91
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code des juridictions financières - art. L112-7-1 (VD)
 
 
 ##### Section 5 : Conseil supérieur de la Cour des comptes
@@ -16563,6 +16540,34 @@ Premier ministre, sur proposition du premier président.
 	  - Code des juridictions financières - art. L111-10 (M)
 
 
+###### Article R111-4
+
+Lorsque le contrôle d'une personne morale de droit privé mentionnée aux articles L. 111-8-3 et L. 211-10 relève de la
+compétence, soit de plusieurs chambres régionales ou territoriales des comptes, soit d'une ou plusieurs chambres régionales
+ou territoriales des comptes et de la Cour des comptes, le premier président de la Cour des comptes peut par arrêté en
+confier la conduite à une des juridictions intéressées, après avis du procureur général, des présidents des chambres de la
+Cour des comptes et des présidents des chambres régionales et territoriales des comptes concernées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1696 du 12 décembre 2016 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 4
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L111-8-3
+	  - Code des juridictions financières - art. L211-10
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R111-3 (V)
+
+
 #### CHAPITRE II : Organisation
 
 ##### Section 1 : Composition
@@ -21808,17 +21813,21 @@ concurremment ou non, faire l'objet d'une publication propre, ou être insérée
 publication ou d'insertion sont communiqués par le premier président aux représentants légaux des organismes considérés ou,
 dans le cas où l'organisme a son siège à l'étranger, au représentant en France de cet organisme. Ces derniers adressent leurs
 réponses à la Cour dans un délai d'un mois, sauf prorogation accordée par le premier président sur demande écrite et motivée
-de délai supplémentaire par le représentant intéressé. Ces réponses sont annexées aux observations publiées par la Cour.
+de délai supplémentaire par le représentant intéressé. Ces réponses sont annexées aux observations publiées par la Cour. 
+
+Les observations auxquelles donnent lieu les contrôles réalisés en application de l'article L. 111-8-3 peuvent être rendues
+publiques dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-268 du 29 mars 2013 - art. 24
+	  - Décret n°2016-1696 du 12 décembre 2016 - art. 2
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code des juridictions financières - art. R136-2 (T)
+	  - Code des juridictions financières - art. L111-8 (VT)
+	  - Code des juridictions financières - art. L111-8-3 (VT)
 
 
 ###### Article R143-7
@@ -22298,6 +22307,35 @@ public et des programmes.
 	**Créé par**:
 
 	  - Décret n°2013-268 du 29 mars 2013 - art. 26
+
+
+##### Section 5 : Dispositions spécifiques au contrôle des établissements et services sociaux et médico-sociaux et des établissements de santé de droit privé
+
+###### Article R143-20
+
+Lorsqu'une personne morale contrôlée poursuit des activités distinctes de celles présentant un caractère sanitaire, social ou
+médico-social au sens de l'article L. 312-1 du code de l'action sociale et des familles et de l'article L. 6111-1 du code de
+la santé publique, le contrôle porte sur les seuls établissements, services ou activités entrant dans le champ de ces deux
+articles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1696 du 12 décembre 2016 - art. 3
+
+	**Transféré par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 65
+
+	**Nouveaux textes**:
+
+	  - Code des juridictions financières - art. R143-26 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L6111-1 (V)
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
 #### CHAPITRE IV : Règles particulières concernant les contrôles prévus à l'article L. 111-8
@@ -27184,6 +27222,29 @@ du tour de scrutin où l'élection est acquise.
 	  - Code des juridictions financières - art. R243-12 (V)
 
 
+###### Article R241-18-2
+
+Les dispositions des articles R. 241-1 à R. 241-13 ainsi que celles des articles R. 241-16, R. 241-17 et R. 241-18 sont
+applicables aux organismes contrôlés en application de l'article L. 211-10. Pour l'application de ces dispositions, les
+mots : “ ordonnateur de la collectivité ” sont remplacés par les mots : “ représentant légal de l'organisme ” et le mot : “
+ordonnateur ” est remplacé par les mots : “ représentant légal ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1696 du 12 décembre 2016 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 181
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L211-10
+	  - Code des juridictions financières - art. R241-1
+
+
 ###### Article R241-19
 
 Lorsque la chambre régionale des comptes a décidé de ne pas formuler de rapport d'observations définitives, le président
@@ -28812,18 +28873,22 @@ départemental ou, le cas échéant, régional des finances publiques  qui assur
 
 ###### Article R243-1
 
-Les jugements et ordonnances rendus par les chambres régionales des comptes peuvent être attaqués dans leurs dispositions
-définitives par la voie de l'appel devant la Cour des comptes.
+Le contrôle prévu à l'article L. 211-10 peut porter sur les comptes et la gestion des personnes morales concernées ou sur
+ceux d'un ou de plusieurs de leurs établissements, services ou activités.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1397 du 19 décembre 2008 - art. 64
+	  - Décret n°2016-1696 du 12 décembre 2016 - art. 5
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 59
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 136
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L211-10 (VT)
 
 	**Cité par**:
 
@@ -28836,37 +28901,34 @@ définitives par la voie de l'appel devant la Cour des comptes.
 
 	**Nouveaux textes**:
 
-	  - Code des juridictions financières - art. R242-14 (V)
+	  - Code des juridictions financières - art. R243-22, v. 0.2 (V)
 
 
 ###### Article R243-2
 
-La faculté de former appel appartient aux comptables ou à leurs ayants droit, aux représentants légaux des collectivités ou
-établissements publics intéressés ou, à leur défaut, aux contribuables dûment autorisés dans les conditions prévues aux
-articles L. 2132-5 à L. 2132-7 du code général des collectivités territoriales, au ministère public près la chambre régionale
-des comptes et au procureur général près la Cour des comptes.
+Lorsqu'une personne morale contrôlée poursuit des activités distinctes de celles présentant un caractère sanitaire, social ou
+médico-social au sens de l'article L. 312-1 du code de l'action sociale et des familles et de l'article L. 6111-1 du code de
+la santé publique, le contrôle porte sur les seuls établissements, services ou activités entrant dans le champ de ces deux
+articles.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°95-945 1995-08-23, art 65
-
 	**Codifié par**:
 
-	  - Décret n°2000-338 2000-04-14
+	  - Décret n°2000-338 du 14 avril 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+	  - Décret n°2016-1696 du 12 décembre 2016 - art. 5
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-268 du 29 mars 2013 - art. 59
+	  - TRANSFERE: Décret n°2017-671 du 28 avril 2017 - art. 136
 
 	**Nouveaux textes**:
 
 	  - Code des juridictions financières - art. R242-15 (V)
+	  - Code des juridictions financières - art. R243-23, v. 0.1 (V)
 
 	**Cité par**:
 
@@ -28876,7 +28938,8 @@ des comptes et au procureur général près la Cour des comptes.
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales
+	  - Code de la santé publique - art. L6111-1 (V)
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
 ###### Article R243-3
@@ -30350,6 +30413,30 @@ comptes sont remplacées par des références aux chambres territoriales des com
 	**Cite**:
 
 	  - Code des juridictions financières - art. R241-32
+
+
+##### Section 3 : Dispositions spécifiques au contrôle des établissements et services sociaux et médico-sociaux et des établissements de santé de droit privé 
+
+###### Article R254-8
+
+Les articles R. 243-1 et R. 243-2 sont applicables aux contrôles réalisés par la chambre territoriale des comptes en
+application de l'article L. 211-10. Pour leur application, la référence à la “ chambre régionale des comptes ” est remplacée
+par la référence à la “ chambre territoriale des comptes ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1696 du 12 décembre 2016 - art. 6
+
+	**Abrogé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 181
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L211-10
+	  - Code des juridictions financières - art. R243-1
 
 
 ##### Chapitre VI : Dispositions diverses
@@ -32149,6 +32236,30 @@ Toutefois, l'entretien prévu à l'article R. 262-63 a un caractère facultatif.
 	  - Code des juridictions financières - art. R262-68
 
 
+###### Article R262-69-1
+
+Les dispositions des articles R. 262-56 à R. 262-68 ainsi que celles des articles R. 262-71 et R. 262-82 sont applicables aux
+organismes contrôlés en application de l'article L. 211-10. Pour l'application de ces dispositions, les mots : “ ordonnateur
+de la collectivité ” sont remplacés par les mots : “ représentant légal de l'organisme ”, le mot : “ collectivité ” est
+remplacé par le mot : “ organisme ” et le mot : “ ordonnateur ” est remplacé par les mots : “ représentant légal ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1696 du 12 décembre 2016 - art. 7
+
+	**Abrogé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 181
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L211-10
+	  - Code des juridictions financières - art. R262-56
+	  - Code des juridictions financières - art. R262-71
+
+
 ###### Article R262-70
 
 Les dispositions des articles R. 262-3, R. 262-4, R. 262-57, R. 262-63, R. 262-67 et R. 262-68 et R. 262-71 à R. 262-76
@@ -33201,6 +33312,30 @@ rendus par la chambre territoriale des comptes de la Nouvelle-Calédonie.
 
 	  - Code des juridictions financières - art. D262-102 (V)
 	  - Code des juridictions financières - art. D272-87 (V)
+
+
+##### Sous-section 3 : Dispositions spécifiques au contrôle des établissements et services sociaux et médico-sociaux et des établissements de santé privés 
+
+###### Article R262-103-1
+
+Les articles R. 243-1 et R. 243-2 sont applicables aux contrôles réalisés par la chambre territoriale des comptes en
+application de l'article L. 211-10. Pour leur application, la référence à la “ chambre régionale des comptes ” est remplacée
+par la référence à la “ chambre territoriale des comptes ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1696 du 12 décembre 2016 - art. 8
+
+	**Abrogé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 181
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L211-10
+	  - Code des juridictions financières - art. R243-1
 
 
 ##### Section 7 : Dispositions diverses
@@ -36425,6 +36560,30 @@ comptes sont remplacées par des références aux chambres territoriales des com
 	  - Code des juridictions financières - art. R272-53 (V)
 
 
+###### Article R272-70-2
+
+Les dispositions des articles R. 272-42 à R. 272-54 ainsi que celles des articles R. 272-57 à R. 272-70-1 sont applicables
+aux organismes contrôlés en application de l'article L. 211-10. Pour l'application de ces dispositions, les mots : “
+ordonnateur de la collectivité ” sont remplacés par les mots : “ représentant légal de l'organisme ”, le mot : “ collectivité
+” est remplacé par le mot : “ organisme ” et le mot : “ ordonnateur ” est remplacé par le mot : “ représentant légal ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1696 du 12 décembre 2016 - art. 9
+
+	**Abrogé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 181
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L211-10
+	  - Code des juridictions financières - art. R272-42
+	  - Code des juridictions financières - art. R272-57
+
+
 ##### Sous-section 2 : Dispositions relatives aux activités juridictionnelles. 
 
 
@@ -37198,6 +37357,26 @@ rendus par la chambre territoriale des comptes de la Polynésie française.
 	**Nouveaux textes**:
 
 	  - Code des juridictions financières - art. D272-85 (V)
+
+
+##### Sous-section 3 : Dispositions spécifiques au contrôle des établissements et services sociaux et médico-sociaux et des établissements de santé privés 
+
+###### Article R272-97-1
+
+Les articles R. 243-1 et R. 243-2 sont applicables aux contrôles réalisés par la chambre territoriale des comptes en
+application de l'article L. 211-10. Pour leur application, la référence à la “ chambre régionale des comptes ” est remplacée
+par la référence à la “ chambre territoriale des comptes ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1696 du 12 décembre 2016 - art. 10
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L211-10 (VT)
+	  - Code des juridictions financières - art. R243-1 (V)
 
 
 ##### Section 8 : Dispositions diverses.

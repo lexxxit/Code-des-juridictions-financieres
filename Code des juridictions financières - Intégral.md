@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2016-12-31
+Version Consolidée au 2017-01-01
 
 # Partie législative
 
@@ -22822,39 +22822,39 @@ chambres régionales des comptes, aux magistrats et aux personnels ainsi qu'au f
 
 Les sièges et les ressorts des chambres régionales des comptes sont fixés comme suit : 
 
-Arras : Nord-Pas-de-Calais, Picardie ; 
+Arras : Hauts-de-France ; 
 
 Bastia : Corse ; 
 
-Bordeaux : Aquitaine, Limousin, Poitou-Charentes ;
+Bordeaux : Nouvelle-Aquitaine ; 
 
 Cayenne : Guyane ; 
 
-Dijon : Bourgogne, Franche-Comté ; 
+Dijon : Bourgogne-Franche-Comté ; 
 
 Fort-de-France : Martinique ; 
 
-Lyon : Auvergne, Rhône-Alpes ; 
+Lyon : Auvergne-Rhône-Alpes ; 
 
 Mamoudzou : Mayotte ; 
 
 Marseille : Provence-Alpes-Côte d'Azur ; 
 
-Metz : Alsace, Champagne-Ardenne, Lorraine ; 
+Metz : Grand Est ; 
 
-Montpellier : Languedoc-Roussillon, Midi-Pyrénées ;
+Montpellier : Occitanie ; 
 
 Nantes : Pays de la Loire ; 
 
 Noisiel : Ile-de-France ; 
 
-Orléans : Centre Val de Loire ; 
+Orléans :   Centre-Val de Loire ; 
 
 Pointe-à-Pitre : Guadeloupe ; 
 
 Rennes : Bretagne ; 
 
-Rouen : Normandie ;
+Rouen : Normandie ; 
 
 Saint-Denis : La Réunion.
 
@@ -22866,7 +22866,7 @@ Saint-Denis : La Réunion.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1199 du 30 septembre 2015 - art. 1
+	  - Décret n°2016-1689 du 8 décembre 2016 - art. 3
 
 	**Cité par**:
 

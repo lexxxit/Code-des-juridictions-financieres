@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2017-05-01
+Version Consolidée au 2017-06-07
 
 # Partie législative
 
@@ -7668,7 +7668,7 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 	  - Code des juridictions financières - art. L231-13 (T)
 
 
-##### CHAPITRE II : Contrôle des actes budgétaires et de l'exécution des budgets
+##### CHAPITRE II : Contrôle des actes budgétaires
 
 ##### Section 1 : Dispositions communes
 
@@ -7747,10 +7747,6 @@ même code.
 	  - Code général des collectivités territoriales - art. L1612-1 (V)
 	  - Code général des collectivités territoriales - art. L2543-1 (V)
 
-
-##### CHAPITRE II : Contrôle des actes budgétaires
-
-##### Section 1 : Dispositions communes
 
 ##### Section 2 : Dispositions particulières
 
@@ -9352,7 +9348,7 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 32
 
 
-##### CHAPITRE II : Des chambres territoriales des comptes
+##### CHAPITRE II : Des chambres territoriales des comptes de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
 
 ##### Section 1 : Missions
 
@@ -10212,14 +10208,6 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 	  - Code des juridictions financières - art. L252-21 (VT)
 
 
-##### CHAPITRE II : Des chambres territoriales des comptes de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
-
-##### Section 1 : Missions
-
-##### Section 2 : Organisation
-
-##### Section 3 : Dispositions statutaires
-
 ##### CHAPITRE III : Compétences et attributions
 
 ##### Section 1 : Compétences juridictionnelles
@@ -10469,7 +10457,7 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 	  - Code pénal - art. 433-12
 
 
-##### Section 2 : Contrôle des actes budgétaires et de l'exécution du budget
+##### Section 2 : Contrôle des actes budgétaires
 
 ##### Sous-section 1 : Dispositions applicables   à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon et à leurs établissements publics
 
@@ -10652,14 +10640,6 @@ de ces affaires, des pouvoirs définis aux articles L. 241-1 ou L. 241-4.
 	  - Code des juridictions financières - art. L241-1 (V)
 	  - Code des juridictions financières - art. L253-13 (V)
 
-
-##### Sous-section 3 : Dispositions particulières aux syndicats de communes
-
-##### Section 2 : Contrôle des actes budgétaires
-
-##### Sous-section 1 : Dispositions applicables   à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon et à leurs établissements publics
-
-##### Sous-section 2 : Dispositions applicables aux communes et à leurs établissements publics
 
 ##### Sous-section 3 : Dispositions particulières
 
@@ -11187,7 +11167,7 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 38
 
 
-##### CHAPITRE II : De la chambre territoriale des comptes
+##### CHAPITRE II : De la chambre territoriale des comptes de la Nouvelle-Calédonie
 
 ##### Section 1 : Missions
 
@@ -12448,6 +12428,73 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 	  - Code des juridictions financières - art. R262-53 (V)
 
 
+##### Section 5 : Contrôle de conventions et actes spécifiques
+
+###### Article L262-41
+
+Si le haut-commissaire estime qu'une délibération du conseil d'administration, du conseil de surveillance ou de l'assemblée
+générale d'une société d'économie mixte locale est de nature à augmenter gravement la charge financière d'une ou plusieurs
+des communes ou de leurs groupements, actionnaires, ou le risque encouru par la ou les communes ou leurs groupements qui ont
+apporté leur garantie à un emprunt contracté par la société, il saisit, dans le délai d'un mois suivant la date de réception,
+la chambre territoriale des comptes, à charge pour lui d'en informer simultanément la société et les assemblées délibérantes
+des communes ou de leurs groupements, actionnaires ou garants. La saisine de la chambre territoriale des comptes entraîne une
+seconde lecture par le conseil d'administration ou de surveillance ou par l'assemblée générale de la délibération contestée.
+
+La chambre territoriale des comptes dispose d'un délai d'un mois à compter de la saisine pour faire connaître son avis au
+haut-commissaire, à la société et aux assemblées délibérantes des communes et de leurs groupements, actionnaires ou garants.
+
+**Nota:**
+
+Conformément à l'article 52 de l'ordonnance n° 2016-1360 du 13 octobre 2016, les présentes dispositions entrent en vigueur le
+lendemain de la publication au Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie
+réglementaire du code des juridictions financières, et au plus tard le 1er juillet 2017.
+
+Conformément à l'article 184 du décret n° 2017-671 du 28 avril 2017 modifiant la partie réglementaire du code des
+juridictions financières, les présentes dispositions entrent en vigueur le 1er mai 2017.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°90-1247 du 29 décembre 1990 - art. 5 (Ab)
+	  - Code des juridictions financières - art. R262-55 (V)
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+
+###### Article LO262-40-1
+
+Les conventions relatives aux marchés et aux délégations de service public prises par la Nouvelle-Calédonie, les provinces et
+leurs établissements publics peuvent être transmises par le haut-commissaire à la chambre territoriale des comptes. Le haut-
+commissaire en informe l'autorité concernée.
+
+La chambre territoriale des comptes formule ses observations dans un délai d'un mois à compter de sa saisine. L'avis de la
+chambre territoriale des comptes est transmis à la collectivité territoriale ou à l'établissement public intéressé et au
+haut-commissaire. L'ordonnateur ou son représentant peut, à sa demande, présenter oralement ses observations et être assisté
+par une personne de son choix. L'assemblée délibérante ou l'organe délibérant est informé de l'avis de la chambre
+territoriale des comptes dès sa plus proche réunion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R262-54 (V)
+
+
 ##### Section 6 : Procédure
 
 ##### Sous-section 1 : A l'égard des provinces, du territoire et de leurs établissements publics.
@@ -13140,85 +13187,6 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 	  - Code des juridictions financières - art. L262-55 (VT)
 
 
-##### CHAPITRE II : De la chambre territoriale des comptes de la Nouvelle-Calédonie
-
-##### Section 1 : Missions
-
-##### Section 2 : Organisation
-
-##### Section 3 : Dispositions statutaires
-
-##### Section 4 : Compétences et attributions juridictionnelles
-
-##### Section 5 : Contrôle de conventions et actes spécifiques
-
-###### Article L262-41
-
-Si le haut-commissaire estime qu'une délibération du conseil d'administration, du conseil de surveillance ou de l'assemblée
-générale d'une société d'économie mixte locale est de nature à augmenter gravement la charge financière d'une ou plusieurs
-des communes ou de leurs groupements, actionnaires, ou le risque encouru par la ou les communes ou leurs groupements qui ont
-apporté leur garantie à un emprunt contracté par la société, il saisit, dans le délai d'un mois suivant la date de réception,
-la chambre territoriale des comptes, à charge pour lui d'en informer simultanément la société et les assemblées délibérantes
-des communes ou de leurs groupements, actionnaires ou garants. La saisine de la chambre territoriale des comptes entraîne une
-seconde lecture par le conseil d'administration ou de surveillance ou par l'assemblée générale de la délibération contestée.
-
-La chambre territoriale des comptes dispose d'un délai d'un mois à compter de la saisine pour faire connaître son avis au
-haut-commissaire, à la société et aux assemblées délibérantes des communes et de leurs groupements, actionnaires ou garants.
-
-**Nota:**
-
-Conformément à l'article 52 de l'ordonnance n° 2016-1360 du 13 octobre 2016, les présentes dispositions entrent en vigueur le
-lendemain de la publication au Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie
-réglementaire du code des juridictions financières, et au plus tard le 1er juillet 2017.
-
-Conformément à l'article 184 du décret n° 2017-671 du 28 avril 2017 modifiant la partie réglementaire du code des
-juridictions financières, les présentes dispositions entrent en vigueur le 1er mai 2017.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°90-1247 du 29 décembre 1990 - art. 5 (Ab)
-	  - Code des juridictions financières - art. R262-55 (V)
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 du 2 décembre 1994
-
-	**Modifié par**:
-
-	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
-
-
-###### Article LO262-40-1
-
-Les conventions relatives aux marchés et aux délégations de service public prises par la Nouvelle-Calédonie, les provinces et
-leurs établissements publics peuvent être transmises par le haut-commissaire à la chambre territoriale des comptes. Le haut-
-commissaire en informe l'autorité concernée.
-
-La chambre territoriale des comptes formule ses observations dans un délai d'un mois à compter de sa saisine. L'avis de la
-chambre territoriale des comptes est transmis à la collectivité territoriale ou à l'établissement public intéressé et au
-haut-commissaire. L'ordonnateur ou son représentant peut, à sa demande, présenter oralement ses observations et être assisté
-par une personne de son choix. L'assemblée délibérante ou l'organe délibérant est informé de l'avis de la chambre
-territoriale des comptes dès sa plus proche réunion.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 du 2 décembre 1994
-
-	**Modifié par**:
-
-	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 39
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R262-54 (V)
-
-
-##### Section 6 : Procédure
-
 ##### Section 7 : Dispositions relatives au contrôle des comptes et de la gestion
 
 ##### Sous-section 1 : Observations provisoires
@@ -13581,7 +13549,7 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 	  - Code des juridictions financières - art. R262-132 (V)
 
 
-##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets
+##### CHAPITRE III : Contrôle des actes budgétaires
 
 ##### Section 1 : Des provinces et du territoire
 
@@ -14297,12 +14265,6 @@ chambre territoriale des comptes dès sa plus proche réunion.
 	  - Code des juridictions financières - art. L263-25 (M)
 
 
-##### CHAPITRE III : Contrôle des actes budgétaires
-
-##### Section 1 : Des provinces et du territoire
-
-##### Section 2 : Des communes et des établissements publics communaux et intercommunaux
-
 ##### CHAPITRE IV : Des comptables
 
 ##### Section 1 : Dispositions statutaires
@@ -14560,7 +14522,7 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 41
 
 
-##### CHAPITRE II : De la chambre territoriale des comptes
+##### CHAPITRE II : De la chambre territoriale des comptes de la Polynésie française
 
 ##### Section 1 : Missions
 
@@ -15672,6 +15634,107 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 	  - Code des juridictions financières - art. R272-38 (V)
 
 
+##### Section 5 : Contrôle de conventions et actes spécifiques
+
+###### Article L272-38-2
+
+Les conventions relatives aux marchés et aux délégations de service public conclues par les communes, les groupements de
+communes  et leurs établissements publics peuvent être transmises par le haut-commissaire à la chambre territoriale des
+comptes. Le haut-commissaire en informe l'autorité signataire de la convention.
+
+La chambre territoriale des comptes formule ses observations dans un délai d'un mois à compter de sa saisine. Son avis est
+transmis à l'exécutif de la commune ou de l'établissement public intéressé ainsi qu'au haut-commissaire. L'ordonnateur ou son
+représentant peut, à sa demande, présenter oralement ses observations et être assisté par une personne de son choix. L'organe
+délibérant est informé de l'avis de la chambre territoriale des comptes dès sa plus prochaine réunion.
+
+**Nota:**
+
+Conformément à l'article 52 de l'ordonnance n° 2016-1360 du 13 octobre 2016, les présentes dispositions entrent en vigueur le
+lendemain de la publication au Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie
+réglementaire du code des juridictions financières, et au plus tard le 1er juillet 2017.
+
+Conformément à l'article 184 du décret n° 2017-671 du 28 avril 2017 modifiant la partie réglementaire du code des
+juridictions financières, les présentes dispositions entrent en vigueur le 1er mai 2017.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°91-814 du 23 août 1991 - art. 7-2 (Ab)
+	  - Code des juridictions financières - art. R272-40 (V)
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+
+###### Article L272-39
+
+Si le haut-commissaire estime qu'une délibération du conseil d'administration, du conseil de surveillance ou de l'assemblée
+générale  d'une société d'économie mixte créée par le territoire est de nature à augmenter gravement la charge financière
+d'une ou plusieurs des collectivités territoriales ou de leurs groupements, actionnaires, ou le risque encouru par la ou les
+collectivités territoriales ou leurs groupements qui ont apporté leur garantie à un emprunt contracté par la société, il
+saisit, dans le délai d'un mois suivant la date de réception, la chambre territoriale des comptes, à charge pour lui d'en
+informer simultanément la société et le président du Gouvernement du territoire. La saisine de la chambre territoriale des
+comptes entraîne une seconde lecture par le conseil d'administration ou de surveillance ou par l'assemblée générale de la
+délibération contestée.
+
+La chambre territoriale des comptes dispose d'un délai d'un mois à compter de la saisine pour faire connaître son avis au
+haut-commissaire, à la société et au président du gouvernement du territoire.
+
+**Nota:**
+
+Conformément à l'article 52 de l'ordonnance n° 2016-1360 du 13 octobre 2016, les présentes dispositions entrent en vigueur le
+lendemain de la publication au Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie
+réglementaire du code des juridictions financières, et au plus tard le 1er juillet 2017.
+
+Conformément à l'article 184 du décret n° 2017-671 du 28 avril 2017 modifiant la partie réglementaire du code des
+juridictions financières, les présentes dispositions entrent en vigueur le 1er mai 2017.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Cité par**:
+
+	  - Loi n°96-313 du 12 avril 1996 - art. 10 (Ab)
+	  - Loi n°2004-193 du 27 février 2004 - art. 20 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+
+###### Article LO272-38-1
+
+Les conventions relatives aux marchés et aux délégations de service public conclues par la Polynésie française et ses
+établissements publics peuvent être transmises par le haut-commissaire à la chambre territoriale des comptes. Le haut-
+commissaire en informe l'autorité signataire de la convention.
+
+La chambre territoriale des comptes formule ses observations dans un délai d'un mois à compter de sa saisine. L'avis de la
+chambre territoriale des comptes est transmis au gouvernement de la Polynésie française ou à l'établissement public intéressé
+ainsi qu'au haut-commissaire.
+
+L'ordonnateur ou son représentant peut, à sa demande, présenter oralement ses observations et être assisté par une personne
+de son choix. L'organe délibérant est informé de l'avis de la chambre territoriale des comptes dès sa plus prochaine réunion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°94-1040 du 2 décembre 1994
+
+	**Liens**:
+
+	  - DEPLACE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
+
+
 ##### Section 6 : Procédure
 
 ##### Sous-section 1 : A l'égard du territoire
@@ -16370,119 +16433,6 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 	  - Code des juridictions financières - art. L272-53 (T)
 
 
-##### CHAPITRE II : De la chambre territoriale des comptes de la Polynésie française
-
-##### Section 1 : Missions
-
-##### Section 2 : Organisation
-
-##### Section 3 : Dispositions statutaires
-
-##### Section 4 : Compétences et attributions juridictionnelles
-
-##### Section 5 : Contrôle de conventions et actes spécifiques
-
-###### Article L272-38-2
-
-Les conventions relatives aux marchés et aux délégations de service public conclues par les communes, les groupements de
-communes  et leurs établissements publics peuvent être transmises par le haut-commissaire à la chambre territoriale des
-comptes. Le haut-commissaire en informe l'autorité signataire de la convention.
-
-La chambre territoriale des comptes formule ses observations dans un délai d'un mois à compter de sa saisine. Son avis est
-transmis à l'exécutif de la commune ou de l'établissement public intéressé ainsi qu'au haut-commissaire. L'ordonnateur ou son
-représentant peut, à sa demande, présenter oralement ses observations et être assisté par une personne de son choix. L'organe
-délibérant est informé de l'avis de la chambre territoriale des comptes dès sa plus prochaine réunion.
-
-**Nota:**
-
-Conformément à l'article 52 de l'ordonnance n° 2016-1360 du 13 octobre 2016, les présentes dispositions entrent en vigueur le
-lendemain de la publication au Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie
-réglementaire du code des juridictions financières, et au plus tard le 1er juillet 2017.
-
-Conformément à l'article 184 du décret n° 2017-671 du 28 avril 2017 modifiant la partie réglementaire du code des
-juridictions financières, les présentes dispositions entrent en vigueur le 1er mai 2017.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°91-814 du 23 août 1991 - art. 7-2 (Ab)
-	  - Code des juridictions financières - art. R272-40 (V)
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 du 2 décembre 1994
-
-	**Modifié par**:
-
-	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
-
-
-###### Article L272-39
-
-Si le haut-commissaire estime qu'une délibération du conseil d'administration, du conseil de surveillance ou de l'assemblée
-générale  d'une société d'économie mixte créée par le territoire est de nature à augmenter gravement la charge financière
-d'une ou plusieurs des collectivités territoriales ou de leurs groupements, actionnaires, ou le risque encouru par la ou les
-collectivités territoriales ou leurs groupements qui ont apporté leur garantie à un emprunt contracté par la société, il
-saisit, dans le délai d'un mois suivant la date de réception, la chambre territoriale des comptes, à charge pour lui d'en
-informer simultanément la société et le président du Gouvernement du territoire. La saisine de la chambre territoriale des
-comptes entraîne une seconde lecture par le conseil d'administration ou de surveillance ou par l'assemblée générale de la
-délibération contestée.
-
-La chambre territoriale des comptes dispose d'un délai d'un mois à compter de la saisine pour faire connaître son avis au
-haut-commissaire, à la société et au président du gouvernement du territoire.
-
-**Nota:**
-
-Conformément à l'article 52 de l'ordonnance n° 2016-1360 du 13 octobre 2016, les présentes dispositions entrent en vigueur le
-lendemain de la publication au Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie
-réglementaire du code des juridictions financières, et au plus tard le 1er juillet 2017.
-
-Conformément à l'article 184 du décret n° 2017-671 du 28 avril 2017 modifiant la partie réglementaire du code des
-juridictions financières, les présentes dispositions entrent en vigueur le 1er mai 2017.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 du 2 décembre 1994
-
-	**Cité par**:
-
-	  - Loi n°96-313 du 12 avril 1996 - art. 10 (Ab)
-	  - Loi n°2004-193 du 27 février 2004 - art. 20 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
-
-
-###### Article LO272-38-1
-
-Les conventions relatives aux marchés et aux délégations de service public conclues par la Polynésie française et ses
-établissements publics peuvent être transmises par le haut-commissaire à la chambre territoriale des comptes. Le haut-
-commissaire en informe l'autorité signataire de la convention.
-
-La chambre territoriale des comptes formule ses observations dans un délai d'un mois à compter de sa saisine. L'avis de la
-chambre territoriale des comptes est transmis au gouvernement de la Polynésie française ou à l'établissement public intéressé
-ainsi qu'au haut-commissaire.
-
-L'ordonnateur ou son représentant peut, à sa demande, présenter oralement ses observations et être assisté par une personne
-de son choix. L'organe délibérant est informé de l'avis de la chambre territoriale des comptes dès sa plus prochaine réunion.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°94-1040 du 2 décembre 1994
-
-	**Liens**:
-
-	  - DEPLACE: Ordonnance n°2016-1360 du 13 octobre 2016 - art. 42
-
-
-##### Section 6 : Procédure
-
 ##### Section 7 : Dispositions relatives au contrôle des comptes et de la gestion
 
 ##### Sous-section 1 : Observations provisoires 
@@ -16817,7 +16767,7 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 	  - Code des juridictions financières - art. R272-115 (V)
 
 
-##### CHAPITRE III : Contrôle des actes budgétaires et de l'exécution du budget du territoire, des communes et des établissements publics
+##### CHAPITRE III : Contrôle des actes budgétaires du territoire, des communes et des établissements publics
 
 ##### Section 1 : Contrôle des actes budgétaires et de l'exécution du budget de la Polynésie française
 
@@ -16955,12 +16905,6 @@ commissaire constate la date d'entrée en vigueur.
 	  - Ordonnance n°2007-1434 du 5 octobre 2007 - art. 4 () JORF 6 octobre 2007 en vigueur le 1er janvier 2012
 
 
-##### CHAPITRE III : Contrôle des actes budgétaires du territoire, des communes et des établissements publics
-
-##### Section 1 : Contrôle des actes budgétaires et de l'exécution du budget de la Polynésie française
-
-##### Section 2 : Contrôle des actes budgétaires et de l'exécution du budget des communes, de leurs groupements et de leurs établissements publics
-
 ##### CHAPITRE IV : Des comptables
 
 ##### Section 1 : Dispositions statutaires
@@ -17034,8 +16978,6 @@ territoriale des comptes.
 
 	  - Loi n°2004-193 2004-02-27 art. 21 12°, 13° JORF 2 mars 2004
 
-
-##### Section 2 : Obligations et missions
 
 ##### Section 2 : Obligations et missions du comptable de la Polynésie française
 
@@ -18468,7 +18410,7 @@ comptes et publié au Journal officiel de la République française.
 	  - Loi n°95-851 du 24 juillet 1995 - art. 1 (V)
 
 
-### TITRE V : Le Conseil des prélèvements obligatoires
+### TITRE III : Le Conseil des prélèvements obligatoires
 
 #### CHAPITRE UNIQUE
 
@@ -18915,10 +18857,6 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 
 	  - Code des juridictions financières - art. L351-13 (VT)
 
-
-### TITRE III : Le Conseil des prélèvements obligatoires
-
-#### CHAPITRE UNIQUE
 
 # Partie réglementaire
 
@@ -22068,6 +22006,34 @@ comptes du comptable patent lorsqu'une gestion de fait a été déférée à la 
 	**Cite**:
 
 	  - Code des juridictions financières - art. R142-19 (V)
+
+
+###### Article D131-24
+
+Les recours visés à l'article précédent doivent être remis ou adressés au comptable supérieur. En cas de transmission sur
+support papier, ils sont adressés sous pli recommandé au comptable supérieur, qui en accuse réception. 
+
+Le recours doit, à peine de nullité, indiquer l'exposé des faits et moyens, ainsi que les conclusions du requérant. Il doit
+être appuyé des pièces établissant la notification du recours au comptable supérieur, de tous les documents nécessaires pour
+établir le bien-fondé de la demande et d'une ampliation de la décision attaquée. 
+
+Les intéressés, autres que le requérant, visés à l'article D. 131-23 sont informés du dépôt du recours par le comptable
+supérieur, qui leur adresse à cet effet éventuellement par pli recommandé les copies du recours remises par le requérant.
+Pour l'accomplissement de cette formalité, les ministres intéressés sont représentés par le représentant de l'Etat compétent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 37
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. D131-23 (V)
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. D131-36 (T)
 
 
 ##### Section 4 : Condamnation des comptables à l'amende
@@ -29785,7 +29751,7 @@ L'article R. 243-19 est applicable.
 	  - Code des juridictions financières - art. R241-26
 
 
-##### CHAPITRE II : Des chambres territoriales des comptes
+##### CHAPITRE II : Des chambres territoriales des comptes de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
 
 ##### Section 2 : Organisation
 
@@ -29840,21 +29806,6 @@ territoriales de Saint-Martin, Saint-Barthélemy et Saint-Pierre-et-Miquelon.
 	  - Code des juridictions financières - art. R252-4 (T)
 
 
-##### CHAPITRE II : Des chambres territoriales des comptes de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
-
-##### Section 2 : Organisation
-
-
-
-
-
-
-
-##### Section 3 : Dispositions statutaires
-
-
-
-
 ##### CHAPITRE III : Compétences et attributions
 
 ##### Section 1 : Compétences juridictionnelles
@@ -29906,10 +29857,7 @@ L'article R. 231-16 est applicable.
 	  - Code des juridictions financières - art. R253-6 (T)
 
 
-##### Section 2 : Contrôle des actes budgétaires et de l'exécution du budget
-
-
-
+##### Section 2 : Contrôle des actes budgétaires
 
 ##### Sous-section 1 : Dispositions applicables aux collectivités de Saint-Barthélemy, de Saint-Martin, de Saint-Pierre-et-Miquelon et à leurs établissements publics
 
@@ -30087,20 +30035,6 @@ collectivités territoriales.
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. D6262-1
-
-
-##### Section 2 : Contrôle des actes budgétaires
-
-##### Sous-section 1 : Dispositions applicables aux collectivités de Saint-Barthélemy, de Saint-Martin, de Saint-Pierre-et-Miquelon et à leurs établissements publics
-
-
-
-
-##### Sous-section 2 : Dispositions applicables aux communes et à leurs établissements publics
-
-
-
-
 
 
 ##### Sous-section 3 : Dispositions particulières
@@ -30343,9 +30277,28 @@ Ces observations sont accompagnées des documents sur lesquels elles se fondent 
 	  - Code des juridictions financières - art. L143-6
 
 
-##### CHAPITRE II : De la chambre territoriale des comptes
+##### CHAPITRE II : De la chambre territoriale des comptes de la Nouvelle-Calédonie
 
-##### Section préliminaire : Siège
+##### Section 1 : Siège
+
+###### Article R262-1
+
+Le siège de la chambre territoriale des comptes de la Nouvelle-Calédonie est fixé à Nouméa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 2000-04-14
+
+	**Créé par**:
+
+	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
+
+	**Anciens textes**:
+
+	  - Décret n°83-370 1983-05-22, art 1er
+
 
 ##### Section 2 : Organisation
 
@@ -31587,7 +31540,394 @@ pour retard dans la production du compte d'un comptable patent, d'un comptable d
 	  - Code des juridictions financières - art. R262-53 (T)
 
 
-##### Section 6 : Procédure
+##### Section 5 : Contrôle de certaines conventions
+
+###### Article R262-53
+
+Le haut-commissaire qui saisit la chambre territoriale des comptes d'une convention relative à une délégation de service
+public, en application de l'article LO 262-40-1, joint à cette saisine, outre le texte intégral de l'acte, tous documents et
+renseignements utiles à son examen et relatifs à sa passation.
+
+La chambre rend un avis motivé dans lequel elle examine notamment les modalités de passation, l'économie générale de la
+convention ainsi que son incidence financière sur la situation de la collectivité ou de l'établissement public concerné.
+
+Cet avis est notifié au haut-commissaire ainsi qu'à la collectivité ou à l'établissement public intéressé. Il est
+communicable dès qu'a eu lieu la première réunion de l'assemblée délibérante suivant sa réception par la collectivité ou
+l'établissement public concerné.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 166
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. R262-54-1 (T)
+
+
+###### Article R262-54
+
+Le haut-commissaire qui saisit la chambre territoriale des comptes d'une convention relative à un marché en application de
+l'article LO 262-40-1, joint à cette saisine, outre le texte intégral de l'acte, tous documents et renseignements utiles à
+son examen et relatifs à sa passation. 
+
+La chambre rend, dans les conditions fixées par l'article LO 262-40-1, un avis motivé dans lequel elle examine notamment les
+modalités de passation, l'économie générale du marché ainsi que son incidence financière sur la situation de la collectivité
+ou de l'établissement public concerné. 
+
+Cet avis est notifié au haut-commissaire ainsi qu'à la collectivité ou à l'établissement public intéressé. Il est
+communicable dès qu'a eu lieu la première réunion de l'assemblée délibérante suivant sa réception par la collectivité ou
+l'établissement public concerné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 166
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. LO262-40-1 (V)
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. R262-54-2 (T)
+
+
+###### Article R262-55
+
+Les dispositions des articles R. 263-13, R. 263-14, R. 263-47 et R. 263-48 relatives au contrôle des actes budgétaires sont
+applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-338 du 14 avril 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 166
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R263-13 (V)
+	  - Code des juridictions financières - art. R263-47 (V)
+
+
+##### Section 6 : Contrôle des actes de sociétés d'économie mixte locales
+
+###### Article R262-56
+
+Le haut-commissaire qui saisit la chambre territoriale des comptes d'une délibération du conseil d'administration ou du
+conseil de surveillance ou de l'assemblée générale d'une société d'économie mixte locale, en application de l'article L.
+262-41, joint à cette saisine, outre la délibération, les statuts et les comptes des deux derniers exercices.
+
+La chambre rend un avis motivé dans lequel elle examine l'incidence financière de la délibération sur la situation des
+collectivités concernées.
+
+Cet avis est notifié au haut-commissaire, aux collectivités actionnaires et à la société. Il est communiqué pour information
+au commissaire aux comptes. Le haut-commissaire transmet à la chambre, dès réception dans ses services, le procès-verbal de
+la séance au cours de laquelle l'assemblée qui a pris la délibération a procédé à une deuxième lecture de celle-ci après
+réception de l'avis de la chambre.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 167
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. R262-55 (T)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R262-69-1 (Ab)
+
+
+##### Section 7 : Procédure
+
+##### Sous-section 1 :  Règles générales de procédure
+
+##### Paragraphe 1 : Principes généraux 
+
+###### Article D262-61
+
+La durée d'utilisation comme archives courantes, la durée de conservation comme archives intermédiaires et la destination
+définitive, à l'issue de la période de conservation comme archives intermédiaires, des documents produits et reçus par la
+chambre territoriale des comptes sont définies par accord entre le premier président de la Cour des comptes et le directeur
+chargé des Archives de France.
+
+La durée d'utilisation comme archives courantes, la durée de conservation comme archives intermédiaires et la destination
+définitive, à l'issue de la période de conservation comme archives intermédiaires, des documents reçus par l'autorité
+compétente de l'Etat à l'appui des comptes dont elle assure l'apurement administratif et des documents produits par elle à
+l'occasion de cet apurement sont définies conjointement par le directeur général des finances publiques et le directeur
+chargé des Archives de France avec l'agrément du premier président de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 168
+
+
+###### Article D262-62
+
+La communication des pièces justificatives détenues par la chambre peut être demandée au secrétaire général de la juridiction
+par les comptables, le représentant légal de la collectivité ou de l'organisme ou les juridictions de l'ordre judiciaire ou
+administratif.
+
+Cette communication est effectuée soit sur place dans les locaux de la juridiction, soit par envoi dématérialisé, soit, à
+défaut, par envoi sur support papier.
+
+Les pièces justificatives afférentes aux comptes arrêtés par l'autorité compétente de l'Etat peuvent être communiquées par
+ces autorités aux personnes ou juridictions visées au premier alinéa du présent article ; les conditions de cette
+communication sont précisées par instruction du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 168
+
+
+###### Article R262-57
+
+Les travaux inscrits au programme annuel de la chambre territoriale des comptes sont confiés à des magistrats ou à des
+rapporteurs mentionnés à l'article R. 262-19 chargés d'en faire rapport devant la formation délibérante compétente. Les
+activités juridictionnelles ne sont confiées qu'à des magistrats.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R262-19 (V)
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. R262-56 (T)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R262-70 (M)
+
+
+###### Article R262-58
+
+Les rapporteurs procèdent aux investigations qu'ils jugent utiles sur pièces et sur place. 
+
+Ils peuvent être assistés d'experts désignés dans les conditions fixées par l'article L. 262-52. Ces derniers interviennent
+sur des questions techniques sous la direction des rapporteurs.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L262-52 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R262-56 (V)
+
+
+###### Article R262-59
+
+Si, à l'occasion de ses contrôles, la chambre territoriale des comptes découvre des faits de nature à motiver l'ouverture
+d'une procédure judiciaire, le ministère public en informe le procureur de la République ainsi que le procureur général près
+la Cour des comptes qui avise le garde des sceaux.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. R262-80 (T)
+
+
+###### Article R262-60
+
+Le procureur financier transmet au procureur général près la Cour des comptes, ministère public près la Cour de discipline
+budgétaire et financière, les décisions de déféré à cette juridiction prises par la chambre territoriale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. R262-80 (T)
+
+
+##### Paragraphe 2 : Exercice du droit de communication 
+
+###### Article R262-63
+
+Dans le cadre de l'exercice de leur droit de communication, les rapporteurs peuvent demander :
+
+- la communication, par tout moyen numérique ou sous format papier, des documents, données et traitements qu'ils jugent
+nécessaires ;
+
+- leur transcription par tout traitement approprié sous une forme directement utilisable pour la mise en œuvre des
+compétences de la chambre territoriale des comptes ;
+
+- la mise à disposition d'un accès direct au système d'information de l'organisme, à ses bases de données, à ses applications
+numériques, à leur architecture et à sa documentation.
+
+La chambre territoriale des comptes conclut, en tant que de besoin, des conventions avec les collectivités et organismes
+soumis à son contrôle en vue de déterminer les modalités techniques lui offrant un accès continu à certains systèmes
+d'information ou bases de données nécessaires à l'exercice de ses attributions.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. R262-58 (T)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R262-69 (M)
+	  - Code des juridictions financières - art. R262-70 (M)
+
+
+###### Article R262-64
+
+Les rapporteurs ont accès à tous immeubles dont sont propriétaires, locataires ou occupants les collectivités et organismes
+contrôlés. Ils peuvent procéder à la vérification des fournitures, matériels, travaux et constructions.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R262-30 (V)
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. R262-60 (T)
+
+
+###### Article R262-65
+
+La chambre territoriale des comptes se fait communiquer, par l'intermédiaire du ministère public, les rapports des services
+d'inspection et corps de contrôle.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R262-18
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. R262-61 (T)
+
+
+##### Paragraphe 3 : Dématérialisation des échanges 
+
+###### Article R262-66
+
+Pour échanger ou notifier dans le cadre des procédures de contrôle, des documents, des actes ou des données, la chambre
+territoriale des comptes et ses interlocuteurs procèdent par voie électronique ou, à défaut, par courrier sur support papier.
+
+Les caractéristiques techniques des applications assurant les transmissions électroniques garantissent la fiabilité de
+l'identification des intervenants, l'intégrité et la conservation des documents ainsi que la confidentialité des échanges.
+Cette identification des intervenants vaut signature pour l'application du présent livre. Ces applications garantissent
+également la traçabilité de ces transmissions électroniques et permettent d'établir de manière certaine la date et l'heure de
+la mise à disposition d'un document ainsi que celles de sa première consultation par son destinataire. Un arrêté du premier
+président définit ces caractéristiques et les exigences techniques que doivent respecter les utilisateurs de ces
+applications.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R262-102 (Ab)
+	  - Code des juridictions financières - art. R262-67 (V)
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. R262-81-1 (T)
+
+
+###### Article R262-67
+
+Les transmissions prévues aux articles R. 262-66, R. 262-76, R. 262-90, R. 262-97, R. 262-100, R. 262-103, R. 262-108 et R.
+262-110 qui ne sont pas faites par voie électronique le sont, par défaut, par lettre recommandée avec demande d'avis de
+réception.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. R262-66 (V)
+	  - Code des juridictions financières - art. R262-76 (V)
+	  - Code des juridictions financières - art. R262-90 (V)
+	  - Code des juridictions financières - art. R262-97 (V)
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R262-69 (M)
+	  - Code des juridictions financières - art. R262-70 (M)
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. R262-77 (T)
+
+
+###### Article R262-68
+
+Les copies des pièces sous format papier s'effectuent aux frais des demandeurs, selon des modalités et un barème fixés par
+arrêté du premier président.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 168
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R262-69 (M)
+	  - Code des juridictions financières - art. R262-70 (M)
+
 
 ##### Sous-section 2 : Dispositions relatives aux activités juridictionnelles.
 
@@ -32627,426 +32967,6 @@ territoriale des comptes de la Nouvelle-Calédonie.
 
 	  - Code des juridictions financières - art. D262-104 (T)
 
-
-##### CHAPITRE II : De la chambre territoriale des comptes de la Nouvelle-Calédonie
-
-##### Section 1 : Siège
-
-###### Article R262-1
-
-Le siège de la chambre territoriale des comptes de la Nouvelle-Calédonie est fixé à Nouméa.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 2000-04-14
-
-	**Créé par**:
-
-	  - Décret n°2000-338 2000-04-14 jorf 16 avril 2000
-
-	**Anciens textes**:
-
-	  - Décret n°83-370 1983-05-22, art 1er
-
-
-##### Section 2 : Organisation
-
-##### Section 3 : Dispositions statutaires
-
-##### Section 4 : Compétences et attributions juridictionnelles
-
-##### Section 5 : Contrôle de certaines conventions
-
-###### Article R262-53
-
-Le haut-commissaire qui saisit la chambre territoriale des comptes d'une convention relative à une délégation de service
-public, en application de l'article LO 262-40-1, joint à cette saisine, outre le texte intégral de l'acte, tous documents et
-renseignements utiles à son examen et relatifs à sa passation.
-
-La chambre rend un avis motivé dans lequel elle examine notamment les modalités de passation, l'économie générale de la
-convention ainsi que son incidence financière sur la situation de la collectivité ou de l'établissement public concerné.
-
-Cet avis est notifié au haut-commissaire ainsi qu'à la collectivité ou à l'établissement public intéressé. Il est
-communicable dès qu'a eu lieu la première réunion de l'assemblée délibérante suivant sa réception par la collectivité ou
-l'établissement public concerné.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2017-671 du 28 avril 2017 - art. 166
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. R262-54-1 (T)
-
-
-###### Article R262-54
-
-Le haut-commissaire qui saisit la chambre territoriale des comptes d'une convention relative à un marché en application de
-l'article LO 262-40-1, joint à cette saisine, outre le texte intégral de l'acte, tous documents et renseignements utiles à
-son examen et relatifs à sa passation. 
-
-La chambre rend, dans les conditions fixées par l'article LO 262-40-1, un avis motivé dans lequel elle examine notamment les
-modalités de passation, l'économie générale du marché ainsi que son incidence financière sur la situation de la collectivité
-ou de l'établissement public concerné. 
-
-Cet avis est notifié au haut-commissaire ainsi qu'à la collectivité ou à l'établissement public intéressé. Il est
-communicable dès qu'a eu lieu la première réunion de l'assemblée délibérante suivant sa réception par la collectivité ou
-l'établissement public concerné.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 du 14 avril 2000
-
-	**Modifié par**:
-
-	  - Décret n°2017-671 du 28 avril 2017 - art. 166
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. LO262-40-1 (V)
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. R262-54-2 (T)
-
-
-###### Article R262-55
-
-Les dispositions des articles R. 263-13, R. 263-14, R. 263-47 et R. 263-48 relatives au contrôle des actes budgétaires sont
-applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-338 du 14 avril 2000
-
-	**Modifié par**:
-
-	  - Décret n°2017-671 du 28 avril 2017 - art. 166
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R263-13 (V)
-	  - Code des juridictions financières - art. R263-47 (V)
-
-
-##### Section 6 : Contrôle des actes de sociétés d'économie mixte locales
-
-###### Article R262-56
-
-Le haut-commissaire qui saisit la chambre territoriale des comptes d'une délibération du conseil d'administration ou du
-conseil de surveillance ou de l'assemblée générale d'une société d'économie mixte locale, en application de l'article L.
-262-41, joint à cette saisine, outre la délibération, les statuts et les comptes des deux derniers exercices.
-
-La chambre rend un avis motivé dans lequel elle examine l'incidence financière de la délibération sur la situation des
-collectivités concernées.
-
-Cet avis est notifié au haut-commissaire, aux collectivités actionnaires et à la société. Il est communiqué pour information
-au commissaire aux comptes. Le haut-commissaire transmet à la chambre, dès réception dans ses services, le procès-verbal de
-la séance au cours de laquelle l'assemblée qui a pris la délibération a procédé à une deuxième lecture de celle-ci après
-réception de l'avis de la chambre.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2017-671 du 28 avril 2017 - art. 167
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. R262-55 (T)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R262-69-1 (Ab)
-
-
-##### Section 7 : Procédure
-
-##### Sous-section 1 :  Règles générales de procédure
-
-##### Paragraphe 1 : Principes généraux 
-
-###### Article D262-61
-
-La durée d'utilisation comme archives courantes, la durée de conservation comme archives intermédiaires et la destination
-définitive, à l'issue de la période de conservation comme archives intermédiaires, des documents produits et reçus par la
-chambre territoriale des comptes sont définies par accord entre le premier président de la Cour des comptes et le directeur
-chargé des Archives de France.
-
-La durée d'utilisation comme archives courantes, la durée de conservation comme archives intermédiaires et la destination
-définitive, à l'issue de la période de conservation comme archives intermédiaires, des documents reçus par l'autorité
-compétente de l'Etat à l'appui des comptes dont elle assure l'apurement administratif et des documents produits par elle à
-l'occasion de cet apurement sont définies conjointement par le directeur général des finances publiques et le directeur
-chargé des Archives de France avec l'agrément du premier président de la Cour des comptes.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-671 du 28 avril 2017 - art. 168
-
-
-###### Article D262-62
-
-La communication des pièces justificatives détenues par la chambre peut être demandée au secrétaire général de la juridiction
-par les comptables, le représentant légal de la collectivité ou de l'organisme ou les juridictions de l'ordre judiciaire ou
-administratif.
-
-Cette communication est effectuée soit sur place dans les locaux de la juridiction, soit par envoi dématérialisé, soit, à
-défaut, par envoi sur support papier.
-
-Les pièces justificatives afférentes aux comptes arrêtés par l'autorité compétente de l'Etat peuvent être communiquées par
-ces autorités aux personnes ou juridictions visées au premier alinéa du présent article ; les conditions de cette
-communication sont précisées par instruction du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-671 du 28 avril 2017 - art. 168
-
-
-###### Article R262-57
-
-Les travaux inscrits au programme annuel de la chambre territoriale des comptes sont confiés à des magistrats ou à des
-rapporteurs mentionnés à l'article R. 262-19 chargés d'en faire rapport devant la formation délibérante compétente. Les
-activités juridictionnelles ne sont confiées qu'à des magistrats.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2017-671 du 28 avril 2017 - art. 168
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R262-19 (V)
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. R262-56 (T)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R262-70 (M)
-
-
-###### Article R262-58
-
-Les rapporteurs procèdent aux investigations qu'ils jugent utiles sur pièces et sur place. 
-
-Ils peuvent être assistés d'experts désignés dans les conditions fixées par l'article L. 262-52. Ces derniers interviennent
-sur des questions techniques sous la direction des rapporteurs.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2017-671 du 28 avril 2017 - art. 168
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L262-52 (V)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R262-56 (V)
-
-
-###### Article R262-59
-
-Si, à l'occasion de ses contrôles, la chambre territoriale des comptes découvre des faits de nature à motiver l'ouverture
-d'une procédure judiciaire, le ministère public en informe le procureur de la République ainsi que le procureur général près
-la Cour des comptes qui avise le garde des sceaux.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2017-671 du 28 avril 2017 - art. 168
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. R262-80 (T)
-
-
-###### Article R262-60
-
-Le procureur financier transmet au procureur général près la Cour des comptes, ministère public près la Cour de discipline
-budgétaire et financière, les décisions de déféré à cette juridiction prises par la chambre territoriale des comptes.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2017-671 du 28 avril 2017 - art. 168
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. R262-80 (T)
-
-
-##### Paragraphe 2 : Exercice du droit de communication 
-
-###### Article R262-63
-
-Dans le cadre de l'exercice de leur droit de communication, les rapporteurs peuvent demander :
-
-- la communication, par tout moyen numérique ou sous format papier, des documents, données et traitements qu'ils jugent
-nécessaires ;
-
-- leur transcription par tout traitement approprié sous une forme directement utilisable pour la mise en œuvre des
-compétences de la chambre territoriale des comptes ;
-
-- la mise à disposition d'un accès direct au système d'information de l'organisme, à ses bases de données, à ses applications
-numériques, à leur architecture et à sa documentation.
-
-La chambre territoriale des comptes conclut, en tant que de besoin, des conventions avec les collectivités et organismes
-soumis à son contrôle en vue de déterminer les modalités techniques lui offrant un accès continu à certains systèmes
-d'information ou bases de données nécessaires à l'exercice de ses attributions.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2017-671 du 28 avril 2017 - art. 168
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. R262-58 (T)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R262-69 (M)
-	  - Code des juridictions financières - art. R262-70 (M)
-
-
-###### Article R262-64
-
-Les rapporteurs ont accès à tous immeubles dont sont propriétaires, locataires ou occupants les collectivités et organismes
-contrôlés. Ils peuvent procéder à la vérification des fournitures, matériels, travaux et constructions.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2017-671 du 28 avril 2017 - art. 168
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R262-30 (V)
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. R262-60 (T)
-
-
-###### Article R262-65
-
-La chambre territoriale des comptes se fait communiquer, par l'intermédiaire du ministère public, les rapports des services
-d'inspection et corps de contrôle.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2017-671 du 28 avril 2017 - art. 168
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R262-18
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. R262-61 (T)
-
-
-##### Paragraphe 3 : Dématérialisation des échanges 
-
-###### Article R262-66
-
-Pour échanger ou notifier dans le cadre des procédures de contrôle, des documents, des actes ou des données, la chambre
-territoriale des comptes et ses interlocuteurs procèdent par voie électronique ou, à défaut, par courrier sur support papier.
-
-Les caractéristiques techniques des applications assurant les transmissions électroniques garantissent la fiabilité de
-l'identification des intervenants, l'intégrité et la conservation des documents ainsi que la confidentialité des échanges.
-Cette identification des intervenants vaut signature pour l'application du présent livre. Ces applications garantissent
-également la traçabilité de ces transmissions électroniques et permettent d'établir de manière certaine la date et l'heure de
-la mise à disposition d'un document ainsi que celles de sa première consultation par son destinataire. Un arrêté du premier
-président définit ces caractéristiques et les exigences techniques que doivent respecter les utilisateurs de ces
-applications.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2017-671 du 28 avril 2017 - art. 168
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R262-102 (Ab)
-	  - Code des juridictions financières - art. R262-67 (V)
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. R262-81-1 (T)
-
-
-###### Article R262-67
-
-Les transmissions prévues aux articles R. 262-66, R. 262-76, R. 262-90, R. 262-97, R. 262-100, R. 262-103, R. 262-108 et R.
-262-110 qui ne sont pas faites par voie électronique le sont, par défaut, par lettre recommandée avec demande d'avis de
-réception.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2017-671 du 28 avril 2017 - art. 168
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. R262-66 (V)
-	  - Code des juridictions financières - art. R262-76 (V)
-	  - Code des juridictions financières - art. R262-90 (V)
-	  - Code des juridictions financières - art. R262-97 (V)
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R262-69 (M)
-	  - Code des juridictions financières - art. R262-70 (M)
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. R262-77 (T)
-
-
-###### Article R262-68
-
-Les copies des pièces sous format papier s'effectuent aux frais des demandeurs, selon des modalités et un barème fixés par
-arrêté du premier président.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2017-671 du 28 avril 2017 - art. 168
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R262-69 (M)
-	  - Code des juridictions financières - art. R262-70 (M)
-
-
-##### Sous-section 2 : Dispositions relatives aux activités juridictionnelles.
 
 ##### Sous-section 3 : Dispositions relatives au contrôle des comptes et de la gestion
 
@@ -34841,9 +34761,24 @@ Ces observations sont accompagnées des documents sur lesquels elles se fondent 
 	  - Code des juridictions financières - art. L143-6 (V)
 
 
-##### Chapitre II : La chambre territoriale des comptes.
+##### Chapitre II : De la chambre territoriale des comptes de la Polynésie française
 
-##### Section préliminaire : Création.
+##### Section 1 : Siège
+
+###### Article R272-1
+
+Le siège de la chambre territoriale des comptes de la Polynésie française est fixé à Papeete.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-568 du 20 mai 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code des juridictions financières - art. R272-32 (V)
+
 
 ##### Section 2 : Organisation.
 
@@ -35812,6 +35747,29 @@ Les dispositions des articles R. 273-18, R. 273-19, R. 273-27 sont applicables.
 
 	  - Code des juridictions financières - art. R273-18 (V)
 	  - Code des juridictions financières - art. R273-27 (V)
+
+
+##### Section 6 : Contrôle des actes des société d'économie mixte locales
+
+###### Article R272-44
+
+La saisine par le haut-commissaire de la République de la chambre territoriale des comptes, en application de l'article 186-2
+de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française, se fait dans les
+conditions prévues par l'article R. 273-26. 
+
+La saisine par l'assemblée de la Polynésie française ou, en dehors des sessions, par la commission permanente de la chambre
+territoriale des comptes, en application de l'article 186-2 de la loi organique n° 2004-192 du 27 février 2004 portant statut
+d'autonomie de la Polynésie française, se fait dans les conditions prévues par l'article R. 273-27.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-671 du 28 avril 2017 - art. 176
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. R272-41 (T)
 
 
 ##### Section 7 : Procédure.
@@ -37525,58 +37483,6 @@ articles.
 	  - Code de la santé publique - art. L6111-1 (V)
 	  - Code de l'action sociale et des familles - art. L312-1 (V)
 
-
-##### Chapitre II : De la chambre territoriale des comptes de la Polynésie française
-
-##### Section 1 : Siège
-
-###### Article R272-1
-
-Le siège de la chambre territoriale des comptes de la Polynésie française est fixé à Papeete.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-568 du 20 mai 2009 - art. 2
-
-	**Cité par**:
-
-	  - Code des juridictions financières - art. R272-32 (V)
-
-
-##### Section 2 : Organisation.
-
-##### Section 3 : Dispositions statutaires.
-
-##### Section 4 : Compétences et attributions juridictionnelles.
-
-##### Section 5 : Contrôle de certaines conventions.
-
-##### Section 6 : Contrôle des actes des société d'économie mixte locales
-
-###### Article R272-44
-
-La saisine par le haut-commissaire de la République de la chambre territoriale des comptes, en application de l'article 186-2
-de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française, se fait dans les
-conditions prévues par l'article R. 273-26. 
-
-La saisine par l'assemblée de la Polynésie française ou, en dehors des sessions, par la commission permanente de la chambre
-territoriale des comptes, en application de l'article 186-2 de la loi organique n° 2004-192 du 27 février 2004 portant statut
-d'autonomie de la Polynésie française, se fait dans les conditions prévues par l'article R. 273-27.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2017-671 du 28 avril 2017 - art. 176
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. R272-41 (T)
-
-
-##### Section 7 : Procédure.
 
 ##### Chapitre III : Contrôle des actes budgétaires 
 et de l'exécution du budget. 

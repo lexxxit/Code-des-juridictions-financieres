@@ -1,5 +1,5 @@
 # Code des juridictions financières  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2018-01-01
 
 # Partie législative
 
@@ -8006,39 +8006,22 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 ###### Article L236-1
 
 Le contrôle des actes budgétaires de la collectivité territoriale de Corse et de ses établissements publics par la chambre
-régionale des comptes est régi par les dispositions particulières du premier alinéa de l'article L. 4425-8 du code général
+régionale des comptes est régi par les dispositions particulières du premier alinéa de l'article L. 4425-21 du code général
 des collectivités territoriales.
-
-**Nota:**
-
-Conformément à l'article 52 de l'ordonnance n° 2016-1360 du 13 octobre 2016, les présentes dispositions entrent en vigueur le
-lendemain de la publication au Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie
-réglementaire du code des juridictions financières, et au plus tard le 1er juillet 2017.
-
-Conformément à l'article 184 du décret n° 2017-671 du 28 avril 2017 modifiant la partie réglementaire du code des
-juridictions financières, les présentes dispositions entrent en vigueur le 1er mai 2017.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°94-1040 du 2 décembre 1994
-
 	**Modifié par**:
 
-	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 25
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 8
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. L421-15 (M)
 
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. L237-1 (VT)
-
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L4425-8
+	  - Code général des collectivités territoriales - art. L4425-21 (VD)
 
 
 ###### Article L236-2
@@ -8046,30 +8029,13 @@ juridictions financières, les présentes dispositions entrent en vigueur le 1er
 La saisine de la chambre régionale des comptes par le représentant de l'Etat dans la collectivité territoriale de Corse,
 lorsque ce dernier estime qu'une délibération du conseil d'administration d'un établissement public de cette collectivité est
 de nature à augmenter gravement la charge financière ou le risque encouru par la collectivité, est régie par les dispositions
-des troisième et quatrième alinéas l'article L. 4425-8 du code général des collectivités territoriales.
-
-**Nota:**
-
-Conformément à l'article 52 de l'ordonnance n° 2016-1360 du 13 octobre 2016, les présentes dispositions entrent en vigueur le
-lendemain de la publication au Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie
-réglementaire du code des juridictions financières, et au plus tard le 1er juillet 2017.
-
-Conformément à l'article 184 du décret n° 2017-671 du 28 avril 2017 modifiant la partie réglementaire du code des
-juridictions financières, les présentes dispositions entrent en vigueur le 1er mai 2017.
+des troisième et quatrième alinéas l'article L. 4425-21 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 25
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. L237-2 (VT)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L4425-8
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 8
 
 
 #### TITRE IV : Procédure
